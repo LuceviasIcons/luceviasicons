@@ -1,6 +1,8 @@
-# Icon Library
+# LUCEVIAS
 
-Каталог SVG-иконок в духе phosphoricons.com. Vite + React 19 + TS + Tailwind v4.
+Библиотека SVG-иконок: npm-пакет `lucevias` + сайт-каталог. Vite + React 19 + TS + Tailwind v4.
+
+**Иконки живут в `packages/icons/svg/`** — это единственный источник истины. Оттуда их берёт и пакет (генерацией компонентов), и сайт (через `import.meta.glob`). Класть новые SVG только туда.
 
 ## Запуск
 
@@ -13,9 +15,9 @@ npx tsc --noEmit # только типы
 ## Архитектура
 
 - `src/icons/types.ts` — `IconDef`, `Weight`, `IconStatus`, `STATUS_MARK`, `VIEW_BOX` (0 0 256 256 — дефолт). У иконки может быть свой `viewBox`: он берётся из исходного файла, иначе 24×24-иконки отрисуются крошечными.
-- `src/icons/load.ts` — сборка иконок из `src/icons/svg/` через `import.meta.glob`. Имя файла = название иконки как есть, без Title Case.
+- `src/icons/load.ts` — сборка иконок из `packages/icons/svg/` через `import.meta.glob`. Имя файла = название иконки как есть, без Title Case.
 - `src/icons/status.ts` — маркировка «новая / обновлена»: снимок папки (имя → хеш разметки) в localStorage сравнивается с текущим. База пишется только по кнопке «Отметить просмотренным».
-- `src/icons/data.ts` — источник иконок. Сейчас 20 плейсхолдеров-квадратов, генерируются из `SEEDS` + `placeholder()`. **Здесь заменять на реальные SVG.**
+- `src/icons/data.ts` — собирает `ICONS` из папки; плейсхолдеры-квадраты остались только на случай пустой папки.
 - `src/icons/search.ts` — поиск на Fuse.js, терпит опечатки (`align-btm` → `align-bottom`). Индекс кэшируется по ссылке на массив иконок.
 - `src/icons/render.ts` — вся сериализация и экспорт: `toSvgString`, `toPrettySvg`, `toJsx`, `viewBoxOf`, `downloadSvg`, `downloadPng`.
 - `src/icons/snippets.ts` — вкладки платформ (React/Web/Vue/Flutter/Elm/Swift). Каждая цель — объект с `install` и `build`; сниппет короткий, вида `<BoundingBox size={32} />`, потому что предполагает подключённый пакет. Добавить платформу = дописать элемент в `TARGETS`.
@@ -32,10 +34,10 @@ npx tsc --noEmit # только типы
 
 ## Пайплайн
 
-Источник истины — файлы в `src/icons/svg/`. Из них растёт и сайт, и npm-пакет.
+Источник истины — файлы в `packages/icons/svg/`. Из них растёт и сайт, и npm-пакет.
 
 ```
-src/icons/svg/*.svg
+packages/icons/svg/*.svg
   ├─ сайт    → npm run build → GitHub Pages (.github/workflows/deploy.yml, пуш в main)
   └─ пакет   → npm run pkg:build → npm (.github/workflows/publish.yml, тег v*)
 ```
@@ -46,12 +48,12 @@ src/icons/svg/*.svg
 
 ## Как добавлять иконки
 
-В `src/icons/data.ts` заменить `placeholder()` на объект `variants` с реальной разметкой путей (без обёртки `<svg>`, viewBox 0 0 256 256). Обязателен ключ `regular` — остальные веса откатываются на него. Остальной код менять не требуется.
+Положить SVG в `packages/icons/svg/`. Имя файла = имя иконки; вес задаётся суффиксом (`bell-bold.svg`) или папкой (`bold/bell.svg`). Сайт и пакет подхватят файл при следующей сборке, менять код не нужно.
 
 ## Инструменты
 
 ```bash
-npm run icons:optimize   # SVGO по src/icons/svg (правит файлы на месте)
+npm run icons:optimize   # SVGO по packages/icons/svg (правит файлы на месте)
 npm run a11y             # axe-core по живой странице; нужен запущенный dev
 ```
 
@@ -67,7 +69,7 @@ npm run a11y             # axe-core по живой странице; нужен
 
 ## Безопасность
 
-`Icon.tsx` использует `dangerouslySetInnerHTML` — разметка полностью своя, из `data.ts`. Если появится загрузка SVG от пользователей, прогонять через DOMPurify или парсить пути в структуру.
+`Icon.tsx` использует `dangerouslySetInnerHTML` — разметка полностью своя, из `packages/icons/svg/`. Если появится загрузка SVG от пользователей, прогонять через DOMPurify или парсить пути в структуру.
 
 ## Стиль
 
