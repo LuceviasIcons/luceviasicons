@@ -1,0 +1,34 @@
+{
+  "name": "lucevias",
+  "version": "0.1.0",
+  "description": "LUCEVIAS — icons in a single grid: six weights, tree-shakeable React components",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "files": ["dist"],
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "generate": "node ../../scripts/build-package.mjs",
+    "build": "npm run generate && vite build && tsc -p tsconfig.json"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.4",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.0"
+  },
+  "keywords": ["icons", "react", "svg", "icon-library"],
+  "publishConfig": {
+    "access": "public"
+  }
+}
