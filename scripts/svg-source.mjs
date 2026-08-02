@@ -41,6 +41,15 @@ export const pascal = (name) =>
     .join('')
 
 /**
+ * Имя React-компонента: `address-book` → `AddressBookIcon`.
+ *
+ * Суффикс обязателен — без него имена вроде `Link`, `Image` или `Text`
+ * сталкиваются с элементами DOM и компонентами роутеров прямо в импортах.
+ * Сниппеты на сайте собирают имя по этому же правилу.
+ */
+export const componentName = (name) => `${pascal(name)}Icon`
+
+/**
  * Разбирает путь файла в пару «имя иконки + вес».
  * Вес задаётся суффиксом (`bell-bold.svg`, `bell.bold.svg`) или папкой (`bold/bell.svg`).
  */

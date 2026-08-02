@@ -15,9 +15,9 @@ npm i lucevias
 ## Использование
 
 ```jsx
-import { BoundingBox } from 'lucevias'
+import { BoundingBoxIcon } from 'lucevias'
 
-<BoundingBox size={32} />
+<BoundingBoxIcon size={32} />
 ```
 
 ### Пропсы
@@ -33,7 +33,7 @@ import { BoundingBox } from 'lucevias'
 ```jsx
 // цвет наследуется от родителя
 <span style={{ color: 'tomato' }}>
-  <BoundingBox size={20} />
+  <BoundingBoxIcon size={20} />
 </span>
 ```
 
