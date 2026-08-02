@@ -117,13 +117,9 @@ export const Controls = forwardRef<HTMLInputElement, Props>(function Controls(
           </DropdownMenu.Root>
         </Group>
 
-        <Divider />
-
         <Group>
           <DragNumber value={size} min={16} max={96} step={2} onChange={onSize} label="Size" />
         </Group>
-
-        <Divider />
 
         <Group>
           {/* цвет: свотч открывает системный пикер, рядом — ручной ввод hex */}
@@ -171,7 +167,6 @@ function DragNumber({
 }) {
   const ref = useRef<HTMLDivElement>(null)
   const [draft, setDraft] = useState<string | null>(null)
-  const [dragging, setDragging] = useState(false)
 
   const clamp = (v: number) => Math.min(max, Math.max(min, Math.round(v / step) * step))
   const pct = ((value - min) / (max - min)) * 100
@@ -185,7 +180,6 @@ function DragNumber({
 
     e.preventDefault()
     el.setPointerCapture(e.pointerId)
-    setDragging(true)
 
     const apply = (clientX: number) => {
       const { left, width } = el.getBoundingClientRect()
@@ -195,7 +189,6 @@ function DragNumber({
 
     const onMove = (ev: PointerEvent) => apply(ev.clientX)
     const onUp = () => {
-      setDragging(false)
       el.releasePointerCapture(e.pointerId)
       el.removeEventListener('pointermove', onMove)
       el.removeEventListener('pointerup', onUp)
@@ -224,8 +217,7 @@ function DragNumber({
         if (e.key === 'ArrowRight' || e.key === 'ArrowUp') onChange(clamp(value + step))
         if (e.key === 'ArrowLeft' || e.key === 'ArrowDown') onChange(clamp(value - step))
       }}
-      className="drag-number relative flex h-11 w-[132px] shrink-0 items-center justify-between overflow-hidden rounded-xl px-3 text-[13px]"
-      style={{ cursor: dragging ? 'ew-resize' : 'ew-resize' }}
+      className="drag-number relative flex h-11 w-[186px] shrink-0 cursor-ew-resize items-center overflow-hidden rounded-xl text-[13px]"
     >
       {/* заливка — позиция в диапазоне */}
       <span
@@ -233,10 +225,12 @@ function DragNumber({
         className="drag-number-fill absolute inset-y-0 left-0"
         style={{ width: `${pct}%` }}
       />
-      <span className="relative select-none" style={{ color: 'var(--muted)' }}>
+      <span className="relative select-none pl-3.5 pr-3" style={{ color: 'var(--muted)' }}>
         {label}
       </span>
-      <span className="relative flex items-baseline gap-0.5 font-mono tabular-nums">
+      {/* разделители внутри поля, а не по его краям */}
+      <span aria-hidden className="drag-number-sep relative" />
+      <span className="relative ml-auto flex items-baseline font-mono tabular-nums">
         <input
           value={draft ?? String(value)}
           onChange={(e) => setDraft(e.target.value)}
@@ -246,9 +240,12 @@ function DragNumber({
             e.stopPropagation()
           }}
           aria-label={`${label} value`}
-          className="w-7 min-w-0 border-0 bg-transparent text-right outline-none"
+          className="w-9 min-w-0 border-0 bg-transparent text-right outline-none"
         />
-        <span style={{ color: 'var(--muted)' }}>px</span>
+        <span aria-hidden className="drag-number-sep relative mx-3" />
+        <span className="pr-3.5" style={{ color: 'var(--muted)' }}>
+          px
+        </span>
       </span>
     </div>
   )
@@ -287,11 +284,6 @@ function HexInput({ color, onColor }: { color: string; onColor: (c: string) => v
       className="w-[72px] min-w-0 border-0 bg-transparent font-mono text-[12.5px] uppercase outline-none"
     />
   )
-}
-
-/** Вертикальный делитель между секциями дока. */
-function Divider() {
-  return <span aria-hidden className="h-6 w-px shrink-0" style={{ background: 'var(--line)' }} />
 }
 
 /** Секция дока. Подложки нет — секции разделены делителями. */
