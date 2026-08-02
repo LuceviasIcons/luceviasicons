@@ -10,7 +10,7 @@
 import { mkdirSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
-import { collectIcons, pascal, ROOT, WEIGHTS } from './svg-source.mjs'
+import { collectIcons, componentName, ROOT, WEIGHTS } from './svg-source.mjs'
 
 const SRC = join(ROOT, 'packages/icons/src')
 
@@ -80,7 +80,7 @@ export const IconBase = /* #__PURE__ */ forwardRef<SVGSVGElement, BaseProps>(fun
 // --- по компоненту на иконку -------------------------------------------
 
 for (const { name, variants, viewBox } of icons) {
-  const component = pascal(name)
+  const component = componentName(name)
   const entries = Object.entries(variants)
     .map(
       ([w, markup]) =>
@@ -121,7 +121,7 @@ writeFileSync(
   `export { IconBase } from './Icon'
 export type { IconProps, Weight } from './Icon'
 
-${names.map((n) => `export { ${pascal(n)} } from './icons/${pascal(n)}'`).join('\n')}
+${names.map((n) => `export { ${componentName(n)} } from './icons/${componentName(n)}'`).join('\n')}
 `,
 )
 
