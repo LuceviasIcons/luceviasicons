@@ -30,5 +30,10 @@
   "keywords": ["icons", "react", "svg", "icon-library"],
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuceviasIcons/luceviasicons.git",
+    "directory": "packages/icons"
   }
 }
