@@ -207,16 +207,6 @@ function DragNumber({
     <div
       ref={ref}
       onPointerDown={startDrag}
-      role="slider"
-      aria-label={label}
-      aria-valuenow={value}
-      aria-valuemin={min}
-      aria-valuemax={max}
-      tabIndex={0}
-      onKeyDown={(e) => {
-        if (e.key === 'ArrowRight' || e.key === 'ArrowUp') onChange(clamp(value + step))
-        if (e.key === 'ArrowLeft' || e.key === 'ArrowDown') onChange(clamp(value - step))
-      }}
       className="drag-number relative flex h-11 w-[186px] shrink-0 cursor-ew-resize items-center overflow-hidden rounded-xl text-[13px]"
     >
       {/* заливка — позиция в диапазоне */}
@@ -237,9 +227,22 @@ function DragNumber({
           onBlur={(e) => commit(e.target.value)}
           onKeyDown={(e) => {
             if (e.key === 'Enter') (e.target as HTMLInputElement).blur()
-            e.stopPropagation()
+            // стрелки меняют значение шагом, как у нативного слайдера
+            if (e.key === 'ArrowUp') {
+              e.preventDefault()
+              onChange(clamp(value + step))
+            }
+            if (e.key === 'ArrowDown') {
+              e.preventDefault()
+              onChange(clamp(value - step))
+            }
           }}
-          aria-label={`${label} value`}
+          role="spinbutton"
+          aria-label={label}
+          aria-valuenow={value}
+          aria-valuemin={min}
+          aria-valuemax={max}
+          inputMode="numeric"
           className="w-9 min-w-0 border-0 bg-transparent text-right outline-none"
         />
         <span aria-hidden className="drag-number-sep relative mx-3" />
