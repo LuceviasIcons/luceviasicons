@@ -1,0 +1,3788 @@
+{
+  "acorn": [
+    "autumn",
+    "nature",
+    "nut",
+    "oak"
+  ],
+  "address-book": [
+    "address book",
+    "book",
+    "contact",
+    "phone"
+  ],
+  "air-traffic-control": [
+    "air traffic control"
+  ],
+  "airplane": [
+    "aviation",
+    "flight",
+    "plane",
+    "transport",
+    "travel"
+  ],
+  "airplane-in-flight": [
+    "airplane in flight",
+    "aviation",
+    "collapse",
+    "enter",
+    "flight",
+    "inside",
+    "plane",
+    "transport",
+    "travel"
+  ],
+  "airplane-landing": [
+    "airplane landing",
+    "arrival",
+    "aviation",
+    "descend",
+    "flight",
+    "land",
+    "plane",
+    "transport",
+    "travel"
+  ],
+  "airplane-takeoff": [
+    "airplane takeoff",
+    "aviation",
+    "departure",
+    "flight",
+    "launch",
+    "plane",
+    "start",
+    "transport",
+    "travel"
+  ],
+  "airplane-taxiing": [
+    "airplane taxiing",
+    "aviation",
+    "flight",
+    "plane",
+    "transport",
+    "travel"
+  ],
+  "airplane-tilt": [
+    "airplane tilt",
+    "angle",
+    "aviation",
+    "flight",
+    "plane",
+    "rotate",
+    "skew",
+    "transport",
+    "travel"
+  ],
+  "airplay": [
+    "apple",
+    "cast",
+    "screen",
+    "stream"
+  ],
+  "alarm": [
+    "clock",
+    "reminder",
+    "time",
+    "wake"
+  ],
+  "alien": [
+    "extraterrestrial",
+    "space",
+    "ufo"
+  ],
+  "align-bottom": [
+    "align bottom",
+    "design",
+    "distribute",
+    "layout",
+    "position"
+  ],
+  "align-bottom-simple": [
+    "align bottom simple",
+    "basic",
+    "design",
+    "distribute",
+    "layout",
+    "minimal",
+    "plain",
+    "position"
+  ],
+  "align-center-horizontal": [
+    "align center horizontal",
+    "design",
+    "distribute",
+    "layout",
+    "position",
+    "row",
+    "width",
+    "x"
+  ],
+  "align-center-horizontal-simple": [
+    "align center horizontal simple",
+    "basic",
+    "design",
+    "distribute",
+    "layout",
+    "minimal",
+    "plain",
+    "position",
+    "row",
+    "width",
+    "x"
+  ],
+  "align-center-vertical": [
+    "align center vertical",
+    "column",
+    "design",
+    "distribute",
+    "height",
+    "layout",
+    "position",
+    "y"
+  ],
+  "align-center-vertical-simple": [
+    "align center vertical simple",
+    "basic",
+    "column",
+    "design",
+    "distribute",
+    "height",
+    "layout",
+    "minimal",
+    "plain",
+    "position",
+    "y"
+  ],
+  "align-left": [
+    "align left",
+    "back",
+    "design",
+    "distribute",
+    "layout",
+    "position",
+    "previous",
+    "west"
+  ],
+  "align-left-simple": [
+    "align left simple",
+    "back",
+    "basic",
+    "design",
+    "distribute",
+    "layout",
+    "minimal",
+    "plain",
+    "position",
+    "previous",
+    "west"
+  ],
+  "align-right": [
+    "align right",
+    "design",
+    "distribute",
+    "east",
+    "forward",
+    "layout",
+    "next",
+    "position"
+  ],
+  "align-right-simple": [
+    "align right simple",
+    "basic",
+    "design",
+    "distribute",
+    "east",
+    "forward",
+    "layout",
+    "minimal",
+    "next",
+    "plain",
+    "position"
+  ],
+  "align-top": [
+    "above",
+    "align top",
+    "design",
+    "distribute",
+    "layout",
+    "north",
+    "position",
+    "up"
+  ],
+  "align-top-simple": [
+    "above",
+    "align top simple",
+    "basic",
+    "design",
+    "distribute",
+    "layout",
+    "minimal",
+    "north",
+    "plain",
+    "position",
+    "up"
+  ],
+  "amazon-logo": [
+    "amazon logo",
+    "brand",
+    "logo",
+    "shop"
+  ],
+  "ambulance": [
+    "emergency",
+    "hospital",
+    "medical"
+  ],
+  "anchor": [
+    "marine",
+    "nautical",
+    "ship"
+  ],
+  "anchor-simple": [
+    "anchor simple",
+    "basic",
+    "marine",
+    "minimal",
+    "nautical",
+    "plain",
+    "ship"
+  ],
+  "android-logo": [
+    "android logo",
+    "brand",
+    "google",
+    "logo",
+    "mobile"
+  ],
+  "angle": [
+    "corner",
+    "degree",
+    "geometry"
+  ],
+  "angular-logo": [
+    "angular logo",
+    "brand",
+    "code",
+    "framework",
+    "logo"
+  ],
+  "aperture": [
+    "camera",
+    "lens",
+    "photo"
+  ],
+  "app-store-logo": [
+    "app store logo",
+    "brand",
+    "logo"
+  ],
+  "app-window": [
+    "app window"
+  ],
+  "apple-podcasts-logo": [
+    "apple podcasts logo",
+    "brand",
+    "logo"
+  ],
+  "approximate-equals": [
+    "approximate equals",
+    "equals",
+    "math",
+    "roughly"
+  ],
+  "archive": [
+    "backup",
+    "box",
+    "storage"
+  ],
+  "armchair": [
+    "chair",
+    "furniture",
+    "seat"
+  ],
+  "arrow-angle-right": [
+    "arrow angle right",
+    "corner",
+    "degree",
+    "direction",
+    "east",
+    "forward",
+    "geometry",
+    "navigation",
+    "next",
+    "pointer"
+  ],
+  "arrow-arc-left": [
+    "arrow arc left",
+    "back",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "west"
+  ],
+  "arrow-arc-right": [
+    "arrow arc right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer"
+  ],
+  "arrow-bend-double-up-left": [
+    "above",
+    "arrow bend double up left",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-bend-double-up-right": [
+    "above",
+    "arrow bend double up right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-bend-down-left": [
+    "arrow bend down left",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "south",
+    "west"
+  ],
+  "arrow-bend-down-right": [
+    "arrow bend down right",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "south"
+  ],
+  "arrow-bend-left-down": [
+    "arrow bend left down",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "south",
+    "west"
+  ],
+  "arrow-bend-left-up": [
+    "above",
+    "arrow bend left up",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-bend-right-down": [
+    "arrow bend right down",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "south"
+  ],
+  "arrow-bend-right-up": [
+    "above",
+    "arrow bend right up",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-bend-up-left": [
+    "above",
+    "arrow bend up left",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-bend-up-right": [
+    "above",
+    "arrow bend up right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-circle-down": [
+    "arrow circle down",
+    "below",
+    "bottom",
+    "direction",
+    "ellipse",
+    "geometry",
+    "navigation",
+    "pointer",
+    "round",
+    "shape",
+    "south"
+  ],
+  "arrow-circle-down-left": [
+    "arrow circle down left",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "ellipse",
+    "geometry",
+    "navigation",
+    "pointer",
+    "previous",
+    "round",
+    "shape",
+    "south",
+    "west"
+  ],
+  "arrow-circle-down-right": [
+    "arrow circle down right",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "ellipse",
+    "forward",
+    "geometry",
+    "navigation",
+    "next",
+    "pointer",
+    "round",
+    "shape",
+    "south"
+  ],
+  "arrow-circle-left": [
+    "arrow circle left",
+    "back",
+    "direction",
+    "ellipse",
+    "geometry",
+    "navigation",
+    "pointer",
+    "previous",
+    "round",
+    "shape",
+    "west"
+  ],
+  "arrow-circle-right": [
+    "arrow circle right",
+    "direction",
+    "east",
+    "ellipse",
+    "forward",
+    "geometry",
+    "navigation",
+    "next",
+    "pointer",
+    "round",
+    "shape"
+  ],
+  "arrow-circle-up": [
+    "above",
+    "arrow circle up",
+    "direction",
+    "ellipse",
+    "geometry",
+    "navigation",
+    "north",
+    "pointer",
+    "round",
+    "shape",
+    "top"
+  ],
+  "arrow-circle-up-left": [
+    "above",
+    "arrow circle up left",
+    "back",
+    "direction",
+    "ellipse",
+    "geometry",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "round",
+    "shape",
+    "top",
+    "west"
+  ],
+  "arrow-circle-up-right": [
+    "above",
+    "arrow circle up right",
+    "direction",
+    "east",
+    "ellipse",
+    "forward",
+    "geometry",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "round",
+    "shape",
+    "top"
+  ],
+  "arrow-clockwise": [
+    "arrow clockwise",
+    "direction",
+    "navigation",
+    "pointer",
+    "redo",
+    "rotate",
+    "turn"
+  ],
+  "arrow-counter-clockwise": [
+    "arrow counter clockwise",
+    "direction",
+    "navigation",
+    "pointer",
+    "redo",
+    "rotate",
+    "turn"
+  ],
+  "arrow-down": [
+    "arrow down",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "south"
+  ],
+  "arrow-down-left": [
+    "arrow down left",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "south",
+    "west"
+  ],
+  "arrow-down-right": [
+    "arrow down right",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "south"
+  ],
+  "arrow-elbow-down-left": [
+    "arrow elbow down left",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "south",
+    "west"
+  ],
+  "arrow-elbow-down-right": [
+    "arrow elbow down right",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "south"
+  ],
+  "arrow-elbow-left": [
+    "arrow elbow left",
+    "back",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "west"
+  ],
+  "arrow-elbow-left-down": [
+    "arrow elbow left down",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "south",
+    "west"
+  ],
+  "arrow-elbow-left-up": [
+    "above",
+    "arrow elbow left up",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-elbow-right": [
+    "arrow elbow right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer"
+  ],
+  "arrow-elbow-right-down": [
+    "arrow elbow right down",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "south"
+  ],
+  "arrow-elbow-right-up": [
+    "above",
+    "arrow elbow right up",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-elbow-up-left": [
+    "above",
+    "arrow elbow up left",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-elbow-up-right": [
+    "above",
+    "arrow elbow up right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-fat-down": [
+    "arrow fat down",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "south"
+  ],
+  "arrow-fat-left": [
+    "arrow fat left",
+    "back",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "west"
+  ],
+  "arrow-fat-line-down": [
+    "arrow fat line down",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "south"
+  ],
+  "arrow-fat-line-left": [
+    "arrow fat line left",
+    "back",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "west"
+  ],
+  "arrow-fat-line-right": [
+    "arrow fat line right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer"
+  ],
+  "arrow-fat-line-up": [
+    "above",
+    "arrow fat line up",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-fat-lines-down": [
+    "arrow fat lines down",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "south"
+  ],
+  "arrow-fat-lines-left": [
+    "arrow fat lines left",
+    "back",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "west"
+  ],
+  "arrow-fat-lines-right": [
+    "arrow fat lines right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer"
+  ],
+  "arrow-fat-lines-up": [
+    "above",
+    "arrow fat lines up",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-fat-right": [
+    "arrow fat right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer"
+  ],
+  "arrow-fat-up": [
+    "above",
+    "arrow fat up",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-left": [
+    "arrow left",
+    "back",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "west"
+  ],
+  "arrow-line-down": [
+    "arrow line down",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "south"
+  ],
+  "arrow-line-down-left": [
+    "arrow line down left",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "south",
+    "west"
+  ],
+  "arrow-line-down-right": [
+    "arrow line down right",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "south"
+  ],
+  "arrow-line-left": [
+    "arrow line left",
+    "back",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "west"
+  ],
+  "arrow-line-right": [
+    "arrow line right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer"
+  ],
+  "arrow-line-up": [
+    "above",
+    "arrow line up",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-line-up-left": [
+    "above",
+    "arrow line up left",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-line-up-right": [
+    "above",
+    "arrow line up right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-right": [
+    "arrow right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer"
+  ],
+  "arrow-squad-down": [
+    "arrow squad down",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "south"
+  ],
+  "arrow-squad-down-left": [
+    "arrow squad down left",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "south",
+    "west"
+  ],
+  "arrow-squad-down-right": [
+    "arrow squad down right",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "south"
+  ],
+  "arrow-squad-left": [
+    "arrow squad left",
+    "back",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "west"
+  ],
+  "arrow-squad-right": [
+    "arrow squad right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer"
+  ],
+  "arrow-squad-up": [
+    "above",
+    "arrow squad up",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-squad-up-left": [
+    "above",
+    "arrow squad up left",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-squad-up-right": [
+    "above",
+    "arrow squad up right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-square-in": [
+    "arrow square in",
+    "box",
+    "collapse",
+    "direction",
+    "enter",
+    "geometry",
+    "inside",
+    "navigation",
+    "pointer",
+    "rectangle",
+    "shape"
+  ],
+  "arrow-square-out": [
+    "arrow square out",
+    "box",
+    "direction",
+    "exit",
+    "expand",
+    "geometry",
+    "navigation",
+    "outside",
+    "pointer",
+    "rectangle",
+    "shape"
+  ],
+  "arrow-u-down-left": [
+    "arrow u down left",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "south",
+    "west"
+  ],
+  "arrow-u-down-right": [
+    "arrow u down right",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "south"
+  ],
+  "arrow-u-left-down": [
+    "arrow u left down",
+    "back",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "previous",
+    "south",
+    "west"
+  ],
+  "arrow-u-left-up": [
+    "above",
+    "arrow u left up",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-u-right-down": [
+    "arrow u right down",
+    "below",
+    "bottom",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "south"
+  ],
+  "arrow-u-right-up": [
+    "above",
+    "arrow u right up",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-u-up-left": [
+    "above",
+    "arrow u up left",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-u-up-right": [
+    "above",
+    "arrow u up right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-up": [
+    "above",
+    "arrow up",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrow-up-left": [
+    "above",
+    "arrow up left",
+    "back",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "previous",
+    "top",
+    "west"
+  ],
+  "arrow-up-right": [
+    "above",
+    "arrow up right",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "arrows-clockwise": [
+    "arrows clockwise",
+    "direction",
+    "navigation",
+    "pointer",
+    "redo",
+    "rotate",
+    "turn"
+  ],
+  "arrows-counter-clockwise": [
+    "arrows counter clockwise",
+    "direction",
+    "navigation",
+    "pointer",
+    "redo",
+    "rotate",
+    "turn"
+  ],
+  "arrows-down-up": [
+    "above",
+    "arrows down up",
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "south",
+    "top"
+  ],
+  "arrows-horizontal": [
+    "arrows horizontal",
+    "direction",
+    "navigation",
+    "pointer",
+    "row",
+    "width",
+    "x"
+  ],
+  "arrows-in": [
+    "arrows in",
+    "collapse",
+    "direction",
+    "enter",
+    "inside",
+    "navigation",
+    "pointer"
+  ],
+  "arrows-in-cardinal": [
+    "arrows in cardinal",
+    "collapse",
+    "direction",
+    "enter",
+    "inside",
+    "navigation",
+    "pointer"
+  ],
+  "arrows-in-line-horizontal": [
+    "arrows in line horizontal",
+    "collapse",
+    "direction",
+    "enter",
+    "inside",
+    "navigation",
+    "pointer",
+    "row",
+    "width",
+    "x"
+  ],
+  "arrows-in-line-vertical": [
+    "arrows in line vertical",
+    "collapse",
+    "column",
+    "direction",
+    "enter",
+    "height",
+    "inside",
+    "navigation",
+    "pointer",
+    "y"
+  ],
+  "arrows-in-simple": [
+    "arrows in simple",
+    "basic",
+    "collapse",
+    "direction",
+    "enter",
+    "inside",
+    "minimal",
+    "navigation",
+    "plain",
+    "pointer"
+  ],
+  "arrows-left-right": [
+    "arrows left right",
+    "back",
+    "direction",
+    "east",
+    "forward",
+    "navigation",
+    "next",
+    "pointer",
+    "previous",
+    "west"
+  ],
+  "arrows-merge": [
+    "arrows merge",
+    "combine",
+    "direction",
+    "join",
+    "navigation",
+    "pointer",
+    "union"
+  ],
+  "arrows-out": [
+    "arrows out",
+    "direction",
+    "exit",
+    "expand",
+    "navigation",
+    "outside",
+    "pointer"
+  ],
+  "arrows-out-cardinal": [
+    "arrows out cardinal",
+    "direction",
+    "exit",
+    "expand",
+    "navigation",
+    "outside",
+    "pointer"
+  ],
+  "arrows-out-line-horizontal": [
+    "arrows out line horizontal",
+    "direction",
+    "exit",
+    "expand",
+    "navigation",
+    "outside",
+    "pointer",
+    "row",
+    "width",
+    "x"
+  ],
+  "arrows-out-line-vertical": [
+    "arrows out line vertical",
+    "column",
+    "direction",
+    "exit",
+    "expand",
+    "height",
+    "navigation",
+    "outside",
+    "pointer",
+    "y"
+  ],
+  "arrows-out-simple": [
+    "arrows out simple",
+    "basic",
+    "direction",
+    "exit",
+    "expand",
+    "minimal",
+    "navigation",
+    "outside",
+    "plain",
+    "pointer"
+  ],
+  "arrows-split": [
+    "arrows split",
+    "direction",
+    "divide",
+    "half",
+    "navigation",
+    "pointer",
+    "separate"
+  ],
+  "arrows-vertical": [
+    "arrows vertical",
+    "column",
+    "direction",
+    "height",
+    "navigation",
+    "pointer",
+    "y"
+  ],
+  "article": [
+    "blog",
+    "news",
+    "read",
+    "text"
+  ],
+  "article-medium": [
+    "article medium",
+    "blog",
+    "brand",
+    "level",
+    "mid",
+    "news",
+    "read",
+    "text"
+  ],
+  "article-ny-times": [
+    "article ny times",
+    "blog",
+    "news",
+    "read",
+    "text"
+  ],
+  "asclepius": [
+    "doctor",
+    "health",
+    "medical",
+    "snake"
+  ],
+  "asterisk": [
+    "footnote",
+    "star",
+    "wildcard"
+  ],
+  "asterisk-simple": [
+    "asterisk simple",
+    "basic",
+    "footnote",
+    "minimal",
+    "plain",
+    "star",
+    "wildcard"
+  ],
+  "at": [
+    "address",
+    "email",
+    "mention"
+  ],
+  "atom": [
+    "molecule",
+    "physics",
+    "science"
+  ],
+  "avocado": [
+    "food",
+    "fruit",
+    "healthy"
+  ],
+  "axe": [
+    "chop",
+    "tool",
+    "weapon"
+  ],
+  "baby": [
+    "child",
+    "infant",
+    "kid"
+  ],
+  "baby-carriage": [
+    "baby carriage",
+    "child",
+    "infant",
+    "kid",
+    "pram",
+    "stroller"
+  ],
+  "battery-charging": [
+    "battery charging",
+    "charge",
+    "device",
+    "energy",
+    "plug",
+    "power",
+    "status"
+  ],
+  "battery-charging-vertical": [
+    "battery charging vertical",
+    "charge",
+    "column",
+    "device",
+    "energy",
+    "height",
+    "plug",
+    "power",
+    "status",
+    "y"
+  ],
+  "battery-empty": [
+    "battery empty",
+    "blank",
+    "charge",
+    "device",
+    "energy",
+    "none",
+    "power",
+    "status",
+    "zero"
+  ],
+  "battery-full": [
+    "battery full",
+    "charge",
+    "complete",
+    "device",
+    "energy",
+    "filled",
+    "max",
+    "power",
+    "status"
+  ],
+  "battery-high": [
+    "battery high",
+    "charge",
+    "device",
+    "energy",
+    "level",
+    "max",
+    "power",
+    "status",
+    "top"
+  ],
+  "battery-low": [
+    "battery low",
+    "bottom",
+    "charge",
+    "device",
+    "energy",
+    "level",
+    "min",
+    "power",
+    "status"
+  ],
+  "battery-medium": [
+    "battery medium",
+    "brand",
+    "charge",
+    "device",
+    "energy",
+    "level",
+    "mid",
+    "power",
+    "status"
+  ],
+  "battery-plus": [
+    "add",
+    "battery plus",
+    "charge",
+    "create",
+    "device",
+    "energy",
+    "more",
+    "new",
+    "power",
+    "status"
+  ],
+  "battery-plus-vertical": [
+    "add",
+    "battery plus vertical",
+    "charge",
+    "column",
+    "create",
+    "device",
+    "energy",
+    "height",
+    "more",
+    "new",
+    "power",
+    "status",
+    "y"
+  ],
+  "battery-vertical-empty": [
+    "battery vertical empty",
+    "blank",
+    "charge",
+    "column",
+    "device",
+    "energy",
+    "height",
+    "none",
+    "power",
+    "status",
+    "y",
+    "zero"
+  ],
+  "battery-vertical-full": [
+    "battery vertical full",
+    "charge",
+    "column",
+    "complete",
+    "device",
+    "energy",
+    "filled",
+    "height",
+    "max",
+    "power",
+    "status",
+    "y"
+  ],
+  "battery-vertical-high": [
+    "battery vertical high",
+    "charge",
+    "column",
+    "device",
+    "energy",
+    "height",
+    "level",
+    "max",
+    "power",
+    "status",
+    "top",
+    "y"
+  ],
+  "battery-vertical-low": [
+    "battery vertical low",
+    "bottom",
+    "charge",
+    "column",
+    "device",
+    "energy",
+    "height",
+    "level",
+    "min",
+    "power",
+    "status",
+    "y"
+  ],
+  "battery-vertical-medium": [
+    "battery vertical medium",
+    "brand",
+    "charge",
+    "column",
+    "device",
+    "energy",
+    "height",
+    "level",
+    "mid",
+    "power",
+    "status",
+    "y"
+  ],
+  "battery-warning": [
+    "alert",
+    "battery warning",
+    "caution",
+    "charge",
+    "device",
+    "energy",
+    "error",
+    "power",
+    "status"
+  ],
+  "bell": [
+    "alert",
+    "notification",
+    "ring"
+  ],
+  "bell-ringing": [
+    "alert",
+    "bell ringing",
+    "notification",
+    "ring",
+    "sound"
+  ],
+  "bell-simple": [
+    "alert",
+    "basic",
+    "bell simple",
+    "minimal",
+    "notification",
+    "plain",
+    "ring"
+  ],
+  "bell-simple-ringing": [
+    "alert",
+    "basic",
+    "bell simple ringing",
+    "minimal",
+    "notification",
+    "plain",
+    "ring",
+    "sound"
+  ],
+  "bell-simple-slash": [
+    "alert",
+    "basic",
+    "bell simple slash",
+    "disabled",
+    "minimal",
+    "mute",
+    "none",
+    "notification",
+    "off",
+    "plain",
+    "ring"
+  ],
+  "bell-simple-z": [
+    "alert",
+    "basic",
+    "bell simple z",
+    "minimal",
+    "mute",
+    "notification",
+    "plain",
+    "ring",
+    "sleep",
+    "snooze"
+  ],
+  "bell-slash": [
+    "alert",
+    "bell slash",
+    "disabled",
+    "mute",
+    "none",
+    "notification",
+    "off",
+    "ring"
+  ],
+  "bell-z": [
+    "alert",
+    "bell z",
+    "mute",
+    "notification",
+    "ring",
+    "sleep",
+    "snooze"
+  ],
+  "bezier-curve": [
+    "bezier curve",
+    "curve",
+    "design",
+    "editor",
+    "path",
+    "tool",
+    "vector"
+  ],
+  "bounding-box": [
+    "bounding box",
+    "box",
+    "frame",
+    "select"
+  ],
+  "calendar": [
+    "date",
+    "event",
+    "month",
+    "schedule",
+    "time"
+  ],
+  "calendar-blank": [
+    "calendar blank",
+    "date",
+    "event",
+    "month",
+    "schedule",
+    "time"
+  ],
+  "calendar-check": [
+    "calendar check",
+    "confirm",
+    "date",
+    "done",
+    "event",
+    "month",
+    "schedule",
+    "success",
+    "tick",
+    "time"
+  ],
+  "calendar-dot": [
+    "bullet",
+    "calendar dot",
+    "circle",
+    "date",
+    "event",
+    "month",
+    "point",
+    "schedule",
+    "time"
+  ],
+  "calendar-dots": [
+    "calendar dots",
+    "date",
+    "event",
+    "menu",
+    "month",
+    "more",
+    "points",
+    "schedule",
+    "time"
+  ],
+  "calendar-heart": [
+    "calendar heart",
+    "date",
+    "event",
+    "favorite",
+    "like",
+    "love",
+    "month",
+    "schedule",
+    "time"
+  ],
+  "calendar-minus": [
+    "calendar minus",
+    "date",
+    "delete",
+    "event",
+    "less",
+    "month",
+    "remove",
+    "schedule",
+    "subtract",
+    "time"
+  ],
+  "calendar-plus": [
+    "add",
+    "calendar plus",
+    "create",
+    "date",
+    "event",
+    "month",
+    "more",
+    "new",
+    "schedule",
+    "time"
+  ],
+  "calendar-slash": [
+    "calendar slash",
+    "date",
+    "disabled",
+    "event",
+    "month",
+    "mute",
+    "none",
+    "off",
+    "schedule",
+    "time"
+  ],
+  "calendar-x": [
+    "calendar x",
+    "cancel",
+    "close",
+    "cross",
+    "date",
+    "event",
+    "month",
+    "remove",
+    "schedule",
+    "time"
+  ],
+  "caret-circle-double-down": [
+    "arrow",
+    "below",
+    "bottom",
+    "caret circle double down",
+    "chevron",
+    "direction",
+    "ellipse",
+    "expand",
+    "geometry",
+    "navigation",
+    "round",
+    "shape",
+    "south",
+    "triangle"
+  ],
+  "caret-circle-double-left": [
+    "arrow",
+    "back",
+    "caret circle double left",
+    "chevron",
+    "direction",
+    "ellipse",
+    "expand",
+    "geometry",
+    "navigation",
+    "previous",
+    "round",
+    "shape",
+    "triangle",
+    "west"
+  ],
+  "caret-circle-double-right": [
+    "arrow",
+    "caret circle double right",
+    "chevron",
+    "direction",
+    "east",
+    "ellipse",
+    "expand",
+    "forward",
+    "geometry",
+    "navigation",
+    "next",
+    "round",
+    "shape",
+    "triangle"
+  ],
+  "caret-circle-double-up": [
+    "above",
+    "arrow",
+    "caret circle double up",
+    "chevron",
+    "direction",
+    "ellipse",
+    "expand",
+    "geometry",
+    "navigation",
+    "north",
+    "round",
+    "shape",
+    "top",
+    "triangle"
+  ],
+  "caret-circle-down": [
+    "arrow",
+    "below",
+    "bottom",
+    "caret circle down",
+    "chevron",
+    "direction",
+    "ellipse",
+    "expand",
+    "geometry",
+    "navigation",
+    "round",
+    "shape",
+    "south",
+    "triangle"
+  ],
+  "caret-circle-left": [
+    "arrow",
+    "back",
+    "caret circle left",
+    "chevron",
+    "direction",
+    "ellipse",
+    "expand",
+    "geometry",
+    "navigation",
+    "previous",
+    "round",
+    "shape",
+    "triangle",
+    "west"
+  ],
+  "caret-circle-right": [
+    "arrow",
+    "caret circle right",
+    "chevron",
+    "direction",
+    "east",
+    "ellipse",
+    "expand",
+    "forward",
+    "geometry",
+    "navigation",
+    "next",
+    "round",
+    "shape",
+    "triangle"
+  ],
+  "caret-circle-up": [
+    "above",
+    "arrow",
+    "caret circle up",
+    "chevron",
+    "direction",
+    "ellipse",
+    "expand",
+    "geometry",
+    "navigation",
+    "north",
+    "round",
+    "shape",
+    "top",
+    "triangle"
+  ],
+  "caret-circle-up-down": [
+    "above",
+    "arrow",
+    "below",
+    "bottom",
+    "caret circle up down",
+    "chevron",
+    "direction",
+    "ellipse",
+    "expand",
+    "geometry",
+    "navigation",
+    "north",
+    "round",
+    "shape",
+    "south",
+    "top",
+    "triangle"
+  ],
+  "caret-double-down": [
+    "arrow",
+    "below",
+    "bottom",
+    "caret double down",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "south",
+    "triangle"
+  ],
+  "caret-double-left": [
+    "arrow",
+    "back",
+    "caret double left",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "previous",
+    "triangle",
+    "west"
+  ],
+  "caret-double-right": [
+    "arrow",
+    "caret double right",
+    "chevron",
+    "direction",
+    "east",
+    "expand",
+    "forward",
+    "navigation",
+    "next",
+    "triangle"
+  ],
+  "caret-double-up": [
+    "above",
+    "arrow",
+    "caret double up",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "north",
+    "top",
+    "triangle"
+  ],
+  "caret-down": [
+    "arrow",
+    "below",
+    "bottom",
+    "caret down",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "south",
+    "triangle"
+  ],
+  "caret-left": [
+    "arrow",
+    "back",
+    "caret left",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "previous",
+    "triangle",
+    "west"
+  ],
+  "caret-line-down": [
+    "arrow",
+    "below",
+    "bottom",
+    "caret line down",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "south",
+    "triangle"
+  ],
+  "caret-line-left": [
+    "arrow",
+    "back",
+    "caret line left",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "previous",
+    "triangle",
+    "west"
+  ],
+  "caret-line-right": [
+    "arrow",
+    "caret line right",
+    "chevron",
+    "direction",
+    "east",
+    "expand",
+    "forward",
+    "navigation",
+    "next",
+    "triangle"
+  ],
+  "caret-line-up": [
+    "above",
+    "arrow",
+    "caret line up",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "north",
+    "top",
+    "triangle"
+  ],
+  "caret-right": [
+    "arrow",
+    "caret right",
+    "chevron",
+    "direction",
+    "east",
+    "expand",
+    "forward",
+    "navigation",
+    "next",
+    "triangle"
+  ],
+  "caret-up": [
+    "above",
+    "arrow",
+    "caret up",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "north",
+    "top",
+    "triangle"
+  ],
+  "caret-up-down": [
+    "above",
+    "arrow",
+    "below",
+    "bottom",
+    "caret up down",
+    "chevron",
+    "direction",
+    "expand",
+    "navigation",
+    "north",
+    "south",
+    "top",
+    "triangle"
+  ],
+  "circle": [
+    "ellipse",
+    "geometry",
+    "round",
+    "shape"
+  ],
+  "circle-dashed": [
+    "border",
+    "circle dashed",
+    "dotted",
+    "ellipse",
+    "geometry",
+    "outline",
+    "round",
+    "shape"
+  ],
+  "circle-half": [
+    "circle half",
+    "ellipse",
+    "fifty",
+    "geometry",
+    "partial",
+    "round",
+    "shape"
+  ],
+  "circle-half-tilt": [
+    "angle",
+    "circle half tilt",
+    "ellipse",
+    "fifty",
+    "geometry",
+    "partial",
+    "rotate",
+    "round",
+    "shape",
+    "skew"
+  ],
+  "circle-notch": [
+    "circle notch",
+    "ellipse",
+    "geometry",
+    "loading",
+    "progress",
+    "round",
+    "shape",
+    "spinner"
+  ],
+  "circles-four": [
+    "4",
+    "circles four",
+    "group",
+    "round",
+    "shape"
+  ],
+  "circles-three": [
+    "3",
+    "circles three",
+    "group",
+    "round",
+    "shape"
+  ],
+  "circles-three-plus": [
+    "3",
+    "add",
+    "circles three plus",
+    "create",
+    "group",
+    "more",
+    "new",
+    "round",
+    "shape"
+  ],
+  "clock": [
+    "hour",
+    "schedule",
+    "time",
+    "watch"
+  ],
+  "clock-afternoon": [
+    "clock afternoon",
+    "hour",
+    "schedule",
+    "time",
+    "watch"
+  ],
+  "clock-clockwise": [
+    "clock clockwise",
+    "hour",
+    "redo",
+    "rotate",
+    "schedule",
+    "time",
+    "turn",
+    "watch"
+  ],
+  "clock-countdown": [
+    "clock countdown",
+    "hour",
+    "schedule",
+    "time",
+    "timer",
+    "wait",
+    "watch"
+  ],
+  "clock-counter-clockwise": [
+    "clock counter clockwise",
+    "hour",
+    "redo",
+    "rotate",
+    "schedule",
+    "time",
+    "turn",
+    "watch"
+  ],
+  "clock-user": [
+    "account",
+    "avatar",
+    "clock user",
+    "hour",
+    "person",
+    "profile",
+    "schedule",
+    "time",
+    "watch"
+  ],
+  "columns": [
+    "design",
+    "grid",
+    "layout",
+    "split",
+    "table"
+  ],
+  "columns-plus-left": [
+    "add",
+    "back",
+    "columns plus left",
+    "create",
+    "design",
+    "grid",
+    "layout",
+    "more",
+    "new",
+    "previous",
+    "split",
+    "table",
+    "west"
+  ],
+  "columns-plus-right": [
+    "add",
+    "columns plus right",
+    "create",
+    "design",
+    "east",
+    "forward",
+    "grid",
+    "layout",
+    "more",
+    "new",
+    "next",
+    "split",
+    "table"
+  ],
+  "compass-tool": [
+    "compass tool",
+    "direction",
+    "navigation",
+    "tool"
+  ],
+  "crop": [
+    "cut",
+    "edit",
+    "editor",
+    "image",
+    "tool",
+    "trim"
+  ],
+  "cube": [
+    "3d",
+    "box",
+    "shape",
+    "volume"
+  ],
+  "cube-transparent": [
+    "3d",
+    "alpha",
+    "box",
+    "clear",
+    "cube transparent",
+    "opacity",
+    "shape",
+    "volume"
+  ],
+  "cylinder": [
+    "3d",
+    "database",
+    "shape",
+    "volume"
+  ],
+  "diamonds-four": [
+    "4",
+    "cards",
+    "diamonds four",
+    "gem",
+    "shape"
+  ],
+  "drop-half": [
+    "drop half",
+    "droplet",
+    "fifty",
+    "liquid",
+    "opacity",
+    "partial",
+    "water"
+  ],
+  "drop-half-bottom": [
+    "drop half bottom",
+    "droplet",
+    "fifty",
+    "liquid",
+    "opacity",
+    "partial",
+    "water"
+  ],
+  "drop-slash": [
+    "disabled",
+    "drop slash",
+    "droplet",
+    "liquid",
+    "mute",
+    "none",
+    "off",
+    "opacity",
+    "water"
+  ],
+  "eraser": [
+    "clear",
+    "delete",
+    "edit",
+    "editor",
+    "remove",
+    "tool"
+  ],
+  "exclude": [
+    "boolean",
+    "path",
+    "shape",
+    "subtract"
+  ],
+  "exclude-square": [
+    "boolean",
+    "box",
+    "exclude square",
+    "geometry",
+    "path",
+    "rectangle",
+    "shape",
+    "subtract"
+  ],
+  "eye": [
+    "preview",
+    "see",
+    "view",
+    "visibility"
+  ],
+  "eye-closed": [
+    "eye closed",
+    "hidden",
+    "preview",
+    "see",
+    "shut",
+    "view",
+    "visibility"
+  ],
+  "eye-slash": [
+    "disabled",
+    "eye slash",
+    "mute",
+    "none",
+    "off",
+    "preview",
+    "see",
+    "view",
+    "visibility"
+  ],
+  "file": [
+    "document",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-archive": [
+    "backup",
+    "box",
+    "document",
+    "file archive",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-arrow-down": [
+    "below",
+    "bottom",
+    "direction",
+    "document",
+    "file arrow down",
+    "navigation",
+    "page",
+    "paper",
+    "pointer",
+    "south",
+    "storage"
+  ],
+  "file-arrow-up": [
+    "above",
+    "direction",
+    "document",
+    "file arrow up",
+    "navigation",
+    "north",
+    "page",
+    "paper",
+    "pointer",
+    "storage",
+    "top"
+  ],
+  "file-audio": [
+    "document",
+    "file audio",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-c": [
+    "document",
+    "file c",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-c-sharp": [
+    "document",
+    "file c sharp",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-cloud": [
+    "document",
+    "file cloud",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-code": [
+    "development",
+    "document",
+    "file code",
+    "page",
+    "paper",
+    "programming",
+    "source",
+    "storage"
+  ],
+  "file-cpp": [
+    "code",
+    "development",
+    "document",
+    "file cpp",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-css": [
+    "code",
+    "document",
+    "file css",
+    "page",
+    "paper",
+    "storage",
+    "stylesheet",
+    "web"
+  ],
+  "file-csv": [
+    "data",
+    "document",
+    "file csv",
+    "page",
+    "paper",
+    "spreadsheet",
+    "storage",
+    "table"
+  ],
+  "file-dashed": [
+    "border",
+    "document",
+    "dotted",
+    "file dashed",
+    "outline",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-doc": [
+    "document",
+    "file doc",
+    "page",
+    "paper",
+    "storage",
+    "text",
+    "word"
+  ],
+  "file-html": [
+    "code",
+    "document",
+    "file html",
+    "markup",
+    "page",
+    "paper",
+    "storage",
+    "web"
+  ],
+  "file-image": [
+    "document",
+    "file image",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-ini": [
+    "config",
+    "document",
+    "file ini",
+    "page",
+    "paper",
+    "settings",
+    "storage",
+    "text"
+  ],
+  "file-jpg": [
+    "document",
+    "file jpg",
+    "image",
+    "page",
+    "paper",
+    "photo",
+    "picture",
+    "storage"
+  ],
+  "file-js": [
+    "code",
+    "development",
+    "document",
+    "file js",
+    "javascript",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-jsx": [
+    "code",
+    "development",
+    "document",
+    "file jsx",
+    "javascript",
+    "page",
+    "paper",
+    "react",
+    "storage"
+  ],
+  "file-lock": [
+    "document",
+    "file lock",
+    "page",
+    "paper",
+    "password",
+    "private",
+    "secure",
+    "storage"
+  ],
+  "file-magnifying-glass": [
+    "document",
+    "file magnifying glass",
+    "find",
+    "glass",
+    "page",
+    "paper",
+    "search",
+    "storage",
+    "zoom"
+  ],
+  "file-md": [
+    "document",
+    "file md",
+    "markdown",
+    "page",
+    "paper",
+    "readme",
+    "storage",
+    "text"
+  ],
+  "file-minus": [
+    "delete",
+    "document",
+    "file minus",
+    "less",
+    "page",
+    "paper",
+    "remove",
+    "storage",
+    "subtract"
+  ],
+  "file-pdf": [
+    "acrobat",
+    "document",
+    "file pdf",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-plus": [
+    "add",
+    "create",
+    "document",
+    "file plus",
+    "more",
+    "new",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-png": [
+    "bitmap",
+    "document",
+    "file png",
+    "image",
+    "page",
+    "paper",
+    "picture",
+    "storage"
+  ],
+  "file-ppt": [
+    "document",
+    "file ppt",
+    "page",
+    "paper",
+    "presentation",
+    "slides",
+    "storage"
+  ],
+  "file-py": [
+    "code",
+    "development",
+    "document",
+    "file py",
+    "page",
+    "paper",
+    "python",
+    "storage"
+  ],
+  "file-rs": [
+    "code",
+    "development",
+    "document",
+    "file rs",
+    "page",
+    "paper",
+    "rust",
+    "storage"
+  ],
+  "file-sql": [
+    "code",
+    "database",
+    "document",
+    "file sql",
+    "page",
+    "paper",
+    "query",
+    "storage"
+  ],
+  "file-svg": [
+    "document",
+    "file svg",
+    "graphics",
+    "image",
+    "page",
+    "paper",
+    "storage",
+    "vector"
+  ],
+  "file-text": [
+    "document",
+    "file text",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-ts": [
+    "code",
+    "development",
+    "document",
+    "file ts",
+    "page",
+    "paper",
+    "storage",
+    "typescript"
+  ],
+  "file-tsx": [
+    "code",
+    "development",
+    "document",
+    "file tsx",
+    "page",
+    "paper",
+    "react",
+    "storage",
+    "typescript"
+  ],
+  "file-txt": [
+    "document",
+    "file txt",
+    "page",
+    "paper",
+    "plain",
+    "storage",
+    "text"
+  ],
+  "file-video": [
+    "document",
+    "file video",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-vue": [
+    "code",
+    "development",
+    "document",
+    "file vue",
+    "framework",
+    "javascript",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "file-x": [
+    "cancel",
+    "close",
+    "cross",
+    "document",
+    "file x",
+    "page",
+    "paper",
+    "remove",
+    "storage"
+  ],
+  "file-xls": [
+    "data",
+    "document",
+    "excel",
+    "file xls",
+    "page",
+    "paper",
+    "spreadsheet",
+    "storage"
+  ],
+  "file-zip": [
+    "archive",
+    "compressed",
+    "document",
+    "file zip",
+    "page",
+    "paper",
+    "storage"
+  ],
+  "files": [
+    "copy",
+    "document",
+    "documents",
+    "pages",
+    "storage"
+  ],
+  "flip-horizontal": [
+    "flip horizontal",
+    "mirror",
+    "reverse",
+    "row",
+    "transform",
+    "width",
+    "x"
+  ],
+  "flip-vertical": [
+    "column",
+    "flip vertical",
+    "height",
+    "mirror",
+    "reverse",
+    "transform",
+    "y"
+  ],
+  "folder": [
+    "directory",
+    "document",
+    "files",
+    "storage"
+  ],
+  "folder-dashed": [
+    "border",
+    "directory",
+    "document",
+    "dotted",
+    "files",
+    "folder dashed",
+    "outline",
+    "storage"
+  ],
+  "folder-lock": [
+    "directory",
+    "document",
+    "files",
+    "folder lock",
+    "password",
+    "private",
+    "secure",
+    "storage"
+  ],
+  "folder-minus": [
+    "delete",
+    "directory",
+    "document",
+    "files",
+    "folder minus",
+    "less",
+    "remove",
+    "storage",
+    "subtract"
+  ],
+  "folder-open": [
+    "directory",
+    "document",
+    "expand",
+    "files",
+    "folder open",
+    "storage",
+    "unfold",
+    "unlock"
+  ],
+  "folder-simple": [
+    "basic",
+    "directory",
+    "document",
+    "files",
+    "folder simple",
+    "minimal",
+    "plain",
+    "storage"
+  ],
+  "folder-simple-dashed": [
+    "basic",
+    "border",
+    "directory",
+    "document",
+    "dotted",
+    "files",
+    "folder simple dashed",
+    "minimal",
+    "outline",
+    "plain",
+    "storage"
+  ],
+  "folder-simple-lock": [
+    "basic",
+    "directory",
+    "document",
+    "files",
+    "folder simple lock",
+    "minimal",
+    "password",
+    "plain",
+    "private",
+    "secure",
+    "storage"
+  ],
+  "folder-simple-minus": [
+    "basic",
+    "delete",
+    "directory",
+    "document",
+    "files",
+    "folder simple minus",
+    "less",
+    "minimal",
+    "plain",
+    "remove",
+    "storage",
+    "subtract"
+  ],
+  "folder-simple-plus": [
+    "add",
+    "basic",
+    "create",
+    "directory",
+    "document",
+    "files",
+    "folder simple plus",
+    "minimal",
+    "more",
+    "new",
+    "plain",
+    "storage"
+  ],
+  "folder-simple-star": [
+    "basic",
+    "bookmark",
+    "directory",
+    "document",
+    "favorite",
+    "files",
+    "folder simple star",
+    "minimal",
+    "plain",
+    "rating",
+    "storage"
+  ],
+  "folder-simple-user": [
+    "account",
+    "avatar",
+    "basic",
+    "directory",
+    "document",
+    "files",
+    "folder simple user",
+    "minimal",
+    "person",
+    "plain",
+    "profile",
+    "storage"
+  ],
+  "folder-star": [
+    "bookmark",
+    "directory",
+    "document",
+    "favorite",
+    "files",
+    "folder star",
+    "rating",
+    "storage"
+  ],
+  "folder-user": [
+    "account",
+    "avatar",
+    "directory",
+    "document",
+    "files",
+    "folder user",
+    "person",
+    "profile",
+    "storage"
+  ],
+  "folders": [
+    "directories",
+    "document",
+    "files",
+    "storage"
+  ],
+  "grid-four": [
+    "4",
+    "design",
+    "gallery",
+    "grid four",
+    "layout",
+    "table"
+  ],
+  "grid-nine": [
+    "9",
+    "design",
+    "gallery",
+    "grid nine",
+    "layout",
+    "table"
+  ],
+  "hexagon": [
+    "geometry",
+    "polygon",
+    "shape",
+    "six"
+  ],
+  "hourglass": [
+    "loading",
+    "time",
+    "timer",
+    "wait"
+  ],
+  "hourglass-high": [
+    "hourglass high",
+    "level",
+    "loading",
+    "max",
+    "time",
+    "timer",
+    "top",
+    "wait"
+  ],
+  "hourglass-low": [
+    "bottom",
+    "hourglass low",
+    "level",
+    "loading",
+    "min",
+    "time",
+    "timer",
+    "wait"
+  ],
+  "intersect": [
+    "boolean",
+    "overlap",
+    "path",
+    "shape"
+  ],
+  "intersect-square": [
+    "boolean",
+    "box",
+    "geometry",
+    "intersect square",
+    "overlap",
+    "path",
+    "rectangle",
+    "shape"
+  ],
+  "intersect-three": [
+    "3",
+    "boolean",
+    "intersect three",
+    "overlap",
+    "path",
+    "shape"
+  ],
+  "layout": [
+    "arrange",
+    "design",
+    "grid",
+    "layout",
+    "template"
+  ],
+  "number-circle-eight": [
+    "8",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle eight",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-five": [
+    "5",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle five",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-four": [
+    "4",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle four",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-nine": [
+    "9",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle nine",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-one": [
+    "1",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle one",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-seven": [
+    "7",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle seven",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-six": [
+    "6",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle six",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-three": [
+    "3",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle three",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-two": [
+    "2",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle two",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-zero": [
+    "0",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle zero",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-eight": [
+    "8",
+    "count",
+    "digit",
+    "number",
+    "number eight",
+    "numeric"
+  ],
+  "number-five": [
+    "5",
+    "count",
+    "digit",
+    "number",
+    "number five",
+    "numeric"
+  ],
+  "number-four": [
+    "4",
+    "count",
+    "digit",
+    "number",
+    "number four",
+    "numeric"
+  ],
+  "number-nine": [
+    "9",
+    "count",
+    "digit",
+    "number",
+    "number nine",
+    "numeric"
+  ],
+  "number-one": [
+    "1",
+    "count",
+    "digit",
+    "number",
+    "number one",
+    "numeric"
+  ],
+  "number-seven": [
+    "7",
+    "count",
+    "digit",
+    "number",
+    "number seven",
+    "numeric"
+  ],
+  "number-six": [
+    "6",
+    "count",
+    "digit",
+    "number",
+    "number six",
+    "numeric"
+  ],
+  "number-square-eight": [
+    "8",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square eight",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-five": [
+    "5",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square five",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-four": [
+    "4",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square four",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-nine": [
+    "9",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square nine",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-one": [
+    "1",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square one",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-seven": [
+    "7",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square seven",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-six": [
+    "6",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square six",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-three": [
+    "3",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square three",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-two": [
+    "2",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square two",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-zero": [
+    "0",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square zero",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-three": [
+    "3",
+    "count",
+    "digit",
+    "number",
+    "number three",
+    "numeric"
+  ],
+  "number-two": [
+    "2",
+    "count",
+    "digit",
+    "number",
+    "number two",
+    "numeric"
+  ],
+  "number-zero": [
+    "0",
+    "count",
+    "digit",
+    "number",
+    "number zero",
+    "numeric"
+  ],
+  "octagon": [
+    "eight",
+    "geometry",
+    "polygon",
+    "shape",
+    "stop"
+  ],
+  "parallelogram": [
+    "geometry",
+    "shape",
+    "skew"
+  ],
+  "pen": [
+    "design",
+    "draw",
+    "edit",
+    "editor",
+    "tool",
+    "write"
+  ],
+  "pencil-simple": [
+    "basic",
+    "draw",
+    "edit",
+    "editor",
+    "minimal",
+    "pencil simple",
+    "plain",
+    "tool",
+    "write"
+  ],
+  "pencil-simple-line": [
+    "basic",
+    "draw",
+    "edit",
+    "editor",
+    "minimal",
+    "pencil simple line",
+    "plain",
+    "tool",
+    "write"
+  ],
+  "pencil-simple-slash": [
+    "basic",
+    "disabled",
+    "draw",
+    "edit",
+    "editor",
+    "minimal",
+    "mute",
+    "none",
+    "off",
+    "pencil simple slash",
+    "plain",
+    "tool",
+    "write"
+  ],
+  "pentagon": [
+    "five",
+    "geometry",
+    "polygon",
+    "shape"
+  ],
+  "pentagram": [
+    "occult",
+    "shape",
+    "star"
+  ],
+  "perspective": [
+    "3d",
+    "transform",
+    "view"
+  ],
+  "placeholder": [
+    "blank",
+    "empty",
+    "stub"
+  ],
+  "rectangle": [
+    "box",
+    "geometry",
+    "shape",
+    "square"
+  ],
+  "rectangle-dashed": [
+    "border",
+    "box",
+    "dotted",
+    "geometry",
+    "outline",
+    "rectangle dashed",
+    "shape",
+    "square"
+  ],
+  "recycle": [
+    "environment",
+    "reuse",
+    "sustainability"
+  ],
+  "resize": [
+    "scale",
+    "size",
+    "transform"
+  ],
+  "rows": [
+    "design",
+    "layout",
+    "list",
+    "split",
+    "table"
+  ],
+  "rows-plus-bottom": [
+    "add",
+    "create",
+    "design",
+    "layout",
+    "list",
+    "more",
+    "new",
+    "rows plus bottom",
+    "split",
+    "table"
+  ],
+  "rows-plus-top": [
+    "above",
+    "add",
+    "create",
+    "design",
+    "layout",
+    "list",
+    "more",
+    "new",
+    "north",
+    "rows plus top",
+    "split",
+    "table",
+    "up"
+  ],
+  "selection": [
+    "editor",
+    "highlight",
+    "marquee",
+    "select",
+    "tool"
+  ],
+  "selection-all": [
+    "editor",
+    "highlight",
+    "marquee",
+    "select",
+    "selection all",
+    "tool"
+  ],
+  "selection-background": [
+    "editor",
+    "highlight",
+    "marquee",
+    "select",
+    "selection background",
+    "tool"
+  ],
+  "selection-foreground": [
+    "editor",
+    "highlight",
+    "marquee",
+    "select",
+    "selection foreground",
+    "tool"
+  ],
+  "selection-inverse": [
+    "editor",
+    "highlight",
+    "invert",
+    "marquee",
+    "opposite",
+    "reverse",
+    "select",
+    "selection inverse",
+    "tool"
+  ],
+  "selection-plus": [
+    "add",
+    "create",
+    "editor",
+    "highlight",
+    "marquee",
+    "more",
+    "new",
+    "select",
+    "selection plus",
+    "tool"
+  ],
+  "selection-slash": [
+    "disabled",
+    "editor",
+    "highlight",
+    "marquee",
+    "mute",
+    "none",
+    "off",
+    "select",
+    "selection slash",
+    "tool"
+  ],
+  "sidebar": [
+    "design",
+    "layout",
+    "menu",
+    "navigation",
+    "panel"
+  ],
+  "sidebar-simple": [
+    "basic",
+    "design",
+    "layout",
+    "menu",
+    "minimal",
+    "navigation",
+    "panel",
+    "plain",
+    "sidebar simple"
+  ],
+  "square": [
+    "box",
+    "geometry",
+    "rectangle",
+    "shape"
+  ],
+  "square-half": [
+    "box",
+    "fifty",
+    "geometry",
+    "partial",
+    "rectangle",
+    "shape",
+    "square half"
+  ],
+  "square-half-bottom": [
+    "box",
+    "fifty",
+    "geometry",
+    "partial",
+    "rectangle",
+    "shape",
+    "square half bottom"
+  ],
+  "square-split-horizontal": [
+    "box",
+    "divide",
+    "geometry",
+    "half",
+    "rectangle",
+    "row",
+    "separate",
+    "shape",
+    "square split horizontal",
+    "width",
+    "x"
+  ],
+  "square-split-vertical": [
+    "box",
+    "column",
+    "divide",
+    "geometry",
+    "half",
+    "height",
+    "rectangle",
+    "separate",
+    "shape",
+    "square split vertical",
+    "y"
+  ],
+  "squares-four": [
+    "4",
+    "boxes",
+    "grid",
+    "shape",
+    "squares four"
+  ],
+  "stack": [
+    "group",
+    "layers",
+    "pile"
+  ],
+  "stack-minus": [
+    "delete",
+    "group",
+    "layers",
+    "less",
+    "pile",
+    "remove",
+    "stack minus",
+    "subtract"
+  ],
+  "stack-plus": [
+    "add",
+    "create",
+    "group",
+    "layers",
+    "more",
+    "new",
+    "pile",
+    "stack plus"
+  ],
+  "stack-simple": [
+    "basic",
+    "group",
+    "layers",
+    "minimal",
+    "pile",
+    "plain",
+    "stack simple"
+  ],
+  "subtract": [
+    "boolean",
+    "minus",
+    "path",
+    "shape"
+  ],
+  "subtract-square": [
+    "boolean",
+    "box",
+    "geometry",
+    "minus",
+    "path",
+    "rectangle",
+    "shape",
+    "subtract square"
+  ],
+  "timer": [
+    "countdown",
+    "stopwatch",
+    "time"
+  ],
+  "triangle": [
+    "geometry",
+    "polygon",
+    "shape",
+    "three"
+  ],
+  "triangle-dashed": [
+    "border",
+    "dotted",
+    "geometry",
+    "outline",
+    "polygon",
+    "shape",
+    "three",
+    "triangle dashed"
+  ],
+  "unite": [
+    "boolean",
+    "combine",
+    "merge",
+    "path",
+    "shape"
+  ],
+  "unite-square": [
+    "boolean",
+    "box",
+    "combine",
+    "geometry",
+    "merge",
+    "path",
+    "rectangle",
+    "shape",
+    "unite square"
+  ],
+  "vector-three": [
+    "3",
+    "design",
+    "graphics",
+    "path",
+    "vector three"
+  ],
+  "vector-two": [
+    "2",
+    "design",
+    "graphics",
+    "path",
+    "vector two"
+  ],
+  "vignette": [
+    "effect",
+    "filter",
+    "photo"
+  ],
+  "watch": [
+    "clock",
+    "time",
+    "wearable"
+  ]
+}
