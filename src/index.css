@@ -196,6 +196,14 @@ input:focus-visible,
   pointer-events: none;
 }
 
+/* Разделители внутри поля: отделяют лейбл, значение и единицы. */
+.drag-number-sep {
+  width: 1px;
+  height: 18px;
+  flex-shrink: 0;
+  background: var(--line);
+}
+
 /* во время перетаскивания transition только мешает — значение должно идти за курсором */
 .drag-number:active .drag-number-fill {
   transition: none;
