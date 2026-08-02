@@ -1,44 +1,18 @@
 /**
- * Собирает npm-пакет с иконками из `packages/icons/svg/`.
+ * Собирает npm-пакет `lucevias`: React-компонент на каждую иконку плюс index
+ * с реэкспортами.
  *
- * На каждый SVG генерируется React-компонент, плюс общий index с реэкспортами.
- * Запускается в CI перед публикацией: `node scripts/build-package.mjs`.
+ * Источник — `packages/core/svg` через общий разбор в `svg-source.mjs`: пакет
+ * и метаданные `@lucevias/core` растут из одних и тех же файлов.
  *
- * Источник иконок один и тот же и для сайта, и для пакета — добавил файл в
- * папку, он появился в обоих местах.
+ * Запуск: `npm run pkg:generate`.
  */
-import { mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs'
-import { dirname, join } from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { mkdirSync, rmSync, writeFileSync } from 'node:fs'
+import { join } from 'node:path'
 
-const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
-const SVG_DIR = join(ROOT, 'packages/icons/svg')
-const OUT = join(ROOT, 'packages/icons')
-const SRC = join(OUT, 'src')
+import { collectIcons, pascal, ROOT, WEIGHTS } from './svg-source.mjs'
 
-const WEIGHTS = ['thin', 'light', 'regular', 'bold', 'fill', 'duotone']
-
-const pascal = (name) =>
-  name
-    .split(/[-_\s]+/)
-    .filter(Boolean)
-    .map((p) => p.charAt(0).toUpperCase() + p.slice(1))
-    .join('')
-
-/** Внутренности <svg> без обёртки, комментариев и xml-пролога. */
-function innerSvg(source) {
-  const match = source.match(/<svg[^>]*>([\s\S]*)<\/svg>/i)
-  return (match ? match[1] : source)
-    .replace(/<\?xml[\s\S]*?\?>/gi, '')
-    .replace(/<!--[\s\S]*?-->/g, '')
-    .trim()
-}
-
-const viewBoxOf = (source) => source.match(/<svg[^>]*\sviewBox="([^"]+)"/i)?.[1]?.trim() ?? '0 0 256 256'
-
-/** Красим в currentColor, чтобы работал проп color. */
-const normalizeColors = (markup) =>
-  markup.replace(/(fill|stroke)="((?!none|currentColor)[^"]*)"/gi, '$1="currentColor"')
+const SRC = join(ROOT, 'packages/icons/src')
 
 /** kebab-атрибуты → camelCase для JSX. */
 const toJsxAttrs = (markup) =>
@@ -53,34 +27,7 @@ const toJsxAttrs = (markup) =>
     .replace(/fill-rule=/g, 'fillRule=')
     .replace(/clip-rule=/g, 'clipRule=')
 
-/** Разбирает имя файла в пару «иконка + вес», как это делает сайт. */
-function parseName(file) {
-  const base = file.replace(/\.svg$/i, '')
-  const suffix = base.match(/[.-]([a-z]+)$/i)?.[1]?.toLowerCase()
-  const weight = suffix && WEIGHTS.includes(suffix) ? suffix : undefined
-  return {
-    name: weight ? base.slice(0, base.length - suffix.length - 1) : base,
-    weight: weight ?? 'regular',
-  }
-}
-
-// --- сбор ---------------------------------------------------------------
-
-const files = readdirSync(SVG_DIR).filter((f) => f.toLowerCase().endsWith('.svg'))
-if (files.length === 0) {
-  console.error('Нет ни одного SVG в packages/icons/svg — нечего публиковать.')
-  process.exit(1)
-}
-
-const icons = new Map()
-for (const file of files) {
-  const source = readFileSync(join(SVG_DIR, file), 'utf8')
-  const { name, weight } = parseName(file)
-  const entry = icons.get(name) ?? { variants: {}, viewBox: viewBoxOf(source) }
-  entry.variants[weight] = toJsxAttrs(normalizeColors(innerSvg(source)))
-  if (weight === 'regular') entry.viewBox = viewBoxOf(source)
-  icons.set(name, entry)
-}
+const icons = collectIcons()
 
 rmSync(SRC, { recursive: true, force: true })
 mkdirSync(join(SRC, 'icons'), { recursive: true })
@@ -132,12 +79,13 @@ export const IconBase = /* #__PURE__ */ forwardRef<SVGSVGElement, BaseProps>(fun
 
 // --- по компоненту на иконку -------------------------------------------
 
-const names = [...icons.keys()].sort()
-for (const name of names) {
-  const { variants, viewBox } = icons.get(name)
+for (const { name, variants, viewBox } of icons) {
   const component = pascal(name)
   const entries = Object.entries(variants)
-    .map(([w, markup]) => `  ${w}: (\n    <>\n      ${markup.replace(/></g, '>\n      <')}\n    </>\n  ),`)
+    .map(
+      ([w, markup]) =>
+        `  ${w}: (\n    <>\n      ${toJsxAttrs(markup).replace(/></g, '>\n      <')}\n    </>\n  ),`,
+    )
     .join('\n')
 
   writeFileSync(
@@ -165,6 +113,8 @@ export const ${component} = /* #__PURE__ */ forwardRef<SVGSVGElement, IconProps>
 }
 
 // --- index --------------------------------------------------------------
+
+const names = icons.map((i) => i.name)
 
 writeFileSync(
   join(SRC, 'index.ts'),

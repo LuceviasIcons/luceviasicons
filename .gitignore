@@ -12,9 +12,16 @@ dist
 dist-ssr
 *.local
 
-# Компоненты пакета генерируются из packages/icons/svg скриптом build-package.mjs.
-# Источник истины — сами SVG, поэтому производные в гит не коммитим.
+# SSH-ключи деплоя лежат в рабочей папке — в гит они попасть не должны
+WSCode
+WSCode.pub
+*.pem
+id_rsa*
+
+# Источник истины — SVG в packages/core/svg. Всё, что из них генерируется
+# скриптами в scripts/, в гит не коммитим.
 packages/icons/src
+packages/core/assets
 
 # Editor directories and files
 .vscode/*
