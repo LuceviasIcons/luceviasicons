@@ -18,10 +18,13 @@ WSCode.pub
 *.pem
 id_rsa*
 
-# Источник истины — SVG в packages/core/svg. Всё, что из них генерируется
-# скриптами в scripts/, в гит не коммитим.
+# Источник истины — SVG в packages/core/svg, производные не коммитим.
 packages/icons/src
-packages/core/assets
+
+# Исключение — packages/core/assets/icons.json: сайт ставит @lucevias/core
+# прямо из этого репозитория, а npm при установке из git берёт только то,
+# что реально закоммичено, и генераторы не запускает. Файл собирается
+# скриптом build-core.mjs — руками не править.
 
 # Editor directories and files
 .vscode/*
