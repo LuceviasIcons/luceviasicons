@@ -1,4 +1,4 @@
-# LUCEVIAS
+# Lucevias
 
 Icon library: 92 icons in a single grid, six weights, tree-shakeable React components.
 
