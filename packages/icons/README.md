@@ -2,7 +2,7 @@
 
 Иконки в единой сетке. Шесть весов, tree-shakeable React-компоненты.
 
-Каталог со всеми иконками и готовыми сниппетами: **[открыть сайт](https://lucevias.github.io/lucevias/)**
+Каталог со всеми иконками и готовыми сниппетами: **[открыть сайт](https://luceviasicons.github.io/luceviasicons/)**
 
 ## Установка
 
@@ -45,4 +45,4 @@ import { BoundingBox } from 'lucevias'
 ## Лицензия
 
 MIT — пользуйтесь свободно, в том числе в коммерческих проектах.
-Если библиотека выручает, [поддержите разработку](https://github.com/sponsors/lucevias).
+Если библиотека выручает, [поддержите разработку](https://github.com/sponsors/LuceviasIcons).
