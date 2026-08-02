@@ -1,0 +1,42 @@
+name: Publish package
+
+# Публикация по тегу: git tag v0.2.0 && git push --tags
+# Версия берётся из тега, чтобы package.json и npm не разъезжались.
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write # provenance: npm подтверждает, что пакет собран в этом репо
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          registry-url: https://registry.npmjs.org
+          cache: npm
+
+      - run: npm ci
+
+      - name: Синхронизировать версию с тегом
+        working-directory: packages/icons
+        run: npm version "${GITHUB_REF_NAME#v}" --no-git-tag-version --allow-same-version
+
+      - name: Собрать пакет
+        working-directory: packages/icons
+        run: |
+          npm run generate
+          npx vite build
+          npx tsc -p tsconfig.json
+
+      - name: Опубликовать
+        working-directory: packages/icons
+        run: npm publish --provenance --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
