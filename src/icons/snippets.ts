@@ -68,14 +68,14 @@ export const TARGETS: SnippetTarget[] = [
   {
     id: 'elm',
     label: 'Elm',
-    install: `elm install lucevias/icons`,
+    install: `elm install LuceviasIcons/lucevias`,
     build: (icon, opts) =>
       `Icons.${pascal(icon.name)}.view ${opts.size} "${opts.color}"`,
   },
   {
     id: 'swift',
     label: 'Swift',
-    install: `.package(url: "https://github.com/lucevias/lucevias-swift", from: "1.0.0")`,
+    install: `.package(url: "https://github.com/LuceviasIcons/lucevias-swift", from: "1.0.0")`,
     build: (icon, opts) => `${pascal(icon.name)}Icon(size: ${opts.size})`,
   },
 ]
