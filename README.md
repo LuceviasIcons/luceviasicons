@@ -4,9 +4,7 @@ Icon library: icons in a single grid, six weights, tree-shakeable React componen
 
 **[Browse the catalog →](https://luceviasicons.com)**
 
-This repository holds the icons themselves and the packages built from them.
-The catalog site lives in [LuceviasIcons/luceviasicons.com](https://github.com/LuceviasIcons/luceviasicons.com)
-and consumes `@lucevias/core` as an npm dependency.
+
 
 ## Install
 
