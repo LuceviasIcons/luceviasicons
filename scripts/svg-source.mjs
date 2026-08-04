@@ -50,13 +50,27 @@ export const pascal = (name) =>
 export const componentName = (name) => `${pascal(name)}Icon`
 
 /**
- * Разбирает путь файла в пару «имя иконки + вес».
- * Вес задаётся суффиксом (`bell-bold.svg`, `bell.bold.svg`) или папкой (`bold/bell.svg`).
+ * Разбирает путь файла в пару «имя иконки + вес». Поддерживаются три схемы:
+ *
+ *   `acorn/Regular.svg` — папка это имя, файл это вес (основная)
+ *   `regular/bell.svg`  — папка это вес, файл это имя
+ *   `bell-bold.svg`     — вес суффиксом в имени файла
+ *
+ * Порядок проверки важен. Имя берётся из файла только тогда, когда файл
+ * сам не назван весом: иначе `acorn/Regular.svg` даёт иконку «Regular», и
+ * весь набор схлопывается в четыре иконки с именами весов.
  */
 export function parsePath(relPath) {
   const segments = relPath.replace(/\.svg$/i, '').split(sep)
   const file = segments.pop()
   const folderWeight = segments.map((s) => s.toLowerCase()).find((s) => WEIGHTS.includes(s))
+
+  // файл назван весом → имя лежит в ближайшей папке, которая весом не является
+  const fileIsWeight = WEIGHTS.includes(file.toLowerCase())
+  if (fileIsWeight) {
+    const folderName = [...segments].reverse().find((s) => !WEIGHTS.includes(s.toLowerCase()))
+    if (folderName) return { name: folderName, weight: file.toLowerCase() }
+  }
 
   const suffix = file.match(/[.-]([a-z]+)$/i)?.[1]?.toLowerCase()
   const fileWeight = suffix && WEIGHTS.includes(suffix) ? suffix : undefined
