@@ -1442,6 +1442,105 @@
     "pram",
     "stroller"
   ],
+  "backpack": [
+    "bag",
+    "hiking",
+    "school",
+    "travel"
+  ],
+  "backspace": [
+    "delete",
+    "erase",
+    "keyboard",
+    "undo"
+  ],
+  "bag": [
+    "purchase",
+    "purse",
+    "shopping",
+    "store"
+  ],
+  "bag-simple": [
+    "bag simple",
+    "basic",
+    "minimal",
+    "plain",
+    "purchase",
+    "purse",
+    "shopping",
+    "store"
+  ],
+  "balloon": [
+    "birthday",
+    "celebration",
+    "float",
+    "party"
+  ],
+  "bandaids": [
+    "first aid",
+    "injury",
+    "medical",
+    "plaster"
+  ],
+  "bank": [
+    "building",
+    "finance",
+    "institution",
+    "money"
+  ],
+  "barbell": [
+    "fitness",
+    "gym",
+    "weight",
+    "workout"
+  ],
+  "barcode": [
+    "code",
+    "product",
+    "retail",
+    "scan"
+  ],
+  "barn": [
+    "agriculture",
+    "building",
+    "farm",
+    "rural"
+  ],
+  "barricade": [
+    "barrier",
+    "block",
+    "construction",
+    "roadblock"
+  ],
+  "baseball": [
+    "ball",
+    "game",
+    "sport"
+  ],
+  "baseball-cap": [
+    "ball",
+    "baseball cap",
+    "game",
+    "sport"
+  ],
+  "baseball-helmet": [
+    "ball",
+    "baseball helmet",
+    "game",
+    "sport"
+  ],
+  "basket": [
+    "cart",
+    "container",
+    "shopping",
+    "store"
+  ],
+  "basketball": [
+    "ball",
+    "game",
+    "hoop",
+    "sport"
+  ],
   "battery-charging": [
     "battery charging",
     "charge",
@@ -1625,6 +1724,46 @@
     "error",
     "power",
     "status"
+  ],
+  "beach-ball": [
+    "beach ball",
+    "sand",
+    "sea",
+    "summer",
+    "vacation"
+  ],
+  "beanie": [
+    "cap",
+    "clothing",
+    "hat",
+    "winter"
+  ],
+  "bed": [
+    "bedroom",
+    "hotel",
+    "rest",
+    "sleep"
+  ],
+  "beer-bottle": [
+    "alcohol",
+    "bar",
+    "beer bottle",
+    "drink",
+    "pub"
+  ],
+  "beer-stein": [
+    "alcohol",
+    "bar",
+    "beer stein",
+    "drink",
+    "pub"
+  ],
+  "behance-logo": [
+    "behance logo",
+    "brand",
+    "design",
+    "logo",
+    "portfolio"
   ],
   "bell": [
     "alert",
