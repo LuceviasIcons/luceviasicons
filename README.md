@@ -13,9 +13,9 @@ npm i lucevias
 ```
 
 ```jsx
-import { BoundingBoxIcon } from 'lucevias'
+import { BoundingBox } from 'lucevias'
 
-<BoundingBoxIcon size={32} />
+<BoundingBox size={32} />
 ```
 
 Full API in [packages/icons/README.md](packages/icons/README.md).
