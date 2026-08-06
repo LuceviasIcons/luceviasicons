@@ -15,10 +15,14 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      # write нужен, чтобы вернуть в репозиторий history.json — см. шаг в конце
+      contents: write
       id-token: write # provenance: npm подтверждает, что пакет собран в этом репо
     steps:
       - uses: actions/checkout@v4
+        with:
+          # тег указывает на коммит, а история дописывается в ветку
+          ref: main
 
       - uses: actions/setup-node@v4
         with:
@@ -54,3 +58,18 @@ jobs:
         run: npm publish --provenance --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      # history.json обновляется при сборке: новые иконки получают версию
+      # этого релиза. Без возврата в репозиторий запись пропала бы вместе с
+      # раннером, и следующий релиз пометил бы те же иконки новыми повторно.
+      - name: Вернуть историю версий в репозиторий
+        run: |
+          if git diff --quiet packages/core/history.json; then
+            echo "История не изменилась"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packages/core/history.json
+          git commit -m "История версий: ${GITHUB_REF_NAME}"
+          git push origin main

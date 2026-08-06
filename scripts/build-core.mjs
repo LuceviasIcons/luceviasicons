@@ -28,12 +28,27 @@ try {
   // файла нет — это норма
 }
 
+/**
+ * История версий из `packages/core/history.json` (её ведёт build-history.mjs).
+ * По ней сайт показывает «новая» и «обновлена»: статус живёт в релизе, а не
+ * в localStorage посетителя, поэтому одинаков для всех.
+ */
+let history = {}
+try {
+  history = JSON.parse(readFileSync(join(ROOT, 'packages/core/history.json'), 'utf8'))
+} catch {
+  // истории ещё нет — иконки поедут без пометок о версиях
+}
+
 const payload = {
   version: JSON.parse(readFileSync(join(ROOT, 'packages/core/package.json'), 'utf8')).version,
   icons: icons.map(({ name, viewBox, variants }) => ({
     name,
     viewBox,
     tags: tags[name] ?? [],
+    // версия появления и версия последней правки разметки
+    added: history[name]?.added,
+    changed: history[name]?.changed,
     variants,
   })),
 }
