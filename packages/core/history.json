@@ -36,8 +36,8 @@
   },
   "airplane-taxiing": {
     "added": "0",
-    "changed": "0",
-    "hash": "8eeb233174c9"
+    "changed": "0.2.0",
+    "hash": "d87dd0f07152"
   },
   "airplane-tilt": {
     "added": "0",
@@ -141,8 +141,8 @@
   },
   "android-logo": {
     "added": "0",
-    "changed": "0",
-    "hash": "69b6a5c31cf0"
+    "changed": "0.2.0",
+    "hash": "d121677ea4a0"
   },
   "angle": {
     "added": "0",
@@ -166,8 +166,8 @@
   },
   "app-window": {
     "added": "0",
-    "changed": "0",
-    "hash": "72caeb5a9967"
+    "changed": "0.2.0",
+    "hash": "a5e55bcbae6a"
   },
   "apple-podcasts-logo": {
     "added": "0",
@@ -711,13 +711,13 @@
   },
   "atom": {
     "added": "0",
-    "changed": "0",
-    "hash": "734f0c142219"
+    "changed": "0.2.0",
+    "hash": "4ed997be5295"
   },
   "avocado": {
     "added": "0",
-    "changed": "0",
-    "hash": "adc97fd96a15"
+    "changed": "0.2.0",
+    "hash": "347d5d9c05cc"
   },
   "axe": {
     "added": "0",
@@ -726,13 +726,28 @@
   },
   "baby": {
     "added": "0",
-    "changed": "0",
-    "hash": "1be76c35f091"
+    "changed": "0.2.0",
+    "hash": "abb85e0f16a3"
   },
   "baby-carriage": {
     "added": "0",
-    "changed": "0",
-    "hash": "ef6f302b3aac"
+    "changed": "0.2.0",
+    "hash": "267d11eea3ca"
+  },
+  "bathtub": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a6052ceb1b89"
+  },
+  "battery-charging": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c5b3869b1bcb"
+  },
+  "battery-plus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "99ea9a8458a8"
   },
   "bell": {
     "added": "0",
@@ -774,15 +789,240 @@
     "changed": "0",
     "hash": "a39cb32f4668"
   },
+  "belt": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d5f9ccc14e68"
+  },
   "bezier-curve": {
     "added": "0",
     "changed": "0",
     "hash": "15d51e83ab80"
   },
+  "bicycle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4b4a25368e95"
+  },
+  "binary": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "44a198cb5c5c"
+  },
+  "biohazard": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "461dfb64eff5"
+  },
+  "bird": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "37c7c10e19dd"
+  },
+  "blueprint": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b4c1ce730a1b"
+  },
+  "bluetooth": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3df1e6e7fd70"
+  },
+  "bluetooth-connected": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7cfec77bbbf9"
+  },
+  "bluetooth-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "05bbd9f3b1d7"
+  },
+  "bluetooth-x": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9d06f041997f"
+  },
+  "boat": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "eb3a6ae81ff7"
+  },
+  "bomb": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9b517148e9f6"
+  },
+  "bone": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e399ee30135c"
+  },
+  "book": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f51996af1ed7"
+  },
+  "book-bookmark": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d6791c944b23"
+  },
+  "book-open": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "54f2bdd4300d"
+  },
+  "book-open-text": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "17768846f52d"
+  },
+  "book-user": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "161e5cd6f07c"
+  },
+  "bookmark": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "dcc5d758720c"
+  },
+  "bookmark-simple": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "54bf86441b65"
+  },
+  "bookmarks": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "1fb23f716894"
+  },
+  "bookmarks-simple": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e1cdb5cba278"
+  },
+  "books": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "77b2b9d152dd"
+  },
+  "boot": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a84f2c613a84"
+  },
+  "boules": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d1bbc64e7ee6"
+  },
   "bounding-box": {
     "added": "0",
     "changed": "0",
     "hash": "c6b9bfd72e92"
+  },
+  "bowl-food": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "cd3e52a93b27"
+  },
+  "bowl-steam": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d8987e95ba8a"
+  },
+  "bowling-ball": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3ca9342be657"
+  },
+  "box-arrow-down": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f05c35eaa22b"
+  },
+  "box-arrow-up": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3b62f4f62838"
+  },
+  "boxing-glove": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a68e158f3cd9"
+  },
+  "brackets-angle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "475865659a4c"
+  },
+  "brackets-curly": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c74b91d47560"
+  },
+  "brackets-round": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4a7d8dc27fce"
+  },
+  "brackets-square": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "39af8469b387"
+  },
+  "brain": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "aa10bf536cc0"
+  },
+  "brandy": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0b31938d28ee"
+  },
+  "bread": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "76a769f29c9a"
+  },
+  "bridge": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "336fb7f6bbac"
+  },
+  "briefcase": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8a702eacca68"
+  },
+  "briefcase-metal": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "794f3c51a839"
+  },
+  "broadcast": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "fe29d4744491"
+  },
+  "broom": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "45fa877b0f64"
+  },
+  "browser": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7cd429eb121c"
+  },
+  "browsers": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b6755d987062"
   },
   "calendar": {
     "added": "0",
@@ -806,8 +1046,8 @@
   },
   "calendar-dots": {
     "added": "0",
-    "changed": "0",
-    "hash": "67da021764a8"
+    "changed": "0.2.0",
+    "hash": "03bccd836501"
   },
   "calendar-heart": {
     "added": "0",
@@ -1001,8 +1241,8 @@
   },
   "clock-countdown": {
     "added": "0",
-    "changed": "0",
-    "hash": "ee59bbebb4da"
+    "changed": "0.2.0",
+    "hash": "95e9b4971f66"
   },
   "clock-counter-clockwise": {
     "added": "0",
