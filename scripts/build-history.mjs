@@ -36,11 +36,20 @@ const version = JSON.parse(
 ).version
 
 let history = {}
+let firstRun = false
 try {
   history = JSON.parse(readFileSync(HISTORY, 'utf8'))
 } catch {
-  // первого файла ещё нет — весь текущий набор станет базой
+  firstRun = true
 }
+
+/*
+ * На первом запуске истории нет, и всё, что лежит в папке, накопилось за
+ * прошлые релизы. Записываем такой набор особой версией `0`: это значит
+ * «было всегда». Проставь мы текущую версию — весь каталог загорелся бы
+ * зелёным, хотя новых иконок в релизе нет.
+ */
+const BASELINE = '0'
 
 const icons = collectIcons()
 let added = 0
@@ -51,9 +60,10 @@ for (const { name, variants } of icons) {
   const known = history[name]
 
   if (!known) {
+    const v = firstRun ? BASELINE : version
     // added — версия появления, changed — версия последней правки разметки
-    history[name] = { added: version, changed: version, hash }
-    added++
+    history[name] = { added: v, changed: v, hash }
+    if (!firstRun) added++
   } else if (known.hash !== hash) {
     known.changed = version
     known.hash = hash
