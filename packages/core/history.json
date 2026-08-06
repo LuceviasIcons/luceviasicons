@@ -1,0 +1,1687 @@
+{
+  "acorn": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "40a3877762a4"
+  },
+  "address-book": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "68f87144fc61"
+  },
+  "air-traffic-control": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "144e1a6f4f19"
+  },
+  "airplane": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8b7617592313"
+  },
+  "airplane-in-flight": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d38f60e79050"
+  },
+  "airplane-landing": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ad00985922b8"
+  },
+  "airplane-takeoff": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a40dbc5d66d5"
+  },
+  "airplane-taxiing": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8eeb233174c9"
+  },
+  "airplane-tilt": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "3ea924413522"
+  },
+  "airplay": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2808b7c5b634"
+  },
+  "alarm": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "421f45348885"
+  },
+  "alien": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "40a5ecce8124"
+  },
+  "align-bottom": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "249380aa0bb5"
+  },
+  "align-bottom-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "74eed887f1f5"
+  },
+  "align-center-horizontal": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "24e6838cb192"
+  },
+  "align-center-horizontal-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e32c472e8921"
+  },
+  "align-center-vertical": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a5581cfc88ae"
+  },
+  "align-center-vertical-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "0413ca757f2c"
+  },
+  "align-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f3b5856c8386"
+  },
+  "align-left-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "70743f63f0ff"
+  },
+  "align-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c34bea9c65ae"
+  },
+  "align-right-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "1f0a2311b354"
+  },
+  "align-top": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "baabcf79db12"
+  },
+  "align-top-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d1205dd6557a"
+  },
+  "amazon-logo": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "fa8ab20d37e2"
+  },
+  "ambulance": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "7f1d0770e882"
+  },
+  "anchor": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "435978b4d8d5"
+  },
+  "anchor-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "415bc1d9b0f7"
+  },
+  "android-logo": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "69b6a5c31cf0"
+  },
+  "angle": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "cf12b58507d8"
+  },
+  "angular-logo": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "407a33ab0b06"
+  },
+  "aperture": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f6091104e46a"
+  },
+  "app-store-logo": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9e1dec5d4746"
+  },
+  "app-window": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "72caeb5a9967"
+  },
+  "apple-podcasts-logo": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "0fa4b5ae777f"
+  },
+  "approximate-equals": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "585b17e57316"
+  },
+  "archive": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "5a323ece7c5e"
+  },
+  "armchair": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e75c9265e16f"
+  },
+  "arrow-angle-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f8c0a4266ca8"
+  },
+  "arrow-arc-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f9436edd129a"
+  },
+  "arrow-arc-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b124a43cd3b9"
+  },
+  "arrow-bend-double-up-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9e82d60ba956"
+  },
+  "arrow-bend-double-up-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "313cd2ea1c38"
+  },
+  "arrow-bend-down-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d7194ecb3174"
+  },
+  "arrow-bend-down-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "09a7002a1b30"
+  },
+  "arrow-bend-left-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "07684004d9e3"
+  },
+  "arrow-bend-left-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "66c89a7568b1"
+  },
+  "arrow-bend-right-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "0474b39c45b4"
+  },
+  "arrow-bend-right-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "cde475e9d7f4"
+  },
+  "arrow-bend-up-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "cc3fec052139"
+  },
+  "arrow-bend-up-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "fe61fb8df220"
+  },
+  "arrow-circle-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "34c394d0e40e"
+  },
+  "arrow-circle-down-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "fb72d8b6678a"
+  },
+  "arrow-circle-down-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2f22a7d37a58"
+  },
+  "arrow-circle-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "4741a138000a"
+  },
+  "arrow-circle-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d0f92bbd53e1"
+  },
+  "arrow-circle-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "bbcd9d653b9a"
+  },
+  "arrow-circle-up-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "05b297cc10f5"
+  },
+  "arrow-circle-up-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ec2f2601e40d"
+  },
+  "arrow-clockwise": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "782beb9ec2db"
+  },
+  "arrow-counter-clockwise": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b8ee697d3222"
+  },
+  "arrow-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "af9052990b08"
+  },
+  "arrow-down-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "46acef268851"
+  },
+  "arrow-down-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "299af4c68103"
+  },
+  "arrow-elbow-down-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "362618cccfd2"
+  },
+  "arrow-elbow-down-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a35d8f6d800b"
+  },
+  "arrow-elbow-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b62916677b29"
+  },
+  "arrow-elbow-left-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d5a0d54866be"
+  },
+  "arrow-elbow-left-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "75ea63f73cea"
+  },
+  "arrow-elbow-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9e5b71b5c5fc"
+  },
+  "arrow-elbow-right-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a191aa950d66"
+  },
+  "arrow-elbow-right-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "473c274197ba"
+  },
+  "arrow-elbow-up-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "5bfe5c122558"
+  },
+  "arrow-elbow-up-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a7e810e9659b"
+  },
+  "arrow-fat-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "63df46b5ea1f"
+  },
+  "arrow-fat-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "3c2694813541"
+  },
+  "arrow-fat-line-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "34ae8ca60a70"
+  },
+  "arrow-fat-line-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "573a0a58a498"
+  },
+  "arrow-fat-line-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ebe513cb132f"
+  },
+  "arrow-fat-line-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "43d7d7c5d366"
+  },
+  "arrow-fat-lines-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "41c99f19e082"
+  },
+  "arrow-fat-lines-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "daf92d63d0e3"
+  },
+  "arrow-fat-lines-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "27adf347246c"
+  },
+  "arrow-fat-lines-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e98ae69532ae"
+  },
+  "arrow-fat-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "417d8988dfc7"
+  },
+  "arrow-fat-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a8cf1fb4332e"
+  },
+  "arrow-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "459e09bfa0f2"
+  },
+  "arrow-line-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b2df86d1d7cf"
+  },
+  "arrow-line-down-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "632569758702"
+  },
+  "arrow-line-down-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "562e41e4b71a"
+  },
+  "arrow-line-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f64bbf781acf"
+  },
+  "arrow-line-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f840c609f2cc"
+  },
+  "arrow-line-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "41c5f51607cf"
+  },
+  "arrow-line-up-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ab83a598dc4e"
+  },
+  "arrow-line-up-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "66214875e50d"
+  },
+  "arrow-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ca96651b4c24"
+  },
+  "arrow-squad-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "74c29188f8c8"
+  },
+  "arrow-squad-down-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e07fb670b162"
+  },
+  "arrow-squad-down-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "1769b4f67c34"
+  },
+  "arrow-squad-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "465b83da0cd0"
+  },
+  "arrow-squad-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "508602e000ea"
+  },
+  "arrow-squad-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "33223b956c27"
+  },
+  "arrow-squad-up-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8cc7096e53bc"
+  },
+  "arrow-squad-up-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "5c75fab3d6ff"
+  },
+  "arrow-square-in": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f91847764d1f"
+  },
+  "arrow-square-out": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "bb5a7b348e89"
+  },
+  "arrow-u-down-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b686b951aa9d"
+  },
+  "arrow-u-down-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8f40bb65de60"
+  },
+  "arrow-u-left-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "428cc5d9d5e9"
+  },
+  "arrow-u-left-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9c6ad6fe742c"
+  },
+  "arrow-u-right-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "5efb76f77541"
+  },
+  "arrow-u-right-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "6debede80e32"
+  },
+  "arrow-u-up-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e367c65a70e6"
+  },
+  "arrow-u-up-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "42cff1243952"
+  },
+  "arrow-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f965f5da8609"
+  },
+  "arrow-up-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "022d921ed9a1"
+  },
+  "arrow-up-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d961c3c676f7"
+  },
+  "arrows-clockwise": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ecd87c7d065c"
+  },
+  "arrows-counter-clockwise": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a7bd6fc18af7"
+  },
+  "arrows-down-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b72c2dc8dc87"
+  },
+  "arrows-horizontal": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "88676fa289ec"
+  },
+  "arrows-in": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "077a013fd084"
+  },
+  "arrows-in-cardinal": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "1db5273be74f"
+  },
+  "arrows-in-line-horizontal": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ef59bdd08d93"
+  },
+  "arrows-in-line-vertical": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2ab514f1a35b"
+  },
+  "arrows-in-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "42acdde45457"
+  },
+  "arrows-left-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8ad5be15d5d6"
+  },
+  "arrows-merge": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c961169fba72"
+  },
+  "arrows-out": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "4b29c06570af"
+  },
+  "arrows-out-cardinal": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "935954d9ac56"
+  },
+  "arrows-out-line-horizontal": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "6c9a739a2ea8"
+  },
+  "arrows-out-line-vertical": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f1994a555de5"
+  },
+  "arrows-out-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "6ae18e163516"
+  },
+  "arrows-split": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "615493649639"
+  },
+  "arrows-vertical": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "0d42f3d216aa"
+  },
+  "article": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "97d38ec046f2"
+  },
+  "article-medium": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "68e969f9074e"
+  },
+  "article-ny-times": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f9a605e880b0"
+  },
+  "asclepius": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c34ca964cbee"
+  },
+  "asterisk": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "5ce70edb3d87"
+  },
+  "asterisk-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f4d419ed088e"
+  },
+  "at": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "157a92fa7c49"
+  },
+  "atom": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "734f0c142219"
+  },
+  "avocado": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "adc97fd96a15"
+  },
+  "axe": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ac67e5dbdb61"
+  },
+  "baby": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "1be76c35f091"
+  },
+  "baby-carriage": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ef6f302b3aac"
+  },
+  "bell": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c1fd572e969d"
+  },
+  "bell-ringing": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "cef6be6673f9"
+  },
+  "bell-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "76da3c0c7e44"
+  },
+  "bell-simple-ringing": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "46f8d3d11a90"
+  },
+  "bell-simple-slash": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "cb994a1bb475"
+  },
+  "bell-simple-z": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9f729d8665ed"
+  },
+  "bell-slash": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "4c5aedfb294f"
+  },
+  "bell-z": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a39cb32f4668"
+  },
+  "bezier-curve": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "15d51e83ab80"
+  },
+  "bounding-box": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c6b9bfd72e92"
+  },
+  "calendar": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b47214290598"
+  },
+  "calendar-blank": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f15ca7d887fb"
+  },
+  "calendar-check": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "16171df0c797"
+  },
+  "calendar-dot": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e95bd23088ad"
+  },
+  "calendar-dots": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "67da021764a8"
+  },
+  "calendar-heart": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "53a5dd5885d5"
+  },
+  "calendar-minus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e184adf8fdc3"
+  },
+  "calendar-plus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a4838b6d6d03"
+  },
+  "calendar-slash": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c1f819b9502a"
+  },
+  "calendar-x": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "7118aca7ebb5"
+  },
+  "caret-circle-double-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9624be8b7850"
+  },
+  "caret-circle-double-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "5e34291508d6"
+  },
+  "caret-circle-double-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9c57a017b1d2"
+  },
+  "caret-circle-double-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ae09718a93b9"
+  },
+  "caret-circle-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b0bd32044ab0"
+  },
+  "caret-circle-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "734a32895840"
+  },
+  "caret-circle-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "371c8be0fb92"
+  },
+  "caret-circle-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2bb754a739a2"
+  },
+  "caret-circle-up-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "0d550b0eab7c"
+  },
+  "caret-double-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "23b30823a457"
+  },
+  "caret-double-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "95af155a2670"
+  },
+  "caret-double-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "cd83e0c942aa"
+  },
+  "caret-double-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2d7d4fafd101"
+  },
+  "caret-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "4c046462dd5e"
+  },
+  "caret-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d6f730902628"
+  },
+  "caret-line-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "485cd6a6b85d"
+  },
+  "caret-line-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "1593efc7f776"
+  },
+  "caret-line-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "721dc062eff4"
+  },
+  "caret-line-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "757fa38ee6c6"
+  },
+  "caret-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a0e09d7a3472"
+  },
+  "caret-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9055b4162dd9"
+  },
+  "caret-up-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "850316856fd8"
+  },
+  "circle": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "bdbdb1ae7d9c"
+  },
+  "circle-dashed": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ed0c2854a909"
+  },
+  "circle-half": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "3aee1b3b77e5"
+  },
+  "circle-half-tilt": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f681abd3c09b"
+  },
+  "circle-notch": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "6fe81f3547bd"
+  },
+  "circles-four": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2f4487cc1974"
+  },
+  "circles-three": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b82910369e26"
+  },
+  "circles-three-plus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "3cd87ac65d66"
+  },
+  "clock": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "774ef9395a61"
+  },
+  "clock-afternoon": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d7e8a813bee1"
+  },
+  "clock-clockwise": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "7895b067c5f9"
+  },
+  "clock-countdown": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ee59bbebb4da"
+  },
+  "clock-counter-clockwise": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "651eefc10930"
+  },
+  "clock-user": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "96974e669c43"
+  },
+  "columns": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "935abfcf3472"
+  },
+  "columns-plus-left": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8350c39532e4"
+  },
+  "columns-plus-right": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "eef0bf72dd18"
+  },
+  "compass-tool": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ae1d624df3b8"
+  },
+  "crop": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b68cfbbaca0b"
+  },
+  "cube": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "57d91bbbae0e"
+  },
+  "cube-transparent": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e106f7fd0f2a"
+  },
+  "cylinder": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ca7607c576f6"
+  },
+  "diamonds-four": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b42344df2c2d"
+  },
+  "drop-half": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "5e53c777953a"
+  },
+  "drop-half-bottom": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "25c9cf06bf07"
+  },
+  "drop-slash": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "758f1ed1e4c3"
+  },
+  "eraser": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "21cf5c4f9a17"
+  },
+  "exclude": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f6d61e714039"
+  },
+  "exclude-square": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "0fe7afc17b97"
+  },
+  "eye": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a1b4084357f3"
+  },
+  "eye-closed": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "fce4e00c2073"
+  },
+  "eye-slash": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f8a93b2d0092"
+  },
+  "file": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b6a355f70776"
+  },
+  "file-archive": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "3f7d478843e5"
+  },
+  "file-arrow-down": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ebdf4af18cb0"
+  },
+  "file-arrow-up": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8df676b07498"
+  },
+  "file-audio": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "14a38d29160d"
+  },
+  "file-c": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "1f3422d5a42c"
+  },
+  "file-c-sharp": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "cab6d7e80a7f"
+  },
+  "file-cloud": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c7a166ad8212"
+  },
+  "file-code": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "37fa9946fc32"
+  },
+  "file-cpp": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "932ed2240131"
+  },
+  "file-css": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "7f43ba1b9375"
+  },
+  "file-csv": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c9029400691f"
+  },
+  "file-dashed": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d1eec703e391"
+  },
+  "file-doc": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "edb7e4402349"
+  },
+  "file-html": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "1e4f29a32d1d"
+  },
+  "file-image": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8849ebfe4eaf"
+  },
+  "file-ini": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c937db574ce1"
+  },
+  "file-jpg": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f66822433a1e"
+  },
+  "file-js": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "636238fe46a6"
+  },
+  "file-jsx": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "5233b5d29f25"
+  },
+  "file-lock": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d9a9425224dd"
+  },
+  "file-magnifying-glass": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a192ed0ca0c9"
+  },
+  "file-md": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "4da328f69573"
+  },
+  "file-minus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9719372c819c"
+  },
+  "file-pdf": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ebbb95e79737"
+  },
+  "file-plus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "d7aabb45bf49"
+  },
+  "file-png": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "276f9de4829f"
+  },
+  "file-ppt": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9b5b8b75138e"
+  },
+  "file-py": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "750de7d392fc"
+  },
+  "file-rs": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "bf853a88beef"
+  },
+  "file-sql": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e55cd679ffd4"
+  },
+  "file-svg": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2c326529bbdb"
+  },
+  "file-text": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "cc4a285c0785"
+  },
+  "file-ts": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c30f0057f1f0"
+  },
+  "file-tsx": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "fd92d276cdb7"
+  },
+  "file-txt": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "34888bc8f86e"
+  },
+  "file-video": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "422629004454"
+  },
+  "file-vue": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f3d3016d7e26"
+  },
+  "file-x": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "11100d8141d4"
+  },
+  "file-xls": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "dfd39af0b496"
+  },
+  "file-zip": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9abb9cf35776"
+  },
+  "files": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "69425c9cfa21"
+  },
+  "flip-horizontal": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2ec17e47379f"
+  },
+  "flip-vertical": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2567ca40af0c"
+  },
+  "folder": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f665442ac447"
+  },
+  "folder-dashed": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "5ca21c02bcd1"
+  },
+  "folder-lock": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "7da8d93fb317"
+  },
+  "folder-minus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "78c96a44e4d9"
+  },
+  "folder-open": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "96f73a07b028"
+  },
+  "folder-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "88a562c74cbd"
+  },
+  "folder-simple-dashed": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e237f04ce5a4"
+  },
+  "folder-simple-lock": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "20c8040c9903"
+  },
+  "folder-simple-minus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "efe7d21950a5"
+  },
+  "folder-simple-plus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "dbe555f2dc39"
+  },
+  "folder-simple-star": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "9d61f4685f7c"
+  },
+  "folder-simple-user": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f42e59d54b98"
+  },
+  "folder-star": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "be80aeac4904"
+  },
+  "folder-user": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "47763a1ef4e0"
+  },
+  "folders": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "7be7f6c02a59"
+  },
+  "grid-four": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "047bf2ce2991"
+  },
+  "grid-nine": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "feb518302c61"
+  },
+  "hexagon": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "196db20eba00"
+  },
+  "hourglass": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "03d2886e7ff8"
+  },
+  "hourglass-high": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b6f280f8b994"
+  },
+  "hourglass-low": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "db7dbd337bd3"
+  },
+  "intersect": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "4403bc9bb073"
+  },
+  "intersect-square": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a1da998b61e3"
+  },
+  "intersect-three": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "800482c3f699"
+  },
+  "layout": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "21af459b7731"
+  },
+  "octagon": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "fe8fde7dac14"
+  },
+  "parallelogram": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a05bbade66df"
+  },
+  "pen": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "fd88c22ba62c"
+  },
+  "pencil-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "83310018c49f"
+  },
+  "pencil-simple-line": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "0d9f629b289f"
+  },
+  "pencil-simple-slash": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a23d062bbb52"
+  },
+  "pentagon": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "68149be7ea56"
+  },
+  "pentagram": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "039dceea2e55"
+  },
+  "perspective": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e8fb02452f49"
+  },
+  "placeholder": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8ee49e369fd7"
+  },
+  "rectangle": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b1a1cd82e0b8"
+  },
+  "rectangle-dashed": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e004c4315278"
+  },
+  "recycle": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a591ce219b36"
+  },
+  "resize": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "741ea2e9063d"
+  },
+  "rows": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "4db3d1740bf8"
+  },
+  "rows-plus-bottom": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b12478cf9b68"
+  },
+  "rows-plus-top": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "53c45823c1aa"
+  },
+  "selection": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "df6706c5377b"
+  },
+  "selection-all": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "16a26706895f"
+  },
+  "selection-background": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c426c2b5adae"
+  },
+  "selection-foreground": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "3f1ba67a7c31"
+  },
+  "selection-inverse": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "70af415edb8c"
+  },
+  "selection-plus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "e5b484a08a35"
+  },
+  "selection-slash": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a9dca8b29fce"
+  },
+  "sidebar": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8061d37b9b85"
+  },
+  "sidebar-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "116528f99009"
+  },
+  "square": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f1367a73678a"
+  },
+  "square-half": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "f886e8267e57"
+  },
+  "square-half-bottom": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "2325983ffd68"
+  },
+  "square-split-horizontal": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "7d7c3f30c1a2"
+  },
+  "square-split-vertical": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "54307bb3f0ba"
+  },
+  "squares-four": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "96fcb42c6911"
+  },
+  "stack": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "8acf630b2ec3"
+  },
+  "stack-minus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "46412fd88a03"
+  },
+  "stack-plus": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "4fb98f0c229e"
+  },
+  "stack-simple": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "83ea6f9fd50b"
+  },
+  "subtract": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "c1d01bb4d3a1"
+  },
+  "subtract-square": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "b0d2c655b731"
+  },
+  "timer": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "131142a027cc"
+  },
+  "triangle": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "da1a4aee9852"
+  },
+  "triangle-dashed": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "1255a2ae35f9"
+  },
+  "unite": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "1849ea72addb"
+  },
+  "unite-square": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "db0d5e28ea16"
+  },
+  "vector-three": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "a71c847e6ea1"
+  },
+  "vector-two": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "ec5d437ccdcf"
+  },
+  "vignette": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "604371e42719"
+  },
+  "watch": {
+    "added": "0.1.0",
+    "changed": "0.1.0",
+    "hash": "15e2896728fa"
+  }
+}
