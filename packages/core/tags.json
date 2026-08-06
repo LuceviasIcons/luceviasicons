@@ -9,7 +9,11 @@
     "address book",
     "book",
     "contact",
-    "phone"
+    "library",
+    "literature",
+    "phone",
+    "read",
+    "study"
   ],
   "air-traffic-control": [
     "air traffic control"
@@ -1442,6 +1446,33 @@
     "pram",
     "stroller"
   ],
+  "bathtub": [
+    "bath",
+    "bathroom",
+    "tub",
+    "wash"
+  ],
+  "battery-charging": [
+    "battery charging",
+    "charge",
+    "device",
+    "energy",
+    "plug",
+    "power",
+    "status"
+  ],
+  "battery-plus": [
+    "add",
+    "battery plus",
+    "charge",
+    "create",
+    "device",
+    "energy",
+    "more",
+    "new",
+    "power",
+    "status"
+  ],
   "bell": [
     "alert",
     "notification",
@@ -1517,6 +1548,11 @@
     "sleep",
     "snooze"
   ],
+  "belt": [
+    "accessory",
+    "clothing",
+    "waist"
+  ],
   "bezier-curve": [
     "bezier curve",
     "curve",
@@ -1526,11 +1562,332 @@
     "tool",
     "vector"
   ],
+  "bicycle": [
+    "bike",
+    "cycling",
+    "ride",
+    "transport"
+  ],
+  "binary": [
+    "bits",
+    "code",
+    "data",
+    "digital"
+  ],
+  "biohazard": [
+    "danger",
+    "hazard",
+    "toxic",
+    "warning"
+  ],
+  "bird": [
+    "animal",
+    "fly",
+    "nature",
+    "wing"
+  ],
+  "blueprint": [
+    "architecture",
+    "design",
+    "draft",
+    "plan"
+  ],
+  "bluetooth": [
+    "connection",
+    "pairing",
+    "signal",
+    "wireless"
+  ],
+  "bluetooth-connected": [
+    "bluetooth connected",
+    "connection",
+    "pairing",
+    "signal",
+    "wireless"
+  ],
+  "bluetooth-slash": [
+    "bluetooth slash",
+    "connection",
+    "disabled",
+    "mute",
+    "none",
+    "off",
+    "pairing",
+    "signal",
+    "wireless"
+  ],
+  "bluetooth-x": [
+    "bluetooth x",
+    "cancel",
+    "close",
+    "connection",
+    "cross",
+    "pairing",
+    "remove",
+    "signal",
+    "wireless"
+  ],
+  "boat": [
+    "sail",
+    "ship",
+    "transport",
+    "water"
+  ],
+  "bomb": [
+    "blast",
+    "danger",
+    "destroy",
+    "explosive"
+  ],
+  "bone": [
+    "anatomy",
+    "dog",
+    "medical",
+    "skeleton"
+  ],
+  "book": [
+    "library",
+    "literature",
+    "read",
+    "study"
+  ],
+  "book-bookmark": [
+    "book bookmark",
+    "favorite",
+    "library",
+    "literature",
+    "mark",
+    "read",
+    "remember",
+    "save",
+    "study"
+  ],
+  "book-open": [
+    "book open",
+    "expand",
+    "library",
+    "literature",
+    "read",
+    "study",
+    "unfold",
+    "unlock"
+  ],
+  "book-open-text": [
+    "book open text",
+    "expand",
+    "library",
+    "literature",
+    "read",
+    "study",
+    "unfold",
+    "unlock"
+  ],
+  "book-user": [
+    "account",
+    "avatar",
+    "book user",
+    "library",
+    "literature",
+    "person",
+    "profile",
+    "read",
+    "study"
+  ],
+  "bookmark": [
+    "favorite",
+    "mark",
+    "remember",
+    "save"
+  ],
+  "bookmark-simple": [
+    "basic",
+    "bookmark simple",
+    "favorite",
+    "mark",
+    "minimal",
+    "plain",
+    "remember",
+    "save"
+  ],
+  "bookmarks": [
+    "collection",
+    "favorites",
+    "marks",
+    "save"
+  ],
+  "bookmarks-simple": [
+    "basic",
+    "bookmarks simple",
+    "collection",
+    "favorites",
+    "marks",
+    "minimal",
+    "plain",
+    "save"
+  ],
+  "books": [
+    "collection",
+    "library",
+    "read",
+    "study"
+  ],
+  "boot": [
+    "clothing",
+    "footwear",
+    "shoe"
+  ],
+  "boules": [
+    "ball",
+    "game",
+    "petanque",
+    "sport"
+  ],
   "bounding-box": [
     "bounding box",
     "box",
     "frame",
     "select"
+  ],
+  "bowl-food": [
+    "bowl food",
+    "dish",
+    "food",
+    "kitchen",
+    "meal"
+  ],
+  "bowl-steam": [
+    "bowl steam",
+    "dish",
+    "food",
+    "kitchen",
+    "meal"
+  ],
+  "bowling-ball": [
+    "ball",
+    "bowling ball",
+    "game",
+    "sport",
+    "strike"
+  ],
+  "box-arrow-down": [
+    "below",
+    "bottom",
+    "box arrow down",
+    "direction",
+    "navigation",
+    "pointer",
+    "south"
+  ],
+  "box-arrow-up": [
+    "above",
+    "box arrow up",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "boxing-glove": [
+    "boxing glove",
+    "fight",
+    "glove",
+    "punch",
+    "sport"
+  ],
+  "brackets-angle": [
+    "brackets angle",
+    "code",
+    "corner",
+    "degree",
+    "geometry",
+    "parentheses",
+    "programming",
+    "syntax"
+  ],
+  "brackets-curly": [
+    "brackets curly",
+    "code",
+    "parentheses",
+    "programming",
+    "syntax"
+  ],
+  "brackets-round": [
+    "brackets round",
+    "code",
+    "parentheses",
+    "programming",
+    "syntax"
+  ],
+  "brackets-square": [
+    "box",
+    "brackets square",
+    "code",
+    "geometry",
+    "parentheses",
+    "programming",
+    "rectangle",
+    "shape",
+    "syntax"
+  ],
+  "brain": [
+    "intelligence",
+    "mind",
+    "neuro",
+    "think"
+  ],
+  "brandy": [
+    "alcohol",
+    "bar",
+    "drink",
+    "glass"
+  ],
+  "bread": [
+    "bakery",
+    "eat",
+    "food",
+    "loaf"
+  ],
+  "bridge": [
+    "architecture",
+    "connect",
+    "cross",
+    "structure"
+  ],
+  "briefcase": [
+    "bag",
+    "business",
+    "office",
+    "work"
+  ],
+  "briefcase-metal": [
+    "bag",
+    "briefcase metal",
+    "business",
+    "office",
+    "work"
+  ],
+  "broadcast": [
+    "radio",
+    "signal",
+    "stream",
+    "transmit"
+  ],
+  "broom": [
+    "clean",
+    "housework",
+    "sweep"
+  ],
+  "browser": [
+    "internet",
+    "site",
+    "web",
+    "window"
+  ],
+  "browsers": [
+    "internet",
+    "tabs",
+    "web",
+    "windows"
   ],
   "calendar": [
     "date",

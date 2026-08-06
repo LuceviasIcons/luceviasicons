@@ -1,17 +1,25 @@
 {
   "name": "@lucevias/core",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "LUCEVIAS — raw SVG assets and icon metadata. The source of truth for every LUCEVIAS package.",
   "license": "MIT",
   "type": "module",
   "sideEffects": false,
-  "files": ["svg", "assets"],
+  "files": [
+    "svg",
+    "assets"
+  ],
   "exports": {
     "./icons.json": "./assets/icons.json",
     "./svg/*": "./svg/*",
     "./package.json": "./package.json"
   },
-  "keywords": ["icons", "svg", "icon-library", "assets"],
+  "keywords": [
+    "icons",
+    "svg",
+    "icon-library",
+    "assets"
+  ],
   "publishConfig": {
     "access": "public"
   },
