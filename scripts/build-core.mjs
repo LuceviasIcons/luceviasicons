@@ -29,6 +29,21 @@ try {
 }
 
 /**
+ * Категории для фильтра в каталоге: необязательный
+ * `packages/core/categories.json` вида { "имя-иконки": "Arrows" }.
+ *
+ * Отдельный файл, а не первый тег: теги — поисковые синонимы, и категория
+ * среди них сделала бы запрос «arrow» неотличимым от фильтра «Arrows».
+ * Категория у иконки одна — тогда сумма по фильтрам сходится с общим числом.
+ */
+let categories = {}
+try {
+  categories = JSON.parse(readFileSync(join(ROOT, 'packages/core/categories.json'), 'utf8'))
+} catch {
+  // файла нет — иконки поедут без категорий, фильтр просто не покажется
+}
+
+/**
  * История версий из `packages/core/history.json` (её ведёт build-history.mjs).
  * По ней сайт показывает «новая» и «обновлена»: статус живёт в релизе, а не
  * в localStorage посетителя, поэтому одинаков для всех.
@@ -46,6 +61,7 @@ const payload = {
     name,
     viewBox,
     tags: tags[name] ?? [],
+    category: categories[name],
     // версия появления и версия последней правки разметки
     added: history[name]?.added,
     changed: history[name]?.changed,
@@ -57,3 +73,12 @@ mkdirSync(OUT, { recursive: true })
 writeFileSync(join(OUT, 'icons.json'), JSON.stringify(payload))
 
 console.log(`@lucevias/core: ${icons.length} иконок → packages/core/assets/icons.json`)
+
+// без категории иконка выпадает из фильтра каталога — молча это делать нельзя
+const uncategorized = icons.filter(({ name }) => !categories[name]).map(({ name }) => name)
+if (uncategorized.length > 0) {
+  console.warn(
+    `без категории (${uncategorized.length}), допишите packages/core/categories.json: ` +
+      uncategorized.join(', '),
+  )
+}
