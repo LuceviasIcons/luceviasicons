@@ -744,10 +744,75 @@
     "changed": "0.2.0",
     "hash": "c5b3869b1bcb"
   },
+  "battery-charging-vertical": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4fc2b6e7c6cc"
+  },
+  "battery-empty": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a89e807268a5"
+  },
+  "battery-full": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "43b6a08713a7"
+  },
+  "battery-high": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a9809d503b08"
+  },
+  "battery-low": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ce2368f97a47"
+  },
+  "battery-medium": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8bc580a67501"
+  },
   "battery-plus": {
     "added": "0.2.0",
     "changed": "0.2.0",
     "hash": "99ea9a8458a8"
+  },
+  "battery-plus-vertical": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d7312b526da4"
+  },
+  "battery-vertical-empty": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "729b32d3434d"
+  },
+  "battery-vertical-full": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d4f33d1491fc"
+  },
+  "battery-vertical-high": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e437bf439f02"
+  },
+  "battery-vertical-low": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3bc53f99f084"
+  },
+  "battery-vertical-medium": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b87dfd7cda22"
+  },
+  "battery-warning": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2ad496f1aa1d"
   },
   "bell": {
     "added": "0",
