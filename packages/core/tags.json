@@ -1889,6 +1889,18 @@
     "web",
     "windows"
   ],
+  "bug-beetle": [
+    "bug beetle"
+  ],
+  "bug-droid": [
+    "bug droid"
+  ],
+  "building-apartment": [
+    "building apartment"
+  ],
+  "cable-car": [
+    "cable car"
+  ],
   "calendar": [
     "date",
     "event",
@@ -1985,6 +1997,17 @@
     "schedule",
     "time"
   ],
+  "calendar-star": [
+    "bookmark",
+    "calendar star",
+    "date",
+    "event",
+    "favorite",
+    "month",
+    "rating",
+    "schedule",
+    "time"
+  ],
   "calendar-x": [
     "calendar x",
     "cancel",
@@ -1996,6 +2019,29 @@
     "remove",
     "schedule",
     "time"
+  ],
+  "call-bell": [
+    "alert",
+    "call bell",
+    "notification",
+    "ring"
+  ],
+  "camera-plus": [
+    "add",
+    "camera plus",
+    "create",
+    "more",
+    "new"
+  ],
+  "camera-rotate": [
+    "camera rotate"
+  ],
+  "camera-slash": [
+    "camera slash",
+    "disabled",
+    "mute",
+    "none",
+    "off"
   ],
   "caret-circle-double-down": [
     "arrow",
@@ -2303,6 +2349,105 @@
     "top",
     "triangle"
   ],
+  "chat-centered": [
+    "chat centered"
+  ],
+  "chat-centered-dots": [
+    "chat centered dots",
+    "menu",
+    "more",
+    "points"
+  ],
+  "chat-centered-slash": [
+    "chat centered slash",
+    "disabled",
+    "mute",
+    "none",
+    "off"
+  ],
+  "chat-centered-text": [
+    "chat centered text"
+  ],
+  "chat-circle": [
+    "chat circle",
+    "ellipse",
+    "geometry",
+    "round",
+    "shape"
+  ],
+  "chat-circle-dots": [
+    "chat circle dots",
+    "ellipse",
+    "geometry",
+    "menu",
+    "more",
+    "points",
+    "round",
+    "shape"
+  ],
+  "chat-circle-slash": [
+    "chat circle slash",
+    "disabled",
+    "ellipse",
+    "geometry",
+    "mute",
+    "none",
+    "off",
+    "round",
+    "shape"
+  ],
+  "chat-circle-text": [
+    "chat circle text",
+    "ellipse",
+    "geometry",
+    "round",
+    "shape"
+  ],
+  "chat-dots": [
+    "chat dots",
+    "menu",
+    "more",
+    "points"
+  ],
+  "chat-slash": [
+    "chat slash",
+    "disabled",
+    "mute",
+    "none",
+    "off"
+  ],
+  "chat-teardrop": [
+    "chat teardrop"
+  ],
+  "chat-teardrop-dots": [
+    "chat teardrop dots",
+    "menu",
+    "more",
+    "points"
+  ],
+  "chat-teardrop-slash": [
+    "chat teardrop slash",
+    "disabled",
+    "mute",
+    "none",
+    "off"
+  ],
+  "chat-teardrop-text": [
+    "chat teardrop text"
+  ],
+  "chat-text": [
+    "chat text"
+  ],
+  "chats-circle": [
+    "chats circle",
+    "ellipse",
+    "geometry",
+    "round",
+    "shape"
+  ],
+  "chats-teardrop": [
+    "chats teardrop"
+  ],
   "circle": [
     "ellipse",
     "geometry",
@@ -2427,6 +2572,69 @@
     "schedule",
     "time",
     "watch"
+  ],
+  "cloud-arrow-down": [
+    "below",
+    "bottom",
+    "cloud arrow down",
+    "direction",
+    "navigation",
+    "pointer",
+    "south"
+  ],
+  "cloud-arrow-up": [
+    "above",
+    "cloud arrow up",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "cloud-check": [
+    "cloud check",
+    "confirm",
+    "done",
+    "success",
+    "tick"
+  ],
+  "cloud-fog": [
+    "cloud fog"
+  ],
+  "cloud-lightning": [
+    "cloud lightning"
+  ],
+  "cloud-moon": [
+    "cloud moon"
+  ],
+  "cloud-rain": [
+    "cloud rain"
+  ],
+  "cloud-slash": [
+    "cloud slash",
+    "disabled",
+    "mute",
+    "none",
+    "off"
+  ],
+  "cloud-snow": [
+    "cloud snow"
+  ],
+  "cloud-sun": [
+    "cloud sun"
+  ],
+  "cloud-warning": [
+    "alert",
+    "caution",
+    "cloud warning",
+    "error"
+  ],
+  "cloud-x": [
+    "cancel",
+    "close",
+    "cloud x",
+    "cross",
+    "remove"
   ],
   "columns": [
     "design",
@@ -3246,6 +3454,71 @@
     "layout",
     "template"
   ],
+  "lock": [
+    "password",
+    "private",
+    "secure"
+  ],
+  "lock-key": [
+    "lock key",
+    "password",
+    "private",
+    "secure"
+  ],
+  "lock-key-open": [
+    "expand",
+    "lock key open",
+    "password",
+    "private",
+    "secure",
+    "unfold",
+    "unlock"
+  ],
+  "lock-laminated": [
+    "lock laminated",
+    "password",
+    "private",
+    "secure"
+  ],
+  "lock-laminated-open": [
+    "expand",
+    "lock laminated open",
+    "password",
+    "private",
+    "secure",
+    "unfold",
+    "unlock"
+  ],
+  "lock-open": [
+    "expand",
+    "lock open",
+    "password",
+    "private",
+    "secure",
+    "unfold",
+    "unlock"
+  ],
+  "lock-simple": [
+    "basic",
+    "lock simple",
+    "minimal",
+    "password",
+    "plain",
+    "private",
+    "secure"
+  ],
+  "lock-simple-open": [
+    "basic",
+    "expand",
+    "lock simple open",
+    "minimal",
+    "password",
+    "plain",
+    "private",
+    "secure",
+    "unfold",
+    "unlock"
+  ],
   "octagon": [
     "eight",
     "geometry",
@@ -3318,6 +3591,41 @@
     "3d",
     "transform",
     "view"
+  ],
+  "phone-call": [
+    "phone call"
+  ],
+  "phone-disconnect": [
+    "phone disconnect"
+  ],
+  "phone-incoming": [
+    "phone incoming"
+  ],
+  "phone-list": [
+    "phone list"
+  ],
+  "phone-outgoing": [
+    "phone outgoing"
+  ],
+  "phone-pause": [
+    "phone pause"
+  ],
+  "phone-plus": [
+    "add",
+    "create",
+    "more",
+    "new",
+    "phone plus"
+  ],
+  "phone-transfer": [
+    "phone transfer"
+  ],
+  "phone-x": [
+    "cancel",
+    "close",
+    "cross",
+    "phone x",
+    "remove"
   ],
   "placeholder": [
     "blank",
@@ -3450,6 +3758,45 @@
     "selection slash",
     "tool"
   ],
+  "shield-check": [
+    "confirm",
+    "done",
+    "shield check",
+    "success",
+    "tick"
+  ],
+  "shield-checkered": [
+    "shield checkered"
+  ],
+  "shield-chevron": [
+    "shield chevron"
+  ],
+  "shield-plus": [
+    "add",
+    "create",
+    "more",
+    "new",
+    "shield plus"
+  ],
+  "shield-slash": [
+    "disabled",
+    "mute",
+    "none",
+    "off",
+    "shield slash"
+  ],
+  "shield-star": [
+    "bookmark",
+    "favorite",
+    "rating",
+    "shield star"
+  ],
+  "shield-warning": [
+    "alert",
+    "caution",
+    "error",
+    "shield warning"
+  ],
   "sidebar": [
     "design",
     "layout",
@@ -3467,6 +3814,110 @@
     "panel",
     "plain",
     "sidebar simple"
+  ],
+  "smiley-angry": [
+    "smiley angry"
+  ],
+  "smiley-blank": [
+    "smiley blank"
+  ],
+  "smiley-meh": [
+    "smiley meh"
+  ],
+  "smiley-melting": [
+    "smiley melting"
+  ],
+  "smiley-nervous": [
+    "smiley nervous"
+  ],
+  "smiley-sad": [
+    "smiley sad"
+  ],
+  "smiley-sticker": [
+    "smiley sticker"
+  ],
+  "smiley-wink": [
+    "smiley wink"
+  ],
+  "smiley-x-eyes": [
+    "cancel",
+    "close",
+    "cross",
+    "remove",
+    "smiley x eyes"
+  ],
+  "speaker-high": [
+    "level",
+    "max",
+    "speaker high",
+    "top"
+  ],
+  "speaker-low": [
+    "bottom",
+    "level",
+    "min",
+    "speaker low"
+  ],
+  "speaker-none": [
+    "speaker none"
+  ],
+  "speaker-simple-high": [
+    "basic",
+    "level",
+    "max",
+    "minimal",
+    "plain",
+    "speaker simple high",
+    "top"
+  ],
+  "speaker-simple-low": [
+    "basic",
+    "bottom",
+    "level",
+    "min",
+    "minimal",
+    "plain",
+    "speaker simple low"
+  ],
+  "speaker-simple-none": [
+    "basic",
+    "minimal",
+    "plain",
+    "speaker simple none"
+  ],
+  "speaker-simple-slash": [
+    "basic",
+    "disabled",
+    "minimal",
+    "mute",
+    "none",
+    "off",
+    "plain",
+    "speaker simple slash"
+  ],
+  "speaker-simple-x": [
+    "basic",
+    "cancel",
+    "close",
+    "cross",
+    "minimal",
+    "plain",
+    "remove",
+    "speaker simple x"
+  ],
+  "speaker-slash": [
+    "disabled",
+    "mute",
+    "none",
+    "off",
+    "speaker slash"
+  ],
+  "speaker-x": [
+    "cancel",
+    "close",
+    "cross",
+    "remove",
+    "speaker x"
   ],
   "square": [
     "box",

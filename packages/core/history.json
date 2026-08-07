@@ -1024,6 +1024,66 @@
     "changed": "0.2.0",
     "hash": "b6755d987062"
   },
+  "bug": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ced7403c01fd"
+  },
+  "bug-beetle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "6c370a46b92d"
+  },
+  "bug-droid": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "29e296d2c2bc"
+  },
+  "building": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ec6af807e610"
+  },
+  "building-apartment": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b9d07e82f9b3"
+  },
+  "buildings": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "5651b5fcfcbc"
+  },
+  "bulldozer": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9d3fa2de700d"
+  },
+  "bus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f60321d87fee"
+  },
+  "butterfly": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c13fa44efa2d"
+  },
+  "cable-car": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7c9cdc453f79"
+  },
+  "cactus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3cff36e1c302"
+  },
+  "cake": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "75b30596bcd7"
+  },
   "calendar": {
     "added": "0",
     "changed": "0",
@@ -1069,10 +1129,45 @@
     "changed": "0",
     "hash": "c1f819b9502a"
   },
+  "calendar-star": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "28f3ed1a522b"
+  },
   "calendar-x": {
     "added": "0",
     "changed": "0",
     "hash": "7118aca7ebb5"
+  },
+  "call-bell": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "fbfe8ff2a014"
+  },
+  "camera": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "011ca5dc8e58"
+  },
+  "camera-plus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "cb83de6d0d27"
+  },
+  "camera-rotate": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "364e8e420a7b"
+  },
+  "camera-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "208d23caa97d"
+  },
+  "campfire": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "97412e221242"
   },
   "caret-circle-double-down": {
     "added": "0",
@@ -1184,6 +1279,101 @@
     "changed": "0",
     "hash": "850316856fd8"
   },
+  "chat": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ee4976efa3e8"
+  },
+  "chat-centered": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "6721e8b7c663"
+  },
+  "chat-centered-dots": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3351d757ad94"
+  },
+  "chat-centered-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0b7823384a20"
+  },
+  "chat-centered-text": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ea528928b509"
+  },
+  "chat-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2a91c4f9a011"
+  },
+  "chat-circle-dots": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a8a57d115d8a"
+  },
+  "chat-circle-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "37a7f2980aa3"
+  },
+  "chat-circle-text": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7a5175282b79"
+  },
+  "chat-dots": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "04c813da5eed"
+  },
+  "chat-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "79acdfeb0170"
+  },
+  "chat-teardrop": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f72c6e6dac7c"
+  },
+  "chat-teardrop-dots": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2c60f681bd17"
+  },
+  "chat-teardrop-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9aa924b96ae0"
+  },
+  "chat-teardrop-text": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2bd6ec7f7d20"
+  },
+  "chat-text": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a305c7abbde9"
+  },
+  "chats": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0fef7d11cffc"
+  },
+  "chats-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9d7ad2c856c6"
+  },
+  "chats-teardrop": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3afdc3222e04"
+  },
   "circle": {
     "added": "0",
     "changed": "0",
@@ -1253,6 +1443,71 @@
     "added": "0",
     "changed": "0",
     "hash": "96974e669c43"
+  },
+  "cloud": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9ddf8bb2286a"
+  },
+  "cloud-arrow-down": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b291c380163b"
+  },
+  "cloud-arrow-up": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3b862bf7f02b"
+  },
+  "cloud-check": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8fa51b641561"
+  },
+  "cloud-fog": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b9c6a68bc8b5"
+  },
+  "cloud-lightning": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0c5d8b17e140"
+  },
+  "cloud-moon": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "49f33598cfeb"
+  },
+  "cloud-rain": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b950a9afab52"
+  },
+  "cloud-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c3c6b4bae40d"
+  },
+  "cloud-snow": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8da4b5997e0a"
+  },
+  "cloud-sun": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9281b7bf21a5"
+  },
+  "cloud-warning": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "38a130612ef1"
+  },
+  "cloud-x": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "07e45bc16605"
   },
   "columns": {
     "added": "0",
@@ -1689,6 +1944,46 @@
     "changed": "0",
     "hash": "21af459b7731"
   },
+  "lock": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b3c0876234f6"
+  },
+  "lock-key": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7080b95f6f5d"
+  },
+  "lock-key-open": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "548174a34d9f"
+  },
+  "lock-laminated": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c51ab4f2fc5a"
+  },
+  "lock-laminated-open": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d7dfa553c3e5"
+  },
+  "lock-open": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ae8bb9a1f5ae"
+  },
+  "lock-simple": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d7abf2540efa"
+  },
+  "lock-simple-open": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a47bae39e4bb"
+  },
   "octagon": {
     "added": "0",
     "changed": "0",
@@ -1733,6 +2028,56 @@
     "added": "0",
     "changed": "0",
     "hash": "e8fb02452f49"
+  },
+  "phone": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "55ec578d6177"
+  },
+  "phone-call": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0c80f23830e7"
+  },
+  "phone-disconnect": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9dffa5f4b6f4"
+  },
+  "phone-incoming": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c09ac78bebaf"
+  },
+  "phone-list": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "575e6f1862a3"
+  },
+  "phone-outgoing": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "eb7038256e39"
+  },
+  "phone-pause": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f2c29eb868b0"
+  },
+  "phone-plus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "50407c2812ff"
+  },
+  "phone-transfer": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7aa978d6bb74"
+  },
+  "phone-x": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f7036fa0d0f3"
   },
   "placeholder": {
     "added": "0",
@@ -1809,6 +2154,46 @@
     "changed": "0",
     "hash": "a9dca8b29fce"
   },
+  "shield": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "26ed3f3e01d5"
+  },
+  "shield-check": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ffc7e9795ca5"
+  },
+  "shield-checkered": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c0a5c2c29b78"
+  },
+  "shield-chevron": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "17c3baf55a6c"
+  },
+  "shield-plus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ddb5f3b10033"
+  },
+  "shield-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a5ab70b583ba"
+  },
+  "shield-star": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "544119c3db27"
+  },
+  "shield-warning": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d2db1a92fd38"
+  },
   "sidebar": {
     "added": "0",
     "changed": "0",
@@ -1818,6 +2203,106 @@
     "added": "0",
     "changed": "0",
     "hash": "116528f99009"
+  },
+  "smiley": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "01f1b14565f5"
+  },
+  "smiley-angry": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b7866793382f"
+  },
+  "smiley-blank": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "781a97c09181"
+  },
+  "smiley-meh": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c900f6c247d1"
+  },
+  "smiley-melting": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f48c501cb9d1"
+  },
+  "smiley-nervous": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f997ddb84196"
+  },
+  "smiley-sad": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2d57adabe41e"
+  },
+  "smiley-sticker": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e0991c450a20"
+  },
+  "smiley-wink": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4db48f036c2c"
+  },
+  "smiley-x-eyes": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c38ff9e1130a"
+  },
+  "speaker-high": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "34285f84fc5f"
+  },
+  "speaker-low": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "72c355b01388"
+  },
+  "speaker-none": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c51cf305a348"
+  },
+  "speaker-simple-high": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "788803dd9d93"
+  },
+  "speaker-simple-low": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "1e2f9bc817a8"
+  },
+  "speaker-simple-none": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "22ccadd6dc73"
+  },
+  "speaker-simple-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ea7c6e5c01b9"
+  },
+  "speaker-simple-x": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "6abcc13b250c"
+  },
+  "speaker-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8518e1224476"
+  },
+  "speaker-x": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4c6f0ae014c7"
   },
   "square": {
     "added": "0",
