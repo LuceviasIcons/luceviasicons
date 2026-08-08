@@ -274,6 +274,22 @@ function tagsFor(name) {
     if (when.some((w) => parts.includes(w))) for (const t of themed) tags.add(t)
   }
 
+  /*
+   * Заголовки: `text-h-one` ищут как «h1», а не «text h one» — в вёрстке
+   * они так и называются. Правило отдельное, потому что склеивает две части
+   * имени в одно слово, чего не делает ни один из общих проходов выше:
+   * DIGITS даёт «1», но «h» и «1» так и остаются порознь.
+   */
+  if (parts[0] === 'text' && parts[1] === 'h') {
+    tags.add('heading').add('header').add('title')
+    const digit = DIGITS[parts[2]]
+    if (digit) {
+      tags.add(`h${digit}`)
+      tags.add(`h ${digit}`)
+      tags.add(`heading ${digit}`)
+    }
+  }
+
   // многословное имя целиком: `address-book` найдётся по `address book`
   if (parts.length > 1) tags.add(parts.join(' '))
 
