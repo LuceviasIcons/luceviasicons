@@ -4922,27 +4922,70 @@
     "text columns"
   ],
   "text-h": [
-    "text h"
+    "header",
+    "heading",
+    "text h",
+    "title"
+  ],
+  "text-h-five": [
+    "5",
+    "h 5",
+    "h5",
+    "header",
+    "heading",
+    "heading 5",
+    "text h five",
+    "title"
   ],
   "text-h-four": [
     "4",
-    "text h four"
+    "h 4",
+    "h4",
+    "header",
+    "heading",
+    "heading 4",
+    "text h four",
+    "title"
   ],
   "text-h-one": [
     "1",
-    "text h one"
+    "h 1",
+    "h1",
+    "header",
+    "heading",
+    "heading 1",
+    "text h one",
+    "title"
   ],
   "text-h-six": [
     "6",
-    "text h six"
+    "h 6",
+    "h6",
+    "header",
+    "heading",
+    "heading 6",
+    "text h six",
+    "title"
   ],
   "text-h-three": [
     "3",
-    "text h three"
+    "h 3",
+    "h3",
+    "header",
+    "heading",
+    "heading 3",
+    "text h three",
+    "title"
   ],
   "text-h-two": [
     "2",
-    "text h two"
+    "h 2",
+    "h2",
+    "header",
+    "heading",
+    "heading 2",
+    "text h two",
+    "title"
   ],
   "text-indent": [
     "text indent"
