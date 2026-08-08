@@ -1446,6 +1446,105 @@
     "pram",
     "stroller"
   ],
+  "backpack": [
+    "bag",
+    "hiking",
+    "school",
+    "travel"
+  ],
+  "backspace": [
+    "delete",
+    "erase",
+    "keyboard",
+    "undo"
+  ],
+  "bag": [
+    "purchase",
+    "purse",
+    "shopping",
+    "store"
+  ],
+  "bag-simple": [
+    "bag simple",
+    "basic",
+    "minimal",
+    "plain",
+    "purchase",
+    "purse",
+    "shopping",
+    "store"
+  ],
+  "balloon": [
+    "birthday",
+    "celebration",
+    "float",
+    "party"
+  ],
+  "bandaids": [
+    "first aid",
+    "injury",
+    "medical",
+    "plaster"
+  ],
+  "bank": [
+    "building",
+    "finance",
+    "institution",
+    "money"
+  ],
+  "barbell": [
+    "fitness",
+    "gym",
+    "weight",
+    "workout"
+  ],
+  "barcode": [
+    "code",
+    "product",
+    "retail",
+    "scan"
+  ],
+  "barn": [
+    "agriculture",
+    "building",
+    "farm",
+    "rural"
+  ],
+  "barricade": [
+    "barrier",
+    "block",
+    "construction",
+    "roadblock"
+  ],
+  "baseball": [
+    "ball",
+    "game",
+    "sport"
+  ],
+  "baseball-cap": [
+    "ball",
+    "baseball cap",
+    "game",
+    "sport"
+  ],
+  "baseball-helmet": [
+    "ball",
+    "baseball helmet",
+    "game",
+    "sport"
+  ],
+  "basket": [
+    "cart",
+    "container",
+    "shopping",
+    "store"
+  ],
+  "basketball": [
+    "ball",
+    "game",
+    "hoop",
+    "sport"
+  ],
   "bathtub": [
     "bath",
     "bathroom",
@@ -1635,6 +1734,46 @@
     "error",
     "power",
     "status"
+  ],
+  "beach-ball": [
+    "beach ball",
+    "sand",
+    "sea",
+    "summer",
+    "vacation"
+  ],
+  "beanie": [
+    "cap",
+    "clothing",
+    "hat",
+    "winter"
+  ],
+  "bed": [
+    "bedroom",
+    "hotel",
+    "rest",
+    "sleep"
+  ],
+  "beer-bottle": [
+    "alcohol",
+    "bar",
+    "beer bottle",
+    "drink",
+    "pub"
+  ],
+  "beer-stein": [
+    "alcohol",
+    "bar",
+    "beer stein",
+    "drink",
+    "pub"
+  ],
+  "behance-logo": [
+    "behance logo",
+    "brand",
+    "design",
+    "logo",
+    "portfolio"
   ],
   "bell": [
     "alert",
@@ -2512,6 +2651,47 @@
     "top",
     "triangle"
   ],
+  "cell-signal-full": [
+    "cell signal full",
+    "complete",
+    "filled",
+    "max"
+  ],
+  "cell-signal-high": [
+    "cell signal high",
+    "level",
+    "max",
+    "top"
+  ],
+  "cell-signal-low": [
+    "bottom",
+    "cell signal low",
+    "level",
+    "min"
+  ],
+  "cell-signal-medium": [
+    "brand",
+    "cell signal medium",
+    "level",
+    "mid"
+  ],
+  "cell-signal-none": [
+    "cell signal none"
+  ],
+  "cell-signal-slash": [
+    "cell signal slash",
+    "disabled",
+    "mute",
+    "none",
+    "off"
+  ],
+  "cell-signal-x": [
+    "cancel",
+    "cell signal x",
+    "close",
+    "cross",
+    "remove"
+  ],
   "chat-centered": [
     "chat centered"
   ],
@@ -2842,6 +3022,12 @@
     "navigation",
     "tool"
   ],
+  "copy-simple": [
+    "basic",
+    "copy simple",
+    "minimal",
+    "plain"
+  ],
   "crop": [
     "cut",
     "edit",
@@ -2878,6 +3064,124 @@
     "diamonds four",
     "gem",
     "shape"
+  ],
+  "dice-five": [
+    "5",
+    "dice five"
+  ],
+  "dice-four": [
+    "4",
+    "dice four"
+  ],
+  "dice-one": [
+    "1",
+    "dice one"
+  ],
+  "dice-six": [
+    "6",
+    "dice six"
+  ],
+  "dice-three": [
+    "3",
+    "dice three"
+  ],
+  "dice-two": [
+    "2",
+    "dice two"
+  ],
+  "dot": [
+    "bullet",
+    "circle",
+    "point"
+  ],
+  "dot-outline": [
+    "bullet",
+    "circle",
+    "dot outline",
+    "point"
+  ],
+  "dots-nine": [
+    "9",
+    "dots nine",
+    "menu",
+    "more",
+    "points"
+  ],
+  "dots-six": [
+    "6",
+    "dots six",
+    "menu",
+    "more",
+    "points"
+  ],
+  "dots-six-vertical": [
+    "6",
+    "column",
+    "dots six vertical",
+    "height",
+    "menu",
+    "more",
+    "points",
+    "y"
+  ],
+  "dots-three": [
+    "3",
+    "dots three",
+    "menu",
+    "more",
+    "points"
+  ],
+  "dots-three-circle": [
+    "3",
+    "dots three circle",
+    "ellipse",
+    "geometry",
+    "menu",
+    "more",
+    "points",
+    "round",
+    "shape"
+  ],
+  "dots-three-circle-vertical": [
+    "3",
+    "column",
+    "dots three circle vertical",
+    "ellipse",
+    "geometry",
+    "height",
+    "menu",
+    "more",
+    "points",
+    "round",
+    "shape",
+    "y"
+  ],
+  "dots-three-outline": [
+    "3",
+    "dots three outline",
+    "menu",
+    "more",
+    "points"
+  ],
+  "dots-three-outline-vertical": [
+    "3",
+    "column",
+    "dots three outline vertical",
+    "height",
+    "menu",
+    "more",
+    "points",
+    "y"
+  ],
+  "dots-three-vertical": [
+    "3",
+    "column",
+    "dots three vertical",
+    "height",
+    "menu",
+    "more",
+    "points",
+    "y"
   ],
   "drop-half": [
     "drop half",
@@ -3554,6 +3858,25 @@
     "layout",
     "table"
   ],
+  "heart": [
+    "favorite",
+    "like",
+    "love"
+  ],
+  "heart-break": [
+    "favorite",
+    "heart break",
+    "like",
+    "love"
+  ],
+  "heart-half": [
+    "favorite",
+    "fifty",
+    "heart half",
+    "like",
+    "love",
+    "partial"
+  ],
   "hexagon": [
     "geometry",
     "polygon",
@@ -3616,6 +3939,44 @@
     "grid",
     "layout",
     "template"
+  ],
+  "list-bullets": [
+    "list bullets"
+  ],
+  "list-checks": [
+    "list checks"
+  ],
+  "list-dashes": [
+    "list dashes"
+  ],
+  "list-heart": [
+    "favorite",
+    "like",
+    "list heart",
+    "love"
+  ],
+  "list-magnifying-glass": [
+    "find",
+    "glass",
+    "list magnifying glass",
+    "search",
+    "zoom"
+  ],
+  "list-numbers": [
+    "list numbers"
+  ],
+  "list-plus": [
+    "add",
+    "create",
+    "list plus",
+    "more",
+    "new"
+  ],
+  "list-star": [
+    "bookmark",
+    "favorite",
+    "list star",
+    "rating"
   ],
   "lock": [
     "password",
@@ -3681,6 +4042,326 @@
     "secure",
     "unfold",
     "unlock"
+  ],
+  "number-circle-eight": [
+    "8",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle eight",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-five": [
+    "5",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle five",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-four": [
+    "4",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle four",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-nine": [
+    "9",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle nine",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-one": [
+    "1",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle one",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-seven": [
+    "7",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle seven",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-six": [
+    "6",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle six",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-three": [
+    "3",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle three",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-two": [
+    "2",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle two",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-circle-zero": [
+    "0",
+    "count",
+    "digit",
+    "ellipse",
+    "geometry",
+    "number",
+    "number circle zero",
+    "numeric",
+    "round",
+    "shape"
+  ],
+  "number-eight": [
+    "8",
+    "count",
+    "digit",
+    "number",
+    "number eight",
+    "numeric"
+  ],
+  "number-five": [
+    "5",
+    "count",
+    "digit",
+    "number",
+    "number five",
+    "numeric"
+  ],
+  "number-four": [
+    "4",
+    "count",
+    "digit",
+    "number",
+    "number four",
+    "numeric"
+  ],
+  "number-nine": [
+    "9",
+    "count",
+    "digit",
+    "number",
+    "number nine",
+    "numeric"
+  ],
+  "number-one": [
+    "1",
+    "count",
+    "digit",
+    "number",
+    "number one",
+    "numeric"
+  ],
+  "number-seven": [
+    "7",
+    "count",
+    "digit",
+    "number",
+    "number seven",
+    "numeric"
+  ],
+  "number-six": [
+    "6",
+    "count",
+    "digit",
+    "number",
+    "number six",
+    "numeric"
+  ],
+  "number-square-eight": [
+    "8",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square eight",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-five": [
+    "5",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square five",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-four": [
+    "4",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square four",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-nine": [
+    "9",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square nine",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-one": [
+    "1",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square one",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-seven": [
+    "7",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square seven",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-six": [
+    "6",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square six",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-three": [
+    "3",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square three",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-two": [
+    "2",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square two",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-square-zero": [
+    "0",
+    "box",
+    "count",
+    "digit",
+    "geometry",
+    "number",
+    "number square zero",
+    "numeric",
+    "rectangle",
+    "shape"
+  ],
+  "number-three": [
+    "3",
+    "count",
+    "digit",
+    "number",
+    "number three",
+    "numeric"
+  ],
+  "number-two": [
+    "2",
+    "count",
+    "digit",
+    "number",
+    "number two",
+    "numeric"
+  ],
+  "number-zero": [
+    "0",
+    "count",
+    "digit",
+    "number",
+    "number zero",
+    "numeric"
   ],
   "octagon": [
     "eight",
@@ -4188,6 +4869,111 @@
     "rectangle",
     "shape",
     "subtract square"
+  ],
+  "text-a-underline": [
+    "text a underline"
+  ],
+  "text-aa": [
+    "text aa"
+  ],
+  "text-align-center": [
+    "design",
+    "distribute",
+    "layout",
+    "position",
+    "text align center"
+  ],
+  "text-align-justify": [
+    "design",
+    "distribute",
+    "layout",
+    "position",
+    "text align justify"
+  ],
+  "text-align-left": [
+    "back",
+    "design",
+    "distribute",
+    "layout",
+    "position",
+    "previous",
+    "text align left",
+    "west"
+  ],
+  "text-align-right": [
+    "design",
+    "distribute",
+    "east",
+    "forward",
+    "layout",
+    "next",
+    "position",
+    "text align right"
+  ],
+  "text-b": [
+    "text b"
+  ],
+  "text-columns": [
+    "design",
+    "grid",
+    "layout",
+    "split",
+    "table",
+    "text columns"
+  ],
+  "text-h": [
+    "text h"
+  ],
+  "text-h-four": [
+    "4",
+    "text h four"
+  ],
+  "text-h-one": [
+    "1",
+    "text h one"
+  ],
+  "text-h-six": [
+    "6",
+    "text h six"
+  ],
+  "text-h-three": [
+    "3",
+    "text h three"
+  ],
+  "text-h-two": [
+    "2",
+    "text h two"
+  ],
+  "text-indent": [
+    "text indent"
+  ],
+  "text-italic": [
+    "text italic"
+  ],
+  "text-outdent": [
+    "text outdent"
+  ],
+  "text-strikethrough": [
+    "text strikethrough"
+  ],
+  "text-subscript": [
+    "text subscript"
+  ],
+  "text-superscript": [
+    "text superscript"
+  ],
+  "text-t": [
+    "text t"
+  ],
+  "text-t-slash": [
+    "disabled",
+    "mute",
+    "none",
+    "off",
+    "text t slash"
+  ],
+  "text-underline": [
+    "text underline"
   ],
   "timer": [
     "countdown",

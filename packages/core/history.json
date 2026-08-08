@@ -734,6 +734,86 @@
     "changed": "0.2.0",
     "hash": "267d11eea3ca"
   },
+  "backpack": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "19a1d1335d04"
+  },
+  "backspace": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "541a3833fd56"
+  },
+  "bag": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "bf9b56e60b25"
+  },
+  "bag-simple": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7ca405fc3db3"
+  },
+  "balloon": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "6a6c44c134ad"
+  },
+  "bandaids": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f96a08c1a36d"
+  },
+  "bank": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "94afdecd0ee0"
+  },
+  "barbell": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "dfa368f35f9d"
+  },
+  "barcode": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "eb0cced6387e"
+  },
+  "barn": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "08609559b804"
+  },
+  "barricade": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d1a6eb6699ad"
+  },
+  "baseball": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b86d6a11c86c"
+  },
+  "baseball-cap": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "14cbb5124e30"
+  },
+  "baseball-helmet": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "646242559b1a"
+  },
+  "basket": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0c4b4ae03639"
+  },
+  "basketball": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "85621f2714d7"
+  },
   "bathtub": {
     "added": "0.2.0",
     "changed": "0.2.0",
@@ -813,6 +893,36 @@
     "added": "0.2.0",
     "changed": "0.2.0",
     "hash": "2ad496f1aa1d"
+  },
+  "beach-ball": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "584f0c71720e"
+  },
+  "beanie": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f6365cdae3b4"
+  },
+  "bed": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f09ad9e1cf02"
+  },
+  "beer-bottle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "70ba6b7efc45"
+  },
+  "beer-stein": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b98cfcbb32fe"
+  },
+  "behance-logo": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "241634717ba2"
   },
   "bell": {
     "added": "0",
@@ -1344,6 +1454,41 @@
     "changed": "0",
     "hash": "850316856fd8"
   },
+  "cell-signal-full": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a8fb869d0a24"
+  },
+  "cell-signal-high": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "dc176f4ba1e5"
+  },
+  "cell-signal-low": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e57832296f3e"
+  },
+  "cell-signal-medium": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2630465007d4"
+  },
+  "cell-signal-none": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "886446675117"
+  },
+  "cell-signal-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "29794cb71c43"
+  },
+  "cell-signal-x": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4d77bcffcb8a"
+  },
   "chat": {
     "added": "0.2.0",
     "changed": "0.2.0",
@@ -1594,6 +1739,16 @@
     "changed": "0",
     "hash": "ae1d624df3b8"
   },
+  "copy": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "675f5e6d7d17"
+  },
+  "copy-simple": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d1c5ea31d6b0"
+  },
   "crop": {
     "added": "0",
     "changed": "0",
@@ -1614,10 +1769,100 @@
     "changed": "0",
     "hash": "ca7607c576f6"
   },
+  "diamond": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "fc07e737a8fc"
+  },
   "diamonds-four": {
     "added": "0",
     "changed": "0",
     "hash": "b42344df2c2d"
+  },
+  "dice-five": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "5bf72ba28ed1"
+  },
+  "dice-four": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e0b2b55689ce"
+  },
+  "dice-one": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b99019db04d1"
+  },
+  "dice-six": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0dc629731f78"
+  },
+  "dice-three": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0e096986d2fb"
+  },
+  "dice-two": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "881275da0030"
+  },
+  "dot": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8a88f60c20e5"
+  },
+  "dot-outline": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "5f579f602fb1"
+  },
+  "dots-nine": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "58706e6b3ba9"
+  },
+  "dots-six": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ee6d6932cdd0"
+  },
+  "dots-six-vertical": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "714edaaaa617"
+  },
+  "dots-three": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "822d4051d035"
+  },
+  "dots-three-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "92ae7094230c"
+  },
+  "dots-three-circle-vertical": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ee18d1b44fac"
+  },
+  "dots-three-outline": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3d1339a9c8c2"
+  },
+  "dots-three-outline-vertical": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "37e70c0ac1d0"
+  },
+  "dots-three-vertical": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9480ca4d4ff3"
   },
   "drop-half": {
     "added": "0",
@@ -1969,6 +2214,26 @@
     "changed": "0",
     "hash": "feb518302c61"
   },
+  "heart": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "3a2007085a21"
+  },
+  "heart-break": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "99799c14d3b1"
+  },
+  "heart-half": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2eee370c1cec"
+  },
+  "heartbeat": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "57af2aa3f9ad"
+  },
   "hexagon": {
     "added": "0",
     "changed": "0",
@@ -2009,6 +2274,51 @@
     "changed": "0",
     "hash": "21af459b7731"
   },
+  "list": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8aa759df39f7"
+  },
+  "list-bullets": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "5816fe7254bb"
+  },
+  "list-checks": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f6c4cab196b2"
+  },
+  "list-dashes": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c20cd2c9a351"
+  },
+  "list-heart": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e98566b2b227"
+  },
+  "list-magnifying-glass": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "fc0808d1c81c"
+  },
+  "list-numbers": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "70bae6c1cd2d"
+  },
+  "list-plus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e0a6f4ac400c"
+  },
+  "list-star": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "45399a6fac34"
+  },
   "lock": {
     "added": "0.2.0",
     "changed": "0.2.0",
@@ -2048,6 +2358,156 @@
     "added": "0.2.0",
     "changed": "0.2.0",
     "hash": "a47bae39e4bb"
+  },
+  "number-circle-eight": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2e083d08cbd5"
+  },
+  "number-circle-five": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "fad7eb44a371"
+  },
+  "number-circle-four": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8d33a74bac43"
+  },
+  "number-circle-nine": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "51a4c316b019"
+  },
+  "number-circle-one": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4ec8f66a53a5"
+  },
+  "number-circle-seven": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f89a813682dc"
+  },
+  "number-circle-six": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a4f998bb29c7"
+  },
+  "number-circle-three": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b28bc874ea94"
+  },
+  "number-circle-two": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2be2d66ca7fa"
+  },
+  "number-circle-zero": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "efe12f022ba1"
+  },
+  "number-eight": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8cf762704012"
+  },
+  "number-five": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9b2245f667de"
+  },
+  "number-four": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "cc07157bc078"
+  },
+  "number-nine": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c489b1166b9d"
+  },
+  "number-one": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "29f4953dc8e3"
+  },
+  "number-seven": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "896ae43625ea"
+  },
+  "number-six": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9d0997d8f4a2"
+  },
+  "number-square-eight": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9cd471f5affd"
+  },
+  "number-square-five": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "57086bdd6c8f"
+  },
+  "number-square-four": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "44ee0b27a016"
+  },
+  "number-square-nine": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "71e340efb661"
+  },
+  "number-square-one": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "34ca1b341b40"
+  },
+  "number-square-seven": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "eee8f62dd710"
+  },
+  "number-square-six": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b208e1d48348"
+  },
+  "number-square-three": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "430804c2b62f"
+  },
+  "number-square-two": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "91028b448975"
+  },
+  "number-square-zero": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b775e95dfabe"
+  },
+  "number-three": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "544165444c62"
+  },
+  "number-two": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "598cf2cb7427"
+  },
+  "number-zero": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "f0f824eb0580"
   },
   "octagon": {
     "added": "0",
@@ -2428,6 +2888,121 @@
     "added": "0",
     "changed": "0",
     "hash": "b0d2c655b731"
+  },
+  "text-a-underline": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4310226689e3"
+  },
+  "text-aa": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7c6271661128"
+  },
+  "text-align-center": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d61c3dd658f8"
+  },
+  "text-align-justify": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0cf895cd9e24"
+  },
+  "text-align-left": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "33f96b960907"
+  },
+  "text-align-right": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "426514d646c4"
+  },
+  "text-b": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "533fd3488117"
+  },
+  "text-columns": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "46a145a1f72a"
+  },
+  "text-h": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a1fd26f38909"
+  },
+  "text-h-four": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "de4a1f32cfa6"
+  },
+  "text-h-one": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "423de11a46f9"
+  },
+  "text-h-six": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "700b711b0ad9"
+  },
+  "text-h-three": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9a941a6528ea"
+  },
+  "text-h-two": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "6b90ea10149b"
+  },
+  "text-indent": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "879a1370e413"
+  },
+  "text-italic": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "5192a062a9b4"
+  },
+  "text-outdent": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "1aa71b623e56"
+  },
+  "text-strikethrough": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "1e58e21f69c8"
+  },
+  "text-subscript": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8fbbe914be90"
+  },
+  "text-superscript": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4d4e3fdc4b05"
+  },
+  "text-t": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "320590b60c20"
+  },
+  "text-t-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "47486143d9cb"
+  },
+  "text-underline": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4e7add16a545"
   },
   "timer": {
     "added": "0",
