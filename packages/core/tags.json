@@ -2345,6 +2345,19 @@
     "none",
     "off"
   ],
+  "car-profile": [
+    "car profile"
+  ],
+  "car-simple": [
+    "basic",
+    "car simple",
+    "minimal",
+    "plain"
+  ],
+  "cards-three": [
+    "3",
+    "cards three"
+  ],
   "caret-circle-double-down": [
     "arrow",
     "below",
@@ -2651,6 +2664,15 @@
     "top",
     "triangle"
   ],
+  "cash-register": [
+    "cash register"
+  ],
+  "cassette-tape": [
+    "cassette tape"
+  ],
+  "castle-turret": [
+    "castle turret"
+  ],
   "cell-signal-full": [
     "cell signal full",
     "complete",
@@ -2691,6 +2713,63 @@
     "close",
     "cross",
     "remove"
+  ],
+  "cell-tower": [
+    "cell tower"
+  ],
+  "chalkboard-simple": [
+    "basic",
+    "chalkboard simple",
+    "minimal",
+    "plain"
+  ],
+  "chalkboard-teacher": [
+    "chalkboard teacher"
+  ],
+  "charging-station": [
+    "charging station",
+    "energy",
+    "plug",
+    "power"
+  ],
+  "chart-bar": [
+    "chart bar"
+  ],
+  "chart-bar-horizontal": [
+    "chart bar horizontal",
+    "row",
+    "width",
+    "x"
+  ],
+  "chart-donut": [
+    "chart donut"
+  ],
+  "chart-line": [
+    "chart line"
+  ],
+  "chart-line-down": [
+    "below",
+    "bottom",
+    "chart line down",
+    "south"
+  ],
+  "chart-line-up": [
+    "above",
+    "chart line up",
+    "north",
+    "top"
+  ],
+  "chart-pie": [
+    "chart pie"
+  ],
+  "chart-pie-slice": [
+    "chart pie slice"
+  ],
+  "chart-polar": [
+    "chart polar"
+  ],
+  "chart-scatter": [
+    "chart scatter"
   ],
   "chat-centered": [
     "chat centered"
@@ -2790,6 +2869,55 @@
   ],
   "chats-teardrop": [
     "chats teardrop"
+  ],
+  "check": [
+    "confirm",
+    "done",
+    "success",
+    "tick"
+  ],
+  "check-circle": [
+    "check circle",
+    "confirm",
+    "done",
+    "ellipse",
+    "geometry",
+    "round",
+    "shape",
+    "success",
+    "tick"
+  ],
+  "check-fat": [
+    "check fat",
+    "confirm",
+    "done",
+    "success",
+    "tick"
+  ],
+  "check-square": [
+    "box",
+    "check square",
+    "confirm",
+    "done",
+    "geometry",
+    "rectangle",
+    "shape",
+    "success",
+    "tick"
+  ],
+  "check-square-offset": [
+    "box",
+    "check square offset",
+    "confirm",
+    "done",
+    "geometry",
+    "rectangle",
+    "shape",
+    "success",
+    "tick"
+  ],
+  "chef-hat": [
+    "chef hat"
   ],
   "circle": [
     "ellipse",
@@ -4375,6 +4503,13 @@
     "shape",
     "skew"
   ],
+  "pause-circle": [
+    "ellipse",
+    "geometry",
+    "pause circle",
+    "round",
+    "shape"
+  ],
   "pen": [
     "design",
     "draw",
@@ -4476,6 +4611,16 @@
     "empty",
     "stub"
   ],
+  "play-circle": [
+    "ellipse",
+    "geometry",
+    "play circle",
+    "round",
+    "shape"
+  ],
+  "play-pause": [
+    "play pause"
+  ],
   "rectangle": [
     "box",
     "geometry",
@@ -4501,6 +4646,13 @@
     "scale",
     "size",
     "transform"
+  ],
+  "rewind-circle": [
+    "ellipse",
+    "geometry",
+    "rewind circle",
+    "round",
+    "shape"
   ],
   "rows": [
     "design",
@@ -4658,6 +4810,26 @@
     "panel",
     "plain",
     "sidebar simple"
+  ],
+  "skip-back": [
+    "skip back"
+  ],
+  "skip-back-circle": [
+    "ellipse",
+    "geometry",
+    "round",
+    "shape",
+    "skip back circle"
+  ],
+  "skip-forward": [
+    "skip forward"
+  ],
+  "skip-forward-circle": [
+    "ellipse",
+    "geometry",
+    "round",
+    "shape",
+    "skip forward circle"
   ],
   "smiley-angry": [
     "smiley angry"
@@ -5057,6 +5229,191 @@
     "shape",
     "unite square"
   ],
+  "user": [
+    "account",
+    "avatar",
+    "person",
+    "profile"
+  ],
+  "user-check": [
+    "account",
+    "avatar",
+    "confirm",
+    "done",
+    "person",
+    "profile",
+    "success",
+    "tick",
+    "user check"
+  ],
+  "user-circle": [
+    "account",
+    "avatar",
+    "ellipse",
+    "geometry",
+    "person",
+    "profile",
+    "round",
+    "shape",
+    "user circle"
+  ],
+  "user-circle-check": [
+    "account",
+    "avatar",
+    "confirm",
+    "done",
+    "ellipse",
+    "geometry",
+    "person",
+    "profile",
+    "round",
+    "shape",
+    "success",
+    "tick",
+    "user circle check"
+  ],
+  "user-circle-dashed": [
+    "account",
+    "avatar",
+    "border",
+    "dotted",
+    "ellipse",
+    "geometry",
+    "outline",
+    "person",
+    "profile",
+    "round",
+    "shape",
+    "user circle dashed"
+  ],
+  "user-circle-gear": [
+    "account",
+    "avatar",
+    "ellipse",
+    "geometry",
+    "person",
+    "profile",
+    "round",
+    "shape",
+    "user circle gear"
+  ],
+  "user-circle-minus": [
+    "account",
+    "avatar",
+    "delete",
+    "ellipse",
+    "geometry",
+    "less",
+    "person",
+    "profile",
+    "remove",
+    "round",
+    "shape",
+    "subtract",
+    "user circle minus"
+  ],
+  "user-circle-plus": [
+    "account",
+    "add",
+    "avatar",
+    "create",
+    "ellipse",
+    "geometry",
+    "more",
+    "new",
+    "person",
+    "profile",
+    "round",
+    "shape",
+    "user circle plus"
+  ],
+  "user-focus": [
+    "account",
+    "avatar",
+    "person",
+    "profile",
+    "user focus"
+  ],
+  "user-gear": [
+    "account",
+    "avatar",
+    "person",
+    "profile",
+    "user gear"
+  ],
+  "user-list": [
+    "account",
+    "avatar",
+    "person",
+    "profile",
+    "user list"
+  ],
+  "user-minus": [
+    "account",
+    "avatar",
+    "delete",
+    "less",
+    "person",
+    "profile",
+    "remove",
+    "subtract",
+    "user minus"
+  ],
+  "user-plus": [
+    "account",
+    "add",
+    "avatar",
+    "create",
+    "more",
+    "new",
+    "person",
+    "profile",
+    "user plus"
+  ],
+  "user-rectangle": [
+    "account",
+    "avatar",
+    "box",
+    "geometry",
+    "person",
+    "profile",
+    "shape",
+    "square",
+    "user rectangle"
+  ],
+  "user-sound": [
+    "account",
+    "avatar",
+    "person",
+    "profile",
+    "user sound"
+  ],
+  "user-square": [
+    "account",
+    "avatar",
+    "box",
+    "geometry",
+    "person",
+    "profile",
+    "rectangle",
+    "shape",
+    "user square"
+  ],
+  "user-switch": [
+    "account",
+    "avatar",
+    "person",
+    "profile",
+    "user switch"
+  ],
+  "users-four": [
+    "4",
+    "users four"
+  ],
+  "users-three": [
+    "3",
+    "users three"
+  ],
   "vector-three": [
     "3",
     "design",
@@ -5080,5 +5437,40 @@
     "clock",
     "time",
     "wearable"
+  ],
+  "wifi-high": [
+    "level",
+    "max",
+    "top",
+    "wifi high"
+  ],
+  "wifi-low": [
+    "bottom",
+    "level",
+    "min",
+    "wifi low"
+  ],
+  "wifi-medium": [
+    "brand",
+    "level",
+    "mid",
+    "wifi medium"
+  ],
+  "wifi-none": [
+    "wifi none"
+  ],
+  "wifi-slash": [
+    "disabled",
+    "mute",
+    "none",
+    "off",
+    "wifi slash"
+  ],
+  "wifi-x": [
+    "cancel",
+    "close",
+    "cross",
+    "remove",
+    "wifi x"
   ]
 }

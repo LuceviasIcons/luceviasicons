@@ -1344,6 +1344,36 @@
     "changed": "0.2.0",
     "hash": "97412e221242"
   },
+  "car": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0af8474eca89"
+  },
+  "car-profile": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d1c6db60302f"
+  },
+  "car-simple": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "61349f66b789"
+  },
+  "cardholder": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e42076dfa157"
+  },
+  "cards": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "87b411703562"
+  },
+  "cards-three": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b9567f597a2c"
+  },
   "caret-circle-double-down": {
     "added": "0",
     "changed": "0",
@@ -1454,6 +1484,31 @@
     "changed": "0",
     "hash": "850316856fd8"
   },
+  "carrot": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "99b75e99973b"
+  },
+  "cash-register": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "cb01fb76dc78"
+  },
+  "cassette-tape": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0ee17b2c66ea"
+  },
+  "castle-turret": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "91224f4a45da"
+  },
+  "cat": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7cd704775eb5"
+  },
   "cell-signal-full": {
     "added": "0.2.0",
     "changed": "0.2.0",
@@ -1488,6 +1543,91 @@
     "added": "0.2.0",
     "changed": "0.2.0",
     "hash": "4d77bcffcb8a"
+  },
+  "cell-tower": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "168f7bf99668"
+  },
+  "certificate": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "dae3b1963e52"
+  },
+  "chair": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "fc7621b6d0ba"
+  },
+  "chalkboard": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4f6d65afe7b7"
+  },
+  "chalkboard-simple": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "15a5201bd6a8"
+  },
+  "chalkboard-teacher": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "fe38dcf3c97f"
+  },
+  "charging-station": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "dd35bbc7b1bc"
+  },
+  "chart-bar": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "de795495d555"
+  },
+  "chart-bar-horizontal": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "42ee559e650b"
+  },
+  "chart-donut": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e2693235640c"
+  },
+  "chart-line": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "061a8ae0c72a"
+  },
+  "chart-line-down": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "cc8ad08648d9"
+  },
+  "chart-line-up": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "973d7e4beed3"
+  },
+  "chart-pie": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "14a04526ef45"
+  },
+  "chart-pie-slice": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "e71e9f75bb6d"
+  },
+  "chart-polar": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "6fe332d68429"
+  },
+  "chart-scatter": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2fceb0607e17"
   },
   "chat": {
     "added": "0.2.0",
@@ -1583,6 +1723,56 @@
     "added": "0.2.0",
     "changed": "0.2.0",
     "hash": "3afdc3222e04"
+  },
+  "check": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "482538b86a0b"
+  },
+  "check-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d8b50ec8d786"
+  },
+  "check-fat": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "293c6dcb7e18"
+  },
+  "check-square": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "95cd50176c12"
+  },
+  "check-square-offset": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d95396faae3c"
+  },
+  "checkerboard": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a00a9683bfb3"
+  },
+  "checks": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9e10862350db"
+  },
+  "cheers": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a43d175af2e7"
+  },
+  "cheese": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a94202c44b21"
+  },
+  "chef-hat": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c64b3c55a822"
   },
   "circle": {
     "added": "0",
@@ -2519,6 +2709,16 @@
     "changed": "0",
     "hash": "a05bbade66df"
   },
+  "pause": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "aedc4ebce98a"
+  },
+  "pause-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7511b04b819d"
+  },
   "pen": {
     "added": "0",
     "changed": "0",
@@ -2609,6 +2809,26 @@
     "changed": "0",
     "hash": "8ee49e369fd7"
   },
+  "play": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "fdf206e81afe"
+  },
+  "play-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b58382d5983b"
+  },
+  "play-pause": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "9a2177eac325"
+  },
+  "playlist": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "35ee8f34f7e1"
+  },
   "rectangle": {
     "added": "0",
     "changed": "0",
@@ -2628,6 +2848,11 @@
     "added": "0",
     "changed": "0",
     "hash": "741ea2e9063d"
+  },
+  "rewind-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "2d64ac29ef86"
   },
   "rows": {
     "added": "0",
@@ -2728,6 +2953,26 @@
     "added": "0",
     "changed": "0",
     "hash": "116528f99009"
+  },
+  "skip-back": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "65873e3f740b"
+  },
+  "skip-back-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "7af9a6bcf6b0"
+  },
+  "skip-forward": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "56320a2b8238"
+  },
+  "skip-forward-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "bfcc997031e2"
   },
   "smiley": {
     "added": "0.2.0",
@@ -3034,6 +3279,106 @@
     "changed": "0",
     "hash": "db0d5e28ea16"
   },
+  "user": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "99b1dfddc71a"
+  },
+  "user-check": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "49380e84664c"
+  },
+  "user-circle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0ef9749ada3b"
+  },
+  "user-circle-check": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4c8df36e6e52"
+  },
+  "user-circle-dashed": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "af3f53419746"
+  },
+  "user-circle-gear": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "fabeadc2797b"
+  },
+  "user-circle-minus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "1b8eb62f9098"
+  },
+  "user-circle-plus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4b8af0626c34"
+  },
+  "user-focus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "4894fc22134d"
+  },
+  "user-gear": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "dee956cdc14c"
+  },
+  "user-list": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "a5dfd97e3277"
+  },
+  "user-minus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "ba984cca60e2"
+  },
+  "user-plus": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "26a2bf8f022c"
+  },
+  "user-rectangle": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "c34436b5bab7"
+  },
+  "user-sound": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "50b102b57bb1"
+  },
+  "user-square": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b8c25505edc2"
+  },
+  "user-switch": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "6b56b5293a7c"
+  },
+  "users": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "d1250e9a27ab"
+  },
+  "users-four": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "766fb13208b4"
+  },
+  "users-three": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "8e0791e45d5b"
+  },
   "vector-three": {
     "added": "0",
     "changed": "0",
@@ -3053,5 +3398,35 @@
     "added": "0",
     "changed": "0",
     "hash": "15e2896728fa"
+  },
+  "wifi-high": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0908985b752a"
+  },
+  "wifi-low": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "af90149226f9"
+  },
+  "wifi-medium": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "bbd3b9c165a4"
+  },
+  "wifi-none": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "236f889a648b"
+  },
+  "wifi-slash": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "0918b40ec8fa"
+  },
+  "wifi-x": {
+    "added": "0.2.0",
+    "changed": "0.2.0",
+    "hash": "b8d3b4ba6f32"
   }
 }
