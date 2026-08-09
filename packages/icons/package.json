@@ -31,9 +31,19 @@
   },
   "keywords": [
     "icons",
-    "react",
+    "icon-set",
     "svg",
-    "icon-library"
+    "svg-icons",
+    "react",
+    "react-icons",
+    "icon-library",
+    "open-source-icons",
+    "iconography",
+    "ui-icons",
+    "design-system",
+    "typescript",
+    "tree-shakeable",
+    "components"
   ],
   "publishConfig": {
     "access": "public"

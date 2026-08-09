@@ -16,9 +16,16 @@
   },
   "keywords": [
     "icons",
+    "icon-set",
     "svg",
+    "svg-icons",
     "icon-library",
-    "assets"
+    "open-source-icons",
+    "iconography",
+    "ui-icons",
+    "design-system",
+    "assets",
+    "icon-metadata"
   ],
   "publishConfig": {
     "access": "public"
