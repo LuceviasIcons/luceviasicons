@@ -55,14 +55,29 @@ try {
   // истории ещё нет — иконки поедут без пометок о версиях
 }
 
+/*
+ * День последнего пополнения набора — по нему сайт считает, что помечать
+ * новым. Берётся из самой истории, а не из даты сборки: пересборка без новых
+ * иконок не должна гасить метки текущей партии.
+ *
+ * `0` — базовая отметка «было всегда», в максимум не попадает.
+ */
+const latestDay = Object.values(history)
+  .flatMap(({ added, changed }) => [added, changed])
+  .filter((d) => d && d !== '0')
+  .sort()
+  .at(-1)
+
 const payload = {
   version: JSON.parse(readFileSync(join(ROOT, 'packages/core/package.json'), 'utf8')).version,
+  // последняя дата пополнения: с ней сравниваются added/changed иконок
+  latestDay,
   icons: icons.map(({ name, viewBox, variants }) => ({
     name,
     viewBox,
     tags: tags[name] ?? [],
     category: categories[name],
-    // версия появления и версия последней правки разметки
+    // день появления и день последней правки разметки
     added: history[name]?.added,
     changed: history[name]?.changed,
     variants,

@@ -36,7 +36,7 @@
   },
   "airplane-taxiing": {
     "added": "0",
-    "changed": "0.2.0",
+    "changed": "0",
     "hash": "d87dd0f07152"
   },
   "airplane-tilt": {
@@ -141,7 +141,7 @@
   },
   "android-logo": {
     "added": "0",
-    "changed": "0.2.0",
+    "changed": "0",
     "hash": "d121677ea4a0"
   },
   "angle": {
@@ -166,7 +166,7 @@
   },
   "app-window": {
     "added": "0",
-    "changed": "0.2.0",
+    "changed": "0",
     "hash": "a5e55bcbae6a"
   },
   "apple-podcasts-logo": {
@@ -711,12 +711,12 @@
   },
   "atom": {
     "added": "0",
-    "changed": "0.2.0",
+    "changed": "0",
     "hash": "4ed997be5295"
   },
   "avocado": {
     "added": "0",
-    "changed": "0.2.0",
+    "changed": "0",
     "hash": "347d5d9c05cc"
   },
   "axe": {
@@ -726,202 +726,202 @@
   },
   "baby": {
     "added": "0",
-    "changed": "0.2.0",
+    "changed": "0",
     "hash": "abb85e0f16a3"
   },
   "baby-carriage": {
     "added": "0",
-    "changed": "0.2.0",
+    "changed": "0",
     "hash": "267d11eea3ca"
   },
   "backpack": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "19a1d1335d04"
   },
   "backspace": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "541a3833fd56"
   },
   "bag": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "bf9b56e60b25"
   },
   "bag-simple": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "7ca405fc3db3"
   },
   "balloon": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "6a6c44c134ad"
   },
   "bandaids": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "f96a08c1a36d"
   },
   "bank": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "94afdecd0ee0"
   },
   "barbell": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "dfa368f35f9d"
   },
   "barcode": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "eb0cced6387e"
   },
   "barn": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "08609559b804"
   },
   "barricade": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "d1a6eb6699ad"
   },
   "baseball": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "b86d6a11c86c"
   },
   "baseball-cap": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "14cbb5124e30"
   },
   "baseball-helmet": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "646242559b1a"
   },
   "basket": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "0c4b4ae03639"
   },
   "basketball": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "85621f2714d7"
   },
   "bathtub": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "a6052ceb1b89"
   },
   "battery-charging": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "c5b3869b1bcb"
   },
   "battery-charging-vertical": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "4fc2b6e7c6cc"
   },
   "battery-empty": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "a89e807268a5"
   },
   "battery-full": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "43b6a08713a7"
   },
   "battery-high": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "a9809d503b08"
   },
   "battery-low": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "ce2368f97a47"
   },
   "battery-medium": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "8bc580a67501"
   },
   "battery-plus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "99ea9a8458a8"
   },
   "battery-plus-vertical": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "d7312b526da4"
   },
   "battery-vertical-empty": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "729b32d3434d"
   },
   "battery-vertical-full": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "d4f33d1491fc"
   },
   "battery-vertical-high": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "e437bf439f02"
   },
   "battery-vertical-low": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "3bc53f99f084"
   },
   "battery-vertical-medium": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "b87dfd7cda22"
   },
   "battery-warning": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "2ad496f1aa1d"
   },
   "beach-ball": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "584f0c71720e"
   },
   "beanie": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "f6365cdae3b4"
   },
   "bed": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "f09ad9e1cf02"
   },
   "beer-bottle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "70ba6b7efc45"
   },
   "beer-stein": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "b98cfcbb32fe"
   },
   "behance-logo": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "241634717ba2"
   },
   "bell": {
@@ -965,8 +965,8 @@
     "hash": "a39cb32f4668"
   },
   "belt": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "d5f9ccc14e68"
   },
   "bezier-curve": {
@@ -975,123 +975,123 @@
     "hash": "15d51e83ab80"
   },
   "bicycle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "4b4a25368e95"
   },
   "binary": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "44a198cb5c5c"
   },
   "biohazard": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "461dfb64eff5"
   },
   "bird": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "37c7c10e19dd"
   },
   "blueprint": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "b4c1ce730a1b"
   },
   "bluetooth": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "3df1e6e7fd70"
   },
   "bluetooth-connected": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "7cfec77bbbf9"
   },
   "bluetooth-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "05bbd9f3b1d7"
   },
   "bluetooth-x": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "9d06f041997f"
   },
   "boat": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "eb3a6ae81ff7"
   },
   "bomb": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "9b517148e9f6"
   },
   "bone": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "e399ee30135c"
   },
   "book": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "f51996af1ed7"
   },
   "book-bookmark": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "d6791c944b23"
   },
   "book-open": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "54f2bdd4300d"
   },
   "book-open-text": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "17768846f52d"
   },
   "book-user": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "161e5cd6f07c"
   },
   "bookmark": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "dcc5d758720c"
   },
   "bookmark-simple": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "54bf86441b65"
   },
   "bookmarks": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "1fb23f716894"
   },
   "bookmarks-simple": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "e1cdb5cba278"
   },
   "books": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "77b2b9d152dd"
   },
   "boot": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "a84f2c613a84"
   },
   "boules": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "d1bbc64e7ee6"
   },
   "bounding-box": {
@@ -1100,163 +1100,163 @@
     "hash": "c6b9bfd72e92"
   },
   "bowl-food": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "cd3e52a93b27"
   },
   "bowl-steam": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "d8987e95ba8a"
   },
   "bowling-ball": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "3ca9342be657"
   },
   "box-arrow-down": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "f05c35eaa22b"
   },
   "box-arrow-up": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "3b62f4f62838"
   },
   "boxing-glove": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "a68e158f3cd9"
   },
   "brackets-angle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "475865659a4c"
   },
   "brackets-curly": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "c74b91d47560"
   },
   "brackets-round": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "4a7d8dc27fce"
   },
   "brackets-square": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "39af8469b387"
   },
   "brain": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "aa10bf536cc0"
   },
   "brandy": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "0b31938d28ee"
   },
   "bread": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "76a769f29c9a"
   },
   "bridge": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "336fb7f6bbac"
   },
   "briefcase": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "8a702eacca68"
   },
   "briefcase-metal": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "794f3c51a839"
   },
   "broadcast": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "fe29d4744491"
   },
   "broom": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "45fa877b0f64"
   },
   "browser": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "7cd429eb121c"
   },
   "browsers": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-06",
+    "changed": "2026-08-06",
     "hash": "b6755d987062"
   },
   "bug": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "ced7403c01fd"
   },
   "bug-beetle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "6c370a46b92d"
   },
   "bug-droid": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "29e296d2c2bc"
   },
   "building": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "ec6af807e610"
   },
   "building-apartment": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "b9d07e82f9b3"
   },
   "buildings": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "5651b5fcfcbc"
   },
   "bulldozer": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "9d3fa2de700d"
   },
   "bus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "f60321d87fee"
   },
   "butterfly": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "c13fa44efa2d"
   },
   "cable-car": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "7c9cdc453f79"
   },
   "cactus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "3cff36e1c302"
   },
   "cake": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "75b30596bcd7"
   },
   "calendar": {
@@ -1281,7 +1281,7 @@
   },
   "calendar-dots": {
     "added": "0",
-    "changed": "0.2.0",
+    "changed": "0",
     "hash": "03bccd836501"
   },
   "calendar-heart": {
@@ -1305,8 +1305,8 @@
     "hash": "c1f819b9502a"
   },
   "calendar-star": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "28f3ed1a522b"
   },
   "calendar-x": {
@@ -1315,63 +1315,63 @@
     "hash": "7118aca7ebb5"
   },
   "call-bell": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "fbfe8ff2a014"
   },
   "camera": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "011ca5dc8e58"
   },
   "camera-plus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "cb83de6d0d27"
   },
   "camera-rotate": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "364e8e420a7b"
   },
   "camera-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "208d23caa97d"
   },
   "campfire": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "97412e221242"
   },
   "car": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "0af8474eca89"
   },
   "car-profile": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "d1c6db60302f"
   },
   "car-simple": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "61349f66b789"
   },
   "cardholder": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "e42076dfa157"
   },
   "cards": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "87b411703562"
   },
   "cards-three": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "b9567f597a2c"
   },
   "caret-circle-double-down": {
@@ -1485,293 +1485,293 @@
     "hash": "850316856fd8"
   },
   "carrot": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "99b75e99973b"
   },
   "cash-register": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "cb01fb76dc78"
   },
   "cassette-tape": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "0ee17b2c66ea"
   },
   "castle-turret": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "91224f4a45da"
   },
   "cat": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "7cd704775eb5"
   },
   "cell-signal-full": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "a8fb869d0a24"
   },
   "cell-signal-high": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "dc176f4ba1e5"
   },
   "cell-signal-low": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "e57832296f3e"
   },
   "cell-signal-medium": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "2630465007d4"
   },
   "cell-signal-none": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "886446675117"
   },
   "cell-signal-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "29794cb71c43"
   },
   "cell-signal-x": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "4d77bcffcb8a"
   },
   "cell-tower": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "168f7bf99668"
   },
   "certificate": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "dae3b1963e52"
   },
   "chair": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "fc7621b6d0ba"
   },
   "chalkboard": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "4f6d65afe7b7"
   },
   "chalkboard-simple": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "15a5201bd6a8"
   },
   "chalkboard-teacher": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "fe38dcf3c97f"
   },
   "charging-station": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "dd35bbc7b1bc"
   },
   "chart-bar": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "de795495d555"
   },
   "chart-bar-horizontal": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "42ee559e650b"
   },
   "chart-donut": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "e2693235640c"
   },
   "chart-line": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "061a8ae0c72a"
   },
   "chart-line-down": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "cc8ad08648d9"
   },
   "chart-line-up": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "973d7e4beed3"
   },
   "chart-pie": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "14a04526ef45"
   },
   "chart-pie-slice": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "e71e9f75bb6d"
   },
   "chart-polar": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "6fe332d68429"
   },
   "chart-scatter": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "2fceb0607e17"
   },
   "chat": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "ee4976efa3e8"
   },
   "chat-centered": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "6721e8b7c663"
   },
   "chat-centered-dots": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "3351d757ad94"
   },
   "chat-centered-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "0b7823384a20"
   },
   "chat-centered-text": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "ea528928b509"
   },
   "chat-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "2a91c4f9a011"
   },
   "chat-circle-dots": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "a8a57d115d8a"
   },
   "chat-circle-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "37a7f2980aa3"
   },
   "chat-circle-text": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "7a5175282b79"
   },
   "chat-dots": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "04c813da5eed"
   },
   "chat-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "79acdfeb0170"
   },
   "chat-teardrop": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "f72c6e6dac7c"
   },
   "chat-teardrop-dots": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "2c60f681bd17"
   },
   "chat-teardrop-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "9aa924b96ae0"
   },
   "chat-teardrop-text": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "2bd6ec7f7d20"
   },
   "chat-text": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "a305c7abbde9"
   },
   "chats": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "0fef7d11cffc"
   },
   "chats-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "9d7ad2c856c6"
   },
   "chats-teardrop": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "3afdc3222e04"
   },
   "check": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "482538b86a0b"
   },
   "check-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "d8b50ec8d786"
   },
   "check-fat": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "293c6dcb7e18"
   },
   "check-square": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "95cd50176c12"
   },
   "check-square-offset": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "d95396faae3c"
   },
   "checkerboard": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "a00a9683bfb3"
   },
   "checks": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "9e10862350db"
   },
   "cheers": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "a43d175af2e7"
   },
   "cheese": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "a94202c44b21"
   },
   "chef-hat": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "c64b3c55a822"
   },
   "circle": {
@@ -1831,7 +1831,7 @@
   },
   "clock-countdown": {
     "added": "0",
-    "changed": "0.2.0",
+    "changed": "0",
     "hash": "95e9b4971f66"
   },
   "clock-counter-clockwise": {
@@ -1845,68 +1845,68 @@
     "hash": "96974e669c43"
   },
   "cloud": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "9ddf8bb2286a"
   },
   "cloud-arrow-down": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "b291c380163b"
   },
   "cloud-arrow-up": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "3b862bf7f02b"
   },
   "cloud-check": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "8fa51b641561"
   },
   "cloud-fog": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "b9c6a68bc8b5"
   },
   "cloud-lightning": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "0c5d8b17e140"
   },
   "cloud-moon": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "49f33598cfeb"
   },
   "cloud-rain": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "b950a9afab52"
   },
   "cloud-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "c3c6b4bae40d"
   },
   "cloud-snow": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "8da4b5997e0a"
   },
   "cloud-sun": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "9281b7bf21a5"
   },
   "cloud-warning": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "38a130612ef1"
   },
   "cloud-x": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "07e45bc16605"
   },
   "columns": {
@@ -1930,13 +1930,13 @@
     "hash": "ae1d624df3b8"
   },
   "copy": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "675f5e6d7d17"
   },
   "copy-simple": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "d1c5ea31d6b0"
   },
   "crop": {
@@ -1960,8 +1960,8 @@
     "hash": "ca7607c576f6"
   },
   "diamond": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "fc07e737a8fc"
   },
   "diamonds-four": {
@@ -1970,88 +1970,88 @@
     "hash": "b42344df2c2d"
   },
   "dice-five": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "5bf72ba28ed1"
   },
   "dice-four": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "e0b2b55689ce"
   },
   "dice-one": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "b99019db04d1"
   },
   "dice-six": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "0dc629731f78"
   },
   "dice-three": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "0e096986d2fb"
   },
   "dice-two": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "881275da0030"
   },
   "dot": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "8a88f60c20e5"
   },
   "dot-outline": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "5f579f602fb1"
   },
   "dots-nine": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "58706e6b3ba9"
   },
   "dots-six": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "ee6d6932cdd0"
   },
   "dots-six-vertical": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "714edaaaa617"
   },
   "dots-three": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "822d4051d035"
   },
   "dots-three-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "92ae7094230c"
   },
   "dots-three-circle-vertical": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "ee18d1b44fac"
   },
   "dots-three-outline": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "3d1339a9c8c2"
   },
   "dots-three-outline-vertical": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "37e70c0ac1d0"
   },
   "dots-three-vertical": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "9480ca4d4ff3"
   },
   "drop-half": {
@@ -2405,23 +2405,23 @@
     "hash": "feb518302c61"
   },
   "heart": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "3a2007085a21"
   },
   "heart-break": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "99799c14d3b1"
   },
   "heart-half": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "2eee370c1cec"
   },
   "heartbeat": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "57af2aa3f9ad"
   },
   "hexagon": {
@@ -2465,238 +2465,238 @@
     "hash": "21af459b7731"
   },
   "list": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "8aa759df39f7"
   },
   "list-bullets": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "5816fe7254bb"
   },
   "list-checks": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "f6c4cab196b2"
   },
   "list-dashes": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "c20cd2c9a351"
   },
   "list-heart": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "e98566b2b227"
   },
   "list-magnifying-glass": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "fc0808d1c81c"
   },
   "list-numbers": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "70bae6c1cd2d"
   },
   "list-plus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "e0a6f4ac400c"
   },
   "list-star": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "45399a6fac34"
   },
   "lock": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "b3c0876234f6"
   },
   "lock-key": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "7080b95f6f5d"
   },
   "lock-key-open": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "548174a34d9f"
   },
   "lock-laminated": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "c51ab4f2fc5a"
   },
   "lock-laminated-open": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "d7dfa553c3e5"
   },
   "lock-open": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "ae8bb9a1f5ae"
   },
   "lock-simple": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "d7abf2540efa"
   },
   "lock-simple-open": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "a47bae39e4bb"
   },
   "number-circle-eight": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "2e083d08cbd5"
   },
   "number-circle-five": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "fad7eb44a371"
   },
   "number-circle-four": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "8d33a74bac43"
   },
   "number-circle-nine": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "51a4c316b019"
   },
   "number-circle-one": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "4ec8f66a53a5"
   },
   "number-circle-seven": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "f89a813682dc"
   },
   "number-circle-six": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "a4f998bb29c7"
   },
   "number-circle-three": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "b28bc874ea94"
   },
   "number-circle-two": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "2be2d66ca7fa"
   },
   "number-circle-zero": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "efe12f022ba1"
   },
   "number-eight": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "8cf762704012"
   },
   "number-five": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "9b2245f667de"
   },
   "number-four": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "cc07157bc078"
   },
   "number-nine": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "c489b1166b9d"
   },
   "number-one": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "29f4953dc8e3"
   },
   "number-seven": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "896ae43625ea"
   },
   "number-six": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "9d0997d8f4a2"
   },
   "number-square-eight": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "9cd471f5affd"
   },
   "number-square-five": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "57086bdd6c8f"
   },
   "number-square-four": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "44ee0b27a016"
   },
   "number-square-nine": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "71e340efb661"
   },
   "number-square-one": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "34ca1b341b40"
   },
   "number-square-seven": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "eee8f62dd710"
   },
   "number-square-six": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "b208e1d48348"
   },
   "number-square-three": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "430804c2b62f"
   },
   "number-square-two": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "91028b448975"
   },
   "number-square-zero": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "b775e95dfabe"
   },
   "number-three": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "544165444c62"
   },
   "number-two": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "598cf2cb7427"
   },
   "number-zero": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "f0f824eb0580"
   },
   "octagon": {
@@ -2710,13 +2710,13 @@
     "hash": "a05bbade66df"
   },
   "pause": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "aedc4ebce98a"
   },
   "pause-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "7511b04b819d"
   },
   "pen": {
@@ -2755,53 +2755,53 @@
     "hash": "e8fb02452f49"
   },
   "phone": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "55ec578d6177"
   },
   "phone-call": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "0c80f23830e7"
   },
   "phone-disconnect": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "9dffa5f4b6f4"
   },
   "phone-incoming": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "c09ac78bebaf"
   },
   "phone-list": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "575e6f1862a3"
   },
   "phone-outgoing": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "eb7038256e39"
   },
   "phone-pause": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "f2c29eb868b0"
   },
   "phone-plus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "50407c2812ff"
   },
   "phone-transfer": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "7aa978d6bb74"
   },
   "phone-x": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "f7036fa0d0f3"
   },
   "placeholder": {
@@ -2810,23 +2810,23 @@
     "hash": "8ee49e369fd7"
   },
   "play": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "fdf206e81afe"
   },
   "play-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "b58382d5983b"
   },
   "play-pause": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "9a2177eac325"
   },
   "playlist": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "35ee8f34f7e1"
   },
   "rectangle": {
@@ -2850,8 +2850,8 @@
     "hash": "741ea2e9063d"
   },
   "rewind-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "2d64ac29ef86"
   },
   "rows": {
@@ -2905,43 +2905,43 @@
     "hash": "a9dca8b29fce"
   },
   "shield": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "26ed3f3e01d5"
   },
   "shield-check": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "ffc7e9795ca5"
   },
   "shield-checkered": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "c0a5c2c29b78"
   },
   "shield-chevron": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "17c3baf55a6c"
   },
   "shield-plus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "ddb5f3b10033"
   },
   "shield-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "a5ab70b583ba"
   },
   "shield-star": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "544119c3db27"
   },
   "shield-warning": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "d2db1a92fd38"
   },
   "sidebar": {
@@ -2955,123 +2955,123 @@
     "hash": "116528f99009"
   },
   "skip-back": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "65873e3f740b"
   },
   "skip-back-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "7af9a6bcf6b0"
   },
   "skip-forward": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "56320a2b8238"
   },
   "skip-forward-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "bfcc997031e2"
   },
   "smiley": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "01f1b14565f5"
   },
   "smiley-angry": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "b7866793382f"
   },
   "smiley-blank": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "781a97c09181"
   },
   "smiley-meh": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "c900f6c247d1"
   },
   "smiley-melting": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "f48c501cb9d1"
   },
   "smiley-nervous": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "f997ddb84196"
   },
   "smiley-sad": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "2d57adabe41e"
   },
   "smiley-sticker": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "e0991c450a20"
   },
   "smiley-wink": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "4db48f036c2c"
   },
   "smiley-x-eyes": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "c38ff9e1130a"
   },
   "speaker-high": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "34285f84fc5f"
   },
   "speaker-low": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "72c355b01388"
   },
   "speaker-none": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "c51cf305a348"
   },
   "speaker-simple-high": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "788803dd9d93"
   },
   "speaker-simple-low": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "1e2f9bc817a8"
   },
   "speaker-simple-none": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "22ccadd6dc73"
   },
   "speaker-simple-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "ea7c6e5c01b9"
   },
   "speaker-simple-x": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "6abcc13b250c"
   },
   "speaker-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "8518e1224476"
   },
   "speaker-x": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-07",
+    "changed": "2026-08-07",
     "hash": "4c6f0ae014c7"
   },
   "square": {
@@ -3135,123 +3135,123 @@
     "hash": "b0d2c655b731"
   },
   "text-a-underline": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "4310226689e3"
   },
   "text-aa": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "7c6271661128"
   },
   "text-align-center": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "d61c3dd658f8"
   },
   "text-align-justify": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "0cf895cd9e24"
   },
   "text-align-left": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "33f96b960907"
   },
   "text-align-right": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "426514d646c4"
   },
   "text-b": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "533fd3488117"
   },
   "text-columns": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "46a145a1f72a"
   },
   "text-h": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "a1fd26f38909"
   },
   "text-h-five": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "c21d637da5a6"
   },
   "text-h-four": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "de4a1f32cfa6"
   },
   "text-h-one": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "423de11a46f9"
   },
   "text-h-six": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "700b711b0ad9"
   },
   "text-h-three": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "9a941a6528ea"
   },
   "text-h-two": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "6b90ea10149b"
   },
   "text-indent": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "879a1370e413"
   },
   "text-italic": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "5192a062a9b4"
   },
   "text-outdent": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "1aa71b623e56"
   },
   "text-strikethrough": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "1e58e21f69c8"
   },
   "text-subscript": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "8fbbe914be90"
   },
   "text-superscript": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "4d4e3fdc4b05"
   },
   "text-t": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "320590b60c20"
   },
   "text-t-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "47486143d9cb"
   },
   "text-underline": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-08",
+    "changed": "2026-08-08",
     "hash": "4e7add16a545"
   },
   "timer": {
@@ -3280,103 +3280,103 @@
     "hash": "db0d5e28ea16"
   },
   "user": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "99b1dfddc71a"
   },
   "user-check": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "49380e84664c"
   },
   "user-circle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "0ef9749ada3b"
   },
   "user-circle-check": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "4c8df36e6e52"
   },
   "user-circle-dashed": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "af3f53419746"
   },
   "user-circle-gear": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "fabeadc2797b"
   },
   "user-circle-minus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "1b8eb62f9098"
   },
   "user-circle-plus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "4b8af0626c34"
   },
   "user-focus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "4894fc22134d"
   },
   "user-gear": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "dee956cdc14c"
   },
   "user-list": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "a5dfd97e3277"
   },
   "user-minus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "ba984cca60e2"
   },
   "user-plus": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "26a2bf8f022c"
   },
   "user-rectangle": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "c34436b5bab7"
   },
   "user-sound": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "50b102b57bb1"
   },
   "user-square": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "b8c25505edc2"
   },
   "user-switch": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "6b56b5293a7c"
   },
   "users": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "d1250e9a27ab"
   },
   "users-four": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "766fb13208b4"
   },
   "users-three": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "8e0791e45d5b"
   },
   "vector-three": {
@@ -3400,33 +3400,33 @@
     "hash": "15e2896728fa"
   },
   "wifi-high": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "0908985b752a"
   },
   "wifi-low": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "af90149226f9"
   },
   "wifi-medium": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "bbd3b9c165a4"
   },
   "wifi-none": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "236f889a648b"
   },
   "wifi-slash": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "0918b40ec8fa"
   },
   "wifi-x": {
-    "added": "0.2.0",
-    "changed": "0.2.0",
+    "added": "2026-08-09",
+    "changed": "2026-08-09",
     "hash": "b8d3b4ba6f32"
   }
 }
