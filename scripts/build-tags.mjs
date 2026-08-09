@@ -1,25 +1,25 @@
 /**
- * Генерирует `packages/core/tags.json` — теги для поиска по каталогу.
+ * Generates `packages/core/tags.json` — search tags for the catalog.
  *
- * Теги строятся из имени иконки, а не пишутся руками на каждую из 382 штук:
- * список иконок растёт, и ручной файл разошёлся бы с папкой на первой же
- * партии. Правила ниже покрывают три случая:
+ * Tags are built from the icon name instead of being written by hand for each
+ * of the 382: the icon list keeps growing, and a manual file would drift from
+ * the folder on the very first batch. The rules below cover three cases:
  *
- *   1. части составного имени      (`arrow-circle-down` → arrow, circle, down)
- *   2. синонимы к частям           (`trash` → delete, remove, bin)
- *   3. тема по ключевому слову     (`file-js` → code, development)
+ *   1. parts of a compound name   (`arrow-circle-down` → arrow, circle, down)
+ *   2. synonyms for the parts     (`trash` → delete, remove, bin)
+ *   3. a theme by keyword        (`file-js` → code, development)
  *
- * Только английский: каталог англоязычный, и смешанные языки в одном индексе
- * ухудшают ранжирование Fuse — запрос латиницей начинает цеплять кириллицу.
+ * English only: the catalog is English, and mixed languages in one index hurt
+ * Fuse ranking — a latin query starts catching cyrillic entries.
  *
- * Запуск: `npm run tags:build` (входит в `npm run build`).
+ * Run: `npm run tags:build` (part of `npm run build`).
  */
 import { writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 import { collectIcons, ROOT } from './svg-source.mjs'
 
-/** Синонимы к отдельным словам имени. Ключ — слово, значение — что добавить. */
+/** Synonyms for single words of a name. Key is the word, value is what to add. */
 const SYNONYMS = {
   airplane: ['plane', 'flight', 'travel', 'aviation'],
   alarm: ['clock', 'time', 'wake', 'reminder'],
@@ -202,7 +202,7 @@ const SYNONYMS = {
   z: ['sleep', 'snooze', 'mute'],
 }
 
-/** Тема по ключевому слову: одно попадание — весь набор тегов у иконки. */
+/** Theme by keyword: one hit gives the icon the whole tag set. */
 const THEMES = [
   { when: ['file', 'folder', 'files', 'folders'], tags: ['document', 'storage'] },
   { when: ['arrow', 'arrows', 'caret'], tags: ['direction', 'navigation'] },
@@ -218,8 +218,8 @@ const THEMES = [
 ]
 
 /**
- * Расширения в именах вроде `file-js`: сами по себе они ничего не говорят
- * поиску, поэтому раскрываются в язык и общую тему разработки.
+ * Extensions in names like `file-js`: on their own they tell the search
+ * nothing, so they expand into the language and the general development theme.
  */
 const EXTENSIONS = {
   js: ['javascript', 'code', 'development'],
@@ -247,7 +247,7 @@ const EXTENSIONS = {
   zip: ['archive', 'compressed'],
 }
 
-/** Цифры словами — чтобы `number-3` находил `number-three`. */
+/** Digits spelled out — so that `number-3` finds `number-three`. */
 const DIGITS = {
   zero: '0', one: '1', two: '2', three: '3', four: '4',
   five: '5', six: '6', seven: '7', eight: '8', nine: '9',
@@ -260,11 +260,11 @@ function tagsFor(name) {
   const tags = new Set()
 
   for (const part of parts) {
-    // само слово тегом не делаем: оно уже есть в name, по которому Fuse ищет
-    // с большим весом — дубль только размывал бы ранжирование
+    // the word itself is not added as a tag: it is already in `name`, which Fuse
+    // searches with a higher weight — a duplicate would only blur the ranking
     for (const syn of SYNONYMS[part] ?? []) tags.add(syn)
     if (DIGITS[part]) tags.add(DIGITS[part])
-    // расширение раскрываем только у файловых иконок: `file-c`, но не `arrow-in`
+    // expand the extension only for file icons: `file-c`, but not `arrow-in`
     if (parts[0] === 'file' && EXTENSIONS[part]) {
       for (const t of EXTENSIONS[part]) tags.add(t)
     }
@@ -275,10 +275,10 @@ function tagsFor(name) {
   }
 
   /*
-   * Заголовки: `text-h-one` ищут как «h1», а не «text h one» — в вёрстке
-   * они так и называются. Правило отдельное, потому что склеивает две части
-   * имени в одно слово, чего не делает ни один из общих проходов выше:
-   * DIGITS даёт «1», но «h» и «1» так и остаются порознь.
+   * Headings: `text-h-one` is searched as "h1", not "text h one" — that is how
+   * they are called in markup. A separate rule, because it glues two parts of
+   * the name into one word, which none of the general passes above does:
+   * DIGITS yields "1", but "h" and "1" still stay apart.
    */
   if (parts[0] === 'text' && parts[1] === 'h') {
     tags.add('heading').add('header').add('title')
@@ -290,7 +290,7 @@ function tagsFor(name) {
     }
   }
 
-  // многословное имя целиком: `address-book` найдётся по `address book`
+  // the whole multi-word name: `address-book` is found by `address book`
   if (parts.length > 1) tags.add(parts.join(' '))
 
   return [...tags].filter((t) => /^[a-z0-9 ]+$/.test(t)).sort(collator.compare)
@@ -308,6 +308,6 @@ writeFileSync(join(ROOT, 'packages/core/tags.json'), JSON.stringify(out, null, 2
 const total = Object.values(out).reduce((n, t) => n + t.length, 0)
 const without = icons.length - Object.keys(out).length
 console.log(
-  `Теги: ${total} на ${Object.keys(out).length} иконок` +
-    (without ? ` (без тегов: ${without})` : ''),
+  `Tags: ${total} across ${Object.keys(out).length} icons` +
+    (without ? ` (without tags: ${without})` : ''),
 )

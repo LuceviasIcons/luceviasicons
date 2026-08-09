@@ -1,23 +1,23 @@
-# Папка для ваших иконок
+# Folder for your icons
 
-Кладите сюда `.svg` — они появятся в каталоге автоматически, править код не нужно.
+Drop `.svg` files here — they show up in the catalog automatically, no code changes needed.
 
-## Требования к файлу
+## File requirements
 
-- `viewBox="0 0 256 256"` (единая сетка, как у Phosphor)
-- Обводка/заливка любого цвета — при загрузке они заменяются на `currentColor`,
-  чтобы работал выбор цвета в интерфейсе
+- `viewBox="0 0 256 256"` (a single grid, like Phosphor)
+- Stroke/fill of any color — on load they are replaced with `currentColor`,
+  so that color selection in the interface works
 
-## Имя файла = имя иконки + вес
+## File name = icon name + weight
 
 ```
-bell.svg           → иконка «Bell», вес regular
-bell-bold.svg      → та же иконка, вес bold
-bell.duotone.svg   → та же иконка, вес duotone
-bold/bell.svg      → вес можно задать и папкой
+bell.svg           → the "Bell" icon, regular weight
+bell-bold.svg      → the same icon, bold weight
+bell.duotone.svg   → the same icon, duotone weight
+bold/bell.svg      → the weight can also be set by a folder
 ```
 
-Веса: `thin`, `light`, `regular`, `bold`, `fill`, `duotone`.
-Вес без своего файла откатывается на `regular`.
+Weights: `thin`, `light`, `regular`, `bold`, `fill`, `duotone`.
+A weight without its own file falls back to `regular`.
 
-Пока папка пуста, каталог показывает плейсхолдеры-квадраты из `../data.ts`.
+While the folder is empty, the catalog shows placeholder squares from `../data.ts`.

@@ -1,11 +1,11 @@
 /**
- * Собирает npm-пакет `lucevias`: React-компонент на каждую иконку плюс index
- * с реэкспортами.
+ * Builds the `lucevias` npm package: a React component per icon plus an index
+ * with re-exports.
  *
- * Источник — `packages/core/svg` через общий разбор в `svg-source.mjs`: пакет
- * и метаданные `@lucevias/core` растут из одних и тех же файлов.
+ * The source is `packages/core/svg` through the shared parsing in
+ * `svg-source.mjs`: the package and the `@lucevias/core` metadata grow from the same files.
  *
- * Запуск: `npm run pkg:generate`.
+ * Run: `npm run pkg:generate`.
  */
 import { mkdirSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
@@ -14,7 +14,7 @@ import { collectIcons, componentName, ROOT, WEIGHTS } from './svg-source.mjs'
 
 const SRC = join(ROOT, 'packages/icons/src')
 
-/** kebab-атрибуты → camelCase для JSX. */
+/** kebab attributes → camelCase for JSX. */
 const toJsxAttrs = (markup) =>
   markup
     .replace(/([a-z])-([a-z])/g, (m, a, b) =>
@@ -32,7 +32,7 @@ const icons = collectIcons()
 rmSync(SRC, { recursive: true, force: true })
 mkdirSync(join(SRC, 'icons'), { recursive: true })
 
-// --- базовый компонент --------------------------------------------------
+// --- base component -----------------------------------------------------
 
 writeFileSync(
   join(SRC, 'Icon.tsx'),
@@ -41,11 +41,11 @@ writeFileSync(
 export type Weight = ${WEIGHTS.map((w) => `'${w}'`).join(' | ')}
 
 export type IconProps = Omit<SVGProps<SVGSVGElement>, 'color'> & {
-  /** Размер стороны в пикселях. */
+  /** Side size in pixels. */
   size?: number | string
-  /** Цвет обводки/заливки. По умолчанию наследуется от родителя. */
+  /** Stroke/fill color. Inherited from the parent by default. */
   color?: string
-  /** Начертание. Отсутствующий вес откатывается на regular. */
+  /** Weight. A missing one falls back to regular. */
   weight?: Weight
 }
 
@@ -54,7 +54,7 @@ type BaseProps = IconProps & {
   variants: Partial<Record<Weight, React.ReactNode>> & { regular: React.ReactNode }
 }
 
-/** Общая обёртка: все иконки пакета рендерятся через неё. */
+/** Shared wrapper: every icon in the package renders through it. */
 export const IconBase = /* #__PURE__ */ forwardRef<SVGSVGElement, BaseProps>(function IconBase(
   { size = 24, color = 'currentColor', weight = 'regular', viewBox, variants, ...props },
   ref,
@@ -77,7 +77,7 @@ export const IconBase = /* #__PURE__ */ forwardRef<SVGSVGElement, BaseProps>(fun
 `,
 )
 
-// --- по компоненту на иконку -------------------------------------------
+// --- one component per icon ---------------------------------------------
 
 for (const { name, variants, viewBox } of icons) {
   const component = componentName(name)
@@ -100,8 +100,8 @@ ${entries}
 /**
  * ${name}
  *
- * \`#__PURE__\` обязателен: без него бандлер считает вызов forwardRef побочным
- * эффектом и тащит в сборку все иконки пакета вместо одной импортированной.
+ * \`#__PURE__\` is mandatory: without it the bundler treats the forwardRef call
+ * as a side effect and pulls every icon into the build instead of the imported one.
  */
 export const ${component} = /* #__PURE__ */ forwardRef<SVGSVGElement, IconProps>(
   function ${component}(props, ref) {
@@ -125,4 +125,4 @@ ${names.map((n) => `export { ${componentName(n)} } from './icons/${componentName
 `,
 )
 
-console.log(`Сгенерировано ${names.length} компонентов в packages/icons/src`)
+console.log(`Generated ${names.length} components in packages/icons/src`)

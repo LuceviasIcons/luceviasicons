@@ -1,12 +1,12 @@
 /**
- * Собирает метаданные пакета `@lucevias/core`: `assets/icons.json`.
+ * Builds the metadata of the `@lucevias/core` package: `assets/icons.json`.
  *
- * Сами SVG публикуются как есть — они и есть источник истины. JSON нужен
- * потребителям (в первую очередь сайту-каталогу), чтобы получить список иконок
- * с готовой разметкой одним импортом, не обходя папку и не повторяя правила
- * разбора имён файлов.
+ * The SVGs themselves are published as-is — they are the source of truth. The
+ * JSON is for consumers (the catalog site first of all), so they can get the
+ * icon list with ready markup in a single import, without walking the folder
+ * or repeating the file-name parsing rules.
  *
- * Запуск: `npm run core:build`.
+ * Run: `npm run core:build`.
  */
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
@@ -18,49 +18,49 @@ const OUT = join(ROOT, 'packages/core/assets')
 const icons = collectIcons()
 
 /**
- * Теги для поиска: необязательный `packages/core/tags.json` вида
- * { "имя-иконки": ["tag", "синоним"] }. Нет файла — иконки просто без тегов.
+ * Search tags: the optional `packages/core/tags.json` shaped as
+ * { "icon-name": ["tag", "synonym"] }. No file — icons simply carry no tags.
  */
 let tags = {}
 try {
   tags = JSON.parse(readFileSync(join(ROOT, 'packages/core/tags.json'), 'utf8'))
 } catch {
-  // файла нет — это норма
+  // no file — that is fine
 }
 
 /**
- * Категории для фильтра в каталоге: необязательный
- * `packages/core/categories.json` вида { "имя-иконки": "Arrows" }.
+ * Categories for the catalog filter: the optional
+ * `packages/core/categories.json` shaped as { "icon-name": "Arrows" }.
  *
- * Отдельный файл, а не первый тег: теги — поисковые синонимы, и категория
- * среди них сделала бы запрос «arrow» неотличимым от фильтра «Arrows».
- * Категория у иконки одна — тогда сумма по фильтрам сходится с общим числом.
+ * A separate file rather than the first tag: tags are search synonyms, and a
+ * category among them would make the query "arrow" indistinguishable from the
+ * "Arrows" filter. One category per icon — then the filter counts add up to the total.
  */
 let categories = {}
 try {
   categories = JSON.parse(readFileSync(join(ROOT, 'packages/core/categories.json'), 'utf8'))
 } catch {
-  // файла нет — иконки поедут без категорий, фильтр просто не покажется
+  // no file — icons ship without categories, the filter just will not show up
 }
 
 /**
- * История версий из `packages/core/history.json` (её ведёт build-history.mjs).
- * По ней сайт показывает «новая» и «обновлена»: статус живёт в релизе, а не
- * в localStorage посетителя, поэтому одинаков для всех.
+ * Version history from `packages/core/history.json` (kept by build-history.mjs).
+ * The site shows "new" and "updated" from it: the status belongs to the set,
+ * not to the visitor localStorage, so it is the same for everyone.
  */
 let history = {}
 try {
   history = JSON.parse(readFileSync(join(ROOT, 'packages/core/history.json'), 'utf8'))
 } catch {
-  // истории ещё нет — иконки поедут без пометок о версиях
+  // no history yet — icons ship without version marks
 }
 
 /*
- * День последнего пополнения набора — по нему сайт считает, что помечать
- * новым. Берётся из самой истории, а не из даты сборки: пересборка без новых
- * иконок не должна гасить метки текущей партии.
+ * The day the set was last extended — the site decides what to mark as new by
+ * it. Taken from the history itself, not from the build date: a rebuild with
+ * no new icons must not put out the marks of the current batch.
  *
- * `0` — базовая отметка «было всегда», в максимум не попадает.
+ * `0` is the baseline "has always been here" stamp and never wins the max.
  */
 const latestDay = Object.values(history)
   .flatMap(({ added, changed }) => [added, changed])
@@ -70,14 +70,14 @@ const latestDay = Object.values(history)
 
 const payload = {
   version: JSON.parse(readFileSync(join(ROOT, 'packages/core/package.json'), 'utf8')).version,
-  // последняя дата пополнения: с ней сравниваются added/changed иконок
+  // last extension date: added/changed of the icons are compared against it
   latestDay,
   icons: icons.map(({ name, viewBox, variants }) => ({
     name,
     viewBox,
     tags: tags[name] ?? [],
     category: categories[name],
-    // день появления и день последней правки разметки
+    // day of appearance and day of the last markup edit
     added: history[name]?.added,
     changed: history[name]?.changed,
     variants,
@@ -87,13 +87,13 @@ const payload = {
 mkdirSync(OUT, { recursive: true })
 writeFileSync(join(OUT, 'icons.json'), JSON.stringify(payload))
 
-console.log(`@lucevias/core: ${icons.length} иконок → packages/core/assets/icons.json`)
+console.log(`@lucevias/core: ${icons.length} icons → packages/core/assets/icons.json`)
 
-// без категории иконка выпадает из фильтра каталога — молча это делать нельзя
+// without a category an icon drops out of the catalog filter — never do that silently
 const uncategorized = icons.filter(({ name }) => !categories[name]).map(({ name }) => name)
 if (uncategorized.length > 0) {
   console.warn(
-    `без категории (${uncategorized.length}), допишите packages/core/categories.json: ` +
+    `no category (${uncategorized.length}), add them to packages/core/categories.json: ` +
       uncategorized.join(', '),
   )
 }

@@ -1,11 +1,11 @@
 name: Publish packages
 
-# Публикация по тегу: git tag v0.2.0 && git push --tags
-# Версия берётся из тега, чтобы package.json и npm не разъезжались.
+# Publish on tag: git tag v0.2.0 && git push --tags
+# The version comes from the tag so that package.json and npm never drift apart.
 #
-# Публикуются оба пакета одной версией:
-#   @lucevias/core — сырые SVG и метаданные (его ставит сайт-каталог)
-#   lucevias       — React-компоненты (его ставят пользователи)
+# Both packages are published under one version:
+#   @lucevias/core — raw SVG and metadata (installed by the catalog site)
+#   lucevias       — React components (installed by users)
 on:
   push:
     tags: ['v*']
@@ -15,13 +15,13 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     permissions:
-      # write нужен, чтобы вернуть в репозиторий history.json — см. шаг в конце
+      # write is needed to push history.json back to the repo — see the final step
       contents: write
-      id-token: write # provenance: npm подтверждает, что пакет собран в этом репо
+      id-token: write # provenance: npm confirms the package was built in this repo
     steps:
       - uses: actions/checkout@v4
         with:
-          # тег указывает на коммит, а история дописывается в ветку
+          # the tag points at a commit, while the history is appended to the branch
           ref: main
 
       - uses: actions/setup-node@v4
@@ -32,44 +32,44 @@ jobs:
 
       - run: npm ci
 
-      - name: Синхронизировать версию с тегом
+      - name: Sync version with the tag
         run: |
           VERSION="${GITHUB_REF_NAME#v}"
           for pkg in packages/core packages/icons; do
             (cd "$pkg" && npm version "$VERSION" --no-git-tag-version --allow-same-version)
           done
 
-      # core собирается первым: метаданные считаются из тех же SVG,
-      # что и React-компоненты, и версия внутри icons.json берётся из package.json
-      - name: Собрать @lucevias/core
+      # core is built first: the metadata is computed from the same SVGs as the
+      # React components, and the version inside icons.json comes from package.json
+      - name: Build @lucevias/core
         run: npm run core:build
 
-      - name: Опубликовать @lucevias/core
+      - name: Publish @lucevias/core
         working-directory: packages/core
         run: npm publish --provenance --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: Собрать lucevias
+      - name: Build lucevias
         run: npm run pkg:build
 
-      - name: Опубликовать lucevias
+      - name: Publish lucevias
         working-directory: packages/icons
         run: npm publish --provenance --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      # history.json обновляется при сборке: новые иконки получают версию
-      # этого релиза. Без возврата в репозиторий запись пропала бы вместе с
-      # раннером, и следующий релиз пометил бы те же иконки новыми повторно.
-      - name: Вернуть историю версий в репозиторий
+      # history.json is updated during the build: new icons get the date of this
+      # release. Without pushing it back, the record would vanish with the runner,
+      # and the next release would mark the same icons as new all over again.
+      - name: Push the version history back to the repository
         run: |
           if git diff --quiet packages/core/history.json; then
-            echo "История не изменилась"
+            echo "History unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add packages/core/history.json
-          git commit -m "История версий: ${GITHUB_REF_NAME}"
+          git commit -m "Version history: ${GITHUB_REF_NAME}"
           git push origin main

@@ -1,24 +1,24 @@
 /**
- * Ведёт `packages/core/history.json` — в какой день иконка появилась и когда
- * её разметку правили последний раз.
+ * Maintains `packages/core/history.json` — on which day an icon appeared and
+ * when its markup was last edited.
  *
- * Зачем: статусы «новая» и «обновлена» на сайте раньше считались от снимка в
- * localStorage у каждого посетителя. Метки получались личными и требовали
- * кнопки «отметить просмотренным». Привязка к дате делает статус свойством
- * набора: он одинаков у всех и гаснет сам.
+ * Why: the "new" and "updated" statuses on the site used to be computed from
+ * a snapshot in every visitor's localStorage. The marks came out personal and
+ * required a "mark as seen" button. Binding them to a date makes the status a
+ * property of the set: the same for everyone, and it fades on its own.
  *
- * Почему дата, а не версия пакета. Версия поднимается только на релизе, а
- * иконки заливаются партиями по несколько раз в неделю. Пока версия стояла
- * на месте, метки не гасли, а копились: к четвёртой партии «новыми» висели
- * 349 иконок из 686 — то есть половина каталога, что не значит ничего.
- * Дата же меняется сама собой, и партия предыдущего дня гаснет без релиза,
- * тега и ручных действий.
+ * Why a date and not the package version. The version is bumped only on a
+ * release, while icons land in batches several times a week. While the version
+ * stayed put, the marks did not fade but piled up: by the fourth batch 349
+ * icons out of 686 were "new" — half the catalog, which means nothing.
+ * A date changes by itself, so the previous day batch fades without a release,
+ * a tag or any manual action.
  *
- * Файл дописывается, а не пересобирается: день появления — исторический
- * факт, из текущей папки его не вычислить. Поэтому history.json лежит
- * в гите рядом с иконками.
+ * The file is appended to, not rebuilt: the day of appearance is a historical
+ * fact and cannot be derived from the current folder. That is why history.json
+ * lives in git next to the icons.
  *
- * Запуск: входит в `npm run core:build`, отдельно — `npm run history:build`.
+ * Run: part of `npm run core:build`, standalone — `npm run history:build`.
  */
 import { createHash } from 'node:crypto'
 import { readFileSync, writeFileSync } from 'node:fs'
@@ -28,7 +28,7 @@ import { collectIcons, ROOT } from './svg-source.mjs'
 
 const HISTORY = join(ROOT, 'packages/core/history.json')
 
-/** Отпечаток разметки: по нему видно, что иконку перерисовали. */
+/** Markup fingerprint: it shows that an icon has been redrawn. */
 function fingerprint(variants) {
   const body = Object.keys(variants)
     .sort()
@@ -37,7 +37,7 @@ function fingerprint(variants) {
   return createHash('sha1').update(body).digest('hex').slice(0, 12)
 }
 
-/** Сегодняшний день в UTC, `YYYY-MM-DD`: этим помечается новая партия. */
+/** Today in UTC, `YYYY-MM-DD`: this is what a new batch gets stamped with. */
 const today = new Date().toISOString().slice(0, 10)
 
 let history = {}
@@ -49,10 +49,10 @@ try {
 }
 
 /*
- * На первом запуске истории нет, и всё, что лежит в папке, накопилось
- * раньше. Записываем такой набор особой датой `0`: это значит «было
- * всегда». Проставь мы сегодняшний день — весь каталог загорелся бы
- * зелёным, хотя ничего не добавляли.
+ * On the first run there is no history, and everything in the folder has
+ * accumulated earlier. Such a set is recorded with the special date `0`,
+ * meaning "has always been here". Had we stamped today, the whole catalog
+ * would light up green even though nothing was added.
  */
 const BASELINE = '0'
 
@@ -66,7 +66,7 @@ for (const { name, variants } of icons) {
 
   if (!known) {
     const day = firstRun ? BASELINE : today
-    // added — день появления, changed — день последней правки разметки
+    // added — day of appearance, changed — day of the last markup edit
     history[name] = { added: day, changed: day, hash }
     if (!firstRun) added++
   } else if (known.hash !== hash) {
@@ -77,14 +77,14 @@ for (const { name, variants } of icons) {
 }
 
 /*
- * Удалённые иконки из истории не вычищаются. Имя может вернуться, и тогда
- * важно знать, что оно уже было: иначе иконка второй раз загорится новой.
+ * Deleted icons are not purged from the history. A name may come back, and
+ * then it matters that it has been here before: otherwise it lights up as new again.
  */
 
-// ключи сортируются: иначе диффы файла шумят перестановками
+// keys are sorted: otherwise file diffs get noisy with reorderings
 const sorted = Object.fromEntries(Object.keys(history).sort().map((k) => [k, history[k]]))
 writeFileSync(HISTORY, `${JSON.stringify(sorted, null, 2)}\n`)
 
 console.log(
-  `История ${today}: +${added} новых, ~${changed} изменённых, всего ${Object.keys(sorted).length}`,
+  `History ${today}: +${added} new, ~${changed} changed, ${Object.keys(sorted).length} total`,
 )

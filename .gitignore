@@ -12,19 +12,19 @@ dist
 dist-ssr
 *.local
 
-# SSH-ключи деплоя лежат в рабочей папке — в гит они попасть не должны
+# Deploy SSH keys live in the working folder — they must never reach git
 WSCode
 WSCode.pub
 *.pem
 id_rsa*
 
-# Источник истины — SVG в packages/core/svg, производные не коммитим.
+# The source of truth is the SVG in packages/core/svg, derivatives are not committed.
 packages/icons/src
 
-# Исключение — packages/core/assets/icons.json: сайт ставит @lucevias/core
-# прямо из этого репозитория, а npm при установке из git берёт только то,
-# что реально закоммичено, и генераторы не запускает. Файл собирается
-# скриптом build-core.mjs — руками не править.
+# The exception is packages/core/assets/icons.json: the site installs @lucevias/core
+# straight from this repository, and npm, when installing from git, takes only what
+# is actually committed and does not run generators. The file is built by
+# build-core.mjs — do not edit by hand.
 
 # Editor directories and files
 .vscode/*

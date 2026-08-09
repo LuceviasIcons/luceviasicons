@@ -1,49 +1,50 @@
-# LUCEVIAS — иконки
+# LUCEVIAS — icons
 
-Репозиторий иконок и npm-пакетов, которые из них собираются. Сайт-каталог живёт
-отдельно: [LuceviasIcons/luceviasicons.com](https://github.com/LuceviasIcons/luceviasicons.com).
-Сюда он не входит и подключается через npm.
+The repository of icons and of the npm packages built from them. The catalog
+site lives separately:
+[LuceviasIcons/luceviasicons.com](https://github.com/LuceviasIcons/luceviasicons.com).
+It is not part of this repo and is wired in through npm.
 
-**Иконки живут в `packages/core/svg/`** — единственный источник истины. Класть
-новые SVG только туда.
+**Icons live in `packages/core/svg/`** — the single source of truth. Put new
+SVGs only there.
 
-## Два пакета
+## Two packages
 
-| Пакет | Что внутри | Кто ставит |
+| Package | Contents | Who installs it |
 | --- | --- | --- |
-| `@lucevias/core` (`packages/core`) | сырые SVG + сгенерированный `assets/icons.json` | сайт-каталог, сторонние интеграции |
-| `lucevias` (`packages/icons`) | React-компоненты | разработчики приложений |
+| `@lucevias/core` (`packages/core`) | raw SVGs + generated `assets/icons.json` | the catalog site, third-party integrations |
+| `lucevias` (`packages/icons`) | React components | application developers |
 
-Публикуются вместе, одной версией из тега. Сайту нужна именно сырая разметка
-(копирование, экспорт PNG, хеши для отметки «новое»), из React-компонентов её
-не достать — поэтому пакета два, а не один.
+They are published together, under one version from a tag. The site needs the
+raw markup itself (copying, PNG export, hashes for the "new" mark), and that
+cannot be recovered from React components — hence two packages, not one.
 
-## Запуск
+## Commands
 
 ```bash
 npm run core:build       # packages/core/assets/icons.json
-npm run pkg:build        # React-компоненты + сборка пакета
-npm run build            # и то, и другое
-npm run icons:optimize   # SVGO по packages/core/svg (правит файлы на месте)
+npm run pkg:build        # React components + package build
+npm run build            # both
+npm run icons:optimize   # SVGO over packages/core/svg (edits files in place)
 ```
 
-## Архитектура
+## Architecture
 
-- `scripts/svg-source.mjs` — **вся** логика разбора папки: имена, веса, viewBox,
-  покраска в currentColor, обход вложенных папок. Оба генератора импортируют
-  отсюда. Раньше эти правила были продублированы и расходились — не заводить
-  третью копию.
-- `scripts/build-core.mjs` — собирает `icons.json` для `@lucevias/core`.
-  Теги подхватываются из необязательного `packages/core/tags.json`, категория —
-  из `packages/core/categories.json`.
-- `scripts/build-package.mjs` — генерирует React-компоненты в `packages/icons/src`
-  (в гит не коммитятся, см. .gitignore). Каждый компонент помечен `/* #__PURE__ */` —
-  без этого tree-shaking ломается и импорт одной иконки тянет весь пакет
-  (185 КБ против 9 КБ).
+- `scripts/svg-source.mjs` — **all** of the folder-parsing logic: names, weights,
+  viewBox, painting into currentColor, walking nested folders. Both generators
+  import from here. These rules used to be duplicated and drifted apart — do not
+  start a third copy.
+- `scripts/build-core.mjs` — builds `icons.json` for `@lucevias/core`. Tags are
+  picked up from the optional `packages/core/tags.json`, the category from
+  `packages/core/categories.json`.
+- `scripts/build-package.mjs` — generates React components into
+  `packages/icons/src` (not committed, see .gitignore). Every component is marked
+  `/* #__PURE__ */` — without it tree-shaking breaks and importing a single icon
+  drags in the whole package (185 KB against 9 KB).
 
-## Как добавлять иконки
+## How to add icons
 
-Папка на иконку, файл на вес:
+A folder per icon, a file per weight:
 
 ```
 packages/core/svg/
@@ -51,84 +52,85 @@ packages/core/svg/
   address-book/ …
 ```
 
-Отсутствующий вес откатывается на regular, поэтому неполный комплект ничего
-не ломает.
+A missing weight falls back to regular, so an incomplete set breaks nothing.
 
-`parsePath` из `svg-source.mjs` понимает три раскладки: `acorn/Regular.svg`
-(основная), `regular/bell.svg` (папка — вес) и `bell-bold.svg` (вес
-суффиксом). Смешивать их в одном наборе не стоит — одна и та же иконка
-окажется задана двумя способами.
+`parsePath` from `svg-source.mjs` understands three layouts: `acorn/Regular.svg`
+(the main one), `regular/bell.svg` (folder is the weight) and `bell-bold.svg`
+(weight as a suffix). Do not mix them within one set — the same icon would end
+up defined in two ways.
 
-Имена компонентов строит `componentName` оттуда же: `address-book` →
-`AddressBook`, без суффикса. Плата — совпадения в импортах: `Anchor`,
-`Article`, `Circle` столкнутся с одноимённым импортом из react-native-svg,
-recharts и подобных. JSX это не ломает, лечится алиасом на стороне
-приложения.
+Component names are built by `componentName` from the same module:
+`address-book` → `AddressBook`, no suffix. The price is collisions in imports:
+`Anchor`, `Article` and `Circle` clash with the same-named import from
+react-native-svg, recharts and the like. JSX is not broken by this; it is cured
+by an alias on the app side.
 
-Чтобы иконка появилась на сайте, достаточно пуша в `main`: сайт клонирует
-`packages/core` из этой ветки перед каждой сборкой (`scripts/fetch-icons.mjs`
-в репозитории сайта). npm-релиз для этого не нужен.
+For an icon to show up on the site a push to `main` is enough: the site clones
+`packages/core` from that branch before every build (`scripts/fetch-icons.mjs`
+in the site repository). No npm release is needed for that.
 
-## Теги и категории
+## Tags and categories
 
-Два разных файла, и путать их не нужно:
+Two different files, and they should not be confused:
 
-- `packages/core/tags.json` — поисковые синонимы, их у иконки сколько угодно.
-- `packages/core/categories.json` — категория для фильтра в каталоге, **ровно
-  одна** на иконку (`{ "acorn": "Nature" }`).
+- `packages/core/tags.json` — search synonyms, an icon may have any number.
+- `packages/core/categories.json` — the category for the catalog filter,
+  **exactly one** per icon (`{ "acorn": "Nature" }`).
 
-Категория не первый тег намеренно: теги нужны поиску, и категория среди них
-сделала бы фильтр «Arrows» неотличимым от запроса `arrow`. Одна категория на
-иконку — чтобы сумма по фильтрам сходилась с общим числом набора.
+The category is deliberately not the first tag: tags serve the search, and a
+category among them would make the "Arrows" filter indistinguishable from the
+`arrow` query. One category per icon — so that the filter counts add up to the
+total size of the set.
 
-Новая партия иконок без категорий не ломает сборку, но выпадает из фильтра,
-поэтому `core:build` печатает предупреждение со списком таких имён — его
-надо разобрать, а не проигнорировать.
+A new batch of icons without categories does not break the build but drops out
+of the filter, so `core:build` prints a warning listing such names — deal with
+it rather than ignoring it.
 
-## Публикация
+## Releasing
 
 ```bash
 git tag v0.2.0 && git push --tags
 ```
 
-Версия из тега проставляется обоим пакетам, core публикуется первым.
-Нужен секрет `NPM_TOKEN`.
+The version from the tag is applied to both packages, core is published first.
+Requires the `NPM_TOKEN` secret.
 
-## Статусы «новая» и «обновлена»
+## The "new" and "updated" statuses
 
-`packages/core/history.json` помнит, **в какой день** иконка появилась и когда
-последний раз менялась её разметка (`YYYY-MM-DD`). Файл ведёт
-`scripts/build-history.mjs` (входит в `core:build`) и дописывает, а не
-пересобирает: день появления — исторический факт, из текущей папки его не
-вычислить. Поэтому файл лежит в гите, а после релиза workflow возвращает
-обновлённый вариант в `main`.
+`packages/core/history.json` remembers **on which day** an icon appeared and when
+its markup last changed (`YYYY-MM-DD`). The file is kept by
+`scripts/build-history.mjs` (part of `core:build`) and is appended to rather than
+rebuilt: the day of appearance is a historical fact and cannot be derived from
+the current folder. That is why the file lives in git, and after a release the
+workflow pushes the updated version back to `main`.
 
-`build-core.mjs` кладёт в `icons.json` поле `latestDay` — самую свежую дату из
-истории. Сайт сравнивает с ней `added`/`changed` каждой иконки: совпало —
-«новая» или «обновлена», иначе обычная. Помечена всегда только последняя
-партия, и залитая в другой день новая партия гасит предыдущую сама.
+`build-core.mjs` puts a `latestDay` field into `icons.json` — the freshest date
+from the history. The site compares each icon's `added`/`changed` against it: a
+match means "new" or "updated", otherwise the icon is ordinary. Only the latest
+batch is ever marked, and a batch landed on another day puts out the previous
+one by itself.
 
-**Не версия пакета.** Версия поднимается только на релизе, а иконки заливаются
-партиями по несколько раз в неделю. Пока статусы считались от версии, метки не
-гасли, а копились: к четвёртой партии «новыми» висели 349 иконок из 686 —
-половина каталога, что не сообщает посетителю ничего. Дата меняется сама, без
-релиза, тега и ручных действий.
+**Not the package version.** The version is bumped only on a release, while icons
+land in batches several times a week. While statuses were computed from the
+version, the marks did not fade but piled up: by the fourth batch 349 icons out
+of 686 were "new" — half the catalog, which tells the visitor nothing. A date
+changes on its own, with no release, tag or manual action.
 
-`latestDay` берётся из истории, а не из даты сборки: пересборка без новых
-иконок не должна гасить метки текущей партии.
+`latestDay` is taken from the history, not from the build date: a rebuild with no
+new icons must not put out the marks of the current batch.
 
-Удалённые имена из истории не вычищаются: имя может вернуться, и тогда важно
-знать, что оно уже было.
+Deleted names are not purged from the history: a name may come back, and then it
+matters that it has been here before.
 
-## Безопасность
+## Security
 
-Разметка иконок полностью своя, из `packages/core/svg/`. Если появится загрузка
-SVG от пользователей, прогонять через DOMPurify или парсить пути в структуру.
+The icon markup is entirely our own, from `packages/core/svg/`. If user-uploaded
+SVGs ever appear, run them through DOMPurify or parse the paths into a structure.
 
-## Правила работы с кодом
+## Working with the code
 
-Перед созданием любого файла — проверить, есть ли аналог, можно ли переиспользовать,
-не дублируется ли логика.
+Before creating any file, check whether an analogue exists, whether something can
+be reused, and whether the logic is being duplicated.
 
-Запрещено: временные файлы, дубли, лишние util-функции, бессмысленные обёртки,
-мёртвый код. Предпочитать изменение существующего кода созданию нового.
+Forbidden: temporary files, duplicates, superfluous util functions, pointless
+wrappers, dead code. Prefer changing existing code over writing new code.

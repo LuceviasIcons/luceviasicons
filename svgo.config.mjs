@@ -1,8 +1,8 @@
 /**
- * Оптимизация иконок: `npm run icons:optimize`.
+ * Icon optimization: `npm run icons:optimize`.
  *
- * Правит файлы в src/icons/svg на месте, поэтому настройки консервативные —
- * ломать исходники нельзя, они источник истины и для сайта, и для пакета.
+ * Edits files in src/icons/svg in place, hence the conservative settings —
+ * the sources must not break, they are the source of truth for both the site and the package.
  */
 export default {
   multipass: true,
@@ -11,14 +11,14 @@ export default {
       name: 'preset-default',
       params: {
         overrides: {
-          // viewBox нужен: по нему рендерится иконка в своей сетке (24×24 и др.)
+          // viewBox is needed: the icon renders on its own grid by it (24×24 and others)
           removeViewBox: false,
-          // id могут быть целями у <use>/градиентов внутри одной иконки
+          // ids may be targets of <use>/gradients inside a single icon
           cleanupIds: false,
         },
       },
     },
-    // размеры задаёт компонент через проп size, атрибуты в файле только мешают
+    // the size is set by the component through the `size` prop, attributes in the file only get in the way
     { name: 'removeDimensions' },
   ],
 }

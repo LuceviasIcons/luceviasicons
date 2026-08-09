@@ -1,18 +1,18 @@
 # LUCEVIAS
 
-Иконки в единой сетке. Шесть весов, tree-shakeable React-компоненты.
+Icons on a single grid. Six weights, tree-shakeable React components.
 
-Каталог со всеми иконками и готовыми сниппетами: **[открыть сайт](https://luceviasicons.github.io/luceviasicons/)**
+The catalog with every icon and ready-made snippets: **[open the site](https://luceviasicons.github.io/luceviasicons/)**
 
-## Установка
+## Install
 
 ```bash
 npm i lucevias
 ```
 
-`react >= 18` нужен как peer-зависимость.
+`react >= 18` is required as a peer dependency.
 
-## Использование
+## Usage
 
 ```jsx
 import { BoundingBox } from 'lucevias'
@@ -20,29 +20,29 @@ import { BoundingBox } from 'lucevias'
 <BoundingBox size={32} />
 ```
 
-### Пропсы
+### Props
 
-| Проп | Тип | По умолчанию | Описание |
+| Prop | Type | Default | Description |
 |---|---|---|---|
-| `size` | `number \| string` | `24` | Сторона в пикселях |
-| `color` | `string` | `currentColor` | Цвет; по умолчанию наследуется от родителя |
-| `weight` | `'thin' \| 'light' \| 'regular' \| 'bold' \| 'fill' \| 'duotone'` | `'regular'` | Начертание |
+| `size` | `number \| string` | `24` | Side in pixels |
+| `color` | `string` | `currentColor` | Color; inherited from the parent by default |
+| `weight` | `'thin' \| 'light' \| 'regular' \| 'bold' \| 'fill' \| 'duotone'` | `'regular'` | Weight |
 
-Остальные пропсы уходят на `<svg>`, поэтому работают `className`, `onClick`, `aria-*` и `ref`.
+The remaining props go to `<svg>`, so `className`, `onClick`, `aria-*` and `ref` all work.
 
 ```jsx
-// цвет наследуется от родителя
+// the color is inherited from the parent
 <span style={{ color: 'tomato' }}>
   <BoundingBox size={20} />
 </span>
 ```
 
-## Вес
+## Weight
 
-Веса кроме `regular` доступны, только если рядом с иконкой лежит файл этого веса
-(`bounding-box-bold.svg`). Отсутствующий вес молча откатывается на `regular`.
+Weights other than `regular` are available only if a file of that weight sits next
+to the icon (`bounding-box-bold.svg`). A missing weight silently falls back to `regular`.
 
-## Лицензия
+## License
 
-MIT — пользуйтесь свободно, в том числе в коммерческих проектах.
-Если библиотека выручает, [поддержите разработку](https://github.com/sponsors/LuceviasIcons).
+MIT — use it freely, including in commercial projects.
+If the library helps you out, [support its development](https://github.com/sponsors/LuceviasIcons).

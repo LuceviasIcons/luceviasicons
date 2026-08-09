@@ -1,9 +1,9 @@
 /**
- * Разбор папки `packages/core/svg` — единственное место, где живёт эта логика.
+ * Parsing of the `packages/core/svg` folder — the single place this logic lives.
  *
- * Ей пользуются оба генератора: метаданные `@lucevias/core` и React-компоненты
- * пакета `lucevias`. Раньше правила имён были продублированы в каждом из них и
- * расходились при первой же правке.
+ * Both generators use it: the `@lucevias/core` metadata and the React
+ * components of the `lucevias` package. The naming rules used to be duplicated
+ * in each of them and drifted apart on the first edit.
  */
 import { readdirSync, readFileSync } from 'node:fs'
 import { dirname, join, relative, sep } from 'node:path'
@@ -16,7 +16,7 @@ export const SVG_DIR = join(ROOT, 'packages/core/svg')
 
 export const DEFAULT_VIEW_BOX = '0 0 256 256'
 
-/** Внутренности <svg> без обёртки, комментариев и xml-пролога. */
+/** The insides of <svg>, without the wrapper, comments or xml prolog. */
 export function innerSvg(source) {
   const match = source.match(/<svg[^>]*>([\s\S]*)<\/svg>/i)
   return (match ? match[1] : source)
@@ -25,11 +25,11 @@ export function innerSvg(source) {
     .trim()
 }
 
-/** viewBox исходника — иконки бывают нарисованы не в 256×256. */
+/** viewBox of the source — icons are not always drawn on a 256×256 grid. */
 export const viewBoxOf = (source) =>
   source.match(/<svg[^>]*\sviewBox="([^"]+)"/i)?.[1]?.trim() ?? DEFAULT_VIEW_BOX
 
-/** Красим в currentColor, чтобы работал проп color. */
+/** Paint into currentColor so that the `color` prop works. */
 export const normalizeColors = (markup) =>
   markup.replace(/(fill|stroke)="((?!none|currentColor)[^"]*)"/gi, '$1="currentColor"')
 
@@ -41,36 +41,38 @@ export const pascal = (name) =>
     .join('')
 
 /**
- * Имя React-компонента: `address-book` → `AddressBook`.
+ * React component name: `address-book` → `AddressBook`.
  *
- * Суффикса `Icon` нет: имя иконки и есть имя компонента. Сниппеты на сайте
- * собирают имя по этому же правилу.
+ * There is no `Icon` suffix: the icon name is the component name. Snippets on
+ * the site build the name by this very rule.
  *
- * Плата за это — совпадения с чужими именами в импортах. В текущем наборе
- * их три: `Anchor`, `Article`, `Circle`. JSX они не ломают (строчные
- * `<article>` и `<circle>` отличаются регистром), но столкнутся с
- * одноимённым импортом из react-native-svg, recharts и подобных библиотек.
- * Лечится алиасом на стороне приложения: `import { Circle as CircleIcon }`.
+ * The price is collisions with foreign names in imports. The current set has
+ * three: `Anchor`, `Article`, `Circle`. They do not break JSX (the lowercase
+ * `<article>` and `<circle>` differ in case), but they will clash with an
+ * import of the same name from react-native-svg, recharts and similar
+ * libraries. Cured by an alias on the app side: `import { Circle as CircleIcon }`.
  */
 export const componentName = (name) => pascal(name)
 
 /**
- * Разбирает путь файла в пару «имя иконки + вес». Поддерживаются три схемы:
+ * Parses a file path into an "icon name + weight" pair. Three layouts are
+ * supported:
  *
- *   `acorn/Regular.svg` — папка это имя, файл это вес (основная)
- *   `regular/bell.svg`  — папка это вес, файл это имя
- *   `bell-bold.svg`     — вес суффиксом в имени файла
+ *   `acorn/Regular.svg` — folder is the name, file is the weight (the main one)
+ *   `regular/bell.svg`  — folder is the weight, file is the name
+ *   `bell-bold.svg`     — weight as a suffix in the file name
  *
- * Порядок проверки важен. Имя берётся из файла только тогда, когда файл
- * сам не назван весом: иначе `acorn/Regular.svg` даёт иконку «Regular», и
- * весь набор схлопывается в четыре иконки с именами весов.
+ * The order of checks matters. The name is taken from the file only when the
+ * file itself is not named after a weight: otherwise `acorn/Regular.svg` yields
+ * an icon called "Regular", and the whole set collapses into four icons named
+ * after the weights.
  */
 export function parsePath(relPath) {
   const segments = relPath.replace(/\.svg$/i, '').split(sep)
   const file = segments.pop()
   const folderWeight = segments.map((s) => s.toLowerCase()).find((s) => WEIGHTS.includes(s))
 
-  // файл назван весом → имя лежит в ближайшей папке, которая весом не является
+  // file is named after a weight → the name is in the nearest non-weight folder
   const fileIsWeight = WEIGHTS.includes(file.toLowerCase())
   if (fileIsWeight) {
     const folderName = [...segments].reverse().find((s) => !WEIGHTS.includes(s.toLowerCase()))
@@ -84,7 +86,7 @@ export function parsePath(relPath) {
   return { name, weight: fileWeight ?? folderWeight ?? 'regular' }
 }
 
-/** Рекурсивный обход папки: веса могут лежать во вложенных директориях. */
+/** Recursive walk: weights may live in nested directories. */
 function walk(dir) {
   const out = []
   for (const entry of readdirSync(dir, { withFileTypes: true })) {
@@ -96,13 +98,14 @@ function walk(dir) {
 }
 
 /**
- * Собирает иконки из папки: `[{ name, viewBox, variants }]`, отсортированные по имени.
- * `variants` — разметка без обёртки <svg>, покрашенная в currentColor.
+ * Collects icons from the folder: `[{ name, viewBox, variants }]`, sorted by
+ * name. `variants` is markup without the <svg> wrapper, painted into
+ * currentColor.
  */
 export function collectIcons() {
   const files = walk(SVG_DIR)
   if (files.length === 0) {
-    console.error('Нет ни одного SVG в packages/core/svg — нечего собирать.')
+    console.error('No SVG files in packages/core/svg — nothing to build.')
     process.exit(1)
   }
 
@@ -115,7 +118,7 @@ export function collectIcons() {
 
     const entry = icons.get(name) ?? { name, variants: {}, viewBox: viewBoxOf(source) }
     entry.variants[weight] = markup
-    // сетку берём из regular, иначе остаётся от первого попавшегося веса
+    // take the grid from regular, otherwise it sticks from whichever weight came first
     if (weight === 'regular') entry.viewBox = viewBoxOf(source)
     icons.set(name, entry)
   }
