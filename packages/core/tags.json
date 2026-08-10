@@ -2919,6 +2919,13 @@
   "chef-hat": [
     "chef hat"
   ],
+  "cigarette-slash": [
+    "cigarette slash",
+    "disabled",
+    "mute",
+    "none",
+    "off"
+  ],
   "circle": [
     "ellipse",
     "geometry",
@@ -2991,6 +2998,9 @@
     "round",
     "shape"
   ],
+  "clipboard-text": [
+    "clipboard text"
+  ],
   "clock": [
     "hour",
     "schedule",
@@ -3043,6 +3053,11 @@
     "schedule",
     "time",
     "watch"
+  ],
+  "closed-captioning": [
+    "closed captioning",
+    "hidden",
+    "shut"
   ],
   "cloud-arrow-down": [
     "below",
@@ -3106,6 +3121,47 @@
     "cloud x",
     "cross",
     "remove"
+  ],
+  "coat-hanger": [
+    "coat hanger"
+  ],
+  "coda-logo": [
+    "brand",
+    "coda logo",
+    "logo"
+  ],
+  "code": [
+    "development",
+    "programming",
+    "source"
+  ],
+  "code-block": [
+    "code block",
+    "development",
+    "programming",
+    "source"
+  ],
+  "code-simple": [
+    "basic",
+    "code simple",
+    "development",
+    "minimal",
+    "plain",
+    "programming",
+    "source"
+  ],
+  "codepen-logo": [
+    "brand",
+    "codepen logo",
+    "logo"
+  ],
+  "codesandbox-logo": [
+    "brand",
+    "codesandbox logo",
+    "logo"
+  ],
+  "coffee-bean": [
+    "coffee bean"
   ],
   "columns": [
     "design",

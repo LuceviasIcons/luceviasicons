@@ -1774,6 +1774,26 @@
     "changed": "2026-08-09",
     "hash": "c64b3c55a822"
   },
+  "cherries": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "ab4be1d502c3"
+  },
+  "church": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "20c608d19e1b"
+  },
+  "cigarette": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "1aa1d26b935b"
+  },
+  "cigarette-slash": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "f1827a0eeec3"
+  },
   "circle": {
     "added": "0",
     "changed": "0",
@@ -1814,6 +1834,26 @@
     "changed": "0",
     "hash": "3cd87ac65d66"
   },
+  "circuitry": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "c3f25eb3675f"
+  },
+  "city": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "edde71f656cf"
+  },
+  "clipboard": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "fc057dcfbfa9"
+  },
+  "clipboard-text": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "a65923c8f419"
+  },
   "clock": {
     "added": "0",
     "changed": "0",
@@ -1843,6 +1883,11 @@
     "added": "0",
     "changed": "0",
     "hash": "96974e669c43"
+  },
+  "closed-captioning": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "05d50ce0dfc9"
   },
   "cloud": {
     "added": "2026-08-07",
@@ -1908,6 +1953,61 @@
     "added": "2026-08-07",
     "changed": "2026-08-07",
     "hash": "07e45bc16605"
+  },
+  "clover": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "5554d0ed5b2d"
+  },
+  "club": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "8d464fe8c781"
+  },
+  "coat-hanger": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "cf48d934a41f"
+  },
+  "coda-logo": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "9e01771d6fde"
+  },
+  "code": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "9a16e95fa9c5"
+  },
+  "code-block": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "056bf90a7120"
+  },
+  "code-simple": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "239d3b60c6f5"
+  },
+  "codepen-logo": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "64470ca5a2ca"
+  },
+  "codesandbox-logo": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "cdf068ff5904"
+  },
+  "coffee": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "4bd739fb8715"
+  },
+  "coffee-bean": {
+    "added": "2026-08-10",
+    "changed": "2026-08-10",
+    "hash": "888ee182ce26"
   },
   "columns": {
     "added": "0",
