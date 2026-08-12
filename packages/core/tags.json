@@ -3163,6 +3163,12 @@
   "coffee-bean": [
     "coffee bean"
   ],
+  "coin-vertical": [
+    "coin vertical",
+    "column",
+    "height",
+    "y"
+  ],
   "columns": [
     "design",
     "grid",
@@ -3200,17 +3206,65 @@
     "split",
     "table"
   ],
+  "compass": [
+    "direction",
+    "navigation",
+    "tool"
+  ],
+  "compass-rose": [
+    "compass rose",
+    "direction",
+    "navigation",
+    "tool"
+  ],
   "compass-tool": [
     "compass tool",
     "direction",
     "navigation",
     "tool"
   ],
+  "computer-tower": [
+    "computer tower"
+  ],
+  "contactless-payment": [
+    "contactless payment"
+  ],
+  "cooking-pot": [
+    "cooking pot"
+  ],
   "copy-simple": [
     "basic",
     "copy simple",
     "minimal",
     "plain"
+  ],
+  "corners-in": [
+    "collapse",
+    "corners in",
+    "enter",
+    "inside"
+  ],
+  "corners-out": [
+    "corners out",
+    "exit",
+    "expand",
+    "outside"
+  ],
+  "court-basketball": [
+    "ball",
+    "court basketball",
+    "game",
+    "hoop",
+    "sport"
+  ],
+  "cowboy-hat": [
+    "cowboy hat"
+  ],
+  "crane-tower": [
+    "crane tower"
+  ],
+  "credit-card": [
+    "credit card"
   ],
   "crop": [
     "cut",
@@ -3219,6 +3273,21 @@
     "image",
     "tool",
     "trim"
+  ],
+  "crosshair-simple": [
+    "basic",
+    "crosshair simple",
+    "minimal",
+    "plain"
+  ],
+  "crown-cross": [
+    "crown cross"
+  ],
+  "crown-simple": [
+    "basic",
+    "crown simple",
+    "minimal",
+    "plain"
   ],
   "cube": [
     "3d",
@@ -3236,11 +3305,88 @@
     "shape",
     "volume"
   ],
+  "currency-btc": [
+    "currency btc"
+  ],
+  "currency-circle-dollar": [
+    "currency circle dollar",
+    "ellipse",
+    "geometry",
+    "round",
+    "shape"
+  ],
+  "currency-cny": [
+    "currency cny"
+  ],
+  "currency-dollar": [
+    "currency dollar"
+  ],
+  "currency-dollar-simple": [
+    "basic",
+    "currency dollar simple",
+    "minimal",
+    "plain"
+  ],
+  "currency-eth": [
+    "currency eth"
+  ],
+  "currency-eur": [
+    "currency eur"
+  ],
+  "currency-gbp": [
+    "currency gbp"
+  ],
+  "currency-inr": [
+    "currency inr"
+  ],
+  "currency-jpy": [
+    "currency jpy"
+  ],
+  "currency-krw": [
+    "currency krw"
+  ],
+  "currency-kzt": [
+    "currency kzt"
+  ],
+  "currency-ngn": [
+    "currency ngn"
+  ],
+  "currency-rub": [
+    "currency rub"
+  ],
   "cylinder": [
     "3d",
     "database",
     "shape",
     "volume"
+  ],
+  "desktop-tower": [
+    "desktop tower"
+  ],
+  "device-mobile": [
+    "device mobile"
+  ],
+  "device-mobile-camera": [
+    "device mobile camera"
+  ],
+  "device-mobile-slash": [
+    "device mobile slash",
+    "disabled",
+    "mute",
+    "none",
+    "off"
+  ],
+  "device-mobile-speaker": [
+    "device mobile speaker"
+  ],
+  "device-rotate": [
+    "device rotate"
+  ],
+  "device-tablet-camera": [
+    "device tablet camera"
+  ],
+  "device-tablet-speaker": [
+    "device tablet speaker"
   ],
   "diamonds-four": [
     "4",

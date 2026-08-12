@@ -2009,6 +2009,21 @@
     "changed": "2026-08-10",
     "hash": "888ee182ce26"
   },
+  "coin": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "e32ddf9cea82"
+  },
+  "coin-vertical": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "793239f61491"
+  },
+  "coins": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "b2ca718b8d44"
+  },
   "columns": {
     "added": "0",
     "changed": "0",
@@ -2024,10 +2039,50 @@
     "changed": "0",
     "hash": "eef0bf72dd18"
   },
+  "command": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "e10c36e1c264"
+  },
+  "compass": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "6c016cdb3dfb"
+  },
+  "compass-rose": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "89a212483cc3"
+  },
   "compass-tool": {
     "added": "0",
     "changed": "0",
     "hash": "ae1d624df3b8"
+  },
+  "computer-tower": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "ad37c51b02e8"
+  },
+  "confetti": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "7f8d51376f08"
+  },
+  "contactless-payment": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "8ebff4a92e40"
+  },
+  "cookie": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "30d53b27580c"
+  },
+  "cooking-pot": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "c87df034e967"
   },
   "copy": {
     "added": "2026-08-08",
@@ -2039,10 +2094,100 @@
     "changed": "2026-08-08",
     "hash": "d1c5ea31d6b0"
   },
+  "copyleft": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "8297197253e4"
+  },
+  "corners-in": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "a168811532f7"
+  },
+  "corners-out": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "a4e6aaa277be"
+  },
+  "couch": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "3da9bac644e7"
+  },
+  "court-basketball": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "44178b3ec46e"
+  },
+  "cow": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "9d8e6a10a00a"
+  },
+  "cowboy-hat": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "3abbc4c15451"
+  },
+  "cpu": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "2802f526642a"
+  },
+  "crane": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "f4f65f988762"
+  },
+  "crane-tower": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "d23aefa9bd85"
+  },
+  "credit-card": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "225226b9552d"
+  },
+  "cricket": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "19964614637d"
+  },
   "crop": {
     "added": "0",
     "changed": "0",
     "hash": "b68cfbbaca0b"
+  },
+  "cross": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "46f48f886f8b"
+  },
+  "crosshair": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "a1b9c5a5a28e"
+  },
+  "crosshair-simple": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "a41b1f1e1c91"
+  },
+  "crown": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "8d7d27655a35"
+  },
+  "crown-cross": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "75c06e3fe4ec"
+  },
+  "crown-simple": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "5bb77af8c59d"
   },
   "cube": {
     "added": "0",
@@ -2054,10 +2199,130 @@
     "changed": "0",
     "hash": "e106f7fd0f2a"
   },
+  "currency-btc": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "9d5dff037d97"
+  },
+  "currency-circle-dollar": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "eeaf5eaa470c"
+  },
+  "currency-cny": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "0a83c5ed1899"
+  },
+  "currency-dollar": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "d77ac4d413b6"
+  },
+  "currency-dollar-simple": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "5df5a56ee0a1"
+  },
+  "currency-eth": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "b041169b09f3"
+  },
+  "currency-eur": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "6ee0df2bc929"
+  },
+  "currency-gbp": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "8bd08bf7ddf1"
+  },
+  "currency-inr": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "dcf3c972336a"
+  },
+  "currency-jpy": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "b5b847d7aed6"
+  },
+  "currency-krw": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "10a47683fd65"
+  },
+  "currency-kzt": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "06f47961f4eb"
+  },
+  "currency-ngn": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "b8af789ad9de"
+  },
+  "currency-rub": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "b10f83360337"
+  },
   "cylinder": {
     "added": "0",
     "changed": "0",
     "hash": "ca7607c576f6"
+  },
+  "desktop": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "872d07673cb3"
+  },
+  "desktop-tower": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "0d768af114a4"
+  },
+  "device-mobile": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "6e1ec3c5a535"
+  },
+  "device-mobile-camera": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "ec3393d5729d"
+  },
+  "device-mobile-slash": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "8146cde77a18"
+  },
+  "device-mobile-speaker": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "34f6d1b20e92"
+  },
+  "device-rotate": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "5c6233715ba6"
+  },
+  "device-tablet-camera": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "4f20ed72f22b"
+  },
+  "device-tablet-speaker": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "69b336e3daa7"
+  },
+  "devices": {
+    "added": "2026-08-12",
+    "changed": "2026-08-12",
+    "hash": "041ed93c0e4b"
   },
   "diamond": {
     "added": "2026-08-08",
