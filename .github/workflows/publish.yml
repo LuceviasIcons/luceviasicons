@@ -3,9 +3,10 @@ name: Publish packages
 # Publish on tag: git tag v0.2.0 && git push --tags
 # The version comes from the tag so that package.json and npm never drift apart.
 #
-# Both packages are published under one version:
+# All three packages are published under one version:
 #   @lucevias/core — raw SVG and metadata (installed by the catalog site)
 #   lucevias       — React components (installed by users)
+#   @lucevias/mcp  — MCP server for AI agents (depends on core)
 on:
   push:
     tags: ['v*']
@@ -35,9 +36,12 @@ jobs:
       - name: Sync version with the tag
         run: |
           VERSION="${GITHUB_REF_NAME#v}"
-          for pkg in packages/core packages/icons; do
+          for pkg in packages/core packages/icons packages/mcp; do
             (cd "$pkg" && npm version "$VERSION" --no-git-tag-version --allow-same-version)
           done
+          # mcp depends on core by an exact version: without this the released
+          # server would pull the previous set from npm
+          (cd packages/mcp && npm pkg set "dependencies.@lucevias/core=$VERSION")
 
       # core is built first: the metadata is computed from the same SVGs as the
       # React components, and the version inside icons.json comes from package.json
@@ -55,6 +59,13 @@ jobs:
 
       - name: Publish lucevias
         working-directory: packages/icons
+        run: npm publish --provenance --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      # mcp needs no build: it is plain ESM and ships as source
+      - name: Publish @lucevias/mcp
+        working-directory: packages/mcp
         run: npm publish --provenance --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
