@@ -26,8 +26,20 @@ Full API in [packages/icons/README.md](packages/icons/README.md).
 | --- | --- | --- |
 | [`@lucevias/core`](packages/core) | Raw SVGs and `icons.json` metadata | The catalog site, and anyone building their own bindings |
 | [`lucevias`](packages/icons) | React components generated from those SVGs | Application developers |
+| [`@lucevias/mcp`](packages/mcp) | MCP server over the same metadata | Anyone writing code with an AI agent |
 
-Both are published from this repository under the same version.
+All three are published from this repository under the same version.
+
+## Using it with an AI agent
+
+The icon set plugs into Claude Code, Cursor, Claude Desktop and any other MCP
+client, so the agent picks icons from the real set instead of guessing names:
+
+```bash
+claude mcp add lucevias -- npx -y @lucevias/mcp
+```
+
+Configs for the other clients are in [packages/mcp](packages/mcp).
 
 ## Repository layout
 
@@ -35,6 +47,7 @@ Both are published from this repository under the same version.
 packages/core/svg/     icons — the single source of truth
 packages/core/         @lucevias/core (raw SVGs + generated icons.json)
 packages/icons/        lucevias (React components, generated — not committed)
+packages/mcp/          @lucevias/mcp (MCP server for AI agents)
 scripts/               svg-source.mjs (shared parsing) + both generators
 ```
 

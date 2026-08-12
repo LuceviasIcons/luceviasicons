@@ -1,0 +1,36 @@
+{
+  "name": "@lucevias/mcp",
+  "version": "0.2.0",
+  "description": "MCP server for the LUCEVIAS icon set: lets an AI agent search the icons and get ready-to-paste code.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "lucevias-mcp": "src/index.mjs"
+  },
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "@lucevias/core": "0.2.0",
+    "@modelcontextprotocol/sdk": "^1.30.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "icons",
+    "icon-set",
+    "svg-icons",
+    "ai",
+    "claude",
+    "cursor",
+    "lucevias"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuceviasIcons/luceviasicons.git",
+    "directory": "packages/mcp"
+  }
+}

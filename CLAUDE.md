@@ -14,10 +14,21 @@ SVGs only there.
 | --- | --- | --- |
 | `@lucevias/core` (`packages/core`) | raw SVGs + generated `assets/icons.json` | the catalog site, third-party integrations |
 | `lucevias` (`packages/icons`) | React components | application developers |
+| `@lucevias/mcp` (`packages/mcp`) | MCP server over the same metadata | anyone writing code with an AI agent |
 
 They are published together, under one version from a tag. The site needs the
 raw markup itself (copying, PNG export, hashes for the "new" mark), and that
-cannot be recovered from React components — hence two packages, not one.
+cannot be recovered from React components — hence separate packages, not one.
+
+`@lucevias/mcp` reads the same `icons.json` and holds no copy of the set. Its
+tools are split for a reason: `search_icons` returns names without markup (four
+weights per icon would eat the agent context on a list of twenty), and `get_icon`
+serves the markup one icon at a time. A wrong name is answered rather than
+refused — a typo gets `did_you_mean`, a name absent from the set gets `related`.
+
+`componentName` is duplicated in `packages/mcp/src/snippets.mjs`: `scripts/` stays
+in the repository and does not ship to npm, so the published package cannot
+import it. If the naming rule changes in `svg-source.mjs`, change it there too.
 
 ## Commands
 
