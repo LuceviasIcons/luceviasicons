@@ -1,0 +1,52 @@
+name: CI
+
+# Runs on every push and pull request. Nothing checked the build before, so a
+# batch with a misnamed weight file or a missing category only surfaced when a
+# release failed — or, worse, when it succeeded and shipped the mistake.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # the set first: a broken icon fails here rather than halfway through a build
+      - name: Check the icon set
+        run: npm run icons:check
+
+      - name: Build the packages
+        run: npm run build
+
+      # icons.json is committed, so a stale one means someone edited the SVGs
+      # without rebuilding — the site would then ship a set that does not match
+      # the folder
+      - name: Verify icons.json is up to date
+        run: |
+          if ! git diff --quiet packages/core/assets/icons.json; then
+            echo "::error::icons.json is out of date — run 'npm run core:build' and commit the result"
+            git diff --stat packages/core/assets/icons.json
+            exit 1
+          fi
+
+      # the server answers over stdio, so a real request is the honest check:
+      # "does it start" would pass even if the tool list were broken
+      - name: Check the MCP server answers
+        run: |
+          REQ='{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"ci","version":"1"}}}'
+          OUT=$(printf '%s\n' "$REQ" | timeout 20 node packages/mcp/src/index.mjs 2>/dev/null | head -1)
+          echo "$OUT"
+          case "$OUT" in
+            *lucevias-icons*) ;;
+            *) echo "::error::the MCP server did not answer initialize"; exit 1 ;;
+          esac

@@ -1,0 +1,38 @@
+name: Report a problem
+description: Something is wrong with an icon, a package, or the site
+labels: [bug]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where
+      options:
+        - An icon looks wrong
+        - lucevias (React components)
+        - '@lucevias/core (raw SVG and metadata)'
+        - '@lucevias/mcp (MCP server)'
+        - The Figma plugin
+        - luceviasicons.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What happens
+      description: What you did, what you expected, and what you got instead.
+    validations:
+      required: true
+
+  - type: input
+    id: icon
+    attributes:
+      label: Icon name
+      description: If it is about a specific icon.
+      placeholder: basket
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: lucevias 0.2.0, React 19

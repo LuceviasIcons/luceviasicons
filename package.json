@@ -3,7 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "tags:build": "node scripts/build-tags.mjs",
     "history:build": "node scripts/build-history.mjs",
@@ -11,7 +13,8 @@
     "icons:optimize": "svgo -r -f packages/core/svg -o packages/core/svg --config svgo.config.mjs",
     "pkg:generate": "node scripts/build-package.mjs",
     "pkg:build": "npm run pkg:generate && cd packages/icons && npx vite build && npx tsc -p tsconfig.json",
-    "build": "npm run core:build && npm run pkg:build"
+    "build": "npm run core:build && npm run pkg:build",
+    "icons:check": "node scripts/check-icons.mjs"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",

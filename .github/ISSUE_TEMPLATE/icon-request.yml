@@ -1,0 +1,35 @@
+name: Request an icon
+description: Suggest an icon that is missing from the set
+title: 'Icon: '
+labels: [icon request]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before opening: search the [catalog](https://luceviasicons.com) first —
+        the icon may exist under a different name, and the search understands
+        synonyms (`cart` finds `basket`).
+
+  - type: input
+    id: name
+    attributes:
+      label: What should it depict?
+      description: One icon per issue. A name is welcome but not required.
+      placeholder: a padlock with a key
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Where would you use it?
+      description: >
+        The most useful part. Knowing the context tells us what the icon has to
+        read as at 16px, which usually decides how it gets drawn.
+      placeholder: a "locked" state in a table row, next to the record name
+
+  - type: input
+    id: reference
+    attributes:
+      label: Reference
+      description: A link or a screenshot of something close to what you mean.

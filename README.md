@@ -28,8 +28,8 @@ Four weights · tree-shakeable React components · MIT
   published shields.io renders a red "package not found", which reads as a
   broken project rather than an unreleased one.
 -->
+[![CI](https://github.com/LuceviasIcons/luceviasicons/actions/workflows/ci.yml/badge.svg)](https://github.com/LuceviasIcons/luceviasicons/actions/workflows/ci.yml)
 [![one icon](https://img.shields.io/badge/one%20icon-~9%20KB-black)](#tree-shaking)
-[![weights](https://img.shields.io/badge/weights-4-black)](#weights)
 [![license](https://img.shields.io/badge/license-MIT-black)](LICENSE)
 
 </div>
@@ -241,11 +241,19 @@ normalizes to `currentColor`.
 
 ```bash
 npm install
+npm run icons:check      # names, weights, categories, duplicates
 npm run core:build       # generate packages/core/assets/icons.json
 npm run pkg:build        # generate and build the React package
 npm run build            # both
 npm run icons:optimize   # run SVGO over the icon folder
 ```
+
+`icons:check` catches what the build is happy to swallow: a misnamed weight
+file, an icon with no category, a drawing exported twice. Every one of those has
+happened at least once. CI runs it on every push.
+
+The full guide is in [CONTRIBUTING.md](CONTRIBUTING.md); what landed when is in
+[CHANGELOG.md](CHANGELOG.md).
 
 The parsing of names, weights and viewBox lives in one place —
 `scripts/svg-source.mjs` — and both generators import it. These rules used to be
