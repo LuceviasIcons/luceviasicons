@@ -36,3 +36,6 @@ packages/icons/src
 *.njsproj
 *.sln
 *.sw?
+
+# Working notes for the AI assistant — not part of the published project
+CLAUDE.md

@@ -101,16 +101,37 @@ rendering nothing.
 
 ## Use it with an AI agent
 
-The set ships an [MCP](https://modelcontextprotocol.io) server, so an agent in
-your editor picks icons from the real library instead of inventing names that do
-not exist:
+Ask for an icon in your own words and the agent writes the import for you —
+picking from the real library instead of inventing a name that does not exist.
 
 ```bash
 claude mcp add lucevias -- npx -y @lucevias/mcp
 ```
 
-> *"add a basket icon to the header"* — the agent searches the set, finds
-> `basket`, and writes the import for you.
+> **You:** add a basket icon to the header
+>
+> **Agent:** *searches the set, finds `basket`, writes:*
+> ```jsx
+> import { Basket } from 'lucevias'
+>
+> <Basket size={24} />
+> ```
+
+An [MCP](https://modelcontextprotocol.io) server ships with the set and gives
+the agent three tools:
+
+| Tool | What it does |
+| --- | --- |
+| `search_icons` | Finds icons by name and tags — returns the names that exist |
+| `get_icon` | Returns one icon: React, HTML and raw SVG, in any weight and size |
+| `list_categories` | Lists the categories, for when a whole group is needed |
+
+A wrong name is answered rather than refused: a typo (`basekt`) comes back with
+`did_you_mean: ["basket"]`, and a name that is not in the set at all
+(`shopping-cart`) comes back with what is — `bag`, `basket`.
+
+The server reads the same metadata as everything else here, so an icon added to
+the set is available to the agent with the next release.
 
 <details>
 <summary>Cursor, Claude Desktop, VS Code and other clients</summary>
@@ -230,7 +251,8 @@ The parsing of names, weights and viewBox lives in one place —
 `scripts/svg-source.mjs` — and both generators import it. These rules used to be
 duplicated and drifted apart, so please do not start a third copy.
 
-Design decisions and the reasoning behind them are in [CLAUDE.md](CLAUDE.md).
+The reasoning behind each decision is kept in the comments next to the code
+rather than in a separate document, so it stays true when the code changes.
 
 <br>
 
