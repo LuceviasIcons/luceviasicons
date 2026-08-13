@@ -1,0 +1,6 @@
+# The Sponsor button on the repository page.
+#
+# github: is not an option here — GitHub Sponsors runs on Stripe Connect, which
+# does not pay out to this account's country. custom: takes any URL, and the
+# crypto address lives in the README where it can be copied.
+custom: ['https://github.com/LuceviasIcons/luceviasicons#support']

@@ -277,10 +277,25 @@ npm in dependency order. Requires the `NPM_TOKEN` secret.
 
 ---
 
+## Support
+
+The set is drawn by one person and given away for free. If it saved you an
+afternoon, you can chip in — entirely optional, and it changes nothing about the
+license.
+
+```
+Ethereum (ETH, USDT and any ERC-20)
+0xf33b7bfd2314ba3eBBf3CacF01BA2F0711fe6691
+```
+
+Starring the repository or telling someone about it helps just as much.
+
+<br>
+
+---
+
 <div align="center">
 
 **MIT** — free to use, including commercially.
-
-If the library helps you out, [support its development](https://github.com/sponsors/LuceviasIcons).
 
 </div>
