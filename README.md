@@ -279,9 +279,14 @@ npm in dependency order. Requires the `NPM_TOKEN` secret.
 
 ## Support
 
-The set is drawn by one person and given away for free. If it saved you an
-afternoon, you can chip in — entirely optional, and it changes nothing about the
-license.
+The set is drawn by one person and given away for free. Nothing here is behind a
+paywall and nothing will be — supporting the work only makes the next batch
+arrive sooner.
+
+**[Patreon](https://www.patreon.com/luceviasicons)** — any amount, monthly or
+one-off.
+
+Or directly, without a middleman:
 
 ```
 Ethereum (ETH, USDT and any ERC-20)

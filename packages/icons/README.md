@@ -93,6 +93,7 @@ import { Circle as CircleIcon } from 'lucevias'
 
 ## License
 
-MIT — free to use, including commercially. If the library helps you out, there is
-a way to [chip in](https://github.com/LuceviasIcons/luceviasicons#support) —
-entirely optional.
+MIT — free to use, including commercially. If the library helps you out, you can
+support it on [Patreon](https://www.patreon.com/luceviasicons) or
+[directly](https://github.com/LuceviasIcons/luceviasicons#support) — entirely
+optional, and nothing is behind a paywall either way.
