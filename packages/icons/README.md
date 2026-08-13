@@ -1,10 +1,13 @@
-# LUCEVIAS
+# lucevias
 
-Icons on a single grid. Six weights, tree-shakeable React components.
+React components for the [Lucevias](https://luceviasicons.com) icon set — a
+growing open-source library drawn on a single 24×24 grid, in four weights.
 
-The catalog with every icon and ready-made snippets: **[open the site](https://luceviasicons.github.io/luceviasicons/)**
+**[Browse the catalog →](https://luceviasicons.com)**
 
-## Install
+> **Not published to npm yet** — the first release is coming.
+> Until then the set can be used from the [catalog](https://luceviasicons.com),
+> the Figma plugin, or by cloning this repository.
 
 ```bash
 npm i lucevias
@@ -15,34 +18,80 @@ npm i lucevias
 ## Usage
 
 ```jsx
-import { BoundingBox } from 'lucevias'
+import { Basket } from 'lucevias'
 
-<BoundingBox size={32} />
+<Basket size={24} />
 ```
+
+Every icon is a component named after the icon in PascalCase: `address-book`
+becomes `AddressBook`, `basket` becomes `Basket`. The catalog shows the exact
+name for each one.
 
 ### Props
 
 | Prop | Type | Default | Description |
-|---|---|---|---|
-| `size` | `number \| string` | `24` | Side in pixels |
-| `color` | `string` | `currentColor` | Color; inherited from the parent by default |
-| `weight` | `'thin' \| 'light' \| 'regular' \| 'bold' \| 'fill' \| 'duotone'` | `'regular'` | Weight |
+| --- | --- | --- | --- |
+| `size` | `number \| string` | `24` | Side of the square, in pixels |
+| `color` | `string` | `currentColor` | Stroke and fill color |
+| `weight` | `'thin' \| 'light' \| 'regular' \| 'bold'` | `'regular'` | Line weight |
 
-The remaining props go to `<svg>`, so `className`, `onClick`, `aria-*` and `ref` all work.
+Anything else is forwarded to the `<svg>` element, so `className`, `onClick`,
+`aria-label`, `ref` and the rest work as expected.
+
+### Color follows the text
+
+Icons are painted in `currentColor`, so they inherit the color of their
+container — for the common case no prop is needed at all:
 
 ```jsx
-// the color is inherited from the parent
-<span style={{ color: 'tomato' }}>
-  <BoundingBox size={20} />
-</span>
+<button className="text-red-500">
+  <Basket size={20} />
+  Remove
+</button>
 ```
 
-## Weight
+### Weights
 
-Weights other than `regular` are available only if a file of that weight sits next
-to the icon (`bounding-box-bold.svg`). A missing weight silently falls back to `regular`.
+```jsx
+<Basket weight="thin" />
+<Basket weight="light" />
+<Basket />              {/* regular */}
+<Basket weight="bold" />
+```
+
+A weight that has not been drawn yet falls back to `regular` rather than
+rendering nothing.
+
+## Tree-shaking
+
+Importing one icon costs about **9 KB**, not the whole library. Every component
+is marked `/* #__PURE__ */`, without which a bundler treats the `forwardRef`
+call as a side effect and keeps all of them — the difference between 9 KB and
+185 KB.
+
+Nothing to configure: any modern bundler (Vite, webpack 5, Rollup, esbuild)
+drops the unused ones on its own.
+
+## Name collisions
+
+Component names carry no `Icon` suffix, so a few of them — `Anchor`, `Article`,
+`Circle` — clash with same-named imports from libraries like react-native-svg or
+recharts. JSX itself is fine (lowercase `<article>` differs by case); rename on
+import when it comes up:
+
+```jsx
+import { Circle as CircleIcon } from 'lucevias'
+```
+
+## Elsewhere
+
+- **[@lucevias/core](https://www.npmjs.com/package/@lucevias/core)** — raw SVGs
+  and metadata, for your own bindings
+- **[@lucevias/mcp](https://www.npmjs.com/package/@lucevias/mcp)** — an MCP
+  server, so AI agents pick icons from the real set
+- **Lucevias Icons** — the Figma plugin
 
 ## License
 
-MIT — use it freely, including in commercial projects.
-If the library helps you out, [support its development](https://github.com/sponsors/LuceviasIcons).
+MIT — free to use, including commercially. If the library helps you out,
+[support its development](https://github.com/sponsors/LuceviasIcons).
