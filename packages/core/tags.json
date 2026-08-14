@@ -3354,6 +3354,9 @@
   "currency-rub": [
     "currency rub"
   ],
+  "cursor-click": [
+    "cursor click"
+  ],
   "cylinder": [
     "3d",
     "database",
@@ -3362,6 +3365,11 @@
   ],
   "desktop-tower": [
     "desktop tower"
+  ],
+  "dev-to-logo": [
+    "brand",
+    "dev to logo",
+    "logo"
   ],
   "device-mobile": [
     "device mobile"
@@ -3418,6 +3426,20 @@
   "dice-two": [
     "2",
     "dice two"
+  ],
+  "disco-ball": [
+    "disco ball"
+  ],
+  "discord-logo": [
+    "brand",
+    "discord logo",
+    "logo"
+  ],
+  "door-open": [
+    "door open",
+    "expand",
+    "unfold",
+    "unlock"
   ],
   "dot": [
     "bullet",
@@ -3513,6 +3535,23 @@
     "points",
     "y"
   ],
+  "download-simple": [
+    "basic",
+    "download simple",
+    "minimal",
+    "plain"
+  ],
+  "dribbble-logo": [
+    "brand",
+    "dribbble logo",
+    "logo"
+  ],
+  "drop": [
+    "droplet",
+    "liquid",
+    "opacity",
+    "water"
+  ],
   "drop-half": [
     "drop half",
     "droplet",
@@ -3542,6 +3581,53 @@
     "opacity",
     "water"
   ],
+  "dropbox-logo": [
+    "brand",
+    "dropbox logo",
+    "logo"
+  ],
+  "ear-slash": [
+    "disabled",
+    "ear slash",
+    "mute",
+    "none",
+    "off"
+  ],
+  "egg-crack": [
+    "egg crack"
+  ],
+  "eject-simple": [
+    "basic",
+    "eject simple",
+    "minimal",
+    "plain"
+  ],
+  "empty": [
+    "blank",
+    "none",
+    "zero"
+  ],
+  "envelope-open": [
+    "envelope open",
+    "expand",
+    "unfold",
+    "unlock"
+  ],
+  "envelope-simple": [
+    "basic",
+    "envelope simple",
+    "minimal",
+    "plain"
+  ],
+  "envelope-simple-open": [
+    "basic",
+    "envelope simple open",
+    "expand",
+    "minimal",
+    "plain",
+    "unfold",
+    "unlock"
+  ],
   "eraser": [
     "clear",
     "delete",
@@ -3549,6 +3635,21 @@
     "editor",
     "remove",
     "tool"
+  ],
+  "escalator-down": [
+    "below",
+    "bottom",
+    "escalator down",
+    "south"
+  ],
+  "escalator-up": [
+    "above",
+    "escalator up",
+    "north",
+    "top"
+  ],
+  "exclamation-mark": [
+    "exclamation mark"
   ],
   "exclude": [
     "boolean",
@@ -3591,6 +3692,49 @@
     "see",
     "view",
     "visibility"
+  ],
+  "eyedropper-sample": [
+    "eyedropper sample"
+  ],
+  "face-mask": [
+    "face mask"
+  ],
+  "facebook-logo": [
+    "brand",
+    "facebook logo",
+    "logo"
+  ],
+  "faders-horizontal": [
+    "faders horizontal",
+    "row",
+    "width",
+    "x"
+  ],
+  "fallout-shelter": [
+    "fallout shelter"
+  ],
+  "fast-forward": [
+    "fast forward"
+  ],
+  "fast-forward-circle": [
+    "ellipse",
+    "fast forward circle",
+    "geometry",
+    "round",
+    "shape"
+  ],
+  "fast-rewind": [
+    "fast rewind"
+  ],
+  "fediverse-logo": [
+    "brand",
+    "fediverse logo",
+    "logo"
+  ],
+  "figma-logo": [
+    "brand",
+    "figma logo",
+    "logo"
   ],
   "file": [
     "document",
@@ -3988,6 +4132,57 @@
     "documents",
     "pages",
     "storage"
+  ],
+  "film-reel": [
+    "film reel"
+  ],
+  "film-slate": [
+    "film slate"
+  ],
+  "film-strip": [
+    "film strip"
+  ],
+  "fingerprint-simple": [
+    "basic",
+    "fingerprint simple",
+    "minimal",
+    "plain"
+  ],
+  "finn-the-human": [
+    "finn the human"
+  ],
+  "fire-extinguisher": [
+    "fire extinguisher"
+  ],
+  "fire-simple": [
+    "basic",
+    "fire simple",
+    "minimal",
+    "plain"
+  ],
+  "fire-truck": [
+    "fire truck"
+  ],
+  "first-aid": [
+    "first aid"
+  ],
+  "first-aid-kit": [
+    "first aid kit"
+  ],
+  "fish-simple": [
+    "basic",
+    "fish simple",
+    "minimal",
+    "plain"
+  ],
+  "flag-banner": [
+    "flag banner"
+  ],
+  "flag-banner-fold": [
+    "flag banner fold"
+  ],
+  "flag-checkered": [
+    "flag checkered"
   ],
   "flip-horizontal": [
     "flip horizontal",

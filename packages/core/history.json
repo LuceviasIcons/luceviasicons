@@ -2269,10 +2269,30 @@
     "changed": "2026-08-12",
     "hash": "b10f83360337"
   },
+  "cursor": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "b100cfaa2b43"
+  },
+  "cursor-click": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "767b819039e0"
+  },
   "cylinder": {
     "added": "0",
     "changed": "0",
     "hash": "ca7607c576f6"
+  },
+  "database": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "698f7807fa6c"
+  },
+  "desk": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "9e7c9d15c3de"
   },
   "desktop": {
     "added": "2026-08-12",
@@ -2283,6 +2303,16 @@
     "added": "2026-08-12",
     "changed": "2026-08-12",
     "hash": "0d768af114a4"
+  },
+  "detective": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "46a5a6788fba"
+  },
+  "dev-to-logo": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "37fe50a44cac"
   },
   "device-mobile": {
     "added": "2026-08-12",
@@ -2364,6 +2394,46 @@
     "changed": "2026-08-08",
     "hash": "881275da0030"
   },
+  "disc": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "530241deffac"
+  },
+  "disco-ball": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "1924a134ca3f"
+  },
+  "discord-logo": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "dbc3e5b423da"
+  },
+  "divide": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "57775b0b57f0"
+  },
+  "dna": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "6eaf1e1a65f8"
+  },
+  "dog": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "f7e66679d659"
+  },
+  "door": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "eec2d4c92948"
+  },
+  "door-open": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "8d9cd3dbeb00"
+  },
   "dot": {
     "added": "2026-08-08",
     "changed": "2026-08-08",
@@ -2419,6 +2489,41 @@
     "changed": "2026-08-08",
     "hash": "9480ca4d4ff3"
   },
+  "download": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "6ebdd52e70de"
+  },
+  "download-simple": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "0ce923129404"
+  },
+  "dress": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "2d1e1d05a6d9"
+  },
+  "dresser": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "78c66b1933e6"
+  },
+  "dribbble-logo": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "bcf947d0bea7"
+  },
+  "drone": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "a82ef41f910c"
+  },
+  "drop": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "d6ee61e31eb0"
+  },
   "drop-half": {
     "added": "0",
     "changed": "0",
@@ -2434,10 +2539,100 @@
     "changed": "0",
     "hash": "758f1ed1e4c3"
   },
+  "dropbox-logo": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "5e1fff9a5207"
+  },
+  "ear": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "c458a907d52f"
+  },
+  "ear-slash": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "13b1e70536ac"
+  },
+  "egg": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "3276a84933e5"
+  },
+  "egg-crack": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "2f97d26b4072"
+  },
+  "eject": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "4ae92df17657"
+  },
+  "eject-simple": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "6640492cc293"
+  },
+  "elevator": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "f2817f7e5df4"
+  },
+  "empty": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "f25022b90a8c"
+  },
+  "engine": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "31a9d48749da"
+  },
+  "envelope": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "6f81757d2682"
+  },
+  "envelope-open": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "649e5252e55f"
+  },
+  "envelope-simple": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "5889ae492605"
+  },
+  "envelope-simple-open": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "c476ed2efaba"
+  },
   "eraser": {
     "added": "0",
     "changed": "0",
     "hash": "21cf5c4f9a17"
+  },
+  "escalator-down": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "f749f5d86327"
+  },
+  "escalator-up": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "91740719d73b"
+  },
+  "exam": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "2ab4a754dcd7"
+  },
+  "exclamation-mark": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "b9a2bbe03f2e"
   },
   "exclude": {
     "added": "0",
@@ -2448,6 +2643,11 @@
     "added": "0",
     "changed": "0",
     "hash": "0fe7afc17b97"
+  },
+  "export": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "7b76853cd5b8"
   },
   "eye": {
     "added": "0",
@@ -2463,6 +2663,91 @@
     "added": "0",
     "changed": "0",
     "hash": "f8a93b2d0092"
+  },
+  "eyedropper": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "ea2a9a48bc25"
+  },
+  "eyedropper-sample": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "ab445f4dd000"
+  },
+  "eyeglasses": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "eb36d8fb5433"
+  },
+  "eyes": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "daf8d7779598"
+  },
+  "face-mask": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "3d619a406af5"
+  },
+  "facebook-logo": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "3c24019f6713"
+  },
+  "factory": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "d129de018c9d"
+  },
+  "faders": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "c65690c6f244"
+  },
+  "faders-horizontal": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "810c495c047c"
+  },
+  "fallout-shelter": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "6e62c2490285"
+  },
+  "fan": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "8fa949f9b302"
+  },
+  "fast-forward": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "108250a142ff"
+  },
+  "fast-forward-circle": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "bc5ff75efa82"
+  },
+  "fast-rewind": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "2770f87a67fe"
+  },
+  "feather": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "ef03bd775016"
+  },
+  "fediverse-logo": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "1517f97f3fbf"
+  },
+  "figma-logo": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "229491bb0c11"
   },
   "file": {
     "added": "0",
@@ -2673,6 +2958,91 @@
     "added": "0",
     "changed": "0",
     "hash": "69425c9cfa21"
+  },
+  "film-reel": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "8dcf9cdbabd6"
+  },
+  "film-slate": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "0d1f2a5b030b"
+  },
+  "film-strip": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "02b1be6e52ff"
+  },
+  "fingerprint": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "850f0e7f4da7"
+  },
+  "fingerprint-simple": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "5ccb11447d73"
+  },
+  "finn-the-human": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "b6a3baf79848"
+  },
+  "fire": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "0b87282a3788"
+  },
+  "fire-extinguisher": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "3987f4f58477"
+  },
+  "fire-simple": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "cecd1718fcaa"
+  },
+  "fire-truck": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "4bd0a58c8c85"
+  },
+  "first-aid": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "d18d578da317"
+  },
+  "first-aid-kit": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "0c1aa7286963"
+  },
+  "fish": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "404f7491aedc"
+  },
+  "fish-simple": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "913f6b8a139c"
+  },
+  "flag-banner": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "3d24b53efab9"
+  },
+  "flag-banner-fold": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "16900a16f6e9"
+  },
+  "flag-checkered": {
+    "added": "2026-08-14",
+    "changed": "2026-08-14",
+    "hash": "90fcd628a58f"
   },
   "flip-horizontal": {
     "added": "0",
