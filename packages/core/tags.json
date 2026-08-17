@@ -4184,6 +4184,9 @@
   "flag-checkered": [
     "flag checkered"
   ],
+  "flag-pennant": [
+    "flag pennant"
+  ],
   "flip-horizontal": [
     "flip horizontal",
     "mirror",
@@ -4201,6 +4204,27 @@
     "reverse",
     "transform",
     "y"
+  ],
+  "floppy-disk": [
+    "floppy disk"
+  ],
+  "floppy-disk-back": [
+    "floppy disk back"
+  ],
+  "flow-arrow": [
+    "direction",
+    "flow arrow",
+    "navigation",
+    "pointer"
+  ],
+  "flower-lotus": [
+    "flower lotus"
+  ],
+  "flower-tulip": [
+    "flower tulip"
+  ],
+  "flying-saucer": [
+    "flying saucer"
   ],
   "folder": [
     "directory",
@@ -4366,6 +4390,65 @@
     "document",
     "files",
     "storage"
+  ],
+  "football-helmet": [
+    "football helmet"
+  ],
+  "fork-knife": [
+    "fork knife"
+  ],
+  "four-k": [
+    "4",
+    "four k"
+  ],
+  "frame-corners": [
+    "frame corners"
+  ],
+  "framer-logo": [
+    "brand",
+    "framer logo",
+    "logo"
+  ],
+  "funnel-x": [
+    "cancel",
+    "close",
+    "cross",
+    "funnel x",
+    "remove"
+  ],
+  "game-controller": [
+    "game controller"
+  ],
+  "gas-can": [
+    "gas can"
+  ],
+  "gas-pump": [
+    "gas pump"
+  ],
+  "gear-fine": [
+    "gear fine"
+  ],
+  "gear-six": [
+    "6",
+    "gear six"
+  ],
+  "gender-female": [
+    "gender female"
+  ],
+  "gender-intersex": [
+    "gender intersex"
+  ],
+  "gender-male": [
+    "gender male"
+  ],
+  "gender-neuter": [
+    "gender neuter"
+  ],
+  "gender-nonbinary": [
+    "gender nonbinary"
+  ],
+  "gender-transgender": [
+    "gender transgender"
   ],
   "grid-four": [
     "4",

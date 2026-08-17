@@ -3029,6 +3029,11 @@
     "changed": "2026-08-14",
     "hash": "913f6b8a139c"
   },
+  "flag": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "9651b5d9a197"
+  },
   "flag-banner": {
     "added": "2026-08-14",
     "changed": "2026-08-14",
@@ -3044,6 +3049,26 @@
     "changed": "2026-08-14",
     "hash": "90fcd628a58f"
   },
+  "flag-pennant": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "37db18cad1c9"
+  },
+  "flame": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "7f346ad90ad5"
+  },
+  "flashlight": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "2a3cba813100"
+  },
+  "flask": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "ce3a115650ac"
+  },
   "flip-horizontal": {
     "added": "0",
     "changed": "0",
@@ -3053,6 +3078,41 @@
     "added": "0",
     "changed": "0",
     "hash": "2567ca40af0c"
+  },
+  "floppy-disk": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "10a2885ba68b"
+  },
+  "floppy-disk-back": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "048781d085a1"
+  },
+  "flow-arrow": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "e6c5fa2fa558"
+  },
+  "flower": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "b3275cf1ad87"
+  },
+  "flower-lotus": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "15cf09c08eb2"
+  },
+  "flower-tulip": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "bff3ae230fa9"
+  },
+  "flying-saucer": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "f24155bdf588"
   },
   "folder": {
     "added": "0",
@@ -3128,6 +3188,146 @@
     "added": "0",
     "changed": "0",
     "hash": "7be7f6c02a59"
+  },
+  "football": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "b372e0a0e132"
+  },
+  "football-helmet": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "365374ddefe1"
+  },
+  "footprints": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "26f04191f75a"
+  },
+  "fork-knife": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "52510615c290"
+  },
+  "four-k": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "e00bd2262242"
+  },
+  "frame-corners": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "cfa64b3afe88"
+  },
+  "framer-logo": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "b37ba18724da"
+  },
+  "function": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "53965ff10e28"
+  },
+  "funnel": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "b714f7f9fe0f"
+  },
+  "funnel-x": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "00ff889c5b49"
+  },
+  "game-controller": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "b8724df2b126"
+  },
+  "garage": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "b3640ad7f2b3"
+  },
+  "gas-can": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "8c5cc59056f6"
+  },
+  "gas-pump": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "ddab897bb0c0"
+  },
+  "gauge": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "2d97dd330c3e"
+  },
+  "gavel": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "4324dc0258c6"
+  },
+  "gear": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "2af1161fbd03"
+  },
+  "gear-fine": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "27c2ee438c7a"
+  },
+  "gear-six": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "5035a3ec87d9"
+  },
+  "gender-female": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "1ea59d276d77"
+  },
+  "gender-intersex": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "9b0b19e807c9"
+  },
+  "gender-male": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "70e0716a59bd"
+  },
+  "gender-neuter": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "43f36021fdcb"
+  },
+  "gender-nonbinary": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "e45f35c53c38"
+  },
+  "gender-transgender": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "1cbe76ccd09a"
+  },
+  "ghost": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "00a53ac92140"
+  },
+  "gif": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "c3ae511bb12b"
+  },
+  "gift": {
+    "added": "2026-08-17",
+    "changed": "2026-08-17",
+    "hash": "91d30f070427"
   },
   "grid-four": {
     "added": "0",
