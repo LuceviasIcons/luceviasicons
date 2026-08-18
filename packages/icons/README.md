@@ -89,7 +89,8 @@ import { Circle as CircleIcon } from 'lucevias'
   and metadata, for your own bindings
 - **[@lucevias/mcp](https://www.npmjs.com/package/@lucevias/mcp)** — an MCP
   server, so AI agents pick icons from the real set
-- **Lucevias Icons** — the Figma plugin
+- **[Lucevias Icons](https://www.figma.com/community/plugin/1669714680899632381/lucevias-icons)** —
+  the Figma plugin
 
 ## License
 

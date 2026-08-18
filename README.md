@@ -163,8 +163,9 @@ Full documentation in [packages/mcp](packages/mcp).
 
 ## Use it in Figma
 
-The **Lucevias Icons** plugin puts the same set inside Figma: search, filter by
-category, switch the weight, click to insert as an editable vector.
+The **[Lucevias Icons](https://www.figma.com/community/plugin/1669714680899632381/lucevias-icons)**
+plugin puts the same set inside Figma: search, filter by category, switch the
+weight, click to insert as an editable vector.
 
 It reads the icons straight from this repository, so new ones appear in the
 plugin as soon as they are drawn — no plugin update required.
