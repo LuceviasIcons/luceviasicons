@@ -5,10 +5,6 @@ growing open-source library drawn on a single 24×24 grid, in four weights.
 
 **[Browse the catalog →](https://luceviasicons.com)**
 
-> **Not published to npm yet** — the first release is coming.
-> Until then the set can be used from the [catalog](https://luceviasicons.com),
-> the Figma plugin, or by cloning this repository.
-
 ```bash
 npm i lucevias
 ```

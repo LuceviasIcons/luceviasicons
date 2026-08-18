@@ -7,9 +7,6 @@ the right component name, the right import, the right props.
 Without it the agent guesses names from memory and produces imports of icons that
 do not exist.
 
-> **Not published to npm yet** — the first release is coming, and the `npx`
-> command below starts working the moment it lands.
-
 ## Connect
 
 <details open>

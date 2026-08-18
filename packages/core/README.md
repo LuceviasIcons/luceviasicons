@@ -7,10 +7,6 @@ Most applications want [`lucevias`](https://www.npmjs.com/package/lucevias)
 instead: it gives you React components. Install this one if you are building
 your own bindings, a catalog, or a design-tool plugin.
 
-> **Not published to npm yet** — the first release is coming.
-> Until then the set can be used from the [catalog](https://luceviasicons.com),
-> the Figma plugin, or by cloning this repository.
-
 ```bash
 npm i @luceviasicons/core
 ```

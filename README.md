@@ -23,12 +23,8 @@ Four weights · tree-shakeable React components · MIT
 
 <br>
 
-<!--
-  The npm badge comes back with the first release: while the package is not
-  published shields.io renders a red "package not found", which reads as a
-  broken project rather than an unreleased one.
--->
 [![CI](https://github.com/LuceviasIcons/luceviasicons/actions/workflows/ci.yml/badge.svg)](https://github.com/LuceviasIcons/luceviasicons/actions/workflows/ci.yml)
+[![npm](https://img.shields.io/npm/v/lucevias?color=black&label=npm)](https://www.npmjs.com/package/lucevias)
 [![one icon](https://img.shields.io/badge/one%20icon-~9%20KB-black)](#tree-shaking)
 [![license](https://img.shields.io/badge/license-MIT-black)](LICENSE)
 
@@ -39,11 +35,6 @@ Four weights · tree-shakeable React components · MIT
 ---
 
 ## Install
-
-> **The packages are not on npm yet** — the first release is coming. Until then
-> the whole set can be downloaded from the
-> [catalog](https://luceviasicons.com), or used through the Figma plugin and the
-> MCP server below.
 
 ```bash
 npm i lucevias
@@ -103,9 +94,6 @@ rendering nothing.
 
 Ask for an icon in your own words and the agent writes the import for you —
 picking from the real library instead of inventing a name that does not exist.
-
-> **Not published to npm yet** — the command below starts working the moment
-> the first release lands.
 
 ```bash
 claude mcp add lucevias -- npx -y @luceviasicons/mcp

@@ -8,9 +8,10 @@ The set is still growing, and coverage is uneven by design: it is drawn roughly
 alphabetically, so early letters are dense and later ones are thin. If an icon
 you need is missing, [ask for it](CONTRIBUTING.md#requesting-an-icon).
 
-## Unreleased
+## v0.1.1 — 2026-08-18
 
-Everything below ships in the first npm release.
+First npm release. `@luceviasicons/core`, `lucevias` and `@luceviasicons/mcp`
+are on the registry, all at 873 icons.
 
 ### 2026-08-12 — 53 icons, 759 in total
 
