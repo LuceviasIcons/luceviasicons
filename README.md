@@ -104,6 +104,9 @@ rendering nothing.
 Ask for an icon in your own words and the agent writes the import for you —
 picking from the real library instead of inventing a name that does not exist.
 
+> **Not published to npm yet** — the command below starts working the moment
+> the first release lands.
+
 ```bash
 claude mcp add lucevias -- npx -y @lucevias/mcp
 ```
