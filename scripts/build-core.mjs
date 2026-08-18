@@ -1,5 +1,5 @@
 /**
- * Builds the metadata of the `@lucevias_icon/core` package: `assets/icons.json`.
+ * Builds the metadata of the `@luceviasicons/core` package: `assets/icons.json`.
  *
  * The SVGs themselves are published as-is — they are the source of truth. The
  * JSON is for consumers (the catalog site first of all), so they can get the
@@ -87,7 +87,7 @@ const payload = {
 mkdirSync(OUT, { recursive: true })
 writeFileSync(join(OUT, 'icons.json'), JSON.stringify(payload))
 
-console.log(`@lucevias_icon/core: ${icons.length} icons → packages/core/assets/icons.json`)
+console.log(`@luceviasicons/core: ${icons.length} icons → packages/core/assets/icons.json`)
 
 // without a category an icon drops out of the catalog filter — never do that silently
 const uncategorized = icons.filter(({ name }) => !categories[name]).map(({ name }) => name)

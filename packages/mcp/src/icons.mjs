@@ -1,7 +1,7 @@
 /**
  * Reading the set and searching it — everything the tools in `index.mjs` need.
  *
- * The data comes from `@lucevias_icon/core`, the same `icons.json` the site
+ * The data comes from `@luceviasicons/core`, the same `icons.json` the site
  * and the Figma plugin use. There is no second copy of the set: an icon added
  * to `packages/core/svg` reaches the agent with the next release of core.
  */
@@ -10,7 +10,7 @@ import { createRequire } from 'node:module'
 const require = createRequire(import.meta.url)
 
 /** @type {{ version: string, latestDay?: string, icons: any[] }} */
-const CORE = require('@lucevias_icon/core/icons.json')
+const CORE = require('@luceviasicons/core/icons.json')
 
 export const VERSION = CORE.version
 export const LATEST_DAY = CORE.latestDay ?? ''

@@ -13,7 +13,7 @@ one person, so please allow reasonable time before disclosing publicly.
 
 What is worth reporting:
 
-- **`@lucevias_icon/mcp`** — the server runs on a developer's machine and reads a
+- **`@luceviasicons/mcp`** — the server runs on a developer's machine and reads a
   file over the network. Anything that turns that into code execution or into
   reading files it should not.
 - **The packages** — a supply-chain problem: a build step, a dependency, or

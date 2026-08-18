@@ -1,7 +1,7 @@
 /**
  * Parsing of the `packages/core/svg` folder — the single place this logic lives.
  *
- * Both generators use it: the `@lucevias_icon/core` metadata and the React
+ * Both generators use it: the `@luceviasicons/core` metadata and the React
  * components of the `lucevias` package. The naming rules used to be duplicated
  * in each of them and drifted apart on the first edit.
  */

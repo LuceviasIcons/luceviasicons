@@ -1,4 +1,4 @@
-# @lucevias_icon/core
+# @luceviasicons/core
 
 Raw SVG assets and metadata for [Lucevias](https://luceviasicons.com) — the
 source of truth every other package in the set is generated from.
@@ -12,13 +12,13 @@ your own bindings, a catalog, or a design-tool plugin.
 > the Figma plugin, or by cloning this repository.
 
 ```bash
-npm i @lucevias_icon/core
+npm i @luceviasicons/core
 ```
 
 ## Metadata
 
 ```js
-import icons from '@lucevias_icon/core/icons.json' with { type: 'json' }
+import icons from '@luceviasicons/core/icons.json' with { type: 'json' }
 
 icons.icons[0]
 // {
@@ -84,7 +84,7 @@ svg/basket/Bold.svg
 ```
 
 ```js
-import basket from '@lucevias_icon/core/svg/basket/Regular.svg'
+import basket from '@luceviasicons/core/svg/basket/Regular.svg'
 ```
 
 ## License

@@ -8,9 +8,9 @@
  *
  * Runs over stdio — the transport every MCP client supports:
  *
- *   claude mcp add lucevias -- npx -y @lucevias_icon/mcp
+ *   claude mcp add lucevias -- npx -y @luceviasicons/mcp
  *
- * The data comes from `@lucevias_icon/core`, the same file the site and the
+ * The data comes from `@luceviasicons/core`, the same file the site and the
  * Figma plugin read. There is no second copy of the set.
  */
 import { Server } from '@modelcontextprotocol/sdk/server/index.js'

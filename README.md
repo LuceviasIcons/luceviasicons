@@ -108,7 +108,7 @@ picking from the real library instead of inventing a name that does not exist.
 > the first release lands.
 
 ```bash
-claude mcp add lucevias -- npx -y @lucevias_icon/mcp
+claude mcp add lucevias -- npx -y @luceviasicons/mcp
 ```
 
 > **You:** add a basket icon to the header
@@ -148,7 +148,7 @@ Any MCP client runs the same command. For the config-file ones:
   "mcpServers": {
     "lucevias": {
       "command": "npx",
-      "args": ["-y", "@lucevias_icon/mcp"]
+      "args": ["-y", "@luceviasicons/mcp"]
     }
   }
 }
@@ -183,11 +183,11 @@ plugin as soon as they are drawn — no plugin update required.
 **Raw SVG and metadata**
 
 ```bash
-npm i @lucevias_icon/core
+npm i @luceviasicons/core
 ```
 
 ```js
-import { icons } from '@lucevias_icon/core/icons.json'
+import { icons } from '@luceviasicons/core/icons.json'
 ```
 
 For custom bindings, your own catalog, or a design-tool plugin.
@@ -211,8 +211,8 @@ downloaded as a zip.
 | Package | Contents | Who installs it |
 | --- | --- | --- |
 | [`lucevias`](packages/icons) | React components generated from the SVGs | Application developers |
-| [`@lucevias_icon/core`](packages/core) | Raw SVGs and `icons.json` metadata | Custom bindings, catalogs, plugins |
-| [`@lucevias_icon/mcp`](packages/mcp) | MCP server over the same metadata | Anyone coding with an AI agent |
+| [`@luceviasicons/core`](packages/core) | Raw SVGs and `icons.json` metadata | Custom bindings, catalogs, plugins |
+| [`@luceviasicons/mcp`](packages/mcp) | MCP server over the same metadata | Anyone coding with an AI agent |
 
 All three are published from this repository under one version.
 

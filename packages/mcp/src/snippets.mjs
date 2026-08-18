@@ -14,7 +14,7 @@ export const PACKAGE_NAME = 'lucevias'
  * Repeats `componentName` from `scripts/svg-source.mjs`, which generates the
  * package. Importing it is not an option: `scripts/` stays in the repository and
  * does not ship with the published package, so a relative path would break for
- * anyone installing @lucevias_icon/mcp from npm.
+ * anyone installing @luceviasicons/mcp from npm.
  *
  * If the rule changes there, it has to change here too — otherwise the server
  * would hand out code that does not compile.

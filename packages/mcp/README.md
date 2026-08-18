@@ -1,4 +1,4 @@
-# @lucevias_icon/mcp
+# @luceviasicons/mcp
 
 An MCP server for the [Lucevias](https://luceviasicons.com) icon set. It lets an
 AI agent in your editor find an icon by meaning and write code that compiles —
@@ -16,7 +16,7 @@ do not exist.
 <summary><b>Claude Code</b></summary>
 
 ```bash
-claude mcp add lucevias -- npx -y @lucevias_icon/mcp
+claude mcp add lucevias -- npx -y @luceviasicons/mcp
 ```
 
 </details>
@@ -31,7 +31,7 @@ claude mcp add lucevias -- npx -y @lucevias_icon/mcp
   "mcpServers": {
     "lucevias": {
       "command": "npx",
-      "args": ["-y", "@lucevias_icon/mcp"]
+      "args": ["-y", "@luceviasicons/mcp"]
     }
   }
 }
@@ -49,7 +49,7 @@ claude mcp add lucevias -- npx -y @lucevias_icon/mcp
   "mcpServers": {
     "lucevias": {
       "command": "npx",
-      "args": ["-y", "@lucevias_icon/mcp"]
+      "args": ["-y", "@luceviasicons/mcp"]
     }
   }
 }
@@ -67,7 +67,7 @@ claude mcp add lucevias -- npx -y @lucevias_icon/mcp
   "servers": {
     "lucevias": {
       "command": "npx",
-      "args": ["-y", "@lucevias_icon/mcp"]
+      "args": ["-y", "@luceviasicons/mcp"]
     }
   }
 }
@@ -81,7 +81,7 @@ claude mcp add lucevias -- npx -y @lucevias_icon/mcp
 Any client that speaks MCP over stdio runs the same command:
 
 ```
-npx -y @lucevias_icon/mcp
+npx -y @luceviasicons/mcp
 ```
 
 </details>
@@ -118,7 +118,7 @@ replies with `did_you_mean: ["basket"]`; when there is no such icon at all
 
 ## The data
 
-The set comes from `@lucevias_icon/core` — the same `icons.json` the catalog site and
+The set comes from `@luceviasicons/core` — the same `icons.json` the catalog site and
 the Figma plugin read. There is no second copy: an icon added to
 `packages/core/svg` reaches the agent with the next release of core.
 
