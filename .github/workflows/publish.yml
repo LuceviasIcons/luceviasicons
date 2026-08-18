@@ -36,8 +36,11 @@ jobs:
       - name: Sync version with the tag
         run: |
           VERSION="${GITHUB_REF_NAME#v}"
+          # npm pkg set edits package.json directly, unlike `npm version`, which
+          # also tries to look the package up on the registry — a 404 on the very
+          # first release, before anything has been published yet.
           for pkg in packages/core packages/icons packages/mcp; do
-            (cd "$pkg" && npm version "$VERSION" --no-git-tag-version --allow-same-version)
+            (cd "$pkg" && npm pkg set "version=$VERSION")
           done
           # mcp depends on core by an exact version: without this the released
           # server would pull the previous set from npm
