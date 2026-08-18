@@ -4450,6 +4450,146 @@
   "gender-transgender": [
     "gender transgender"
   ],
+  "git-branch": [
+    "git branch"
+  ],
+  "git-commit": [
+    "git commit"
+  ],
+  "git-diff": [
+    "git diff"
+  ],
+  "git-fork": [
+    "git fork"
+  ],
+  "git-merge": [
+    "combine",
+    "git merge",
+    "join",
+    "union"
+  ],
+  "git-pull-request": [
+    "git pull request"
+  ],
+  "github-logo": [
+    "brand",
+    "github logo",
+    "logo"
+  ],
+  "gitlab-logo": [
+    "brand",
+    "gitlab logo",
+    "logo"
+  ],
+  "gitlab-logo-simple": [
+    "basic",
+    "brand",
+    "gitlab logo simple",
+    "logo",
+    "minimal",
+    "plain"
+  ],
+  "globe-hemisphere-east": [
+    "globe hemisphere east"
+  ],
+  "globe-hemisphere-west": [
+    "globe hemisphere west"
+  ],
+  "globe-simple": [
+    "basic",
+    "globe simple",
+    "minimal",
+    "plain"
+  ],
+  "globe-simple-x": [
+    "basic",
+    "cancel",
+    "close",
+    "cross",
+    "globe simple x",
+    "minimal",
+    "plain",
+    "remove"
+  ],
+  "globe-stand": [
+    "globe stand"
+  ],
+  "globe-x": [
+    "cancel",
+    "close",
+    "cross",
+    "globe x",
+    "remove"
+  ],
+  "goodreads-logo": [
+    "brand",
+    "goodreads logo",
+    "logo"
+  ],
+  "google-cardboard-logo": [
+    "brand",
+    "google cardboard logo",
+    "logo"
+  ],
+  "google-chrome-logo": [
+    "brand",
+    "google chrome logo",
+    "logo"
+  ],
+  "google-drive-logo": [
+    "brand",
+    "google drive logo",
+    "logo"
+  ],
+  "google-logo": [
+    "brand",
+    "google logo",
+    "logo"
+  ],
+  "google-photos-logo": [
+    "brand",
+    "google photos logo",
+    "logo"
+  ],
+  "google-play-logo": [
+    "brand",
+    "google play logo",
+    "logo"
+  ],
+  "google-podcasts-logo": [
+    "brand",
+    "google podcasts logo",
+    "logo"
+  ],
+  "gps-fix": [
+    "gps fix"
+  ],
+  "gps-slash": [
+    "disabled",
+    "gps slash",
+    "mute",
+    "none",
+    "off"
+  ],
+  "graduation-cap": [
+    "graduation cap"
+  ],
+  "grains-slash": [
+    "disabled",
+    "grains slash",
+    "mute",
+    "none",
+    "off"
+  ],
+  "graphics-card": [
+    "graphics card"
+  ],
+  "greater-than": [
+    "greater than"
+  ],
+  "greater-than-or-equal": [
+    "greater than or equal"
+  ],
   "grid-four": [
     "4",
     "design",
@@ -4465,6 +4605,18 @@
     "grid nine",
     "layout",
     "table"
+  ],
+  "handbag-simple": [
+    "basic",
+    "handbag simple",
+    "minimal",
+    "plain"
+  ],
+  "hard-drive": [
+    "hard drive"
+  ],
+  "hard-drives": [
+    "hard drives"
   ],
   "heart": [
     "favorite",
@@ -4517,6 +4669,40 @@
     "timer",
     "wait"
   ],
+  "house-line": [
+    "house line"
+  ],
+  "house-simple": [
+    "basic",
+    "house simple",
+    "minimal",
+    "plain"
+  ],
+  "identification-badge": [
+    "identification badge"
+  ],
+  "image-broken": [
+    "image broken"
+  ],
+  "image-square": [
+    "box",
+    "geometry",
+    "image square",
+    "rectangle",
+    "shape"
+  ],
+  "images-square": [
+    "box",
+    "geometry",
+    "images square",
+    "rectangle",
+    "shape"
+  ],
+  "instagram-logo": [
+    "brand",
+    "instagram logo",
+    "logo"
+  ],
   "intersect": [
     "boolean",
     "overlap",
@@ -4547,6 +4733,39 @@
     "grid",
     "layout",
     "template"
+  ],
+  "link-break": [
+    "link break"
+  ],
+  "link-simple": [
+    "basic",
+    "link simple",
+    "minimal",
+    "plain"
+  ],
+  "link-simple-break": [
+    "basic",
+    "link simple break",
+    "minimal",
+    "plain"
+  ],
+  "link-simple-horizontal": [
+    "basic",
+    "link simple horizontal",
+    "minimal",
+    "plain",
+    "row",
+    "width",
+    "x"
+  ],
+  "link-simple-horizontal-break": [
+    "basic",
+    "link simple horizontal break",
+    "minimal",
+    "plain",
+    "row",
+    "width",
+    "x"
   ],
   "list-bullets": [
     "list bullets"
@@ -4650,6 +4869,60 @@
     "secure",
     "unfold",
     "unlock"
+  ],
+  "magnifying-glass": [
+    "find",
+    "glass",
+    "magnifying glass",
+    "search",
+    "zoom"
+  ],
+  "magnifying-glass-minus": [
+    "delete",
+    "find",
+    "glass",
+    "less",
+    "magnifying glass minus",
+    "remove",
+    "search",
+    "subtract",
+    "zoom"
+  ],
+  "magnifying-glass-plus": [
+    "add",
+    "create",
+    "find",
+    "glass",
+    "magnifying glass plus",
+    "more",
+    "new",
+    "search",
+    "zoom"
+  ],
+  "map-pin-line": [
+    "map pin line"
+  ],
+  "map-pin-plus": [
+    "add",
+    "create",
+    "map pin plus",
+    "more",
+    "new"
+  ],
+  "map-pin-simple": [
+    "basic",
+    "map pin simple",
+    "minimal",
+    "plain"
+  ],
+  "map-pin-simple-line": [
+    "basic",
+    "map pin simple line",
+    "minimal",
+    "plain"
+  ],
+  "map-trifold": [
+    "map trifold"
   ],
   "number-circle-eight": [
     "8",

@@ -3329,6 +3329,191 @@
     "changed": "2026-08-17",
     "hash": "91d30f070427"
   },
+  "git-branch": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "851b51305969"
+  },
+  "git-commit": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "a9bf7fecfde4"
+  },
+  "git-diff": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "d56f9db69731"
+  },
+  "git-fork": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "fa9c54c4dd3b"
+  },
+  "git-merge": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "0bc323b35519"
+  },
+  "git-pull-request": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "170437dd1d66"
+  },
+  "github-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "6693a9b54a75"
+  },
+  "gitlab-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "31206761cfbc"
+  },
+  "gitlab-logo-simple": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "ab7ebea8f9fd"
+  },
+  "globe": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "d8bb1ab2148b"
+  },
+  "globe-hemisphere-east": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "3f7ec6f8c47a"
+  },
+  "globe-hemisphere-west": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "6df419494a64"
+  },
+  "globe-simple": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "6494116f2536"
+  },
+  "globe-simple-x": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "cf6ba0d0e7ec"
+  },
+  "globe-stand": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "24fc0d4c403c"
+  },
+  "globe-x": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "29020b9d0d8a"
+  },
+  "goggles": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "becbe8fb1a84"
+  },
+  "golf": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "31b07a15f450"
+  },
+  "goodreads-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "cee50090df52"
+  },
+  "google-cardboard-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "fcbd7283c562"
+  },
+  "google-chrome-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "123aa7ca8dc1"
+  },
+  "google-drive-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "0f9292381488"
+  },
+  "google-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "9245b7b04010"
+  },
+  "google-photos-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "8bd88b3e4802"
+  },
+  "google-play-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "b5e93dd79631"
+  },
+  "google-podcasts-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "a24fa26db068"
+  },
+  "gps": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "704113ae5142"
+  },
+  "gps-fix": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "9d5caa59daf7"
+  },
+  "gps-slash": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "0f641d4deefe"
+  },
+  "gradient": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "47b1f43d248d"
+  },
+  "graduation-cap": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "a545c2f91e37"
+  },
+  "grains": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "9e12091789ff"
+  },
+  "grains-slash": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "e187c4050240"
+  },
+  "graph": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "5f00602eb79d"
+  },
+  "graphics-card": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "d71837f180f1"
+  },
+  "greater-than": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "a63eff744d2c"
+  },
+  "greater-than-or-equal": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "dbc32c65b394"
+  },
   "grid-four": {
     "added": "0",
     "changed": "0",
@@ -3338,6 +3523,31 @@
     "added": "0",
     "changed": "0",
     "hash": "feb518302c61"
+  },
+  "guitar": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "0e5a8526dd2c"
+  },
+  "handbag": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "97c7f54edc25"
+  },
+  "handbag-simple": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "544d5843d539"
+  },
+  "hard-drive": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "94a65cb8a576"
+  },
+  "hard-drives": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "75e43d526ca2"
   },
   "heart": {
     "added": "2026-08-08",
@@ -3379,6 +3589,56 @@
     "changed": "0",
     "hash": "db7dbd337bd3"
   },
+  "house": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "59c059c26048"
+  },
+  "house-line": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "eb9483e1806c"
+  },
+  "house-simple": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "347081cf0c00"
+  },
+  "identification-badge": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "e5cdcf33105c"
+  },
+  "image": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "3f2b1e79ac82"
+  },
+  "image-broken": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "04fb46905730"
+  },
+  "image-square": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "a8dfff7ed329"
+  },
+  "images": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "87b95f5211ff"
+  },
+  "images-square": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "01b1daeac534"
+  },
+  "instagram-logo": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "a0b67d301dbf"
+  },
   "intersect": {
     "added": "0",
     "changed": "0",
@@ -3398,6 +3658,36 @@
     "added": "0",
     "changed": "0",
     "hash": "21af459b7731"
+  },
+  "link": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "634d4c172e7d"
+  },
+  "link-break": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "1a46cb4f64a2"
+  },
+  "link-simple": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "bf64063d0969"
+  },
+  "link-simple-break": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "c3514513d0e3"
+  },
+  "link-simple-horizontal": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "d9699c373e5a"
+  },
+  "link-simple-horizontal-break": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "3ab85aed42ae"
   },
   "list": {
     "added": "2026-08-08",
@@ -3483,6 +3773,46 @@
     "added": "2026-08-07",
     "changed": "2026-08-07",
     "hash": "a47bae39e4bb"
+  },
+  "magnifying-glass": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "b7bc5c804949"
+  },
+  "magnifying-glass-minus": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "8a80eb400f25"
+  },
+  "magnifying-glass-plus": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "6c922d253110"
+  },
+  "map-pin-line": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "0eefa8bbdb8f"
+  },
+  "map-pin-plus": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "62290132270d"
+  },
+  "map-pin-simple": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "79d5133a51fc"
+  },
+  "map-pin-simple-line": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "d3b8d6e9b9bb"
+  },
+  "map-trifold": {
+    "added": "2026-08-18",
+    "changed": "2026-08-18",
+    "hash": "c3f31902e70d"
   },
   "number-circle-eight": {
     "added": "2026-08-08",
