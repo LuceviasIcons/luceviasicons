@@ -1,5 +1,5 @@
 {
-  "name": "@lucevias/mcp",
+  "name": "@lucevias_icon/mcp",
   "version": "0.2.0",
   "description": "MCP server for the LUCEVIAS icon set: lets an AI agent search the icons and get ready-to-paste code.",
   "license": "MIT",
@@ -11,7 +11,7 @@
     "src"
   ],
   "dependencies": {
-    "@lucevias/core": "0.2.0",
+    "@lucevias_icon/core": "0.2.0",
     "@modelcontextprotocol/sdk": "^1.30.0"
   },
   "keywords": [

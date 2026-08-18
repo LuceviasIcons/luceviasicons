@@ -9,8 +9,8 @@ body:
       options:
         - An icon looks wrong
         - lucevias (React components)
-        - '@lucevias/core (raw SVG and metadata)'
-        - '@lucevias/mcp (MCP server)'
+        - '@lucevias_icon/core (raw SVG and metadata)'
+        - '@lucevias_icon/mcp (MCP server)'
         - The Figma plugin
         - luceviasicons.com
     validations:

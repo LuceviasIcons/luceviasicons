@@ -3,7 +3,7 @@
  * with re-exports.
  *
  * The source is `packages/core/svg` through the shared parsing in
- * `svg-source.mjs`: the package and the `@lucevias/core` metadata grow from the same files.
+ * `svg-source.mjs`: the package and the `@lucevias_icon/core` metadata grow from the same files.
  *
  * Run: `npm run pkg:generate`.
  */

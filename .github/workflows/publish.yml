@@ -4,9 +4,9 @@ name: Publish packages
 # The version comes from the tag so that package.json and npm never drift apart.
 #
 # All three packages are published under one version:
-#   @lucevias/core — raw SVG and metadata (installed by the catalog site)
-#   lucevias       — React components (installed by users)
-#   @lucevias/mcp  — MCP server for AI agents (depends on core)
+#   @lucevias_icon/core — raw SVG and metadata (installed by the catalog site)
+#   lucevias            — React components (installed by users)
+#   @lucevias_icon/mcp  — MCP server for AI agents (depends on core)
 on:
   push:
     tags: ['v*']
@@ -41,14 +41,14 @@ jobs:
           done
           # mcp depends on core by an exact version: without this the released
           # server would pull the previous set from npm
-          (cd packages/mcp && npm pkg set "dependencies.@lucevias/core=$VERSION")
+          (cd packages/mcp && npm pkg set "dependencies.@lucevias_icon/core=$VERSION")
 
       # core is built first: the metadata is computed from the same SVGs as the
       # React components, and the version inside icons.json comes from package.json
-      - name: Build @lucevias/core
+      - name: Build @lucevias_icon/core
         run: npm run core:build
 
-      - name: Publish @lucevias/core
+      - name: Publish @lucevias_icon/core
         working-directory: packages/core
         run: npm publish --provenance --access public
         env:
@@ -64,7 +64,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       # mcp needs no build: it is plain ESM and ships as source
-      - name: Publish @lucevias/mcp
+      - name: Publish @lucevias_icon/mcp
         working-directory: packages/mcp
         run: npm publish --provenance --access public
         env:
