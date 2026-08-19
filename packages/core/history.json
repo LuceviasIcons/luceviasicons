@@ -3549,6 +3549,16 @@
     "changed": "2026-08-18",
     "hash": "75e43d526ca2"
   },
+  "hash": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "aa341318170a"
+  },
+  "hash-straight": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "dbeb4676fedd"
+  },
   "heart": {
     "added": "2026-08-08",
     "changed": "2026-08-08",
@@ -3654,10 +3664,40 @@
     "changed": "0",
     "hash": "800482c3f699"
   },
+  "intersection": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "ffc1f09422ff"
+  },
   "layout": {
     "added": "0",
     "changed": "0",
     "hash": "21af459b7731"
+  },
+  "lightbulb": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "d7dbabbf48dc"
+  },
+  "lightbulb-filament": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "453f0adcc3b1"
+  },
+  "lightning": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "f69e142d29c9"
+  },
+  "lightning-a": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "051e68dc4e3b"
+  },
+  "lightning-slash": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "6985cf0bd735"
   },
   "link": {
     "added": "2026-08-18",
@@ -3814,6 +3854,61 @@
     "changed": "2026-08-18",
     "hash": "c3f31902e70d"
   },
+  "megaphone": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "381a861e6b77"
+  },
+  "megaphone-simple": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "4977e4aea049"
+  },
+  "microphone": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "97c995606253"
+  },
+  "microphone-slash": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "1cf8279230c3"
+  },
+  "minus-circle": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "933cbcb9c965"
+  },
+  "minus-square": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "28562a27529f"
+  },
+  "moon": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "a53845e64dba"
+  },
+  "moon-stars": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "ddebd669d516"
+  },
+  "note-blank": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "fa939735a017"
+  },
+  "note-pencil": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "dcf5dd5817ec"
+  },
+  "notebook": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "f474e94f999c"
+  },
   "number-circle-eight": {
     "added": "2026-08-08",
     "changed": "2026-08-08",
@@ -3969,6 +4064,26 @@
     "changed": "0",
     "hash": "fe8fde7dac14"
   },
+  "package": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "2ad34da5fb54"
+  },
+  "paper-plane": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "d220931709ae"
+  },
+  "paper-plane-right": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "203e1a7e3706"
+  },
+  "paper-plane-tilt": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "274d062e2570"
+  },
   "parallelogram": {
     "added": "0",
     "changed": "0",
@@ -4069,6 +4184,11 @@
     "changed": "2026-08-07",
     "hash": "f7036fa0d0f3"
   },
+  "picture-in-picture": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "bb03264a6bb0"
+  },
   "placeholder": {
     "added": "0",
     "changed": "0",
@@ -4093,6 +4213,46 @@
     "added": "2026-08-09",
     "changed": "2026-08-09",
     "hash": "35ee8f34f7e1"
+  },
+  "plus-circle": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "c30d4a3c106b"
+  },
+  "plus-square": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "2a8ff986abe9"
+  },
+  "presentation": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "caa9086c6eb7"
+  },
+  "presentation-chart": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "f6ae3ee728af"
+  },
+  "puzzle-piece": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "18c0c5eb70e9"
+  },
+  "qr-code": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "bc320c99ec3d"
+  },
+  "question": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "d0376846cc67"
+  },
+  "question-mark": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "a84c4098545a"
   },
   "rectangle": {
     "added": "0",
@@ -4133,6 +4293,21 @@
     "added": "0",
     "changed": "0",
     "hash": "53c45823c1aa"
+  },
+  "scan": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "4f6bd3daf4cd"
+  },
+  "screencast": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "75d31baf3ebc"
+  },
+  "seal-percent": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "4c0e06a7b0ce"
   },
   "selection": {
     "added": "0",
@@ -4209,6 +4384,26 @@
     "changed": "2026-08-07",
     "hash": "d2db1a92fd38"
   },
+  "shopping-bag": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "a6ee7b7aab3d"
+  },
+  "shopping-bag-open": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "d4f552e7b096"
+  },
+  "shopping-cart": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "566d0a472c27"
+  },
+  "shopping-cart-simple": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "366b653e0889"
+  },
   "sidebar": {
     "added": "0",
     "changed": "0",
@@ -4218,6 +4413,21 @@
     "added": "0",
     "changed": "0",
     "hash": "116528f99009"
+  },
+  "sigma": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "4d4ac42e4097"
+  },
+  "sign-in": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "c4b11bbae077"
+  },
+  "sign-out": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "23719f3dbb97"
   },
   "skip-back": {
     "added": "2026-08-09",
@@ -4238,6 +4448,16 @@
     "added": "2026-08-09",
     "changed": "2026-08-09",
     "hash": "bfcc997031e2"
+  },
+  "sliders": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "d6d7e2745b8d"
+  },
+  "sliders-horizontal": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "aeafa18a6dba"
   },
   "smiley": {
     "added": "2026-08-07",
@@ -4289,6 +4509,21 @@
     "changed": "2026-08-07",
     "hash": "c38ff9e1130a"
   },
+  "snowflake": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "319f70edc0e4"
+  },
+  "sort-ascending": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "03c9f647574c"
+  },
+  "sort-descending": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "65dbcc381c49"
+  },
   "speaker-high": {
     "added": "2026-08-07",
     "changed": "2026-08-07",
@@ -4338,6 +4573,26 @@
     "added": "2026-08-07",
     "changed": "2026-08-07",
     "hash": "4c6f0ae014c7"
+  },
+  "spinner": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "837b6f5f2d7c"
+  },
+  "spinner-gap": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "37a027f78c73"
+  },
+  "split-horizontal": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "5dd933a9effc"
+  },
+  "split-vertical": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "5bc16a8773bb"
   },
   "square": {
     "added": "0",
@@ -4389,6 +4644,31 @@
     "changed": "0",
     "hash": "83ea6f9fd50b"
   },
+  "star-and-crescent": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "0df9392e1bcb"
+  },
+  "stop": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "538768e6b4e1"
+  },
+  "storefront": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "a3c5faca86ab"
+  },
+  "subset-of": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "47e442e0137b"
+  },
+  "subset-proper-of": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "fe8308586afe"
+  },
   "subtract": {
     "added": "0",
     "changed": "0",
@@ -4398,6 +4678,56 @@
     "added": "0",
     "changed": "0",
     "hash": "b0d2c655b731"
+  },
+  "sun": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "7b9c7bf7b60a"
+  },
+  "sun-dim": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "4e9c04d779e0"
+  },
+  "superset-of": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "ca6edfbefe3a"
+  },
+  "superset-proper-of": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "b7e5d415e6bb"
+  },
+  "swap": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "e4b3c750d398"
+  },
+  "tag": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "4259f38720b7"
+  },
+  "tag-chevron": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "ca1e9a96a746"
+  },
+  "tag-simple": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "2c2e54afa3e3"
+  },
+  "tea-bag": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "de102d8ed631"
+  },
+  "television-simple": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "1d37b76d45e9"
   },
   "text-a-underline": {
     "added": "2026-08-08",
@@ -4524,6 +4854,36 @@
     "changed": "0",
     "hash": "131142a027cc"
   },
+  "tote-simple": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "a63a5b8521d5"
+  },
+  "trash-simple": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "41eaaf34f36b"
+  },
+  "tray-arrow-down": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "c8085e3cf297"
+  },
+  "tray-arrow-up": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "1e0458e259d9"
+  },
+  "trend-down": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "2b70734aa779"
+  },
+  "trend-up": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "4701e42c662b"
+  },
   "triangle": {
     "added": "0",
     "changed": "0",
@@ -4543,6 +4903,16 @@
     "added": "0",
     "changed": "0",
     "hash": "db0d5e28ea16"
+  },
+  "upload": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "deaef504e2a5"
+  },
+  "upload-simple": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "ce75585aef7e"
   },
   "user": {
     "added": "2026-08-09",
@@ -4659,10 +5029,25 @@
     "changed": "0",
     "hash": "604371e42719"
   },
+  "warning-octagon": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "fcf9e5f3cee3"
+  },
   "watch": {
     "added": "0",
     "changed": "0",
     "hash": "15e2896728fa"
+  },
+  "waveform": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "8475a9d561cf"
+  },
+  "waveform-slash": {
+    "added": "2026-08-19",
+    "changed": "2026-08-19",
+    "hash": "c24c83439270"
   },
   "wifi-high": {
     "added": "2026-08-09",

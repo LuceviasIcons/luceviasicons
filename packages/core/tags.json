@@ -4618,6 +4618,9 @@
   "hard-drives": [
     "hard drives"
   ],
+  "hash-straight": [
+    "hash straight"
+  ],
   "heart": [
     "favorite",
     "like",
@@ -4733,6 +4736,19 @@
     "grid",
     "layout",
     "template"
+  ],
+  "lightbulb-filament": [
+    "lightbulb filament"
+  ],
+  "lightning-a": [
+    "lightning a"
+  ],
+  "lightning-slash": [
+    "disabled",
+    "lightning slash",
+    "mute",
+    "none",
+    "off"
   ],
   "link-break": [
     "link break"
@@ -4923,6 +4939,55 @@
   ],
   "map-trifold": [
     "map trifold"
+  ],
+  "megaphone-simple": [
+    "basic",
+    "megaphone simple",
+    "minimal",
+    "plain"
+  ],
+  "microphone-slash": [
+    "disabled",
+    "microphone slash",
+    "mute",
+    "none",
+    "off"
+  ],
+  "minus-circle": [
+    "delete",
+    "ellipse",
+    "geometry",
+    "less",
+    "minus circle",
+    "remove",
+    "round",
+    "shape",
+    "subtract"
+  ],
+  "minus-square": [
+    "box",
+    "delete",
+    "geometry",
+    "less",
+    "minus square",
+    "rectangle",
+    "remove",
+    "shape",
+    "subtract"
+  ],
+  "moon-stars": [
+    "moon stars"
+  ],
+  "note-blank": [
+    "note blank"
+  ],
+  "note-pencil": [
+    "draw",
+    "edit",
+    "editor",
+    "note pencil",
+    "tool",
+    "write"
   ],
   "number-circle-eight": [
     "8",
@@ -5251,6 +5316,21 @@
     "shape",
     "stop"
   ],
+  "paper-plane": [
+    "paper plane"
+  ],
+  "paper-plane-right": [
+    "east",
+    "forward",
+    "next",
+    "paper plane right"
+  ],
+  "paper-plane-tilt": [
+    "angle",
+    "paper plane tilt",
+    "rotate",
+    "skew"
+  ],
   "parallelogram": [
     "geometry",
     "shape",
@@ -5359,6 +5439,12 @@
     "phone x",
     "remove"
   ],
+  "picture-in-picture": [
+    "collapse",
+    "enter",
+    "inside",
+    "picture in picture"
+  ],
   "placeholder": [
     "blank",
     "empty",
@@ -5373,6 +5459,43 @@
   ],
   "play-pause": [
     "play pause"
+  ],
+  "plus-circle": [
+    "add",
+    "create",
+    "ellipse",
+    "geometry",
+    "more",
+    "new",
+    "plus circle",
+    "round",
+    "shape"
+  ],
+  "plus-square": [
+    "add",
+    "box",
+    "create",
+    "geometry",
+    "more",
+    "new",
+    "plus square",
+    "rectangle",
+    "shape"
+  ],
+  "presentation-chart": [
+    "presentation chart"
+  ],
+  "puzzle-piece": [
+    "puzzle piece"
+  ],
+  "qr-code": [
+    "development",
+    "programming",
+    "qr code",
+    "source"
+  ],
+  "question-mark": [
+    "question mark"
   ],
   "rectangle": [
     "box",
@@ -5440,6 +5563,9 @@
     "split",
     "table",
     "up"
+  ],
+  "seal-percent": [
+    "seal percent"
   ],
   "selection": [
     "editor",
@@ -5546,6 +5672,32 @@
     "error",
     "shield warning"
   ],
+  "shopping-bag": [
+    "purchase",
+    "purse",
+    "shopping",
+    "shopping bag",
+    "store"
+  ],
+  "shopping-bag-open": [
+    "expand",
+    "purchase",
+    "purse",
+    "shopping",
+    "shopping bag open",
+    "store",
+    "unfold",
+    "unlock"
+  ],
+  "shopping-cart": [
+    "shopping cart"
+  ],
+  "shopping-cart-simple": [
+    "basic",
+    "minimal",
+    "plain",
+    "shopping cart simple"
+  ],
   "sidebar": [
     "design",
     "layout",
@@ -5563,6 +5715,18 @@
     "panel",
     "plain",
     "sidebar simple"
+  ],
+  "sign-in": [
+    "collapse",
+    "enter",
+    "inside",
+    "sign in"
+  ],
+  "sign-out": [
+    "exit",
+    "expand",
+    "outside",
+    "sign out"
   ],
   "skip-back": [
     "skip back"
@@ -5583,6 +5747,12 @@
     "round",
     "shape",
     "skip forward circle"
+  ],
+  "sliders-horizontal": [
+    "row",
+    "sliders horizontal",
+    "width",
+    "x"
   ],
   "smiley-angry": [
     "smiley angry"
@@ -5614,6 +5784,12 @@
     "cross",
     "remove",
     "smiley x eyes"
+  ],
+  "sort-ascending": [
+    "sort ascending"
+  ],
+  "sort-descending": [
+    "sort descending"
   ],
   "speaker-high": [
     "level",
@@ -5687,6 +5863,27 @@
     "cross",
     "remove",
     "speaker x"
+  ],
+  "spinner-gap": [
+    "spinner gap"
+  ],
+  "split-horizontal": [
+    "divide",
+    "half",
+    "row",
+    "separate",
+    "split horizontal",
+    "width",
+    "x"
+  ],
+  "split-vertical": [
+    "column",
+    "divide",
+    "half",
+    "height",
+    "separate",
+    "split vertical",
+    "y"
   ],
   "square": [
     "box",
@@ -5779,6 +5976,18 @@
     "plain",
     "stack simple"
   ],
+  "star-and-crescent": [
+    "bookmark",
+    "favorite",
+    "rating",
+    "star and crescent"
+  ],
+  "subset-of": [
+    "subset of"
+  ],
+  "subset-proper-of": [
+    "subset proper of"
+  ],
   "subtract": [
     "boolean",
     "minus",
@@ -5794,6 +6003,37 @@
     "rectangle",
     "shape",
     "subtract square"
+  ],
+  "sun-dim": [
+    "sun dim"
+  ],
+  "superset-of": [
+    "superset of"
+  ],
+  "superset-proper-of": [
+    "superset proper of"
+  ],
+  "tag-chevron": [
+    "tag chevron"
+  ],
+  "tag-simple": [
+    "basic",
+    "minimal",
+    "plain",
+    "tag simple"
+  ],
+  "tea-bag": [
+    "purchase",
+    "purse",
+    "shopping",
+    "store",
+    "tea bag"
+  ],
+  "television-simple": [
+    "basic",
+    "minimal",
+    "plain",
+    "television simple"
   ],
   "text-a-underline": [
     "text a underline"
@@ -5948,6 +6188,48 @@
     "stopwatch",
     "time"
   ],
+  "tote-simple": [
+    "basic",
+    "minimal",
+    "plain",
+    "tote simple"
+  ],
+  "trash-simple": [
+    "basic",
+    "minimal",
+    "plain",
+    "trash simple"
+  ],
+  "tray-arrow-down": [
+    "below",
+    "bottom",
+    "direction",
+    "navigation",
+    "pointer",
+    "south",
+    "tray arrow down"
+  ],
+  "tray-arrow-up": [
+    "above",
+    "direction",
+    "navigation",
+    "north",
+    "pointer",
+    "top",
+    "tray arrow up"
+  ],
+  "trend-down": [
+    "below",
+    "bottom",
+    "south",
+    "trend down"
+  ],
+  "trend-up": [
+    "above",
+    "north",
+    "top",
+    "trend up"
+  ],
   "triangle": [
     "geometry",
     "polygon",
@@ -5981,6 +6263,12 @@
     "rectangle",
     "shape",
     "unite square"
+  ],
+  "upload-simple": [
+    "basic",
+    "minimal",
+    "plain",
+    "upload simple"
   ],
   "user": [
     "account",
@@ -6186,10 +6474,28 @@
     "filter",
     "photo"
   ],
+  "warning-octagon": [
+    "alert",
+    "caution",
+    "eight",
+    "error",
+    "geometry",
+    "polygon",
+    "shape",
+    "stop",
+    "warning octagon"
+  ],
   "watch": [
     "clock",
     "time",
     "wearable"
+  ],
+  "waveform-slash": [
+    "disabled",
+    "mute",
+    "none",
+    "off",
+    "waveform slash"
   ],
   "wifi-high": [
     "level",
