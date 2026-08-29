@@ -4606,6 +4606,24 @@
     "layout",
     "table"
   ],
+  "hand-pointing": [
+    "hand pointing"
+  ],
+  "hand-swipe-left": [
+    "back",
+    "hand swipe left",
+    "previous",
+    "west"
+  ],
+  "hand-swipe-right": [
+    "east",
+    "forward",
+    "hand swipe right",
+    "next"
+  ],
+  "hand-tap": [
+    "hand tap"
+  ],
   "handbag-simple": [
     "basic",
     "handbag simple",
@@ -4646,6 +4664,12 @@
     "shape",
     "six"
   ],
+  "high-definition": [
+    "high definition",
+    "level",
+    "max",
+    "top"
+  ],
   "hourglass": [
     "loading",
     "time",
@@ -4683,6 +4707,9 @@
   ],
   "identification-badge": [
     "identification badge"
+  ],
+  "identification-card": [
+    "identification card"
   ],
   "image-broken": [
     "image broken"
@@ -4730,12 +4757,42 @@
     "path",
     "shape"
   ],
+  "key-return": [
+    "key return"
+  ],
   "layout": [
     "arrange",
     "design",
     "grid",
     "layout",
     "template"
+  ],
+  "less-than": [
+    "less than"
+  ],
+  "less-than-or-equal": [
+    "less than or equal"
+  ],
+  "letter-circle-h": [
+    "ellipse",
+    "geometry",
+    "letter circle h",
+    "round",
+    "shape"
+  ],
+  "letter-circle-p": [
+    "ellipse",
+    "geometry",
+    "letter circle p",
+    "round",
+    "shape"
+  ],
+  "letter-circle-v": [
+    "ellipse",
+    "geometry",
+    "letter circle v",
+    "round",
+    "shape"
   ],
   "lightbulb-filament": [
     "lightbulb filament"
@@ -4749,6 +4806,18 @@
     "mute",
     "none",
     "off"
+  ],
+  "line-segment": [
+    "line segment"
+  ],
+  "line-segments": [
+    "line segments"
+  ],
+  "line-vertical": [
+    "column",
+    "height",
+    "line vertical",
+    "y"
   ],
   "link-break": [
     "link break"
@@ -4886,6 +4955,9 @@
     "unfold",
     "unlock"
   ],
+  "magnet-straight": [
+    "magnet straight"
+  ],
   "magnifying-glass": [
     "find",
     "glass",
@@ -4940,11 +5012,22 @@
   "map-trifold": [
     "map trifold"
   ],
+  "math-operations": [
+    "math operations"
+  ],
+  "matrix-logo": [
+    "brand",
+    "logo",
+    "matrix logo"
+  ],
   "megaphone-simple": [
     "basic",
     "megaphone simple",
     "minimal",
     "plain"
+  ],
+  "member-of": [
+    "member of"
   ],
   "microphone-slash": [
     "disabled",
@@ -4952,6 +5035,12 @@
     "mute",
     "none",
     "off"
+  ],
+  "minus": [
+    "delete",
+    "less",
+    "remove",
+    "subtract"
   ],
   "minus-circle": [
     "delete",
@@ -4975,8 +5064,102 @@
     "shape",
     "subtract"
   ],
+  "monitor-arrow-up": [
+    "above",
+    "direction",
+    "monitor arrow up",
+    "navigation",
+    "north",
+    "pointer",
+    "top"
+  ],
+  "monitor-play": [
+    "monitor play"
+  ],
   "moon-stars": [
     "moon stars"
+  ],
+  "mouse-left-click": [
+    "back",
+    "mouse left click",
+    "previous",
+    "west"
+  ],
+  "mouse-middle-click": [
+    "mouse middle click"
+  ],
+  "mouse-right-click": [
+    "east",
+    "forward",
+    "mouse right click",
+    "next"
+  ],
+  "mouse-scroll": [
+    "mouse scroll"
+  ],
+  "mouse-simple": [
+    "basic",
+    "minimal",
+    "mouse simple",
+    "plain"
+  ],
+  "music-note": [
+    "music note"
+  ],
+  "music-note-simple": [
+    "basic",
+    "minimal",
+    "music note simple",
+    "plain"
+  ],
+  "music-notes": [
+    "music notes"
+  ],
+  "music-notes-minus": [
+    "delete",
+    "less",
+    "music notes minus",
+    "remove",
+    "subtract"
+  ],
+  "music-notes-plus": [
+    "add",
+    "create",
+    "more",
+    "music notes plus",
+    "new"
+  ],
+  "music-notes-simple": [
+    "basic",
+    "minimal",
+    "music notes simple",
+    "plain"
+  ],
+  "network-slash": [
+    "disabled",
+    "mute",
+    "network slash",
+    "none",
+    "off"
+  ],
+  "network-x": [
+    "cancel",
+    "close",
+    "cross",
+    "network x",
+    "remove"
+  ],
+  "not-equals": [
+    "not equals"
+  ],
+  "not-member-of": [
+    "not member of"
+  ],
+  "not-subset-of": [
+    "not subset of"
+  ],
+  "not-superset-of": [
+    "not superset of"
   ],
   "note-blank": [
     "note blank"
@@ -5316,6 +5499,9 @@
     "shape",
     "stop"
   ],
+  "paint-brush": [
+    "paint brush"
+  ],
   "paper-plane": [
     "paper plane"
   ],
@@ -5460,6 +5646,15 @@
   "play-pause": [
     "play pause"
   ],
+  "plug-charging": [
+    "energy",
+    "plug",
+    "plug charging",
+    "power"
+  ],
+  "plugs-connected": [
+    "plugs connected"
+  ],
   "plus-circle": [
     "add",
     "create",
@@ -5470,6 +5665,17 @@
     "plus circle",
     "round",
     "shape"
+  ],
+  "plus-minus": [
+    "add",
+    "create",
+    "delete",
+    "less",
+    "more",
+    "new",
+    "plus minus",
+    "remove",
+    "subtract"
   ],
   "plus-square": [
     "add",
@@ -5485,6 +5691,35 @@
   "presentation-chart": [
     "presentation chart"
   ],
+  "prohibit-inset": [
+    "prohibit inset"
+  ],
+  "push-pin": [
+    "push pin"
+  ],
+  "push-pin-simple": [
+    "basic",
+    "minimal",
+    "plain",
+    "push pin simple"
+  ],
+  "push-pin-simple-slash": [
+    "basic",
+    "disabled",
+    "minimal",
+    "mute",
+    "none",
+    "off",
+    "plain",
+    "push pin simple slash"
+  ],
+  "push-pin-slash": [
+    "disabled",
+    "mute",
+    "none",
+    "off",
+    "push pin slash"
+  ],
   "puzzle-piece": [
     "puzzle piece"
   ],
@@ -5496,6 +5731,19 @@
   ],
   "question-mark": [
     "question mark"
+  ],
+  "radio-button": [
+    "radio button"
+  ],
+  "rainbow-cloud": [
+    "rainbow cloud"
+  ],
+  "receipt-x": [
+    "cancel",
+    "close",
+    "cross",
+    "receipt x",
+    "remove"
   ],
   "rectangle": [
     "box",
@@ -5517,6 +5765,9 @@
     "environment",
     "reuse",
     "sustainability"
+  ],
+  "repeat-once": [
+    "repeat once"
   ],
   "resize": [
     "scale",
@@ -5564,8 +5815,24 @@
     "table",
     "up"
   ],
+  "seal-check": [
+    "confirm",
+    "done",
+    "seal check",
+    "success",
+    "tick"
+  ],
   "seal-percent": [
     "seal percent"
+  ],
+  "seal-question": [
+    "seal question"
+  ],
+  "seal-warning": [
+    "alert",
+    "caution",
+    "error",
+    "seal warning"
   ],
   "selection": [
     "editor",
@@ -5633,6 +5900,9 @@
     "selection slash",
     "tool"
   ],
+  "share-network": [
+    "share network"
+  ],
   "shield-check": [
     "confirm",
     "done",
@@ -5697,6 +5967,13 @@
     "minimal",
     "plain",
     "shopping cart simple"
+  ],
+  "shuffle-angular": [
+    "brand",
+    "code",
+    "framework",
+    "logo",
+    "shuffle angular"
   ],
   "sidebar": [
     "design",
@@ -5909,6 +6186,15 @@
     "shape",
     "square half bottom"
   ],
+  "square-logo": [
+    "box",
+    "brand",
+    "geometry",
+    "logo",
+    "rectangle",
+    "shape",
+    "square logo"
+  ],
   "square-split-horizontal": [
     "box",
     "divide",
@@ -5976,11 +6262,19 @@
     "plain",
     "stack simple"
   ],
+  "standard-definition": [
+    "standard definition"
+  ],
   "star-and-crescent": [
     "bookmark",
     "favorite",
     "rating",
     "star and crescent"
+  ],
+  "stripe-logo": [
+    "brand",
+    "logo",
+    "stripe logo"
   ],
   "subset-of": [
     "subset of"
@@ -6003,6 +6297,15 @@
     "rectangle",
     "shape",
     "subtract square"
+  ],
+  "suitcase-rolling": [
+    "suitcase rolling"
+  ],
+  "suitcase-simple": [
+    "basic",
+    "minimal",
+    "plain",
+    "suitcase simple"
   ],
   "sun-dim": [
     "sun dim"
@@ -6034,6 +6337,9 @@
     "minimal",
     "plain",
     "television simple"
+  ],
+  "terminal-window": [
+    "terminal window"
   ],
   "text-a-underline": [
     "text a underline"
@@ -6183,16 +6489,47 @@
   "text-underline": [
     "text underline"
   ],
+  "thermometer-cold": [
+    "thermometer cold"
+  ],
+  "thermometer-hot": [
+    "thermometer hot"
+  ],
+  "thermometer-simple": [
+    "basic",
+    "minimal",
+    "plain",
+    "thermometer simple"
+  ],
+  "three-d": [
+    "3",
+    "three d"
+  ],
   "timer": [
     "countdown",
     "stopwatch",
     "time"
+  ],
+  "toggle-left": [
+    "back",
+    "previous",
+    "toggle left",
+    "west"
+  ],
+  "toggle-right": [
+    "east",
+    "forward",
+    "next",
+    "toggle right"
   ],
   "tote-simple": [
     "basic",
     "minimal",
     "plain",
     "tote simple"
+  ],
+  "trademark-registered": [
+    "trademark registered"
   ],
   "trash-simple": [
     "basic",
@@ -6217,6 +6554,12 @@
     "pointer",
     "top",
     "tray arrow up"
+  ],
+  "tree-structure": [
+    "tree structure"
+  ],
+  "tree-view": [
+    "tree view"
   ],
   "trend-down": [
     "below",
@@ -6474,6 +6817,30 @@
     "filter",
     "photo"
   ],
+  "virtual-reality": [
+    "virtual reality"
+  ],
+  "warning": [
+    "alert",
+    "caution",
+    "error"
+  ],
+  "warning-circle": [
+    "alert",
+    "caution",
+    "ellipse",
+    "error",
+    "geometry",
+    "round",
+    "shape",
+    "warning circle"
+  ],
+  "warning-diamond": [
+    "alert",
+    "caution",
+    "error",
+    "warning diamond"
+  ],
   "warning-octagon": [
     "alert",
     "caution",
@@ -6489,6 +6856,26 @@
     "clock",
     "time",
     "wearable"
+  ],
+  "wave-sawtooth": [
+    "wave sawtooth"
+  ],
+  "wave-sine": [
+    "wave sine"
+  ],
+  "wave-square": [
+    "box",
+    "geometry",
+    "rectangle",
+    "shape",
+    "wave square"
+  ],
+  "wave-triangle": [
+    "geometry",
+    "polygon",
+    "shape",
+    "three",
+    "wave triangle"
   ],
   "waveform-slash": [
     "disabled",
@@ -6531,5 +6918,27 @@
     "cross",
     "remove",
     "wifi x"
+  ],
+  "x-circle": [
+    "cancel",
+    "close",
+    "cross",
+    "ellipse",
+    "geometry",
+    "remove",
+    "round",
+    "shape",
+    "x circle"
+  ],
+  "x-square": [
+    "box",
+    "cancel",
+    "close",
+    "cross",
+    "geometry",
+    "rectangle",
+    "remove",
+    "shape",
+    "x square"
   ]
 }

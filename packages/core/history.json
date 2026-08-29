@@ -3529,6 +3529,26 @@
     "changed": "2026-08-18",
     "hash": "0e5a8526dd2c"
   },
+  "hand-pointing": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "f342010266ec"
+  },
+  "hand-swipe-left": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "52011258eb79"
+  },
+  "hand-swipe-right": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "120e9b0a039f"
+  },
+  "hand-tap": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "177614ef639d"
+  },
   "handbag": {
     "added": "2026-08-18",
     "changed": "2026-08-18",
@@ -3584,6 +3604,11 @@
     "changed": "0",
     "hash": "196db20eba00"
   },
+  "high-definition": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "b1c2068a6dde"
+  },
   "hourglass": {
     "added": "0",
     "changed": "0",
@@ -3619,6 +3644,11 @@
     "changed": "2026-08-18",
     "hash": "e5cdcf33105c"
   },
+  "identification-card": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "3b3ffd961c5e"
+  },
   "image": {
     "added": "2026-08-18",
     "changed": "2026-08-18",
@@ -3643,6 +3673,11 @@
     "added": "2026-08-18",
     "changed": "2026-08-18",
     "hash": "01b1daeac534"
+  },
+  "info": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "66efe327cef9"
   },
   "instagram-logo": {
     "added": "2026-08-18",
@@ -3669,10 +3704,55 @@
     "changed": "2026-08-19",
     "hash": "ffc1f09422ff"
   },
+  "key-return": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "5688a3a3a704"
+  },
+  "keyboard": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "96729d8832fb"
+  },
+  "lamp": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "8b270ab87c9f"
+  },
   "layout": {
     "added": "0",
     "changed": "0",
     "hash": "21af459b7731"
+  },
+  "lectern": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "cabb8638999e"
+  },
+  "less-than": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "bc649657a90d"
+  },
+  "less-than-or-equal": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "5009b7693840"
+  },
+  "letter-circle-h": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "4e074eea923c"
+  },
+  "letter-circle-p": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "e734fb0a4326"
+  },
+  "letter-circle-v": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "8645f0ec52a1"
   },
   "lightbulb": {
     "added": "2026-08-19",
@@ -3698,6 +3778,21 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "6985cf0bd735"
+  },
+  "line-segment": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "1962ba8483b6"
+  },
+  "line-segments": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "da201e074664"
+  },
+  "line-vertical": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "c873f65eee7f"
   },
   "link": {
     "added": "2026-08-18",
@@ -3814,6 +3909,16 @@
     "changed": "2026-08-07",
     "hash": "a47bae39e4bb"
   },
+  "magnet": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "eca495408e31"
+  },
+  "magnet-straight": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "de9e512b49e2"
+  },
   "magnifying-glass": {
     "added": "2026-08-18",
     "changed": "2026-08-18",
@@ -3854,6 +3959,16 @@
     "changed": "2026-08-18",
     "hash": "c3f31902e70d"
   },
+  "math-operations": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "130de726323c"
+  },
+  "matrix-logo": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "1752887c103f"
+  },
   "megaphone": {
     "added": "2026-08-19",
     "changed": "2026-08-19",
@@ -3863,6 +3978,11 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "4977e4aea049"
+  },
+  "member-of": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "3f5152dece32"
   },
   "microphone": {
     "added": "2026-08-19",
@@ -3874,6 +3994,11 @@
     "changed": "2026-08-19",
     "hash": "1cf8279230c3"
   },
+  "minus": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "61498c0c5cc3"
+  },
   "minus-circle": {
     "added": "2026-08-19",
     "changed": "2026-08-19",
@@ -3884,6 +4009,21 @@
     "changed": "2026-08-19",
     "hash": "28562a27529f"
   },
+  "monitor": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "16c109bf1bc1"
+  },
+  "monitor-arrow-up": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "3cab688e9462"
+  },
+  "monitor-play": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "41b799f59964"
+  },
   "moon": {
     "added": "2026-08-19",
     "changed": "2026-08-19",
@@ -3893,6 +4033,101 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "ddebd669d516"
+  },
+  "mouse": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "fa9d84582eb8"
+  },
+  "mouse-left-click": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "751f2905f2e0"
+  },
+  "mouse-middle-click": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "261b01a010ef"
+  },
+  "mouse-right-click": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "350634aae3cf"
+  },
+  "mouse-scroll": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "6dd0485b5c17"
+  },
+  "mouse-simple": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "7ff078cf2908"
+  },
+  "music-note": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "1216708c9459"
+  },
+  "music-note-simple": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "7f58f3802e5e"
+  },
+  "music-notes": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "96acd266c9a1"
+  },
+  "music-notes-minus": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "ec6e2e9f7a3e"
+  },
+  "music-notes-plus": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "4626c10a4e89"
+  },
+  "music-notes-simple": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "537f1255cbae"
+  },
+  "network": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "57030243e1c1"
+  },
+  "network-slash": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "b178711bdd47"
+  },
+  "network-x": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "d277ef5217c6"
+  },
+  "not-equals": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "298fb20c7580"
+  },
+  "not-member-of": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "1e588d84a4a8"
+  },
+  "not-subset-of": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "42c0ce1dbd34"
+  },
+  "not-superset-of": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "e7695dc58224"
   },
   "note-blank": {
     "added": "2026-08-19",
@@ -3908,6 +4143,11 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "f474e94f999c"
+  },
+  "notification": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "233997e8604a"
   },
   "number-circle-eight": {
     "added": "2026-08-08",
@@ -4069,6 +4309,11 @@
     "changed": "2026-08-19",
     "hash": "2ad34da5fb54"
   },
+  "paint-brush": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "5413826da395"
+  },
   "paper-plane": {
     "added": "2026-08-19",
     "changed": "2026-08-19",
@@ -4084,6 +4329,11 @@
     "changed": "2026-08-19",
     "hash": "274d062e2570"
   },
+  "paperclip": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "1f605f967ba6"
+  },
   "parallelogram": {
     "added": "0",
     "changed": "0",
@@ -4098,6 +4348,11 @@
     "added": "2026-08-09",
     "changed": "2026-08-09",
     "hash": "7511b04b819d"
+  },
+  "peace": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "6a216707c9ed"
   },
   "pen": {
     "added": "0",
@@ -4214,10 +4469,35 @@
     "changed": "2026-08-09",
     "hash": "35ee8f34f7e1"
   },
+  "plug": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "f619473e4934"
+  },
+  "plug-charging": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "efe24e647f9c"
+  },
+  "plugs": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "66a1fc5a65f8"
+  },
+  "plugs-connected": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "c0b0335d9dcd"
+  },
   "plus-circle": {
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "c30d4a3c106b"
+  },
+  "plus-minus": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "2543c4badc0e"
   },
   "plus-square": {
     "added": "2026-08-19",
@@ -4233,6 +4513,41 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "f6ae3ee728af"
+  },
+  "prohibit": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "7bb3223ef618"
+  },
+  "prohibit-inset": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "e51c4703db93"
+  },
+  "pulse": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "eaee7ffb793e"
+  },
+  "push-pin": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "4b256ef968d4"
+  },
+  "push-pin-simple": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "3dc50dfe6dff"
+  },
+  "push-pin-simple-slash": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "4e4d9b08e5d5"
+  },
+  "push-pin-slash": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "38fe28a073e2"
   },
   "puzzle-piece": {
     "added": "2026-08-19",
@@ -4254,6 +4569,41 @@
     "changed": "2026-08-19",
     "hash": "a84c4098545a"
   },
+  "radical": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "0dd0604b63e9"
+  },
+  "radio-button": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "d0a770fa3b16"
+  },
+  "rainbow": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "c98d4d34375a"
+  },
+  "rainbow-cloud": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "94d7be905295"
+  },
+  "receipt": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "c92dbafa392c"
+  },
+  "receipt-x": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "907418344916"
+  },
+  "record": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "87dd48d31d6b"
+  },
   "rectangle": {
     "added": "0",
     "changed": "0",
@@ -4268,6 +4618,16 @@
     "added": "0",
     "changed": "0",
     "hash": "a591ce219b36"
+  },
+  "repeat": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "d5bebe037a1a"
+  },
+  "repeat-once": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "f9fed70df053"
   },
   "resize": {
     "added": "0",
@@ -4304,10 +4664,30 @@
     "changed": "2026-08-19",
     "hash": "75d31baf3ebc"
   },
+  "seal": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "2168dcf40221"
+  },
+  "seal-check": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "03bb1657889c"
+  },
   "seal-percent": {
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "4c0e06a7b0ce"
+  },
+  "seal-question": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "87c91c64152e"
+  },
+  "seal-warning": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "2ab7123e65a2"
   },
   "selection": {
     "added": "0",
@@ -4343,6 +4723,11 @@
     "added": "0",
     "changed": "0",
     "hash": "a9dca8b29fce"
+  },
+  "share-network": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "a002d6e59db7"
   },
   "shield": {
     "added": "2026-08-07",
@@ -4404,6 +4789,16 @@
     "changed": "2026-08-19",
     "hash": "366b653e0889"
   },
+  "shuffle": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "49a4447a8c8c"
+  },
+  "shuffle-angular": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "6463cd55ea3a"
+  },
   "sidebar": {
     "added": "0",
     "changed": "0",
@@ -4458,6 +4853,11 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "aeafa18a6dba"
+  },
+  "slideshow": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "40e0b7b2f82d"
   },
   "smiley": {
     "added": "2026-08-07",
@@ -4609,6 +5009,11 @@
     "changed": "0",
     "hash": "2325983ffd68"
   },
+  "square-logo": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "56a5e95b5995"
+  },
   "square-split-horizontal": {
     "added": "0",
     "changed": "0",
@@ -4644,10 +5049,25 @@
     "changed": "0",
     "hash": "83ea6f9fd50b"
   },
+  "standard-definition": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "0bb4870c19cf"
+  },
   "star-and-crescent": {
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "0df9392e1bcb"
+  },
+  "steps": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "3c3eb509eaca"
+  },
+  "sticker": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "2c3ff6456a1d"
   },
   "stop": {
     "added": "2026-08-19",
@@ -4658,6 +5078,11 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "a3c5faca86ab"
+  },
+  "stripe-logo": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "bb59775a0d37"
   },
   "subset-of": {
     "added": "2026-08-19",
@@ -4678,6 +5103,21 @@
     "added": "0",
     "changed": "0",
     "hash": "b0d2c655b731"
+  },
+  "suitcase": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "ac451bf8f515"
+  },
+  "suitcase-rolling": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "9c0401356936"
+  },
+  "suitcase-simple": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "bf1b238a19d8"
   },
   "sun": {
     "added": "2026-08-19",
@@ -4728,6 +5168,16 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "1d37b76d45e9"
+  },
+  "terminal": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "bd1fcfff69db"
+  },
+  "terminal-window": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "93c56908d748"
   },
   "text-a-underline": {
     "added": "2026-08-08",
@@ -4849,15 +5299,75 @@
     "changed": "2026-08-08",
     "hash": "4e7add16a545"
   },
+  "thermometer": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "56b5d096d5c7"
+  },
+  "thermometer-cold": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "c5af1c44f822"
+  },
+  "thermometer-hot": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "ad8269567a92"
+  },
+  "thermometer-simple": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "71c651ddb730"
+  },
+  "three-d": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "7898f417d5f1"
+  },
+  "tilde": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "61548f696a6a"
+  },
   "timer": {
     "added": "0",
     "changed": "0",
     "hash": "131142a027cc"
   },
+  "toggle-left": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "a864acac7e18"
+  },
+  "toggle-right": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "b672dd304931"
+  },
+  "tote": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "cbcada521d86"
+  },
   "tote-simple": {
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "a63a5b8521d5"
+  },
+  "trademark": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "86053c626ce8"
+  },
+  "trademark-registered": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "9cc4ae9e38fb"
+  },
+  "trash": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "1b4db6f4a3aa"
   },
   "trash-simple": {
     "added": "2026-08-19",
@@ -4873,6 +5383,16 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "1e0458e259d9"
+  },
+  "tree-structure": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "0cf59f1aad91"
+  },
+  "tree-view": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "d63572e1d294"
   },
   "trend-down": {
     "added": "2026-08-19",
@@ -4893,6 +5413,11 @@
     "added": "0",
     "changed": "0",
     "hash": "1255a2ae35f9"
+  },
+  "union": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "9f596ea56d76"
   },
   "unite": {
     "added": "0",
@@ -5024,10 +5549,35 @@
     "changed": "0",
     "hash": "ec5d437ccdcf"
   },
+  "vibrate": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "0dc4c7d57a78"
+  },
   "vignette": {
     "added": "0",
     "changed": "0",
     "hash": "604371e42719"
+  },
+  "virtual-reality": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "90a8316eb5d6"
+  },
+  "warning": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "d02f5ebbbca5"
+  },
+  "warning-circle": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "20da28933f81"
+  },
+  "warning-diamond": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "ce9664630127"
   },
   "warning-octagon": {
     "added": "2026-08-19",
@@ -5039,6 +5589,26 @@
     "changed": "0",
     "hash": "15e2896728fa"
   },
+  "wave-sawtooth": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "eff207994f4e"
+  },
+  "wave-sine": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "3d1d37aa4e02"
+  },
+  "wave-square": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "71a9ad869a02"
+  },
+  "wave-triangle": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "ad8632139408"
+  },
   "waveform": {
     "added": "2026-08-19",
     "changed": "2026-08-19",
@@ -5048,6 +5618,11 @@
     "added": "2026-08-19",
     "changed": "2026-08-19",
     "hash": "c24c83439270"
+  },
+  "waves": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "ba0b09c61cf0"
   },
   "wifi-high": {
     "added": "2026-08-09",
@@ -5078,5 +5653,20 @@
     "added": "2026-08-09",
     "changed": "2026-08-09",
     "hash": "b8d3b4ba6f32"
+  },
+  "wind": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "2aa8b691fcd1"
+  },
+  "x-circle": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "0195598274bf"
+  },
+  "x-square": {
+    "added": "2026-08-29",
+    "changed": "2026-08-29",
+    "hash": "7bfab2aa6982"
   }
 }
