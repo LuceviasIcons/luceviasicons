@@ -2191,17 +2191,81 @@
     "web",
     "windows"
   ],
+  "bug": [
+    "error",
+    "glitch",
+    "insect",
+    "issue"
+  ],
   "bug-beetle": [
-    "bug beetle"
+    "bug beetle",
+    "error",
+    "glitch",
+    "insect",
+    "issue"
   ],
   "bug-droid": [
-    "bug droid"
+    "bug droid",
+    "error",
+    "glitch",
+    "insect",
+    "issue"
+  ],
+  "building": [
+    "architecture",
+    "office",
+    "skyscraper",
+    "tower"
   ],
   "building-apartment": [
-    "building apartment"
+    "architecture",
+    "building apartment",
+    "office",
+    "skyscraper",
+    "tower"
+  ],
+  "buildings": [
+    "architecture",
+    "city",
+    "office",
+    "skyscrapers"
+  ],
+  "bulldozer": [
+    "construction",
+    "excavator",
+    "heavy equipment",
+    "tractor"
+  ],
+  "bus": [
+    "coach",
+    "transit",
+    "transport",
+    "vehicle"
+  ],
+  "butterfly": [
+    "insect",
+    "moth",
+    "nature",
+    "wings"
   ],
   "cable-car": [
-    "cable car"
+    "automobile",
+    "cable car",
+    "drive",
+    "transport",
+    "vehicle"
+  ],
+  "cactus": [
+    "desert",
+    "nature",
+    "plant",
+    "succulent"
+  ],
+  "cake": [
+    "birthday",
+    "celebration",
+    "dessert",
+    "party"
   ],
   "calendar": [
     "date",
@@ -2328,35 +2392,88 @@
     "notification",
     "ring"
   ],
+  "camera": [
+    "photo",
+    "photography",
+    "picture",
+    "snapshot"
+  ],
   "camera-plus": [
     "add",
     "camera plus",
     "create",
     "more",
-    "new"
+    "new",
+    "photo",
+    "photography",
+    "picture",
+    "snapshot"
   ],
   "camera-rotate": [
-    "camera rotate"
+    "camera rotate",
+    "photo",
+    "photography",
+    "picture",
+    "snapshot"
   ],
   "camera-slash": [
     "camera slash",
     "disabled",
     "mute",
     "none",
-    "off"
+    "off",
+    "photo",
+    "photography",
+    "picture",
+    "snapshot"
+  ],
+  "campfire": [
+    "bonfire",
+    "camping",
+    "flame",
+    "outdoors"
+  ],
+  "car": [
+    "automobile",
+    "drive",
+    "transport",
+    "vehicle"
   ],
   "car-profile": [
-    "car profile"
+    "automobile",
+    "car profile",
+    "drive",
+    "transport",
+    "vehicle"
   ],
   "car-simple": [
+    "automobile",
     "basic",
     "car simple",
+    "drive",
     "minimal",
-    "plain"
+    "plain",
+    "transport",
+    "vehicle"
+  ],
+  "cardholder": [
+    "billfold",
+    "credit card",
+    "wallet"
+  ],
+  "cards": [
+    "deck",
+    "game",
+    "playing cards",
+    "poker"
   ],
   "cards-three": [
     "3",
-    "cards three"
+    "cards three",
+    "deck",
+    "game",
+    "playing cards",
+    "poker"
   ],
   "caret-circle-double-down": [
     "arrow",
@@ -2664,6 +2781,11 @@
     "top",
     "triangle"
   ],
+  "carrot": [
+    "food",
+    "vegetable",
+    "vegetable garden"
+  ],
   "cash-register": [
     "cash register"
   ],
@@ -2672,6 +2794,12 @@
   ],
   "castle-turret": [
     "castle turret"
+  ],
+  "cat": [
+    "animal",
+    "feline",
+    "kitten",
+    "pet"
   ],
   "cell-signal-full": [
     "cell signal full",
@@ -2717,14 +2845,39 @@
   "cell-tower": [
     "cell tower"
   ],
+  "certificate": [
+    "award",
+    "credential",
+    "diploma",
+    "document"
+  ],
+  "chair": [
+    "furniture",
+    "seat",
+    "sit"
+  ],
+  "chalkboard": [
+    "blackboard",
+    "classroom",
+    "lesson",
+    "teach"
+  ],
   "chalkboard-simple": [
     "basic",
+    "blackboard",
     "chalkboard simple",
+    "classroom",
+    "lesson",
     "minimal",
-    "plain"
+    "plain",
+    "teach"
   ],
   "chalkboard-teacher": [
-    "chalkboard teacher"
+    "blackboard",
+    "chalkboard teacher",
+    "classroom",
+    "lesson",
+    "teach"
   ],
   "charging-station": [
     "charging station",
@@ -2771,104 +2924,184 @@
   "chart-scatter": [
     "chart scatter"
   ],
+  "chat": [
+    "bubble",
+    "conversation",
+    "message",
+    "talk"
+  ],
   "chat-centered": [
-    "chat centered"
+    "bubble",
+    "chat centered",
+    "conversation",
+    "message",
+    "talk"
   ],
   "chat-centered-dots": [
+    "bubble",
     "chat centered dots",
+    "conversation",
     "menu",
+    "message",
     "more",
-    "points"
+    "points",
+    "talk"
   ],
   "chat-centered-slash": [
+    "bubble",
     "chat centered slash",
+    "conversation",
     "disabled",
+    "message",
     "mute",
     "none",
-    "off"
+    "off",
+    "talk"
   ],
   "chat-centered-text": [
-    "chat centered text"
+    "bubble",
+    "chat centered text",
+    "conversation",
+    "message",
+    "talk"
   ],
   "chat-circle": [
+    "bubble",
     "chat circle",
+    "conversation",
     "ellipse",
     "geometry",
+    "message",
     "round",
-    "shape"
+    "shape",
+    "talk"
   ],
   "chat-circle-dots": [
+    "bubble",
     "chat circle dots",
+    "conversation",
     "ellipse",
     "geometry",
     "menu",
+    "message",
     "more",
     "points",
     "round",
-    "shape"
+    "shape",
+    "talk"
   ],
   "chat-circle-slash": [
+    "bubble",
     "chat circle slash",
+    "conversation",
     "disabled",
     "ellipse",
     "geometry",
+    "message",
     "mute",
     "none",
     "off",
     "round",
-    "shape"
+    "shape",
+    "talk"
   ],
   "chat-circle-text": [
+    "bubble",
     "chat circle text",
+    "conversation",
     "ellipse",
     "geometry",
+    "message",
     "round",
-    "shape"
+    "shape",
+    "talk"
   ],
   "chat-dots": [
+    "bubble",
     "chat dots",
+    "conversation",
     "menu",
+    "message",
     "more",
-    "points"
+    "points",
+    "talk"
   ],
   "chat-slash": [
+    "bubble",
     "chat slash",
+    "conversation",
     "disabled",
+    "message",
     "mute",
     "none",
-    "off"
+    "off",
+    "talk"
   ],
   "chat-teardrop": [
-    "chat teardrop"
+    "bubble",
+    "chat teardrop",
+    "conversation",
+    "message",
+    "talk"
   ],
   "chat-teardrop-dots": [
+    "bubble",
     "chat teardrop dots",
+    "conversation",
     "menu",
+    "message",
     "more",
-    "points"
+    "points",
+    "talk"
   ],
   "chat-teardrop-slash": [
+    "bubble",
     "chat teardrop slash",
+    "conversation",
     "disabled",
+    "message",
     "mute",
     "none",
-    "off"
+    "off",
+    "talk"
   ],
   "chat-teardrop-text": [
-    "chat teardrop text"
+    "bubble",
+    "chat teardrop text",
+    "conversation",
+    "message",
+    "talk"
   ],
   "chat-text": [
-    "chat text"
+    "bubble",
+    "chat text",
+    "conversation",
+    "message",
+    "talk"
+  ],
+  "chats": [
+    "bubbles",
+    "conversation",
+    "messages",
+    "talk"
   ],
   "chats-circle": [
+    "bubbles",
     "chats circle",
+    "conversation",
     "ellipse",
     "geometry",
+    "messages",
     "round",
-    "shape"
+    "shape",
+    "talk"
   ],
   "chats-teardrop": [
-    "chats teardrop"
+    "bubbles",
+    "chats teardrop",
+    "conversation",
+    "messages",
+    "talk"
   ],
   "check": [
     "confirm",
@@ -2916,15 +3149,57 @@
     "success",
     "tick"
   ],
+  "checkerboard": [
+    "board game",
+    "checkers",
+    "grid",
+    "pattern"
+  ],
+  "checks": [
+    "checkboxes",
+    "done",
+    "list",
+    "verified"
+  ],
+  "cheers": [
+    "celebration",
+    "drinks",
+    "glasses",
+    "toast"
+  ],
+  "cheese": [
+    "dairy",
+    "food",
+    "wedge"
+  ],
   "chef-hat": [
     "chef hat"
+  ],
+  "cherries": [
+    "cherry",
+    "food",
+    "fruit"
+  ],
+  "church": [
+    "cathedral",
+    "chapel",
+    "religion",
+    "worship"
+  ],
+  "cigarette": [
+    "smoke",
+    "smoking",
+    "tobacco"
   ],
   "cigarette-slash": [
     "cigarette slash",
     "disabled",
     "mute",
     "none",
-    "off"
+    "off",
+    "smoke",
+    "smoking",
+    "tobacco"
   ],
   "circle": [
     "ellipse",
@@ -2998,8 +3273,30 @@
     "round",
     "shape"
   ],
+  "circuitry": [
+    "chip",
+    "circuit board",
+    "electronics",
+    "technology"
+  ],
+  "city": [
+    "buildings",
+    "metropolis",
+    "skyline",
+    "urban"
+  ],
+  "clipboard": [
+    "board",
+    "checklist",
+    "notes",
+    "task"
+  ],
   "clipboard-text": [
-    "clipboard text"
+    "board",
+    "checklist",
+    "clipboard text",
+    "notes",
+    "task"
   ],
   "clock": [
     "hour",
@@ -3059,14 +3356,24 @@
     "hidden",
     "shut"
   ],
+  "cloud": [
+    "overcast",
+    "sky",
+    "storage",
+    "weather"
+  ],
   "cloud-arrow-down": [
     "below",
     "bottom",
     "cloud arrow down",
     "direction",
     "navigation",
+    "overcast",
     "pointer",
-    "south"
+    "sky",
+    "south",
+    "storage",
+    "weather"
   ],
   "cloud-arrow-up": [
     "above",
@@ -3074,53 +3381,118 @@
     "direction",
     "navigation",
     "north",
+    "overcast",
     "pointer",
-    "top"
+    "sky",
+    "storage",
+    "top",
+    "weather"
   ],
   "cloud-check": [
     "cloud check",
     "confirm",
     "done",
+    "overcast",
+    "sky",
+    "storage",
     "success",
-    "tick"
+    "tick",
+    "weather"
   ],
   "cloud-fog": [
-    "cloud fog"
+    "cloud fog",
+    "overcast",
+    "sky",
+    "storage",
+    "weather"
   ],
   "cloud-lightning": [
-    "cloud lightning"
+    "bolt",
+    "cloud lightning",
+    "electricity",
+    "flash",
+    "overcast",
+    "sky",
+    "storage",
+    "thunder",
+    "weather"
   ],
   "cloud-moon": [
-    "cloud moon"
+    "cloud moon",
+    "dark mode",
+    "lunar",
+    "night",
+    "overcast",
+    "sky",
+    "storage",
+    "weather"
   ],
   "cloud-rain": [
-    "cloud rain"
+    "cloud rain",
+    "overcast",
+    "sky",
+    "storage",
+    "weather"
   ],
   "cloud-slash": [
     "cloud slash",
     "disabled",
     "mute",
     "none",
-    "off"
+    "off",
+    "overcast",
+    "sky",
+    "storage",
+    "weather"
   ],
   "cloud-snow": [
-    "cloud snow"
+    "cloud snow",
+    "overcast",
+    "sky",
+    "storage",
+    "weather"
   ],
   "cloud-sun": [
-    "cloud sun"
+    "bright",
+    "cloud sun",
+    "daylight",
+    "overcast",
+    "sky",
+    "storage",
+    "sunshine",
+    "weather"
   ],
   "cloud-warning": [
     "alert",
     "caution",
     "cloud warning",
-    "error"
+    "error",
+    "overcast",
+    "sky",
+    "storage",
+    "weather"
   ],
   "cloud-x": [
     "cancel",
     "close",
     "cloud x",
     "cross",
-    "remove"
+    "overcast",
+    "remove",
+    "sky",
+    "storage",
+    "weather"
+  ],
+  "clover": [
+    "four leaf",
+    "luck",
+    "plant",
+    "shamrock"
+  ],
+  "club": [
+    "card suit",
+    "playing card",
+    "spade"
   ],
   "coat-hanger": [
     "coat hanger"
@@ -3160,14 +3532,40 @@
     "codesandbox logo",
     "logo"
   ],
+  "coffee": [
+    "cafe",
+    "cup",
+    "drink",
+    "espresso"
+  ],
   "coffee-bean": [
-    "coffee bean"
+    "cafe",
+    "coffee bean",
+    "cup",
+    "drink",
+    "espresso"
+  ],
+  "coin": [
+    "cash",
+    "currency",
+    "finance",
+    "money"
   ],
   "coin-vertical": [
+    "cash",
     "coin vertical",
     "column",
+    "currency",
+    "finance",
     "height",
+    "money",
     "y"
+  ],
+  "coins": [
+    "cash",
+    "currency",
+    "finance",
+    "money"
   ],
   "columns": [
     "design",
@@ -3206,6 +3604,12 @@
     "split",
     "table"
   ],
+  "command": [
+    "cmd key",
+    "keyboard",
+    "mac",
+    "shortcut"
+  ],
   "compass": [
     "direction",
     "navigation",
@@ -3226,17 +3630,41 @@
   "computer-tower": [
     "computer tower"
   ],
+  "confetti": [
+    "celebration",
+    "festive",
+    "party"
+  ],
   "contactless-payment": [
     "contactless payment"
+  ],
+  "cookie": [
+    "biscuit",
+    "dessert",
+    "food",
+    "snack"
   ],
   "cooking-pot": [
     "cooking pot"
   ],
+  "copy": [
+    "clipboard",
+    "clone",
+    "duplicate"
+  ],
   "copy-simple": [
     "basic",
+    "clipboard",
+    "clone",
     "copy simple",
+    "duplicate",
     "minimal",
     "plain"
+  ],
+  "copyleft": [
+    "copyright",
+    "license",
+    "open source"
   ],
   "corners-in": [
     "collapse",
@@ -3250,6 +3678,11 @@
     "expand",
     "outside"
   ],
+  "couch": [
+    "furniture",
+    "living room",
+    "sofa"
+  ],
   "court-basketball": [
     "ball",
     "court basketball",
@@ -3257,14 +3690,41 @@
     "hoop",
     "sport"
   ],
+  "cow": [
+    "animal",
+    "cattle",
+    "farm",
+    "livestock"
+  ],
   "cowboy-hat": [
     "cowboy hat"
   ],
+  "cpu": [
+    "chip",
+    "computer",
+    "hardware",
+    "processor"
+  ],
+  "crane": [
+    "construction",
+    "hoist",
+    "lift",
+    "machinery"
+  ],
   "crane-tower": [
-    "crane tower"
+    "construction",
+    "crane tower",
+    "hoist",
+    "lift",
+    "machinery"
   ],
   "credit-card": [
     "credit card"
+  ],
+  "cricket": [
+    "bat and ball",
+    "insect",
+    "sport"
   ],
   "crop": [
     "cut",
@@ -3274,20 +3734,54 @@
     "tool",
     "trim"
   ],
+  "cross": [
+    "add",
+    "medical",
+    "plus",
+    "religion"
+  ],
+  "crosshair": [
+    "aim",
+    "focus",
+    "reticle",
+    "target"
+  ],
   "crosshair-simple": [
+    "aim",
     "basic",
     "crosshair simple",
+    "focus",
     "minimal",
-    "plain"
+    "plain",
+    "reticle",
+    "target"
+  ],
+  "crown": [
+    "king",
+    "premium",
+    "queen",
+    "royal"
   ],
   "crown-cross": [
-    "crown cross"
+    "add",
+    "crown cross",
+    "king",
+    "medical",
+    "plus",
+    "premium",
+    "queen",
+    "religion",
+    "royal"
   ],
   "crown-simple": [
     "basic",
     "crown simple",
+    "king",
     "minimal",
-    "plain"
+    "plain",
+    "premium",
+    "queen",
+    "royal"
   ],
   "cube": [
     "3d",
@@ -3354,8 +3848,18 @@
   "currency-rub": [
     "currency rub"
   ],
+  "cursor": [
+    "arrow",
+    "click",
+    "mouse",
+    "pointer"
+  ],
   "cursor-click": [
-    "cursor click"
+    "arrow",
+    "click",
+    "cursor click",
+    "mouse",
+    "pointer"
   ],
   "cylinder": [
     "3d",
@@ -3363,8 +3867,36 @@
     "shape",
     "volume"
   ],
+  "database": [
+    "data",
+    "server",
+    "sql",
+    "storage"
+  ],
+  "desk": [
+    "furniture",
+    "office",
+    "table",
+    "workstation"
+  ],
+  "desktop": [
+    "computer",
+    "monitor",
+    "pc",
+    "workstation"
+  ],
   "desktop-tower": [
-    "desktop tower"
+    "computer",
+    "desktop tower",
+    "monitor",
+    "pc",
+    "workstation"
+  ],
+  "detective": [
+    "investigator",
+    "mystery",
+    "sleuth",
+    "spy"
   ],
   "dev-to-logo": [
     "brand",
@@ -3375,7 +3907,11 @@
     "device mobile"
   ],
   "device-mobile-camera": [
-    "device mobile camera"
+    "device mobile camera",
+    "photo",
+    "photography",
+    "picture",
+    "snapshot"
   ],
   "device-mobile-slash": [
     "device mobile slash",
@@ -3391,10 +3927,26 @@
     "device rotate"
   ],
   "device-tablet-camera": [
-    "device tablet camera"
+    "device tablet camera",
+    "photo",
+    "photography",
+    "picture",
+    "snapshot"
   ],
   "device-tablet-speaker": [
     "device tablet speaker"
+  ],
+  "devices": [
+    "electronics",
+    "gadgets",
+    "hardware",
+    "multi device"
+  ],
+  "diamond": [
+    "card suit",
+    "gem",
+    "jewel",
+    "precious stone"
   ],
   "diamonds-four": [
     "4",
@@ -3427,6 +3979,12 @@
     "2",
     "dice two"
   ],
+  "disc": [
+    "cd",
+    "dvd",
+    "record",
+    "vinyl"
+  ],
   "disco-ball": [
     "disco ball"
   ],
@@ -3435,8 +3993,34 @@
     "discord logo",
     "logo"
   ],
+  "divide": [
+    "division",
+    "math",
+    "operator",
+    "split"
+  ],
+  "dna": [
+    "biology",
+    "gene",
+    "genetics",
+    "helix"
+  ],
+  "dog": [
+    "animal",
+    "canine",
+    "pet",
+    "puppy"
+  ],
+  "door": [
+    "doorway",
+    "entrance",
+    "exit"
+  ],
   "door-open": [
     "door open",
+    "doorway",
+    "entrance",
+    "exit",
     "expand",
     "unfold",
     "unlock"
@@ -3535,16 +4119,41 @@
     "points",
     "y"
   ],
+  "download": [
+    "import",
+    "save",
+    "transfer"
+  ],
   "download-simple": [
     "basic",
     "download simple",
+    "import",
     "minimal",
-    "plain"
+    "plain",
+    "save",
+    "transfer"
+  ],
+  "dress": [
+    "clothing",
+    "fashion",
+    "gown",
+    "outfit"
+  ],
+  "dresser": [
+    "drawers",
+    "furniture",
+    "wardrobe"
   ],
   "dribbble-logo": [
     "brand",
     "dribbble logo",
     "logo"
+  ],
+  "drone": [
+    "aerial",
+    "flying",
+    "quadcopter",
+    "uav"
   ],
   "drop": [
     "droplet",
@@ -3586,43 +4195,97 @@
     "dropbox logo",
     "logo"
   ],
+  "ear": [
+    "audio",
+    "body",
+    "hearing",
+    "listen"
+  ],
   "ear-slash": [
+    "audio",
+    "body",
     "disabled",
     "ear slash",
+    "hearing",
+    "listen",
     "mute",
     "none",
     "off"
   ],
+  "egg": [
+    "breakfast",
+    "chicken",
+    "food"
+  ],
   "egg-crack": [
-    "egg crack"
+    "breakfast",
+    "chicken",
+    "egg crack",
+    "food"
+  ],
+  "eject": [
+    "disc",
+    "remove",
+    "unmount"
   ],
   "eject-simple": [
     "basic",
+    "disc",
     "eject simple",
     "minimal",
-    "plain"
+    "plain",
+    "remove",
+    "unmount"
+  ],
+  "elevator": [
+    "building",
+    "floors",
+    "lift"
   ],
   "empty": [
     "blank",
     "none",
     "zero"
   ],
+  "engine": [
+    "machine",
+    "mechanical",
+    "motor"
+  ],
+  "envelope": [
+    "email",
+    "letter",
+    "mail",
+    "message"
+  ],
   "envelope-open": [
+    "email",
     "envelope open",
     "expand",
+    "letter",
+    "mail",
+    "message",
     "unfold",
     "unlock"
   ],
   "envelope-simple": [
     "basic",
+    "email",
     "envelope simple",
+    "letter",
+    "mail",
+    "message",
     "minimal",
     "plain"
   ],
   "envelope-simple-open": [
     "basic",
+    "email",
     "envelope simple open",
     "expand",
+    "letter",
+    "mail",
+    "message",
     "minimal",
     "plain",
     "unfold",
@@ -3648,6 +4311,12 @@
     "north",
     "top"
   ],
+  "exam": [
+    "assessment",
+    "grades",
+    "quiz",
+    "test"
+  ],
   "exclamation-mark": [
     "exclamation mark"
   ],
@@ -3666,6 +4335,11 @@
     "rectangle",
     "shape",
     "subtract"
+  ],
+  "export": [
+    "output",
+    "save as",
+    "share"
   ],
   "eye": [
     "preview",
@@ -3693,8 +4367,28 @@
     "view",
     "visibility"
   ],
+  "eyedropper": [
+    "color picker",
+    "pipette",
+    "sample"
+  ],
   "eyedropper-sample": [
-    "eyedropper sample"
+    "color picker",
+    "eyedropper sample",
+    "pipette",
+    "sample"
+  ],
+  "eyeglasses": [
+    "glasses",
+    "reading",
+    "spectacles",
+    "vision"
+  ],
+  "eyes": [
+    "look",
+    "see",
+    "vision",
+    "watch"
   ],
   "face-mask": [
     "face mask"
@@ -3704,14 +4398,36 @@
     "facebook logo",
     "logo"
   ],
+  "factory": [
+    "industry",
+    "manufacturing",
+    "plant",
+    "warehouse"
+  ],
+  "faders": [
+    "equalizer",
+    "mixer",
+    "settings",
+    "sliders"
+  ],
   "faders-horizontal": [
+    "equalizer",
     "faders horizontal",
+    "mixer",
     "row",
+    "settings",
+    "sliders",
     "width",
     "x"
   ],
   "fallout-shelter": [
     "fallout shelter"
+  ],
+  "fan": [
+    "air",
+    "breeze",
+    "cooling",
+    "ventilation"
   ],
   "fast-forward": [
     "fast forward"
@@ -3725,6 +4441,12 @@
   ],
   "fast-rewind": [
     "fast rewind"
+  ],
+  "feather": [
+    "bird",
+    "plume",
+    "quill",
+    "writing"
   ],
   "fediverse-logo": [
     "brand",
@@ -3801,9 +4523,12 @@
   "file-cloud": [
     "document",
     "file cloud",
+    "overcast",
     "page",
     "paper",
-    "storage"
+    "sky",
+    "storage",
+    "weather"
   ],
   "file-code": [
     "development",
@@ -3876,8 +4601,11 @@
   "file-image": [
     "document",
     "file image",
+    "graphic",
     "page",
     "paper",
+    "photo",
+    "picture",
     "storage"
   ],
   "file-ini": [
@@ -4142,26 +4870,50 @@
   "film-strip": [
     "film strip"
   ],
+  "fingerprint": [
+    "biometric",
+    "identity",
+    "print",
+    "security"
+  ],
   "fingerprint-simple": [
     "basic",
+    "biometric",
     "fingerprint simple",
+    "identity",
     "minimal",
-    "plain"
+    "plain",
+    "print",
+    "security"
   ],
   "finn-the-human": [
     "finn the human"
   ],
+  "fire": [
+    "burn",
+    "flame",
+    "hot"
+  ],
   "fire-extinguisher": [
-    "fire extinguisher"
+    "burn",
+    "fire extinguisher",
+    "flame",
+    "hot"
   ],
   "fire-simple": [
     "basic",
+    "burn",
     "fire simple",
+    "flame",
+    "hot",
     "minimal",
     "plain"
   ],
   "fire-truck": [
-    "fire truck"
+    "burn",
+    "fire truck",
+    "flame",
+    "hot"
   ],
   "first-aid": [
     "first aid"
@@ -4169,23 +4921,72 @@
   "first-aid-kit": [
     "first aid kit"
   ],
+  "fish": [
+    "animal",
+    "aquarium",
+    "seafood",
+    "swim"
+  ],
   "fish-simple": [
+    "animal",
+    "aquarium",
     "basic",
     "fish simple",
     "minimal",
-    "plain"
+    "plain",
+    "seafood",
+    "swim"
+  ],
+  "flag": [
+    "banner",
+    "country",
+    "marker",
+    "nation"
   ],
   "flag-banner": [
-    "flag banner"
+    "banner",
+    "country",
+    "flag banner",
+    "marker",
+    "nation"
   ],
   "flag-banner-fold": [
-    "flag banner fold"
+    "banner",
+    "country",
+    "flag banner fold",
+    "marker",
+    "nation"
   ],
   "flag-checkered": [
-    "flag checkered"
+    "banner",
+    "country",
+    "flag checkered",
+    "marker",
+    "nation"
   ],
   "flag-pennant": [
-    "flag pennant"
+    "banner",
+    "country",
+    "flag pennant",
+    "marker",
+    "nation"
+  ],
+  "flame": [
+    "burn",
+    "fire",
+    "hot",
+    "streak"
+  ],
+  "flashlight": [
+    "beam",
+    "light",
+    "torch"
+  ],
+  "flask": [
+    "chemistry",
+    "experiment",
+    "lab",
+    "science"
   ],
   "flip-horizontal": [
     "flip horizontal",
@@ -4217,11 +5018,25 @@
     "navigation",
     "pointer"
   ],
+  "flower": [
+    "bloom",
+    "blossom",
+    "nature",
+    "plant"
+  ],
   "flower-lotus": [
-    "flower lotus"
+    "bloom",
+    "blossom",
+    "flower lotus",
+    "nature",
+    "plant"
   ],
   "flower-tulip": [
-    "flower tulip"
+    "bloom",
+    "blossom",
+    "flower tulip",
+    "nature",
+    "plant"
   ],
   "flying-saucer": [
     "flying saucer"
@@ -4391,8 +5206,24 @@
     "files",
     "storage"
   ],
+  "football": [
+    "ball",
+    "game",
+    "soccer",
+    "sport"
+  ],
   "football-helmet": [
-    "football helmet"
+    "ball",
+    "football helmet",
+    "game",
+    "soccer",
+    "sport"
+  ],
+  "footprints": [
+    "steps",
+    "tracks",
+    "trail",
+    "walk"
   ],
   "fork-knife": [
     "fork knife"
@@ -4409,15 +5240,34 @@
     "framer logo",
     "logo"
   ],
+  "function": [
+    "code",
+    "formula",
+    "math",
+    "method"
+  ],
+  "funnel": [
+    "filter",
+    "narrow",
+    "sort"
+  ],
   "funnel-x": [
     "cancel",
     "close",
     "cross",
+    "filter",
     "funnel x",
-    "remove"
+    "narrow",
+    "remove",
+    "sort"
   ],
   "game-controller": [
     "game controller"
+  ],
+  "garage": [
+    "car",
+    "parking",
+    "workshop"
   ],
   "gas-can": [
     "gas can"
@@ -4425,12 +5275,38 @@
   "gas-pump": [
     "gas pump"
   ],
+  "gauge": [
+    "dial",
+    "measurement",
+    "meter",
+    "speedometer"
+  ],
+  "gavel": [
+    "court",
+    "hammer",
+    "judge",
+    "law"
+  ],
+  "gear": [
+    "cog",
+    "configuration",
+    "mechanism",
+    "settings"
+  ],
   "gear-fine": [
-    "gear fine"
+    "cog",
+    "configuration",
+    "gear fine",
+    "mechanism",
+    "settings"
   ],
   "gear-six": [
     "6",
-    "gear six"
+    "cog",
+    "configuration",
+    "gear six",
+    "mechanism",
+    "settings"
   ],
   "gender-female": [
     "gender female"
@@ -4449,6 +5325,23 @@
   ],
   "gender-transgender": [
     "gender transgender"
+  ],
+  "ghost": [
+    "halloween",
+    "phantom",
+    "spirit",
+    "spooky"
+  ],
+  "gif": [
+    "animation",
+    "image",
+    "media"
+  ],
+  "gift": [
+    "birthday",
+    "box",
+    "present",
+    "surprise"
   ],
   "git-branch": [
     "git branch"
@@ -4489,37 +5382,79 @@
     "minimal",
     "plain"
   ],
+  "globe": [
+    "earth",
+    "international",
+    "planet",
+    "world"
+  ],
   "globe-hemisphere-east": [
-    "globe hemisphere east"
+    "earth",
+    "globe hemisphere east",
+    "international",
+    "planet",
+    "world"
   ],
   "globe-hemisphere-west": [
-    "globe hemisphere west"
+    "earth",
+    "globe hemisphere west",
+    "international",
+    "planet",
+    "world"
   ],
   "globe-simple": [
     "basic",
+    "earth",
     "globe simple",
+    "international",
     "minimal",
-    "plain"
+    "plain",
+    "planet",
+    "world"
   ],
   "globe-simple-x": [
     "basic",
     "cancel",
     "close",
     "cross",
+    "earth",
     "globe simple x",
+    "international",
     "minimal",
     "plain",
-    "remove"
+    "planet",
+    "remove",
+    "world"
   ],
   "globe-stand": [
-    "globe stand"
+    "earth",
+    "globe stand",
+    "international",
+    "planet",
+    "world"
   ],
   "globe-x": [
     "cancel",
     "close",
     "cross",
+    "earth",
     "globe x",
-    "remove"
+    "international",
+    "planet",
+    "remove",
+    "world"
+  ],
+  "goggles": [
+    "eyewear",
+    "protection",
+    "ski",
+    "swim"
+  ],
+  "golf": [
+    "ball",
+    "club",
+    "putt",
+    "sport"
   ],
   "goodreads-logo": [
     "brand",
@@ -4554,32 +5489,70 @@
   "google-play-logo": [
     "brand",
     "google play logo",
-    "logo"
+    "logo",
+    "media control",
+    "start",
+    "video"
   ],
   "google-podcasts-logo": [
     "brand",
     "google podcasts logo",
     "logo"
   ],
+  "gps": [
+    "location",
+    "map",
+    "navigation",
+    "position"
+  ],
   "gps-fix": [
-    "gps fix"
+    "gps fix",
+    "location",
+    "map",
+    "navigation",
+    "position"
   ],
   "gps-slash": [
     "disabled",
     "gps slash",
+    "location",
+    "map",
     "mute",
+    "navigation",
     "none",
-    "off"
+    "off",
+    "position"
+  ],
+  "gradient": [
+    "blend",
+    "color",
+    "fade"
   ],
   "graduation-cap": [
     "graduation cap"
   ],
+  "grains": [
+    "cereal",
+    "farming",
+    "food",
+    "wheat"
+  ],
   "grains-slash": [
+    "cereal",
     "disabled",
+    "farming",
+    "food",
     "grains slash",
     "mute",
     "none",
-    "off"
+    "off",
+    "wheat"
+  ],
+  "graph": [
+    "analytics",
+    "chart",
+    "data",
+    "statistics"
   ],
   "graphics-card": [
     "graphics card"
@@ -4606,6 +5579,12 @@
     "layout",
     "table"
   ],
+  "guitar": [
+    "band",
+    "instrument",
+    "music",
+    "strings"
+  ],
   "hand-pointing": [
     "hand pointing"
   ],
@@ -4624,11 +5603,21 @@
   "hand-tap": [
     "hand tap"
   ],
+  "handbag": [
+    "accessory",
+    "bag",
+    "fashion",
+    "purse"
+  ],
   "handbag-simple": [
+    "accessory",
+    "bag",
     "basic",
+    "fashion",
     "handbag simple",
     "minimal",
-    "plain"
+    "plain",
+    "purse"
   ],
   "hard-drive": [
     "hard drive"
@@ -4636,8 +5625,16 @@
   "hard-drives": [
     "hard drives"
   ],
+  "hash": [
+    "hashtag",
+    "number sign",
+    "pound"
+  ],
   "hash-straight": [
-    "hash straight"
+    "hash straight",
+    "hashtag",
+    "number sign",
+    "pound"
   ],
   "heart": [
     "favorite",
@@ -4657,6 +5654,12 @@
     "like",
     "love",
     "partial"
+  ],
+  "heartbeat": [
+    "cardiogram",
+    "health",
+    "heart rate",
+    "pulse"
   ],
   "hexagon": [
     "geometry",
@@ -4696,14 +5699,25 @@
     "timer",
     "wait"
   ],
+  "house": [
+    "building",
+    "home",
+    "residence"
+  ],
   "house-line": [
-    "house line"
+    "building",
+    "home",
+    "house line",
+    "residence"
   ],
   "house-simple": [
     "basic",
+    "building",
+    "home",
     "house simple",
     "minimal",
-    "plain"
+    "plain",
+    "residence"
   ],
   "identification-badge": [
     "identification badge"
@@ -4711,22 +5725,47 @@
   "identification-card": [
     "identification card"
   ],
+  "image": [
+    "graphic",
+    "photo",
+    "picture"
+  ],
   "image-broken": [
-    "image broken"
+    "graphic",
+    "image broken",
+    "photo",
+    "picture"
   ],
   "image-square": [
     "box",
     "geometry",
+    "graphic",
     "image square",
+    "photo",
+    "picture",
     "rectangle",
     "shape"
   ],
+  "images": [
+    "gallery",
+    "photos",
+    "pictures"
+  ],
   "images-square": [
     "box",
+    "gallery",
     "geometry",
     "images square",
+    "photos",
+    "pictures",
     "rectangle",
     "shape"
+  ],
+  "info": [
+    "about",
+    "details",
+    "help",
+    "information"
   ],
   "instagram-logo": [
     "brand",
@@ -4757,8 +5796,24 @@
     "path",
     "shape"
   ],
+  "intersection": [
+    "math",
+    "overlap",
+    "set theory",
+    "venn diagram"
+  ],
   "key-return": [
     "key return"
+  ],
+  "keyboard": [
+    "input",
+    "keys",
+    "type"
+  ],
+  "lamp": [
+    "desk lamp",
+    "light",
+    "lighting"
   ],
   "layout": [
     "arrange",
@@ -4766,6 +5821,12 @@
     "grid",
     "layout",
     "template"
+  ],
+  "lectern": [
+    "podium",
+    "presentation",
+    "speech",
+    "stand"
   ],
   "less-than": [
     "less than"
@@ -4794,18 +5855,42 @@
     "round",
     "shape"
   ],
+  "lightbulb": [
+    "bright",
+    "idea",
+    "innovation",
+    "light"
+  ],
   "lightbulb-filament": [
+    "bright",
+    "idea",
+    "innovation",
+    "light",
     "lightbulb filament"
   ],
+  "lightning": [
+    "bolt",
+    "electricity",
+    "flash",
+    "thunder"
+  ],
   "lightning-a": [
-    "lightning a"
+    "bolt",
+    "electricity",
+    "flash",
+    "lightning a",
+    "thunder"
   ],
   "lightning-slash": [
+    "bolt",
     "disabled",
+    "electricity",
+    "flash",
     "lightning slash",
     "mute",
     "none",
-    "off"
+    "off",
+    "thunder"
   ],
   "line-segment": [
     "line segment"
@@ -4819,75 +5904,143 @@
     "line vertical",
     "y"
   ],
+  "link": [
+    "chain",
+    "connect",
+    "hyperlink",
+    "url"
+  ],
   "link-break": [
-    "link break"
+    "chain",
+    "connect",
+    "hyperlink",
+    "link break",
+    "url"
   ],
   "link-simple": [
     "basic",
+    "chain",
+    "connect",
+    "hyperlink",
     "link simple",
     "minimal",
-    "plain"
+    "plain",
+    "url"
   ],
   "link-simple-break": [
     "basic",
+    "chain",
+    "connect",
+    "hyperlink",
     "link simple break",
     "minimal",
-    "plain"
+    "plain",
+    "url"
   ],
   "link-simple-horizontal": [
     "basic",
+    "chain",
+    "connect",
+    "hyperlink",
     "link simple horizontal",
     "minimal",
     "plain",
     "row",
+    "url",
     "width",
     "x"
   ],
   "link-simple-horizontal-break": [
     "basic",
+    "chain",
+    "connect",
+    "hyperlink",
     "link simple horizontal break",
     "minimal",
     "plain",
     "row",
+    "url",
     "width",
     "x"
   ],
+  "list": [
+    "bullet points",
+    "checklist",
+    "items",
+    "menu"
+  ],
   "list-bullets": [
-    "list bullets"
+    "bullet points",
+    "checklist",
+    "items",
+    "list bullets",
+    "menu"
   ],
   "list-checks": [
-    "list checks"
+    "bullet points",
+    "checkboxes",
+    "checklist",
+    "done",
+    "items",
+    "list",
+    "list checks",
+    "menu",
+    "verified"
   ],
   "list-dashes": [
-    "list dashes"
+    "bullet points",
+    "checklist",
+    "items",
+    "list dashes",
+    "menu"
   ],
   "list-heart": [
+    "bullet points",
+    "checklist",
     "favorite",
+    "items",
     "like",
     "list heart",
-    "love"
+    "love",
+    "menu"
   ],
   "list-magnifying-glass": [
+    "bullet points",
+    "checklist",
     "find",
     "glass",
+    "items",
     "list magnifying glass",
+    "menu",
     "search",
     "zoom"
   ],
   "list-numbers": [
-    "list numbers"
+    "bullet points",
+    "checklist",
+    "items",
+    "list numbers",
+    "menu"
   ],
   "list-plus": [
     "add",
+    "bullet points",
+    "checklist",
     "create",
+    "items",
     "list plus",
+    "menu",
     "more",
     "new"
   ],
   "list-star": [
     "bookmark",
+    "bullet points",
+    "checklist",
     "favorite",
+    "items",
     "list star",
+    "menu",
     "rating"
   ],
   "lock": [
@@ -4955,8 +6108,16 @@
     "unfold",
     "unlock"
   ],
+  "magnet": [
+    "attract",
+    "magnetic",
+    "physics"
+  ],
   "magnet-straight": [
-    "magnet straight"
+    "attract",
+    "magnet straight",
+    "magnetic",
+    "physics"
   ],
   "magnifying-glass": [
     "find",
@@ -5020,8 +6181,16 @@
     "logo",
     "matrix logo"
   ],
+  "megaphone": [
+    "announcement",
+    "broadcast",
+    "loudspeaker"
+  ],
   "megaphone-simple": [
+    "announcement",
     "basic",
+    "broadcast",
+    "loudspeaker",
     "megaphone simple",
     "minimal",
     "plain"
@@ -5029,12 +6198,22 @@
   "member-of": [
     "member of"
   ],
+  "microphone": [
+    "audio",
+    "mic",
+    "record",
+    "voice"
+  ],
   "microphone-slash": [
+    "audio",
     "disabled",
+    "mic",
     "microphone slash",
     "mute",
     "none",
-    "off"
+    "off",
+    "record",
+    "voice"
   ],
   "minus": [
     "delete",
@@ -5064,44 +6243,94 @@
     "shape",
     "subtract"
   ],
+  "monitor": [
+    "computer",
+    "display",
+    "screen"
+  ],
   "monitor-arrow-up": [
     "above",
+    "computer",
     "direction",
+    "display",
     "monitor arrow up",
     "navigation",
     "north",
     "pointer",
+    "screen",
     "top"
   ],
   "monitor-play": [
-    "monitor play"
+    "computer",
+    "display",
+    "media control",
+    "monitor play",
+    "screen",
+    "start",
+    "video"
+  ],
+  "moon": [
+    "dark mode",
+    "lunar",
+    "night",
+    "sky"
   ],
   "moon-stars": [
-    "moon stars"
+    "dark mode",
+    "lunar",
+    "moon stars",
+    "night",
+    "sky"
+  ],
+  "mouse": [
+    "click",
+    "cursor",
+    "peripheral",
+    "pointer"
   ],
   "mouse-left-click": [
     "back",
+    "click",
+    "cursor",
     "mouse left click",
+    "peripheral",
+    "pointer",
     "previous",
     "west"
   ],
   "mouse-middle-click": [
-    "mouse middle click"
+    "click",
+    "cursor",
+    "mouse middle click",
+    "peripheral",
+    "pointer"
   ],
   "mouse-right-click": [
+    "click",
+    "cursor",
     "east",
     "forward",
     "mouse right click",
-    "next"
+    "next",
+    "peripheral",
+    "pointer"
   ],
   "mouse-scroll": [
-    "mouse scroll"
+    "click",
+    "cursor",
+    "mouse scroll",
+    "peripheral",
+    "pointer"
   ],
   "mouse-simple": [
     "basic",
+    "click",
+    "cursor",
     "minimal",
     "mouse simple",
-    "plain"
+    "peripheral",
+    "plain",
+    "pointer"
   ],
   "music-note": [
     "music note"
@@ -5135,19 +6364,33 @@
     "music notes simple",
     "plain"
   ],
+  "network": [
+    "connections",
+    "internet",
+    "nodes",
+    "web"
+  ],
   "network-slash": [
+    "connections",
     "disabled",
+    "internet",
     "mute",
     "network slash",
+    "nodes",
     "none",
-    "off"
+    "off",
+    "web"
   ],
   "network-x": [
     "cancel",
     "close",
+    "connections",
     "cross",
+    "internet",
     "network x",
-    "remove"
+    "nodes",
+    "remove",
+    "web"
   ],
   "not-equals": [
     "not equals"
@@ -5171,6 +6414,17 @@
     "note pencil",
     "tool",
     "write"
+  ],
+  "notebook": [
+    "book",
+    "journal",
+    "notepad",
+    "notes"
+  ],
+  "notification": [
+    "alert",
+    "bell",
+    "reminder"
   ],
   "number-circle-eight": [
     "8",
@@ -5499,6 +6753,12 @@
     "shape",
     "stop"
   ],
+  "package": [
+    "box",
+    "delivery",
+    "parcel",
+    "shipping"
+  ],
   "paint-brush": [
     "paint brush"
   ],
@@ -5517,17 +6777,36 @@
     "rotate",
     "skew"
   ],
+  "paperclip": [
+    "attachment",
+    "clip",
+    "office supply"
+  ],
   "parallelogram": [
     "geometry",
     "shape",
     "skew"
   ],
+  "pause": [
+    "hold",
+    "media control",
+    "stop"
+  ],
   "pause-circle": [
     "ellipse",
     "geometry",
+    "hold",
+    "media control",
     "pause circle",
     "round",
-    "shape"
+    "shape",
+    "stop"
+  ],
+  "peace": [
+    "anti war",
+    "harmony",
+    "nuclear disarmament",
+    "pacifism"
   ],
   "pen": [
     "design",
@@ -5590,40 +6869,89 @@
     "transform",
     "view"
   ],
+  "phone": [
+    "call",
+    "mobile",
+    "smartphone",
+    "telephone"
+  ],
   "phone-call": [
-    "phone call"
+    "call",
+    "mobile",
+    "phone call",
+    "smartphone",
+    "telephone"
   ],
   "phone-disconnect": [
-    "phone disconnect"
+    "call",
+    "mobile",
+    "phone disconnect",
+    "smartphone",
+    "telephone"
   ],
   "phone-incoming": [
-    "phone incoming"
+    "call",
+    "mobile",
+    "phone incoming",
+    "smartphone",
+    "telephone"
   ],
   "phone-list": [
-    "phone list"
+    "bullet points",
+    "call",
+    "checklist",
+    "items",
+    "menu",
+    "mobile",
+    "phone list",
+    "smartphone",
+    "telephone"
   ],
   "phone-outgoing": [
-    "phone outgoing"
+    "call",
+    "mobile",
+    "phone outgoing",
+    "smartphone",
+    "telephone"
   ],
   "phone-pause": [
-    "phone pause"
+    "call",
+    "hold",
+    "media control",
+    "mobile",
+    "phone pause",
+    "smartphone",
+    "stop",
+    "telephone"
   ],
   "phone-plus": [
     "add",
+    "call",
     "create",
+    "mobile",
     "more",
     "new",
-    "phone plus"
+    "phone plus",
+    "smartphone",
+    "telephone"
   ],
   "phone-transfer": [
-    "phone transfer"
+    "call",
+    "mobile",
+    "phone transfer",
+    "smartphone",
+    "telephone"
   ],
   "phone-x": [
+    "call",
     "cancel",
     "close",
     "cross",
+    "mobile",
     "phone x",
-    "remove"
+    "remove",
+    "smartphone",
+    "telephone"
   ],
   "picture-in-picture": [
     "collapse",
@@ -5636,24 +6964,62 @@
     "empty",
     "stub"
   ],
+  "play": [
+    "media control",
+    "start",
+    "video"
+  ],
   "play-circle": [
     "ellipse",
     "geometry",
+    "media control",
     "play circle",
     "round",
-    "shape"
+    "shape",
+    "start",
+    "video"
   ],
   "play-pause": [
-    "play pause"
+    "hold",
+    "media control",
+    "play pause",
+    "start",
+    "stop",
+    "video"
+  ],
+  "playlist": [
+    "music",
+    "queue",
+    "songs",
+    "tracks"
+  ],
+  "plug": [
+    "cord",
+    "electric",
+    "outlet",
+    "power"
   ],
   "plug-charging": [
+    "cord",
+    "electric",
     "energy",
+    "outlet",
     "plug",
     "plug charging",
     "power"
   ],
+  "plugs": [
+    "connectors",
+    "electric",
+    "outlet",
+    "power"
+  ],
   "plugs-connected": [
-    "plugs connected"
+    "connectors",
+    "electric",
+    "outlet",
+    "plugs connected",
+    "power"
   ],
   "plus-circle": [
     "add",
@@ -5688,11 +7054,37 @@
     "rectangle",
     "shape"
   ],
+  "presentation": [
+    "pitch",
+    "slides",
+    "slideshow",
+    "talk"
+  ],
   "presentation-chart": [
-    "presentation chart"
+    "pitch",
+    "presentation chart",
+    "slides",
+    "slideshow",
+    "talk"
+  ],
+  "prohibit": [
+    "banned",
+    "forbidden",
+    "no entry",
+    "restrict"
   ],
   "prohibit-inset": [
-    "prohibit inset"
+    "banned",
+    "forbidden",
+    "no entry",
+    "prohibit inset",
+    "restrict"
+  ],
+  "pulse": [
+    "heartbeat",
+    "signal",
+    "vital signs",
+    "wave"
   ],
   "push-pin": [
     "push pin"
@@ -5729,21 +7121,63 @@
     "qr code",
     "source"
   ],
+  "question": [
+    "ask",
+    "faq",
+    "help",
+    "unknown"
+  ],
   "question-mark": [
-    "question mark"
+    "ask",
+    "faq",
+    "help",
+    "question mark",
+    "unknown"
+  ],
+  "radical": [
+    "math",
+    "square root",
+    "symbol"
   ],
   "radio-button": [
     "radio button"
   ],
+  "rainbow": [
+    "arc",
+    "colors",
+    "weather"
+  ],
   "rainbow-cloud": [
-    "rainbow cloud"
+    "arc",
+    "colors",
+    "overcast",
+    "rainbow cloud",
+    "sky",
+    "storage",
+    "weather"
+  ],
+  "receipt": [
+    "bill",
+    "invoice",
+    "payment",
+    "purchase"
   ],
   "receipt-x": [
+    "bill",
     "cancel",
     "close",
     "cross",
+    "invoice",
+    "payment",
+    "purchase",
     "receipt x",
     "remove"
+  ],
+  "record": [
+    "album",
+    "media",
+    "music",
+    "vinyl"
   ],
   "rectangle": [
     "box",
@@ -5766,8 +7200,16 @@
     "reuse",
     "sustainability"
   ],
+  "repeat": [
+    "again",
+    "loop",
+    "replay"
+  ],
   "repeat-once": [
-    "repeat once"
+    "again",
+    "loop",
+    "repeat once",
+    "replay"
   ],
   "resize": [
     "scale",
@@ -5815,24 +7257,60 @@
     "table",
     "up"
   ],
+  "scan": [
+    "document",
+    "qr code",
+    "scanner"
+  ],
+  "screencast": [
+    "broadcast",
+    "capture",
+    "screen recording"
+  ],
+  "seal": [
+    "badge",
+    "certified",
+    "official",
+    "stamp"
+  ],
   "seal-check": [
+    "badge",
+    "certified",
     "confirm",
     "done",
+    "official",
     "seal check",
+    "stamp",
     "success",
     "tick"
   ],
   "seal-percent": [
-    "seal percent"
+    "badge",
+    "certified",
+    "official",
+    "seal percent",
+    "stamp"
   ],
   "seal-question": [
-    "seal question"
+    "ask",
+    "badge",
+    "certified",
+    "faq",
+    "help",
+    "official",
+    "seal question",
+    "stamp",
+    "unknown"
   ],
   "seal-warning": [
     "alert",
+    "badge",
     "caution",
+    "certified",
     "error",
-    "seal warning"
+    "official",
+    "seal warning",
+    "stamp"
   ],
   "selection": [
     "editor",
@@ -5901,45 +7379,83 @@
     "tool"
   ],
   "share-network": [
-    "share network"
+    "connections",
+    "internet",
+    "nodes",
+    "share network",
+    "web"
+  ],
+  "shield": [
+    "defense",
+    "protection",
+    "safety",
+    "security"
   ],
   "shield-check": [
     "confirm",
+    "defense",
     "done",
+    "protection",
+    "safety",
+    "security",
     "shield check",
     "success",
     "tick"
   ],
   "shield-checkered": [
+    "defense",
+    "protection",
+    "safety",
+    "security",
     "shield checkered"
   ],
   "shield-chevron": [
+    "defense",
+    "protection",
+    "safety",
+    "security",
     "shield chevron"
   ],
   "shield-plus": [
     "add",
     "create",
+    "defense",
     "more",
     "new",
+    "protection",
+    "safety",
+    "security",
     "shield plus"
   ],
   "shield-slash": [
+    "defense",
     "disabled",
     "mute",
     "none",
     "off",
+    "protection",
+    "safety",
+    "security",
     "shield slash"
   ],
   "shield-star": [
     "bookmark",
+    "defense",
     "favorite",
+    "protection",
     "rating",
+    "safety",
+    "security",
     "shield star"
   ],
   "shield-warning": [
     "alert",
     "caution",
+    "defense",
     "error",
+    "protection",
+    "safety",
+    "security",
     "shield warning"
   ],
   "shopping-bag": [
@@ -5968,11 +7484,19 @@
     "plain",
     "shopping cart simple"
   ],
+  "shuffle": [
+    "mix",
+    "playlist",
+    "random"
+  ],
   "shuffle-angular": [
     "brand",
     "code",
     "framework",
     "logo",
+    "mix",
+    "playlist",
+    "random",
     "shuffle angular"
   ],
   "sidebar": [
@@ -5992,6 +7516,12 @@
     "panel",
     "plain",
     "sidebar simple"
+  ],
+  "sigma": [
+    "math",
+    "statistics",
+    "sum",
+    "symbol"
   ],
   "sign-in": [
     "collapse",
@@ -6025,42 +7555,111 @@
     "shape",
     "skip forward circle"
   ],
+  "sliders": [
+    "adjust",
+    "controls",
+    "faders",
+    "settings"
+  ],
   "sliders-horizontal": [
+    "adjust",
+    "controls",
+    "faders",
     "row",
+    "settings",
     "sliders horizontal",
     "width",
     "x"
   ],
+  "slideshow": [
+    "photos",
+    "presentation",
+    "slides"
+  ],
+  "smiley": [
+    "emoji",
+    "emoticon",
+    "face",
+    "happy"
+  ],
   "smiley-angry": [
+    "emoji",
+    "emoticon",
+    "face",
+    "happy",
     "smiley angry"
   ],
   "smiley-blank": [
+    "emoji",
+    "emoticon",
+    "face",
+    "happy",
     "smiley blank"
   ],
   "smiley-meh": [
+    "emoji",
+    "emoticon",
+    "face",
+    "happy",
     "smiley meh"
   ],
   "smiley-melting": [
+    "emoji",
+    "emoticon",
+    "face",
+    "happy",
     "smiley melting"
   ],
   "smiley-nervous": [
+    "emoji",
+    "emoticon",
+    "face",
+    "happy",
     "smiley nervous"
   ],
   "smiley-sad": [
+    "emoji",
+    "emoticon",
+    "face",
+    "happy",
     "smiley sad"
   ],
   "smiley-sticker": [
+    "decal",
+    "emoji",
+    "emoticon",
+    "face",
+    "happy",
+    "label",
     "smiley sticker"
   ],
   "smiley-wink": [
+    "emoji",
+    "emoticon",
+    "face",
+    "happy",
     "smiley wink"
   ],
   "smiley-x-eyes": [
     "cancel",
     "close",
     "cross",
+    "emoji",
+    "emoticon",
+    "face",
+    "happy",
+    "look",
     "remove",
-    "smiley x eyes"
+    "see",
+    "smiley x eyes",
+    "vision",
+    "watch"
+  ],
+  "snowflake": [
+    "cold",
+    "frost",
+    "snow",
+    "winter"
   ],
   "sort-ascending": [
     "sort ascending"
@@ -6141,8 +7740,16 @@
     "remove",
     "speaker x"
   ],
+  "spinner": [
+    "loading",
+    "progress",
+    "wait"
+  ],
   "spinner-gap": [
-    "spinner gap"
+    "loading",
+    "progress",
+    "spinner gap",
+    "wait"
   ],
   "split-horizontal": [
     "divide",
@@ -6271,6 +7878,28 @@
     "rating",
     "star and crescent"
   ],
+  "steps": [
+    "footsteps",
+    "progress",
+    "stairs",
+    "walk"
+  ],
+  "sticker": [
+    "decal",
+    "emoji",
+    "label"
+  ],
+  "stop": [
+    "cancel",
+    "halt",
+    "media control"
+  ],
+  "storefront": [
+    "business",
+    "retail",
+    "shop",
+    "store"
+  ],
   "stripe-logo": [
     "brand",
     "logo",
@@ -6298,17 +7927,41 @@
     "shape",
     "subtract square"
   ],
+  "suitcase": [
+    "baggage",
+    "briefcase",
+    "luggage",
+    "travel"
+  ],
   "suitcase-rolling": [
-    "suitcase rolling"
+    "baggage",
+    "briefcase",
+    "luggage",
+    "suitcase rolling",
+    "travel"
   ],
   "suitcase-simple": [
+    "baggage",
     "basic",
+    "briefcase",
+    "luggage",
     "minimal",
     "plain",
-    "suitcase simple"
+    "suitcase simple",
+    "travel"
+  ],
+  "sun": [
+    "bright",
+    "daylight",
+    "sunshine",
+    "weather"
   ],
   "sun-dim": [
-    "sun dim"
+    "bright",
+    "daylight",
+    "sun dim",
+    "sunshine",
+    "weather"
   ],
   "superset-of": [
     "superset of"
@@ -6316,13 +7969,29 @@
   "superset-proper-of": [
     "superset proper of"
   ],
+  "swap": [
+    "exchange",
+    "switch",
+    "transfer"
+  ],
+  "tag": [
+    "category",
+    "label",
+    "price tag"
+  ],
   "tag-chevron": [
+    "category",
+    "label",
+    "price tag",
     "tag chevron"
   ],
   "tag-simple": [
     "basic",
+    "category",
+    "label",
     "minimal",
     "plain",
+    "price tag",
     "tag simple"
   ],
   "tea-bag": [
@@ -6338,7 +8007,17 @@
     "plain",
     "television simple"
   ],
+  "terminal": [
+    "code",
+    "command line",
+    "console",
+    "shell"
+  ],
   "terminal-window": [
+    "code",
+    "command line",
+    "console",
+    "shell",
     "terminal window"
   ],
   "text-a-underline": [
@@ -6489,21 +8168,40 @@
   "text-underline": [
     "text underline"
   ],
+  "thermometer": [
+    "measure",
+    "temperature",
+    "weather"
+  ],
   "thermometer-cold": [
-    "thermometer cold"
+    "measure",
+    "temperature",
+    "thermometer cold",
+    "weather"
   ],
   "thermometer-hot": [
-    "thermometer hot"
+    "measure",
+    "temperature",
+    "thermometer hot",
+    "weather"
   ],
   "thermometer-simple": [
     "basic",
+    "measure",
     "minimal",
     "plain",
-    "thermometer simple"
+    "temperature",
+    "thermometer simple",
+    "weather"
   ],
   "three-d": [
     "3",
     "three d"
+  ],
+  "tilde": [
+    "approximate",
+    "punctuation",
+    "symbol"
   ],
   "timer": [
     "countdown",
@@ -6522,19 +8220,47 @@
     "next",
     "toggle right"
   ],
+  "tote": [
+    "bag",
+    "carry",
+    "shopping"
+  ],
   "tote-simple": [
+    "bag",
     "basic",
+    "carry",
     "minimal",
     "plain",
+    "shopping",
     "tote simple"
   ],
+  "trademark": [
+    "brand",
+    "legal",
+    "registered",
+    "symbol"
+  ],
   "trademark-registered": [
+    "brand",
+    "legal",
+    "registered",
+    "symbol",
     "trademark registered"
+  ],
+  "trash": [
+    "bin",
+    "delete",
+    "garbage",
+    "remove"
   ],
   "trash-simple": [
     "basic",
+    "bin",
+    "delete",
+    "garbage",
     "minimal",
     "plain",
+    "remove",
     "trash simple"
   ],
   "tray-arrow-down": [
@@ -6589,6 +8315,11 @@
     "three",
     "triangle dashed"
   ],
+  "union": [
+    "combine",
+    "merge",
+    "set operation"
+  ],
   "unite": [
     "boolean",
     "combine",
@@ -6607,10 +8338,18 @@
     "shape",
     "unite square"
   ],
+  "upload": [
+    "export",
+    "send",
+    "transfer"
+  ],
   "upload-simple": [
     "basic",
+    "export",
     "minimal",
     "plain",
+    "send",
+    "transfer",
     "upload simple"
   ],
   "user": [
@@ -6673,11 +8412,15 @@
   "user-circle-gear": [
     "account",
     "avatar",
+    "cog",
+    "configuration",
     "ellipse",
     "geometry",
+    "mechanism",
     "person",
     "profile",
     "round",
+    "settings",
     "shape",
     "user circle gear"
   ],
@@ -6721,13 +8464,21 @@
   "user-gear": [
     "account",
     "avatar",
+    "cog",
+    "configuration",
+    "mechanism",
     "person",
     "profile",
+    "settings",
     "user gear"
   ],
   "user-list": [
     "account",
     "avatar",
+    "bullet points",
+    "checklist",
+    "items",
+    "menu",
     "person",
     "profile",
     "user list"
@@ -6790,12 +8541,26 @@
     "profile",
     "user switch"
   ],
+  "users": [
+    "accounts",
+    "group",
+    "people",
+    "team"
+  ],
   "users-four": [
     "4",
+    "accounts",
+    "group",
+    "people",
+    "team",
     "users four"
   ],
   "users-three": [
     "3",
+    "accounts",
+    "group",
+    "people",
+    "team",
     "users three"
   ],
   "vector-three": [
@@ -6811,6 +8576,12 @@
     "graphics",
     "path",
     "vector two"
+  ],
+  "vibrate": [
+    "buzz",
+    "notification",
+    "phone",
+    "silent mode"
   ],
   "vignette": [
     "effect",
@@ -6837,8 +8608,12 @@
   ],
   "warning-diamond": [
     "alert",
+    "card suit",
     "caution",
     "error",
+    "gem",
+    "jewel",
+    "precious stone",
     "warning diamond"
   ],
   "warning-octagon": [
@@ -6877,12 +8652,28 @@
     "three",
     "wave triangle"
   ],
+  "waveform": [
+    "audio",
+    "frequency",
+    "signal",
+    "sound wave"
+  ],
   "waveform-slash": [
+    "audio",
     "disabled",
+    "frequency",
     "mute",
     "none",
     "off",
+    "signal",
+    "sound wave",
     "waveform slash"
+  ],
+  "waves": [
+    "ocean",
+    "ripple",
+    "sea",
+    "water"
   ],
   "wifi-high": [
     "level",
@@ -6918,6 +8709,12 @@
     "cross",
     "remove",
     "wifi x"
+  ],
+  "wind": [
+    "air",
+    "breeze",
+    "gust",
+    "weather"
   ],
   "x-circle": [
     "cancel",
