@@ -16,7 +16,17 @@
     "study"
   ],
   "air-traffic-control": [
-    "air traffic control"
+    "air traffic control",
+    "atmosphere",
+    "aviation",
+    "control",
+    "flight",
+    "flow",
+    "manage",
+    "operate",
+    "panel",
+    "routing",
+    "sky"
   ],
   "airplane": [
     "aviation",
@@ -277,11 +287,21 @@
   ],
   "app-store-logo": [
     "app store logo",
+    "application",
     "brand",
-    "logo"
+    "logo",
+    "program",
+    "software"
   ],
   "app-window": [
-    "app window"
+    "app",
+    "app window",
+    "application",
+    "browser",
+    "pane",
+    "program",
+    "software",
+    "ui"
   ],
   "apple": [
     "brand",
@@ -294,9 +314,12 @@
   ],
   "approximate-equals": [
     "approximate equals",
+    "comparison",
+    "equal",
     "equals",
     "math",
-    "roughly"
+    "roughly",
+    "same"
   ],
   "archive": [
     "backup",
@@ -762,17 +785,25 @@
     "below",
     "bottom",
     "direction",
+    "graph",
     "navigation",
+    "path",
     "pointer",
-    "south"
+    "segment",
+    "south",
+    "stroke"
   ],
   "arrow-fat-line-left": [
     "arrow fat line left",
     "back",
     "direction",
+    "graph",
     "navigation",
+    "path",
     "pointer",
     "previous",
+    "segment",
+    "stroke",
     "west"
   ],
   "arrow-fat-line-right": [
@@ -780,17 +811,25 @@
     "direction",
     "east",
     "forward",
+    "graph",
     "navigation",
     "next",
-    "pointer"
+    "path",
+    "pointer",
+    "segment",
+    "stroke"
   ],
   "arrow-fat-line-up": [
     "above",
     "arrow fat line up",
     "direction",
+    "graph",
     "navigation",
     "north",
+    "path",
     "pointer",
+    "segment",
+    "stroke",
     "top"
   ],
   "arrow-fat-lines-down": [
@@ -861,9 +900,13 @@
     "below",
     "bottom",
     "direction",
+    "graph",
     "navigation",
+    "path",
     "pointer",
-    "south"
+    "segment",
+    "south",
+    "stroke"
   ],
   "arrow-line-down-left": [
     "arrow line down left",
@@ -871,10 +914,14 @@
     "below",
     "bottom",
     "direction",
+    "graph",
     "navigation",
+    "path",
     "pointer",
     "previous",
+    "segment",
     "south",
+    "stroke",
     "west"
   ],
   "arrow-line-down-right": [
@@ -884,18 +931,26 @@
     "direction",
     "east",
     "forward",
+    "graph",
     "navigation",
     "next",
+    "path",
     "pointer",
-    "south"
+    "segment",
+    "south",
+    "stroke"
   ],
   "arrow-line-left": [
     "arrow line left",
     "back",
     "direction",
+    "graph",
     "navigation",
+    "path",
     "pointer",
     "previous",
+    "segment",
+    "stroke",
     "west"
   ],
   "arrow-line-right": [
@@ -903,17 +958,25 @@
     "direction",
     "east",
     "forward",
+    "graph",
     "navigation",
     "next",
-    "pointer"
+    "path",
+    "pointer",
+    "segment",
+    "stroke"
   ],
   "arrow-line-up": [
     "above",
     "arrow line up",
     "direction",
+    "graph",
     "navigation",
     "north",
+    "path",
     "pointer",
+    "segment",
+    "stroke",
     "top"
   ],
   "arrow-line-up-left": [
@@ -921,10 +984,14 @@
     "arrow line up left",
     "back",
     "direction",
+    "graph",
     "navigation",
     "north",
+    "path",
     "pointer",
     "previous",
+    "segment",
+    "stroke",
     "top",
     "west"
   ],
@@ -934,10 +1001,14 @@
     "direction",
     "east",
     "forward",
+    "graph",
     "navigation",
     "next",
     "north",
+    "path",
     "pointer",
+    "segment",
+    "stroke",
     "top"
   ],
   "arrow-right": [
@@ -1250,10 +1321,14 @@
     "collapse",
     "direction",
     "enter",
+    "graph",
     "inside",
     "navigation",
+    "path",
     "pointer",
     "row",
+    "segment",
+    "stroke",
     "width",
     "x"
   ],
@@ -1263,10 +1338,14 @@
     "column",
     "direction",
     "enter",
+    "graph",
     "height",
     "inside",
     "navigation",
+    "path",
     "pointer",
+    "segment",
+    "stroke",
     "y"
   ],
   "arrows-in-simple": [
@@ -1325,10 +1404,14 @@
     "direction",
     "exit",
     "expand",
+    "graph",
     "navigation",
     "outside",
+    "path",
     "pointer",
     "row",
+    "segment",
+    "stroke",
     "width",
     "x"
   ],
@@ -1338,10 +1421,14 @@
     "direction",
     "exit",
     "expand",
+    "graph",
     "height",
     "navigation",
     "outside",
+    "path",
     "pointer",
+    "segment",
+    "stroke",
     "y"
   ],
   "arrows-out-simple": [
@@ -1529,6 +1616,9 @@
     "ball",
     "baseball cap",
     "game",
+    "hat",
+    "headwear",
+    "mortarboard",
     "sport"
   ],
   "baseball-helmet": [
@@ -1741,8 +1831,11 @@
   ],
   "beach-ball": [
     "beach ball",
+    "round",
     "sand",
     "sea",
+    "sphere",
+    "sport",
     "summer",
     "vacation"
   ],
@@ -1980,11 +2073,15 @@
   ],
   "book-open-text": [
     "book open text",
+    "editor",
     "expand",
+    "font",
+    "formatting",
     "library",
     "literature",
     "read",
     "study",
+    "typography",
     "unfold",
     "unlock"
   ],
@@ -2072,6 +2169,8 @@
     "ball",
     "bowling ball",
     "game",
+    "round",
+    "sphere",
     "sport",
     "strike"
   ],
@@ -2281,10 +2380,13 @@
   "calendar-blank": [
     "calendar blank",
     "date",
+    "empty",
     "event",
     "month",
+    "plain",
     "schedule",
-    "time"
+    "time",
+    "unwritten"
   ],
   "calendar-check": [
     "calendar check",
@@ -2415,10 +2517,14 @@
   ],
   "camera-rotate": [
     "camera rotate",
+    "flip",
+    "orientation",
     "photo",
     "photography",
     "picture",
-    "snapshot"
+    "snapshot",
+    "spin",
+    "turn"
   ],
   "camera-slash": [
     "camera slash",
@@ -2706,8 +2812,12 @@
     "chevron",
     "direction",
     "expand",
+    "graph",
     "navigation",
+    "path",
+    "segment",
     "south",
+    "stroke",
     "triangle"
   ],
   "caret-line-left": [
@@ -2717,8 +2827,12 @@
     "chevron",
     "direction",
     "expand",
+    "graph",
     "navigation",
+    "path",
     "previous",
+    "segment",
+    "stroke",
     "triangle",
     "west"
   ],
@@ -2730,8 +2844,12 @@
     "east",
     "expand",
     "forward",
+    "graph",
     "navigation",
     "next",
+    "path",
+    "segment",
+    "stroke",
     "triangle"
   ],
   "caret-line-up": [
@@ -2741,8 +2859,12 @@
     "chevron",
     "direction",
     "expand",
+    "graph",
     "navigation",
     "north",
+    "path",
+    "segment",
+    "stroke",
     "top",
     "triangle"
   ],
@@ -2791,13 +2913,33 @@
     "vegetable garden"
   ],
   "cash-register": [
-    "cash register"
+    "cash register",
+    "cashier",
+    "checkout",
+    "finance",
+    "money",
+    "payment",
+    "pos",
+    "till"
   ],
   "cassette-tape": [
-    "cassette tape"
+    "audio",
+    "cassette",
+    "cassette tape",
+    "mixtape",
+    "recording",
+    "reel",
+    "retro",
+    "tape"
   ],
   "castle-turret": [
-    "castle turret"
+    "battlement",
+    "castle",
+    "castle turret",
+    "chess",
+    "fortress",
+    "medieval",
+    "tower"
   ],
   "cat": [
     "animal",
@@ -2806,48 +2948,102 @@
     "pet"
   ],
   "cell-signal-full": [
+    "bars",
     "cell signal full",
     "complete",
     "filled",
-    "max"
+    "max",
+    "mobile",
+    "network",
+    "phone",
+    "reception",
+    "strength"
   ],
   "cell-signal-high": [
+    "bars",
     "cell signal high",
     "level",
     "max",
+    "mobile",
+    "network",
+    "phone",
+    "reception",
+    "strength",
     "top"
   ],
   "cell-signal-low": [
+    "bars",
     "bottom",
     "cell signal low",
     "level",
-    "min"
+    "min",
+    "mobile",
+    "network",
+    "phone",
+    "reception",
+    "strength"
   ],
   "cell-signal-medium": [
+    "bars",
     "brand",
     "cell signal medium",
     "level",
-    "mid"
+    "mid",
+    "mobile",
+    "network",
+    "phone",
+    "reception",
+    "strength"
   ],
   "cell-signal-none": [
-    "cell signal none"
+    "bars",
+    "cell signal none",
+    "empty",
+    "mobile",
+    "network",
+    "no signal",
+    "off",
+    "phone",
+    "reception",
+    "strength",
+    "zero"
   ],
   "cell-signal-slash": [
+    "bars",
     "cell signal slash",
     "disabled",
+    "mobile",
     "mute",
+    "network",
     "none",
-    "off"
+    "off",
+    "phone",
+    "reception",
+    "strength"
   ],
   "cell-signal-x": [
+    "bars",
     "cancel",
     "cell signal x",
     "close",
     "cross",
-    "remove"
+    "mobile",
+    "network",
+    "phone",
+    "reception",
+    "remove",
+    "strength"
   ],
   "cell-tower": [
-    "cell tower"
+    "antenna",
+    "building",
+    "case",
+    "cell tower",
+    "mast",
+    "mobile",
+    "network",
+    "phone",
+    "reception"
   ],
   "certificate": [
     "award",
@@ -2890,43 +3086,117 @@
     "power"
   ],
   "chart-bar": [
-    "chart bar"
+    "analytics",
+    "bars",
+    "chart bar",
+    "column",
+    "data",
+    "graph",
+    "histogram",
+    "statistics"
   ],
   "chart-bar-horizontal": [
+    "analytics",
+    "bars",
     "chart bar horizontal",
+    "column",
+    "data",
+    "graph",
+    "histogram",
     "row",
+    "statistics",
     "width",
     "x"
   ],
   "chart-donut": [
-    "chart donut"
+    "analytics",
+    "chart donut",
+    "circle chart",
+    "data",
+    "doughnut",
+    "graph",
+    "ring",
+    "statistics"
   ],
   "chart-line": [
-    "chart line"
+    "analytics",
+    "chart line",
+    "data",
+    "graph",
+    "path",
+    "segment",
+    "statistics",
+    "stroke"
   ],
   "chart-line-down": [
+    "analytics",
     "below",
     "bottom",
     "chart line down",
-    "south"
+    "data",
+    "graph",
+    "path",
+    "segment",
+    "south",
+    "statistics",
+    "stroke"
   ],
   "chart-line-up": [
     "above",
+    "analytics",
     "chart line up",
+    "data",
+    "graph",
     "north",
+    "path",
+    "segment",
+    "statistics",
+    "stroke",
     "top"
   ],
   "chart-pie": [
-    "chart pie"
+    "analytics",
+    "chart pie",
+    "circle chart",
+    "data",
+    "graph",
+    "percentage",
+    "proportion",
+    "statistics"
   ],
   "chart-pie-slice": [
-    "chart pie slice"
+    "analytics",
+    "chart pie slice",
+    "circle chart",
+    "data",
+    "graph",
+    "part",
+    "percentage",
+    "portion",
+    "proportion",
+    "segment",
+    "statistics",
+    "wedge"
   ],
   "chart-polar": [
-    "chart polar"
+    "analytics",
+    "chart polar",
+    "circular",
+    "coordinates",
+    "data",
+    "graph",
+    "radar chart",
+    "statistics"
   ],
   "chart-scatter": [
-    "chart scatter"
+    "analytics",
+    "chart scatter",
+    "correlation",
+    "data",
+    "graph",
+    "plot",
+    "points",
+    "statistics"
   ],
   "chat": [
     "bubble",
@@ -2966,8 +3236,12 @@
     "bubble",
     "chat centered text",
     "conversation",
+    "editor",
+    "font",
+    "formatting",
     "message",
-    "talk"
+    "talk",
+    "typography"
   ],
   "chat-circle": [
     "bubble",
@@ -3013,12 +3287,16 @@
     "bubble",
     "chat circle text",
     "conversation",
+    "editor",
     "ellipse",
+    "font",
+    "formatting",
     "geometry",
     "message",
     "round",
     "shape",
-    "talk"
+    "talk",
+    "typography"
   ],
   "chat-dots": [
     "bubble",
@@ -3073,15 +3351,23 @@
     "bubble",
     "chat teardrop text",
     "conversation",
+    "editor",
+    "font",
+    "formatting",
     "message",
-    "talk"
+    "talk",
+    "typography"
   ],
   "chat-text": [
     "bubble",
     "chat text",
     "conversation",
+    "editor",
+    "font",
+    "formatting",
     "message",
-    "talk"
+    "talk",
+    "typography"
   ],
   "chats": [
     "bubbles",
@@ -3177,7 +3463,14 @@
     "wedge"
   ],
   "chef-hat": [
-    "chef hat"
+    "cap",
+    "chef hat",
+    "clothing",
+    "cook",
+    "culinary",
+    "headwear",
+    "kitchen",
+    "restaurant"
   ],
   "cherries": [
     "cherry",
@@ -3299,8 +3592,12 @@
     "board",
     "checklist",
     "clipboard text",
+    "editor",
+    "font",
+    "formatting",
     "notes",
-    "task"
+    "task",
+    "typography"
   ],
   "clock": [
     "hour",
@@ -3499,7 +3796,14 @@
     "spade"
   ],
   "coat-hanger": [
-    "coat hanger"
+    "closet",
+    "clothes",
+    "clothing",
+    "coat hanger",
+    "garment",
+    "jacket",
+    "outerwear",
+    "wardrobe"
   ],
   "coda-logo": [
     "brand",
@@ -3632,7 +3936,15 @@
     "tool"
   ],
   "computer-tower": [
-    "computer tower"
+    "antenna",
+    "building",
+    "case",
+    "computer tower",
+    "desktop",
+    "machine",
+    "mast",
+    "pc",
+    "workstation"
   ],
   "confetti": [
     "celebration",
@@ -3640,7 +3952,14 @@
     "party"
   ],
   "contactless-payment": [
-    "contactless payment"
+    "checkout",
+    "contactless payment",
+    "money",
+    "nfc",
+    "pay",
+    "tap to pay",
+    "transaction",
+    "wireless payment"
   ],
   "cookie": [
     "biscuit",
@@ -3649,7 +3968,14 @@
     "snack"
   ],
   "cooking-pot": [
-    "cooking pot"
+    "cooking pot",
+    "cookware",
+    "cuisine",
+    "food",
+    "kitchen",
+    "pan",
+    "recipe",
+    "saucepan"
   ],
   "copy": [
     "clipboard",
@@ -3671,15 +3997,23 @@
     "open source"
   ],
   "corners-in": [
+    "bounds",
     "collapse",
     "corners in",
+    "crop",
+    "edges",
     "enter",
+    "frame",
     "inside"
   ],
   "corners-out": [
+    "bounds",
     "corners out",
+    "crop",
+    "edges",
     "exit",
     "expand",
+    "frame",
     "outside"
   ],
   "couch": [
@@ -3701,7 +4035,14 @@
     "livestock"
   ],
   "cowboy-hat": [
-    "cowboy hat"
+    "cap",
+    "clothing",
+    "cowboy hat",
+    "headwear",
+    "ranch",
+    "rodeo",
+    "sheriff",
+    "western"
   ],
   "cpu": [
     "chip",
@@ -3716,14 +4057,24 @@
     "machinery"
   ],
   "crane-tower": [
+    "antenna",
+    "building",
+    "case",
     "construction",
     "crane tower",
     "hoist",
     "lift",
-    "machinery"
+    "machinery",
+    "mast"
   ],
   "credit-card": [
-    "credit card"
+    "bank",
+    "credit card",
+    "debit",
+    "finance",
+    "id",
+    "payment",
+    "wallet"
   ],
   "cricket": [
     "bat and ball",
@@ -3804,53 +4155,153 @@
     "volume"
   ],
   "currency-btc": [
-    "currency btc"
+    "bitcoin",
+    "crypto",
+    "cryptocurrency",
+    "currency btc",
+    "exchange",
+    "finance",
+    "money",
+    "payment"
   ],
   "currency-circle-dollar": [
+    "currency",
     "currency circle dollar",
     "ellipse",
+    "exchange",
+    "finance",
     "geometry",
+    "money",
+    "payment",
     "round",
-    "shape"
+    "shape",
+    "united states",
+    "usd"
   ],
   "currency-cny": [
-    "currency cny"
+    "china",
+    "chinese currency",
+    "currency cny",
+    "exchange",
+    "finance",
+    "money",
+    "payment",
+    "renminbi",
+    "yuan"
   ],
   "currency-dollar": [
-    "currency dollar"
+    "currency",
+    "currency dollar",
+    "exchange",
+    "finance",
+    "money",
+    "payment",
+    "united states",
+    "usd"
   ],
   "currency-dollar-simple": [
     "basic",
+    "currency",
     "currency dollar simple",
+    "exchange",
+    "finance",
     "minimal",
-    "plain"
+    "money",
+    "payment",
+    "plain",
+    "united states",
+    "usd"
   ],
   "currency-eth": [
-    "currency eth"
+    "crypto",
+    "cryptocurrency",
+    "currency eth",
+    "ethereum",
+    "exchange",
+    "finance",
+    "money",
+    "payment"
   ],
   "currency-eur": [
-    "currency eur"
+    "currency eur",
+    "euro",
+    "europe",
+    "european currency",
+    "exchange",
+    "finance",
+    "money",
+    "payment"
   ],
   "currency-gbp": [
-    "currency gbp"
+    "britain",
+    "british currency",
+    "currency gbp",
+    "exchange",
+    "finance",
+    "money",
+    "payment",
+    "pound sterling",
+    "united kingdom"
   ],
   "currency-inr": [
-    "currency inr"
+    "currency inr",
+    "exchange",
+    "finance",
+    "india",
+    "indian currency",
+    "money",
+    "payment",
+    "rupee"
   ],
   "currency-jpy": [
-    "currency jpy"
+    "currency jpy",
+    "exchange",
+    "finance",
+    "japan",
+    "japanese currency",
+    "money",
+    "payment",
+    "yen"
   ],
   "currency-krw": [
-    "currency krw"
+    "currency krw",
+    "exchange",
+    "finance",
+    "korean currency",
+    "money",
+    "payment",
+    "south korea",
+    "won"
   ],
   "currency-kzt": [
-    "currency kzt"
+    "currency kzt",
+    "exchange",
+    "finance",
+    "kazakh currency",
+    "kazakhstan",
+    "money",
+    "payment",
+    "tenge"
   ],
   "currency-ngn": [
-    "currency ngn"
+    "currency ngn",
+    "exchange",
+    "finance",
+    "money",
+    "naira",
+    "nigeria",
+    "nigerian currency",
+    "payment"
   ],
   "currency-rub": [
-    "currency rub"
+    "currency rub",
+    "exchange",
+    "finance",
+    "money",
+    "payment",
+    "ruble",
+    "russia",
+    "russian currency"
   ],
   "cursor": [
     "arrow",
@@ -3890,8 +4341,12 @@
     "workstation"
   ],
   "desktop-tower": [
+    "antenna",
+    "building",
+    "case",
     "computer",
     "desktop tower",
+    "mast",
     "monitor",
     "pc",
     "workstation"
@@ -3908,37 +4363,97 @@
     "logo"
   ],
   "device-mobile": [
-    "device mobile"
+    "cell",
+    "device mobile",
+    "electronics",
+    "gadget",
+    "handset",
+    "hardware",
+    "phone",
+    "smartphone"
   ],
   "device-mobile-camera": [
+    "cell",
     "device mobile camera",
+    "electronics",
+    "gadget",
+    "handset",
+    "hardware",
+    "phone",
     "photo",
     "photography",
     "picture",
+    "smartphone",
     "snapshot"
   ],
   "device-mobile-slash": [
+    "cell",
     "device mobile slash",
     "disabled",
+    "electronics",
+    "gadget",
+    "handset",
+    "hardware",
     "mute",
     "none",
-    "off"
+    "off",
+    "phone",
+    "smartphone"
   ],
   "device-mobile-speaker": [
-    "device mobile speaker"
+    "audio",
+    "cell",
+    "device mobile speaker",
+    "electronics",
+    "gadget",
+    "handset",
+    "hardware",
+    "loudspeaker",
+    "phone",
+    "smartphone",
+    "sound",
+    "volume"
   ],
   "device-rotate": [
-    "device rotate"
+    "device rotate",
+    "electronics",
+    "flip",
+    "gadget",
+    "hardware",
+    "orientation",
+    "phone",
+    "spin",
+    "turn"
   ],
   "device-tablet-camera": [
+    "device",
     "device tablet camera",
+    "electronics",
+    "gadget",
+    "hardware",
+    "ipad",
+    "mobile",
+    "phone",
     "photo",
     "photography",
     "picture",
-    "snapshot"
+    "snapshot",
+    "touchscreen"
   ],
   "device-tablet-speaker": [
-    "device tablet speaker"
+    "audio",
+    "device",
+    "device tablet speaker",
+    "electronics",
+    "gadget",
+    "hardware",
+    "ipad",
+    "loudspeaker",
+    "mobile",
+    "phone",
+    "sound",
+    "touchscreen",
+    "volume"
   ],
   "devices": [
     "electronics",
@@ -3990,7 +4505,14 @@
     "vinyl"
   ],
   "disco-ball": [
-    "disco ball"
+    "dance",
+    "disco ball",
+    "mirror ball",
+    "nightclub",
+    "party",
+    "round",
+    "sphere",
+    "sport"
   ],
   "discord-logo": [
     "brand",
@@ -4322,7 +4844,14 @@
     "test"
   ],
   "exclamation-mark": [
-    "exclamation mark"
+    "alert",
+    "attention",
+    "exclamation mark",
+    "important",
+    "punctuation",
+    "sign",
+    "symbol",
+    "warning"
   ],
   "exclude": [
     "boolean",
@@ -4395,7 +4924,14 @@
     "watch"
   ],
   "face-mask": [
-    "face mask"
+    "expression",
+    "face covering",
+    "face mask",
+    "head",
+    "medical",
+    "person",
+    "ppe",
+    "protection"
   ],
   "facebook-logo": [
     "brand",
@@ -4425,7 +4961,13 @@
     "x"
   ],
   "fallout-shelter": [
-    "fallout shelter"
+    "bunker",
+    "emergency",
+    "fallout shelter",
+    "nuclear",
+    "radiation",
+    "refuge",
+    "safety"
   ],
   "fan": [
     "air",
@@ -4434,17 +4976,38 @@
     "ventilation"
   ],
   "fast-forward": [
-    "fast forward"
+    "advance",
+    "ahead",
+    "fast forward",
+    "next",
+    "quick",
+    "rapid",
+    "skip",
+    "speed"
   ],
   "fast-forward-circle": [
+    "advance",
+    "ahead",
     "ellipse",
     "fast forward circle",
     "geometry",
+    "next",
+    "quick",
+    "rapid",
     "round",
-    "shape"
+    "shape",
+    "skip",
+    "speed"
   ],
   "fast-rewind": [
-    "fast rewind"
+    "back",
+    "fast rewind",
+    "previous",
+    "quick",
+    "rapid",
+    "replay",
+    "reverse",
+    "speed"
   ],
   "feather": [
     "bird",
@@ -4775,10 +5338,14 @@
   ],
   "file-text": [
     "document",
+    "editor",
     "file text",
+    "font",
+    "formatting",
     "page",
     "paper",
-    "storage"
+    "storage",
+    "typography"
   ],
   "file-ts": [
     "code",
@@ -4866,13 +5433,33 @@
     "storage"
   ],
   "film-reel": [
-    "film reel"
+    "cinema",
+    "film",
+    "film reel",
+    "movie",
+    "reel",
+    "spool",
+    "video"
   ],
   "film-slate": [
-    "film slate"
+    "cinema",
+    "clapperboard",
+    "director",
+    "film",
+    "film slate",
+    "movie",
+    "reel",
+    "video"
   ],
   "film-strip": [
-    "film strip"
+    "cinema",
+    "film",
+    "film strip",
+    "frames",
+    "movie",
+    "reel",
+    "sequence",
+    "video"
   ],
   "fingerprint": [
     "biometric",
@@ -4891,7 +5478,13 @@
     "security"
   ],
   "finn-the-human": [
-    "finn the human"
+    "adventure time",
+    "cartoon",
+    "character",
+    "figure",
+    "finn the human",
+    "people",
+    "person"
   ],
   "fire": [
     "burn",
@@ -4920,10 +5513,28 @@
     "hot"
   ],
   "first-aid": [
-    "first aid"
+    "assistance",
+    "begin",
+    "first aid",
+    "help",
+    "initial",
+    "medical",
+    "primary",
+    "rescue"
   ],
   "first-aid-kit": [
-    "first aid kit"
+    "assistance",
+    "begin",
+    "first aid kit",
+    "help",
+    "initial",
+    "medical",
+    "pack",
+    "primary",
+    "rescue",
+    "set",
+    "supplies",
+    "toolbox"
   ],
   "fish": [
     "animal",
@@ -5011,10 +5622,24 @@
     "y"
   ],
   "floppy-disk": [
-    "floppy disk"
+    "diskette",
+    "drive",
+    "floppy disk",
+    "retro",
+    "save",
+    "storage"
   ],
   "floppy-disk-back": [
-    "floppy disk back"
+    "backward",
+    "diskette",
+    "drive",
+    "floppy disk back",
+    "previous",
+    "retro",
+    "return",
+    "reverse",
+    "save",
+    "storage"
   ],
   "flow-arrow": [
     "direction",
@@ -5043,7 +5668,15 @@
     "plant"
   ],
   "flying-saucer": [
-    "flying saucer"
+    "airborne",
+    "alien",
+    "extraterrestrial",
+    "flight",
+    "fly",
+    "flying saucer",
+    "hover",
+    "spaceship",
+    "ufo"
   ],
   "folder": [
     "directory",
@@ -5230,13 +5863,26 @@
     "walk"
   ],
   "fork-knife": [
-    "fork knife"
+    "blade",
+    "branch",
+    "cut",
+    "cutlery",
+    "fork knife",
+    "repository",
+    "utensil"
   ],
   "four-k": [
     "4",
     "four k"
   ],
   "frame-corners": [
+    "border",
+    "boundary",
+    "bounds",
+    "canvas",
+    "crop",
+    "edges",
+    "frame",
     "frame corners"
   ],
   "framer-logo": [
@@ -5266,7 +5912,13 @@
     "sort"
   ],
   "game-controller": [
-    "game controller"
+    "arcade",
+    "console",
+    "game controller",
+    "gamepad",
+    "gaming",
+    "joystick",
+    "play"
   ],
   "garage": [
     "car",
@@ -5274,10 +5926,24 @@
     "workshop"
   ],
   "gas-can": [
-    "gas can"
+    "canister",
+    "container",
+    "fuel",
+    "gas can",
+    "gasoline",
+    "jerrycan",
+    "petrol",
+    "station",
+    "tin"
   ],
   "gas-pump": [
-    "gas pump"
+    "fuel",
+    "gas pump",
+    "gas station",
+    "gasoline",
+    "petrol",
+    "refuel",
+    "station"
   ],
   "gauge": [
     "dial",
@@ -5313,22 +5979,59 @@
     "settings"
   ],
   "gender-female": [
-    "gender female"
+    "gender",
+    "gender female",
+    "girl",
+    "identity",
+    "sex",
+    "symbol",
+    "venus",
+    "woman"
   ],
   "gender-intersex": [
-    "gender intersex"
+    "gender",
+    "gender intersex",
+    "identity",
+    "lgbtq",
+    "sex",
+    "symbol"
   ],
   "gender-male": [
-    "gender male"
+    "boy",
+    "gender",
+    "gender male",
+    "identity",
+    "man",
+    "mars",
+    "sex",
+    "symbol"
   ],
   "gender-neuter": [
-    "gender neuter"
+    "asexual",
+    "gender",
+    "gender neuter",
+    "genderless",
+    "identity",
+    "sex",
+    "symbol"
   ],
   "gender-nonbinary": [
-    "gender nonbinary"
+    "enby",
+    "gender",
+    "gender nonbinary",
+    "identity",
+    "lgbtq",
+    "sex",
+    "symbol"
   ],
   "gender-transgender": [
-    "gender transgender"
+    "gender",
+    "gender transgender",
+    "identity",
+    "lgbtq",
+    "sex",
+    "symbol",
+    "trans"
   ],
   "ghost": [
     "halloween",
@@ -5348,25 +6051,64 @@
     "surprise"
   ],
   "git-branch": [
-    "git branch"
+    "fork",
+    "git branch",
+    "github",
+    "repository",
+    "source control",
+    "split",
+    "version control"
   ],
   "git-commit": [
-    "git commit"
+    "changeset",
+    "git commit",
+    "github",
+    "repository",
+    "revision",
+    "save",
+    "source control",
+    "version control"
   ],
   "git-diff": [
-    "git diff"
+    "changes",
+    "compare",
+    "difference",
+    "git diff",
+    "github",
+    "repository",
+    "source control",
+    "version control"
   ],
   "git-fork": [
-    "git fork"
+    "branch",
+    "cutlery",
+    "git fork",
+    "github",
+    "repository",
+    "source control",
+    "utensil",
+    "version control"
   ],
   "git-merge": [
     "combine",
     "git merge",
+    "github",
     "join",
-    "union"
+    "repository",
+    "source control",
+    "union",
+    "version control"
   ],
   "git-pull-request": [
-    "git pull request"
+    "ask",
+    "drag",
+    "fetch",
+    "git pull request",
+    "github",
+    "merge request",
+    "repository",
+    "source control",
+    "version control"
   ],
   "github-logo": [
     "brand",
@@ -5477,8 +6219,12 @@
   ],
   "google-drive-logo": [
     "brand",
+    "disk",
     "google drive logo",
-    "logo"
+    "hdd",
+    "logo",
+    "ssd",
+    "storage"
   ],
   "google-logo": [
     "brand",
@@ -5533,7 +6279,14 @@
     "fade"
   ],
   "graduation-cap": [
-    "graduation cap"
+    "diploma",
+    "education",
+    "graduation cap",
+    "hat",
+    "headwear",
+    "mortarboard",
+    "school",
+    "university"
   ],
   "grains": [
     "cereal",
@@ -5559,13 +6312,31 @@
     "statistics"
   ],
   "graphics-card": [
-    "graphics card"
+    "bank",
+    "gpu",
+    "graphics card",
+    "hardware",
+    "id",
+    "payment",
+    "rendering",
+    "video card",
+    "wallet"
   ],
   "greater-than": [
-    "greater than"
+    "bigger",
+    "comparison",
+    "greater than",
+    "math",
+    "more"
   ],
   "greater-than-or-equal": [
-    "greater than or equal"
+    "bigger",
+    "comparison",
+    "equals",
+    "greater than or equal",
+    "math",
+    "more",
+    "same"
   ],
   "grid-four": [
     "4",
@@ -5590,22 +6361,42 @@
     "strings"
   ],
   "hand-pointing": [
-    "hand pointing"
+    "cursor",
+    "finger",
+    "gesture",
+    "hand pointing",
+    "palm",
+    "point",
+    "touch"
   ],
   "hand-swipe-left": [
     "back",
+    "finger",
+    "gesture",
     "hand swipe left",
+    "palm",
     "previous",
+    "touch",
     "west"
   ],
   "hand-swipe-right": [
     "east",
+    "finger",
     "forward",
+    "gesture",
     "hand swipe right",
-    "next"
+    "next",
+    "palm",
+    "touch"
   ],
   "hand-tap": [
-    "hand tap"
+    "click",
+    "finger",
+    "gesture",
+    "hand tap",
+    "palm",
+    "press",
+    "touch"
   ],
   "handbag": [
     "accessory",
@@ -5624,10 +6415,21 @@
     "purse"
   ],
   "hard-drive": [
-    "hard drive"
+    "disk",
+    "hard drive",
+    "hdd",
+    "internal",
+    "ssd",
+    "storage"
   ],
   "hard-drives": [
-    "hard drives"
+    "disk",
+    "disks",
+    "hard drives",
+    "hdd",
+    "internal",
+    "raid",
+    "storage"
   ],
   "hash": [
     "hashtag",
@@ -5675,6 +6477,9 @@
     "high definition",
     "level",
     "max",
+    "quality",
+    "resolution",
+    "sd",
     "top"
   ],
   "hourglass": [
@@ -5710,9 +6515,13 @@
   ],
   "house-line": [
     "building",
+    "graph",
     "home",
     "house line",
-    "residence"
+    "path",
+    "residence",
+    "segment",
+    "stroke"
   ],
   "house-simple": [
     "basic",
@@ -5724,10 +6533,23 @@
     "residence"
   ],
   "identification-badge": [
-    "identification badge"
+    "credential",
+    "id",
+    "identification badge",
+    "identity",
+    "label",
+    "pass",
+    "passport"
   ],
   "identification-card": [
-    "identification card"
+    "bank",
+    "credential",
+    "id",
+    "identification card",
+    "identity",
+    "passport",
+    "payment",
+    "wallet"
   ],
   "image": [
     "graphic",
@@ -5807,7 +6629,12 @@
     "venn diagram"
   ],
   "key-return": [
-    "key return"
+    "enter",
+    "key return",
+    "keyboard",
+    "keycap",
+    "newline",
+    "submit"
   ],
   "keyboard": [
     "input",
@@ -5833,10 +6660,20 @@
     "stand"
   ],
   "less-than": [
-    "less than"
+    "comparison",
+    "fewer",
+    "less than",
+    "math",
+    "smaller"
   ],
   "less-than-or-equal": [
-    "less than or equal"
+    "comparison",
+    "equals",
+    "fewer",
+    "less than or equal",
+    "math",
+    "same",
+    "smaller"
   ],
   "letter-circle-h": [
     "ellipse",
@@ -5897,15 +6734,35 @@
     "thunder"
   ],
   "line-segment": [
-    "line segment"
+    "geometry",
+    "graph",
+    "line",
+    "line segment",
+    "part",
+    "path",
+    "section",
+    "segment",
+    "stroke"
   ],
   "line-segments": [
-    "line segments"
+    "geometry",
+    "graph",
+    "line segments",
+    "lines",
+    "parts",
+    "path",
+    "sections",
+    "segment",
+    "stroke"
   ],
   "line-vertical": [
     "column",
+    "graph",
     "height",
     "line vertical",
+    "path",
+    "segment",
+    "stroke",
     "y"
   ],
   "link": [
@@ -6053,13 +6910,19 @@
     "secure"
   ],
   "lock-key": [
+    "enter",
+    "keyboard",
+    "keycap",
     "lock key",
     "password",
     "private",
     "secure"
   ],
   "lock-key-open": [
+    "enter",
     "expand",
+    "keyboard",
+    "keycap",
     "lock key open",
     "password",
     "private",
@@ -6153,32 +7016,82 @@
     "zoom"
   ],
   "map-pin-line": [
-    "map pin line"
+    "atlas",
+    "attach",
+    "geography",
+    "graph",
+    "location",
+    "map pin line",
+    "marker",
+    "navigation",
+    "path",
+    "place",
+    "segment",
+    "stroke"
   ],
   "map-pin-plus": [
     "add",
+    "atlas",
+    "attach",
     "create",
+    "geography",
+    "location",
     "map pin plus",
+    "marker",
     "more",
-    "new"
+    "navigation",
+    "new",
+    "place"
   ],
   "map-pin-simple": [
+    "atlas",
+    "attach",
     "basic",
+    "geography",
+    "location",
     "map pin simple",
+    "marker",
     "minimal",
+    "navigation",
+    "place",
     "plain"
   ],
   "map-pin-simple-line": [
+    "atlas",
+    "attach",
     "basic",
+    "geography",
+    "graph",
+    "location",
     "map pin simple line",
+    "marker",
     "minimal",
-    "plain"
+    "navigation",
+    "path",
+    "place",
+    "plain",
+    "segment",
+    "stroke"
   ],
   "map-trifold": [
-    "map trifold"
+    "atlas",
+    "brochure",
+    "folded",
+    "geography",
+    "location",
+    "map trifold",
+    "navigation",
+    "paper map"
   ],
   "math-operations": [
-    "math operations"
+    "arithmetic",
+    "calculate",
+    "calculation",
+    "formula",
+    "math",
+    "math operations",
+    "mathematics",
+    "symbols"
   ],
   "matrix-logo": [
     "brand",
@@ -6200,7 +7113,11 @@
     "plain"
   ],
   "member-of": [
-    "member of"
+    "belongs to",
+    "element of",
+    "math",
+    "member of",
+    "set theory"
   ],
   "microphone": [
     "audio",
@@ -6337,36 +7254,72 @@
     "pointer"
   ],
   "music-note": [
-    "music note"
+    "audio",
+    "melody",
+    "memo",
+    "music",
+    "music note",
+    "song",
+    "sound"
   ],
   "music-note-simple": [
+    "audio",
     "basic",
+    "melody",
+    "memo",
     "minimal",
+    "music",
     "music note simple",
-    "plain"
+    "plain",
+    "song",
+    "sound"
   ],
   "music-notes": [
-    "music notes"
+    "audio",
+    "melody",
+    "memo",
+    "music",
+    "music notes",
+    "song",
+    "sound"
   ],
   "music-notes-minus": [
+    "audio",
     "delete",
     "less",
+    "melody",
+    "memo",
+    "music",
     "music notes minus",
     "remove",
+    "song",
+    "sound",
     "subtract"
   ],
   "music-notes-plus": [
     "add",
+    "audio",
     "create",
+    "melody",
+    "memo",
     "more",
+    "music",
     "music notes plus",
-    "new"
+    "new",
+    "song",
+    "sound"
   ],
   "music-notes-simple": [
+    "audio",
     "basic",
+    "melody",
+    "memo",
     "minimal",
+    "music",
     "music notes simple",
-    "plain"
+    "plain",
+    "song",
+    "sound"
   ],
   "network": [
     "connections",
@@ -6397,25 +7350,50 @@
     "web"
   ],
   "not-equals": [
-    "not equals"
+    "comparison",
+    "equal",
+    "math",
+    "not equals",
+    "same"
   ],
   "not-member-of": [
-    "not member of"
+    "belongs to",
+    "element of",
+    "math",
+    "not member of",
+    "set theory"
   ],
   "not-subset-of": [
-    "not subset of"
+    "contained in",
+    "math",
+    "not subset of",
+    "set theory",
+    "venn"
   ],
   "not-superset-of": [
-    "not superset of"
+    "contains",
+    "math",
+    "not superset of",
+    "set theory",
+    "venn"
   ],
   "note-blank": [
-    "note blank"
+    "empty",
+    "memo",
+    "music",
+    "note blank",
+    "plain",
+    "sound",
+    "unwritten"
   ],
   "note-pencil": [
     "draw",
     "edit",
     "editor",
+    "memo",
+    "music",
     "note pencil",
+    "sound",
     "tool",
     "write"
   ],
@@ -6764,21 +7742,45 @@
     "shipping"
   ],
   "paint-brush": [
-    "paint brush"
+    "art",
+    "brush",
+    "color",
+    "draw",
+    "paint",
+    "paint brush",
+    "stroke"
   ],
   "paper-plane": [
-    "paper plane"
+    "airplane",
+    "document",
+    "flight",
+    "origami",
+    "paper plane",
+    "send",
+    "sheet"
   ],
   "paper-plane-right": [
+    "airplane",
+    "document",
     "east",
+    "flight",
     "forward",
     "next",
-    "paper plane right"
+    "origami",
+    "paper plane right",
+    "send",
+    "sheet"
   ],
   "paper-plane-tilt": [
+    "airplane",
     "angle",
+    "document",
+    "flight",
+    "origami",
     "paper plane tilt",
     "rotate",
+    "send",
+    "sheet",
     "skew"
   ],
   "paperclip": [
@@ -6836,9 +7838,13 @@
     "draw",
     "edit",
     "editor",
+    "graph",
     "minimal",
+    "path",
     "pencil simple line",
     "plain",
+    "segment",
+    "stroke",
     "tool",
     "write"
   ],
@@ -7065,10 +8071,14 @@
     "talk"
   ],
   "presentation-chart": [
+    "analytics",
+    "data",
+    "graph",
     "pitch",
     "presentation chart",
     "slides",
     "slideshow",
+    "statistics",
     "talk"
   ],
   "prohibit": [
@@ -7091,32 +8101,66 @@
     "wave"
   ],
   "push-pin": [
-    "push pin"
+    "attach",
+    "location",
+    "marker",
+    "pin",
+    "place",
+    "press",
+    "push pin",
+    "send"
   ],
   "push-pin-simple": [
+    "attach",
     "basic",
+    "location",
+    "marker",
     "minimal",
+    "pin",
+    "place",
     "plain",
-    "push pin simple"
+    "press",
+    "push pin simple",
+    "send"
   ],
   "push-pin-simple-slash": [
+    "attach",
     "basic",
     "disabled",
+    "location",
+    "marker",
     "minimal",
     "mute",
     "none",
     "off",
+    "pin",
+    "place",
     "plain",
-    "push pin simple slash"
+    "press",
+    "push pin simple slash",
+    "send"
   ],
   "push-pin-slash": [
+    "attach",
     "disabled",
+    "location",
+    "marker",
     "mute",
     "none",
     "off",
-    "push pin slash"
+    "pin",
+    "place",
+    "press",
+    "push pin slash",
+    "send"
   ],
   "puzzle-piece": [
+    "extension",
+    "fragment",
+    "jigsaw",
+    "part",
+    "piece",
+    "plugin",
     "puzzle piece"
   ],
   "qr-code": [
@@ -7135,7 +8179,10 @@
     "ask",
     "faq",
     "help",
+    "punctuation",
     "question mark",
+    "sign",
+    "symbol",
     "unknown"
   ],
   "radical": [
@@ -7144,7 +8191,14 @@
     "symbol"
   ],
   "radio-button": [
-    "radio button"
+    "choice",
+    "control",
+    "input",
+    "option",
+    "press",
+    "radio button",
+    "select",
+    "toggle"
   ],
   "rainbow": [
     "arc",
@@ -7221,8 +8275,12 @@
     "transform"
   ],
   "rewind-circle": [
+    "back",
     "ellipse",
     "geometry",
+    "previous",
+    "replay",
+    "reverse",
     "rewind circle",
     "round",
     "shape"
@@ -7463,16 +8521,22 @@
     "shield warning"
   ],
   "shopping-bag": [
+    "buy",
+    "ecommerce",
     "purchase",
     "purse",
+    "retail",
     "shopping",
     "shopping bag",
     "store"
   ],
   "shopping-bag-open": [
+    "buy",
+    "ecommerce",
     "expand",
     "purchase",
     "purse",
+    "retail",
     "shopping",
     "shopping bag open",
     "store",
@@ -7480,13 +8544,29 @@
     "unlock"
   ],
   "shopping-cart": [
-    "shopping cart"
+    "basket",
+    "buy",
+    "checkout",
+    "ecommerce",
+    "retail",
+    "shopping",
+    "shopping cart",
+    "store",
+    "trolley"
   ],
   "shopping-cart-simple": [
     "basic",
+    "basket",
+    "buy",
+    "checkout",
+    "ecommerce",
     "minimal",
     "plain",
-    "shopping cart simple"
+    "retail",
+    "shopping",
+    "shopping cart simple",
+    "store",
+    "trolley"
   ],
   "shuffle": [
     "mix",
@@ -7540,24 +8620,50 @@
     "sign out"
   ],
   "skip-back": [
-    "skip back"
+    "backward",
+    "jump",
+    "next",
+    "previous",
+    "return",
+    "reverse",
+    "skip back",
+    "track"
   ],
   "skip-back-circle": [
+    "backward",
     "ellipse",
     "geometry",
+    "jump",
+    "next",
+    "previous",
+    "return",
+    "reverse",
     "round",
     "shape",
-    "skip back circle"
+    "skip back circle",
+    "track"
   ],
   "skip-forward": [
-    "skip forward"
+    "advance",
+    "ahead",
+    "jump",
+    "next",
+    "skip",
+    "skip forward",
+    "track"
   ],
   "skip-forward-circle": [
+    "advance",
+    "ahead",
     "ellipse",
     "geometry",
+    "jump",
+    "next",
     "round",
     "shape",
-    "skip forward circle"
+    "skip",
+    "skip forward circle",
+    "track"
   ],
   "sliders": [
     "adjust",
@@ -7596,9 +8702,12 @@
   "smiley-blank": [
     "emoji",
     "emoticon",
+    "empty",
     "face",
     "happy",
-    "smiley blank"
+    "plain",
+    "smiley blank",
+    "unwritten"
   ],
   "smiley-meh": [
     "emoji",
@@ -7666,83 +8775,145 @@
     "winter"
   ],
   "sort-ascending": [
-    "sort ascending"
+    "a to z",
+    "arrange",
+    "filter",
+    "increasing",
+    "order",
+    "rank",
+    "sort ascending",
+    "up"
   ],
   "sort-descending": [
-    "sort descending"
+    "arrange",
+    "decreasing",
+    "down",
+    "filter",
+    "order",
+    "rank",
+    "sort descending",
+    "z to a"
   ],
   "speaker-high": [
+    "audio",
     "level",
+    "loudspeaker",
     "max",
+    "sound",
     "speaker high",
-    "top"
+    "top",
+    "volume"
   ],
   "speaker-low": [
+    "audio",
     "bottom",
     "level",
+    "loudspeaker",
     "min",
-    "speaker low"
+    "sound",
+    "speaker low",
+    "volume"
   ],
   "speaker-none": [
-    "speaker none"
+    "audio",
+    "empty",
+    "loudspeaker",
+    "no signal",
+    "off",
+    "sound",
+    "speaker none",
+    "volume",
+    "zero"
   ],
   "speaker-simple-high": [
+    "audio",
     "basic",
     "level",
+    "loudspeaker",
     "max",
     "minimal",
     "plain",
+    "sound",
     "speaker simple high",
-    "top"
+    "top",
+    "volume"
   ],
   "speaker-simple-low": [
+    "audio",
     "basic",
     "bottom",
     "level",
+    "loudspeaker",
     "min",
     "minimal",
     "plain",
-    "speaker simple low"
+    "sound",
+    "speaker simple low",
+    "volume"
   ],
   "speaker-simple-none": [
+    "audio",
     "basic",
+    "empty",
+    "loudspeaker",
     "minimal",
+    "no signal",
+    "off",
     "plain",
-    "speaker simple none"
+    "sound",
+    "speaker simple none",
+    "volume",
+    "zero"
   ],
   "speaker-simple-slash": [
+    "audio",
     "basic",
     "disabled",
+    "loudspeaker",
     "minimal",
     "mute",
     "none",
     "off",
     "plain",
-    "speaker simple slash"
+    "sound",
+    "speaker simple slash",
+    "volume"
   ],
   "speaker-simple-x": [
+    "audio",
     "basic",
     "cancel",
     "close",
     "cross",
+    "loudspeaker",
     "minimal",
     "plain",
     "remove",
-    "speaker simple x"
+    "sound",
+    "speaker simple x",
+    "volume"
   ],
   "speaker-slash": [
+    "audio",
     "disabled",
+    "loudspeaker",
     "mute",
     "none",
     "off",
-    "speaker slash"
+    "sound",
+    "speaker slash",
+    "volume"
   ],
   "speaker-x": [
+    "audio",
     "cancel",
     "close",
     "cross",
+    "loudspeaker",
     "remove",
-    "speaker x"
+    "sound",
+    "speaker x",
+    "volume"
   ],
   "spinner": [
     "loading",
@@ -7874,6 +9045,11 @@
     "stack simple"
   ],
   "standard-definition": [
+    "default",
+    "normal",
+    "quality",
+    "resolution",
+    "sd",
     "standard definition"
   ],
   "star-and-crescent": [
@@ -7910,10 +9086,19 @@
     "stripe logo"
   ],
   "subset-of": [
-    "subset of"
+    "contained in",
+    "math",
+    "set theory",
+    "subset of",
+    "venn"
   ],
   "subset-proper-of": [
-    "subset proper of"
+    "contained in",
+    "math",
+    "set theory",
+    "strict",
+    "subset proper of",
+    "venn"
   ],
   "subtract": [
     "boolean",
@@ -7968,10 +9153,19 @@
     "weather"
   ],
   "superset-of": [
-    "superset of"
+    "contains",
+    "math",
+    "set theory",
+    "superset of",
+    "venn"
   ],
   "superset-proper-of": [
-    "superset proper of"
+    "contains",
+    "math",
+    "set theory",
+    "strict",
+    "superset proper of",
+    "venn"
   ],
   "swap": [
     "exchange",
@@ -8018,159 +9212,272 @@
     "shell"
   ],
   "terminal-window": [
+    "app",
+    "browser",
     "code",
     "command line",
     "console",
+    "pane",
     "shell",
-    "terminal window"
+    "terminal window",
+    "ui"
   ],
   "text-a-underline": [
-    "text a underline"
+    "editor",
+    "font",
+    "formatting",
+    "text a underline",
+    "typography",
+    "underlined"
   ],
   "text-aa": [
-    "text aa"
+    "editor",
+    "font",
+    "formatting",
+    "text aa",
+    "typography"
   ],
   "text-align-center": [
     "design",
     "distribute",
+    "editor",
+    "font",
+    "formatting",
     "layout",
     "position",
-    "text align center"
+    "text align center",
+    "typography"
   ],
   "text-align-justify": [
     "design",
     "distribute",
+    "editor",
+    "font",
+    "formatting",
     "layout",
     "position",
-    "text align justify"
+    "text align justify",
+    "typography"
   ],
   "text-align-left": [
     "back",
     "design",
     "distribute",
+    "editor",
+    "font",
+    "formatting",
     "layout",
     "position",
     "previous",
     "text align left",
+    "typography",
     "west"
   ],
   "text-align-right": [
     "design",
     "distribute",
     "east",
+    "editor",
+    "font",
+    "formatting",
     "forward",
     "layout",
     "next",
     "position",
-    "text align right"
+    "text align right",
+    "typography"
   ],
   "text-b": [
-    "text b"
+    "editor",
+    "font",
+    "formatting",
+    "text b",
+    "typography"
   ],
   "text-columns": [
     "design",
+    "editor",
+    "font",
+    "formatting",
     "grid",
     "layout",
     "split",
     "table",
-    "text columns"
+    "text columns",
+    "typography"
   ],
   "text-h": [
+    "editor",
+    "font",
+    "formatting",
     "header",
     "heading",
     "text h",
-    "title"
+    "title",
+    "typography"
   ],
   "text-h-five": [
     "5",
+    "editor",
+    "font",
+    "formatting",
     "h 5",
     "h5",
     "header",
     "heading",
     "heading 5",
     "text h five",
-    "title"
+    "title",
+    "typography"
   ],
   "text-h-four": [
     "4",
+    "editor",
+    "font",
+    "formatting",
     "h 4",
     "h4",
     "header",
     "heading",
     "heading 4",
     "text h four",
-    "title"
+    "title",
+    "typography"
   ],
   "text-h-one": [
     "1",
+    "editor",
+    "font",
+    "formatting",
     "h 1",
     "h1",
     "header",
     "heading",
     "heading 1",
     "text h one",
-    "title"
+    "title",
+    "typography"
   ],
   "text-h-six": [
     "6",
+    "editor",
+    "font",
+    "formatting",
     "h 6",
     "h6",
     "header",
     "heading",
     "heading 6",
     "text h six",
-    "title"
+    "title",
+    "typography"
   ],
   "text-h-three": [
     "3",
+    "editor",
+    "font",
+    "formatting",
     "h 3",
     "h3",
     "header",
     "heading",
     "heading 3",
     "text h three",
-    "title"
+    "title",
+    "typography"
   ],
   "text-h-two": [
     "2",
+    "editor",
+    "font",
+    "formatting",
     "h 2",
     "h2",
     "header",
     "heading",
     "heading 2",
     "text h two",
-    "title"
+    "title",
+    "typography"
   ],
   "text-indent": [
-    "text indent"
+    "editor",
+    "font",
+    "formatting",
+    "paragraph",
+    "tab",
+    "text formatting",
+    "text indent",
+    "typography"
   ],
   "text-italic": [
-    "text italic"
+    "editor",
+    "emphasis",
+    "font",
+    "formatting",
+    "slanted",
+    "text italic",
+    "typography"
   ],
   "text-outdent": [
-    "text outdent"
+    "editor",
+    "font",
+    "formatting",
+    "paragraph",
+    "text formatting",
+    "text outdent",
+    "typography",
+    "untab"
   ],
   "text-strikethrough": [
-    "text strikethrough"
+    "crossed out",
+    "editor",
+    "font",
+    "formatting",
+    "text strikethrough",
+    "typography"
   ],
   "text-subscript": [
-    "text subscript"
+    "below",
+    "editor",
+    "font",
+    "formatting",
+    "text subscript",
+    "typography"
   ],
   "text-superscript": [
-    "text superscript"
+    "above",
+    "editor",
+    "font",
+    "formatting",
+    "text superscript",
+    "typography"
   ],
   "text-t": [
-    "text t"
+    "editor",
+    "font",
+    "formatting",
+    "text t",
+    "typography"
   ],
   "text-t-slash": [
     "disabled",
+    "editor",
+    "font",
+    "formatting",
     "mute",
     "none",
     "off",
-    "text t slash"
+    "text t slash",
+    "typography"
   ],
   "text-underline": [
-    "text underline"
+    "editor",
+    "font",
+    "formatting",
+    "text underline",
+    "typography",
+    "underlined"
   ],
   "thermometer": [
     "measure",
@@ -8286,9 +9593,24 @@
     "tray arrow up"
   ],
   "tree-structure": [
+    "branch",
+    "diagram",
+    "directory",
+    "hierarchy",
+    "nature",
+    "organization",
+    "tree",
     "tree structure"
   ],
   "tree-view": [
+    "branch",
+    "browse",
+    "directory",
+    "display",
+    "hierarchy",
+    "nature",
+    "panel",
+    "show",
     "tree view"
   ],
   "trend-down": [
@@ -8593,7 +9915,13 @@
     "photo"
   ],
   "virtual-reality": [
-    "virtual reality"
+    "digital",
+    "headset",
+    "immersive",
+    "simulated",
+    "virtual",
+    "virtual reality",
+    "vr"
   ],
   "warning": [
     "alert",
@@ -8637,24 +9965,43 @@
     "wearable"
   ],
   "wave-sawtooth": [
-    "wave sawtooth"
+    "audio",
+    "oscillation",
+    "signal",
+    "sound",
+    "synth",
+    "wave sawtooth",
+    "waveform"
   ],
   "wave-sine": [
-    "wave sine"
+    "audio",
+    "oscillation",
+    "signal",
+    "sound",
+    "wave sine",
+    "waveform"
   ],
   "wave-square": [
     "box",
     "geometry",
+    "oscillation",
     "rectangle",
     "shape",
-    "wave square"
+    "signal",
+    "sound",
+    "wave square",
+    "waveform"
   ],
   "wave-triangle": [
     "geometry",
+    "oscillation",
     "polygon",
     "shape",
+    "signal",
+    "sound",
     "three",
-    "wave triangle"
+    "wave triangle",
+    "waveform"
   ],
   "waveform": [
     "audio",
@@ -8680,39 +10027,67 @@
     "water"
   ],
   "wifi-high": [
+    "connection",
+    "internet",
     "level",
     "max",
+    "network",
     "top",
-    "wifi high"
+    "wifi high",
+    "wireless"
   ],
   "wifi-low": [
     "bottom",
+    "connection",
+    "internet",
     "level",
     "min",
-    "wifi low"
+    "network",
+    "wifi low",
+    "wireless"
   ],
   "wifi-medium": [
     "brand",
+    "connection",
+    "internet",
     "level",
     "mid",
-    "wifi medium"
+    "network",
+    "wifi medium",
+    "wireless"
   ],
   "wifi-none": [
-    "wifi none"
+    "connection",
+    "empty",
+    "internet",
+    "network",
+    "no signal",
+    "off",
+    "wifi none",
+    "wireless",
+    "zero"
   ],
   "wifi-slash": [
+    "connection",
     "disabled",
+    "internet",
     "mute",
+    "network",
     "none",
     "off",
-    "wifi slash"
+    "wifi slash",
+    "wireless"
   ],
   "wifi-x": [
     "cancel",
     "close",
+    "connection",
     "cross",
+    "internet",
+    "network",
     "remove",
-    "wifi x"
+    "wifi x",
+    "wireless"
   ],
   "wind": [
     "air",
