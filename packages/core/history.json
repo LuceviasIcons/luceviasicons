@@ -437,12 +437,12 @@
   "arrow-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c15ad887fa7b"
+    "hash": "6bcd7ab7ab4d"
   },
   "arrow-line-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "3ac813227da8"
+    "hash": "820e03ba745c"
   },
   "arrow-line-down-left": {
     "added": "0",
@@ -1027,7 +1027,7 @@
   "boat": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "a9e6b2a1cf29"
+    "hash": "a3cfc145af15"
   },
   "bomb": {
     "added": "2026-08-06",
@@ -2007,7 +2007,7 @@
   "coffee": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "d4f4e0e231b3"
+    "hash": "778479c4b663"
   },
   "coffee-bean": {
     "added": "2026-08-10",
@@ -3477,7 +3477,7 @@
   "gps-slash": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "6b49317caae9"
+    "hash": "fe2cf72811c3"
   },
   "gradient": {
     "added": "2026-08-18",
@@ -3637,7 +3637,7 @@
   "house-line": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "7372a59bd484"
+    "hash": "d6c700bf7a87"
   },
   "house-simple": {
     "added": "2026-08-18",
@@ -4087,7 +4087,7 @@
   "music-notes-minus": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "5d175dad311f"
+    "hash": "7782b05e0178"
   },
   "music-notes-plus": {
     "added": "2026-08-29",
@@ -4847,7 +4847,7 @@
   "skip-forward-circle": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "03ccf5ff4e1e"
+    "hash": "cd0e2f1d894f"
   },
   "sliders": {
     "added": "2026-08-19",
@@ -5067,7 +5067,7 @@
   "steps": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "4ab74423126d"
+    "hash": "2ed5841ae2ff"
   },
   "sticker": {
     "added": "2026-08-29",
@@ -5147,7 +5147,7 @@
   "swap": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "2672a8356610"
+    "hash": "c8ab519e90b6"
   },
   "tag": {
     "added": "2026-08-19",
