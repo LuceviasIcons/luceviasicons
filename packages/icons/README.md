@@ -87,6 +87,8 @@ import { Circle as CircleIcon } from 'lucevias'
   server, so AI agents pick icons from the real set
 - **[Lucevias Icons](https://www.figma.com/community/plugin/1669714680899632381/lucevias-icons)** —
   the Figma plugin
+- **[Lucevias Icon](https://www.figma.com/community/file/1678064229560633578/lucevias-icon)** —
+  the same set as a Figma community file
 
 ## License
 

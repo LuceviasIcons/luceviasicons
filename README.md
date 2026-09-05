@@ -161,6 +161,11 @@ weight, click to insert as an editable vector.
 It reads the icons straight from this repository, so new ones appear in the
 plugin as soon as they are drawn — no plugin update required.
 
+There is also a **[community file](https://www.figma.com/community/file/1678064229560633578/lucevias-icon)**
+holding the whole set as components, for pulling it into a document at once
+rather than an icon at a time. Being a copy, it moves with releases instead of
+with every batch.
+
 <br>
 
 ## Beyond React
