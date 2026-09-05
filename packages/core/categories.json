@@ -33,6 +33,7 @@
   "aperture": "Objects",
   "app-store-logo": "Brands",
   "app-window": "Interface",
+  "apple": "Brands",
   "apple-podcasts-logo": "Brands",
   "approximate-equals": "Development",
   "archive": "Files",
@@ -1131,6 +1132,7 @@
   "wifi-slash": "Connectivity",
   "wifi-x": "Connectivity",
   "wind": "Weather",
+  "x": "Shapes",
   "x-circle": "Shapes",
   "x-square": "Shapes"
 }

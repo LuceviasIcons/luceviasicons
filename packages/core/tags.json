@@ -283,6 +283,10 @@
   "app-window": [
     "app window"
   ],
+  "apple": [
+    "brand",
+    "logo"
+  ],
   "apple-podcasts-logo": [
     "apple podcasts logo",
     "brand",
@@ -8715,6 +8719,12 @@
     "breeze",
     "gust",
     "weather"
+  ],
+  "x": [
+    "cancel",
+    "close",
+    "cross",
+    "remove"
   ],
   "x-circle": [
     "cancel",
