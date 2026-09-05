@@ -12,47 +12,47 @@
   "air-traffic-control": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ad88f82bd19b"
+    "hash": "58fbb5b384a7"
   },
   "airplane": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ab3b5314b628"
+    "hash": "21aee903696b"
   },
   "airplane-in-flight": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d20292d8b50a"
+    "hash": "0baec41c19b3"
   },
   "airplane-landing": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "30e7595e7f98"
+    "hash": "a363b634ceb9"
   },
   "airplane-takeoff": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "39a2ffef2736"
+    "hash": "9cb793d8a359"
   },
   "airplane-taxiing": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d00b14ab7cff"
+    "hash": "6f7ac4415708"
   },
   "airplane-tilt": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "5f45098900be"
+    "hash": "2f8b4821efbc"
   },
   "airplay": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4faa741de2c7"
+    "hash": "a56fc84d04b5"
   },
   "alarm": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "00973c9d56b5"
+    "hash": "1cd9d1eb5569"
   },
   "alien": {
     "added": "0",
@@ -62,67 +62,67 @@
   "align-bottom": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "91a22bb77f0f"
+    "hash": "7f5ab8d8de25"
   },
   "align-bottom-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "5a1a982a781e"
+    "hash": "4094ac26c3ba"
   },
   "align-center-horizontal": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b1afc817a8f4"
+    "hash": "8006dce91368"
   },
   "align-center-horizontal-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1fc2084aa83b"
+    "hash": "85c296e42f5a"
   },
   "align-center-vertical": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c61f36283f56"
+    "hash": "969fe1175a9f"
   },
   "align-center-vertical-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4ffe9c422bc6"
+    "hash": "83f6d0bbba51"
   },
   "align-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "38ea05fd037b"
+    "hash": "553a63bf837c"
   },
   "align-left-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1ff7963a1dca"
+    "hash": "9fa41d80f8a1"
   },
   "align-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "19295799f32b"
+    "hash": "7e06d92e6de0"
   },
   "align-right-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f68c3b59aea4"
+    "hash": "b5b37c0a9b85"
   },
   "align-top": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "330d735ec785"
+    "hash": "039f34bce10a"
   },
   "align-top-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2818ddbbf8ef"
+    "hash": "cea4fa4d7493"
   },
   "amazon-logo": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c22fb0b31adc"
+    "hash": "48b10e8130a7"
   },
   "ambulance": {
     "added": "0",
@@ -132,27 +132,27 @@
   "anchor": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b1bd7de74193"
+    "hash": "831eb0650b35"
   },
   "anchor-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "114f5ae9c34c"
+    "hash": "a8506ea42b2d"
   },
   "android-logo": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c4f1cf97bb14"
+    "hash": "19ee07a7f366"
   },
   "angle": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b164e4630a4d"
+    "hash": "adced9985c8e"
   },
   "angular-logo": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "63a105b0e181"
+    "hash": "b15685e481ba"
   },
   "aperture": {
     "added": "0",
@@ -162,27 +162,27 @@
   "app-store-logo": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "baee24f62ca6"
+    "hash": "c5ad8e5dee85"
   },
   "app-window": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "24b7e0cc0dc2"
+    "hash": "34fe4c2c9f47"
   },
   "apple": {
     "added": "2026-09-05",
     "changed": "2026-09-05",
-    "hash": "fe8d6cc61889"
+    "hash": "3d23e7e14f93"
   },
   "apple-podcasts-logo": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "08446fa0931e"
+    "hash": "1bccc7a7d9d2"
   },
   "approximate-equals": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1cbb08284a53"
+    "hash": "c88384574098"
   },
   "archive": {
     "added": "0",
@@ -192,247 +192,247 @@
   "armchair": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d248dafc475a"
+    "hash": "1bc8c8f39638"
   },
   "arrow-angle-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "33301ef48c36"
+    "hash": "eef67f73a673"
   },
   "arrow-arc-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "47fc82b6cc9d"
+    "hash": "0240317f2438"
   },
   "arrow-arc-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "26b08697aefc"
+    "hash": "ec81d373d7f1"
   },
   "arrow-bend-double-up-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "5ad78c7a26f6"
+    "hash": "a8d9e04ba1f7"
   },
   "arrow-bend-double-up-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4a05b1793609"
+    "hash": "a512492144e0"
   },
   "arrow-bend-down-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c9e229265c98"
+    "hash": "a0b1ef862151"
   },
   "arrow-bend-down-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "3351578909fc"
+    "hash": "3c095893be4e"
   },
   "arrow-bend-left-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a582d7065ce1"
+    "hash": "7f8eb45c8cfc"
   },
   "arrow-bend-left-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "3355ec903ecc"
+    "hash": "49e18c67ef06"
   },
   "arrow-bend-right-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2c5c81c1eff5"
+    "hash": "dffd8b2234fc"
   },
   "arrow-bend-right-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d38d3877a538"
+    "hash": "8ecaa0d91943"
   },
   "arrow-bend-up-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "682cc8f1d163"
+    "hash": "a904cefa47e2"
   },
   "arrow-bend-up-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "06afae677914"
+    "hash": "c1ffed4ca1c3"
   },
   "arrow-circle-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "7aa959d6a181"
+    "hash": "fb5ac7351616"
   },
   "arrow-circle-down-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "34fb59c9dabd"
+    "hash": "204290f4176b"
   },
   "arrow-circle-down-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "38e43a82896b"
+    "hash": "e0c6287f8e4e"
   },
   "arrow-circle-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4d7ae5340283"
+    "hash": "25730890db9c"
   },
   "arrow-circle-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1c70137ea523"
+    "hash": "cc995febfa06"
   },
   "arrow-circle-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2064124df958"
+    "hash": "369e196948de"
   },
   "arrow-circle-up-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "8622904ee04f"
+    "hash": "191c2baefebf"
   },
   "arrow-circle-up-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "8145eff455c2"
+    "hash": "eb779c712bca"
   },
   "arrow-clockwise": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "08ea73719fff"
+    "hash": "fe26779e9492"
   },
   "arrow-counter-clockwise": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1fc35f32500d"
+    "hash": "9c1460eb565c"
   },
   "arrow-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "5c12d15d6528"
+    "hash": "3082bd5e3ec4"
   },
   "arrow-down-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ea4f49c4cc3f"
+    "hash": "388a0571a13a"
   },
   "arrow-down-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "6b382497db40"
+    "hash": "8c9f4f90eaa3"
   },
   "arrow-elbow-down-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "8839fca01704"
+    "hash": "a6a5e7b95001"
   },
   "arrow-elbow-down-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "df8b327a3a55"
+    "hash": "30d31a13eead"
   },
   "arrow-elbow-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "199b4f21b371"
+    "hash": "11daba291619"
   },
   "arrow-elbow-left-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "0f34dd048d1c"
+    "hash": "24e7d6b8aa5b"
   },
   "arrow-elbow-left-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c945ba93c4ad"
+    "hash": "c5a0eeb94ab4"
   },
   "arrow-elbow-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a9db92aff51b"
+    "hash": "909de770d395"
   },
   "arrow-elbow-right-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1a31dc3b119c"
+    "hash": "222aebbcdf08"
   },
   "arrow-elbow-right-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d014bc12e59b"
+    "hash": "a1865dc01fee"
   },
   "arrow-elbow-up-left": {
     "added": "0",
-    "changed": "0",
-    "hash": "5bfe5c122558"
+    "changed": "2026-09-05",
+    "hash": "edab5b7741ed"
   },
   "arrow-elbow-up-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ee1a3bcb253a"
+    "hash": "35cdf4cd8058"
   },
   "arrow-fat-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "7ca6e22a94b9"
+    "hash": "73006aedbd5e"
   },
   "arrow-fat-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "840867a52315"
+    "hash": "50baa5360186"
   },
   "arrow-fat-line-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "30cf488faf0d"
+    "hash": "380c0b2c8b0a"
   },
   "arrow-fat-line-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e13ea689192d"
+    "hash": "9b541bbfd77a"
   },
   "arrow-fat-line-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f0baffe54768"
+    "hash": "4dbe5bf30b42"
   },
   "arrow-fat-line-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b4669942de49"
+    "hash": "efec49be535b"
   },
   "arrow-fat-lines-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e8a10423f61d"
+    "hash": "e9122cd14ca9"
   },
   "arrow-fat-lines-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2e7ebda459c8"
+    "hash": "ca402002b1bc"
   },
   "arrow-fat-lines-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "17564400c828"
+    "hash": "7d379d08e433"
   },
   "arrow-fat-lines-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d928291b8791"
+    "hash": "3d809dffa631"
   },
   "arrow-fat-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "8dcf5f63f5e0"
+    "hash": "c86d552e36fc"
   },
   "arrow-fat-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "84af36604f34"
+    "hash": "b12e4027094f"
   },
   "arrow-left": {
     "added": "0",
@@ -447,277 +447,277 @@
   "arrow-line-down-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "684f632b24b2"
+    "hash": "7266ad71edd6"
   },
   "arrow-line-down-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "5c572c49491f"
+    "hash": "c89d046ab8e8"
   },
   "arrow-line-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2b78260bfae4"
+    "hash": "5c4b28afa1ed"
   },
   "arrow-line-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2ad2f0b74c39"
+    "hash": "810f4fe53410"
   },
   "arrow-line-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "52178256e7e4"
+    "hash": "640e90f11c11"
   },
   "arrow-line-up-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4abd2d4ff134"
+    "hash": "174312d17899"
   },
   "arrow-line-up-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "03687acb7876"
+    "hash": "49fe61e7f422"
   },
   "arrow-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a80b1ff0a910"
+    "hash": "24b2e6e86ae4"
   },
   "arrow-squad-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4c6419e6e36e"
+    "hash": "74ca64d185cf"
   },
   "arrow-squad-down-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "94df59d727d2"
+    "hash": "80c1ff00f953"
   },
   "arrow-squad-down-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e2f8ca806892"
+    "hash": "3f986bd9f2da"
   },
   "arrow-squad-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e3cb65818262"
+    "hash": "ab7fe54fec95"
   },
   "arrow-squad-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "291fe0a98713"
+    "hash": "96945f024cfa"
   },
   "arrow-squad-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "dcc5a7fd5b53"
+    "hash": "ede30d3192fb"
   },
   "arrow-squad-up-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "88804eb44f7c"
+    "hash": "74b0453754b3"
   },
   "arrow-squad-up-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "0a739df9a911"
+    "hash": "ce131d6f5166"
   },
   "arrow-square-in": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a7739853ea46"
+    "hash": "b338e7c1bfe3"
   },
   "arrow-square-out": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d7115fed28e0"
+    "hash": "76f065a389bf"
   },
   "arrow-u-down-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "073c65bfba6a"
+    "hash": "348b39604024"
   },
   "arrow-u-down-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "076f32b09ed2"
+    "hash": "65ef3239c778"
   },
   "arrow-u-left-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1f39cc3d792a"
+    "hash": "2f74dd603a3a"
   },
   "arrow-u-left-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e363afcaa232"
+    "hash": "69a5de2e9187"
   },
   "arrow-u-right-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "654d025894e0"
+    "hash": "d05a32b71e3b"
   },
   "arrow-u-right-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "cea69e77ba22"
+    "hash": "c115665b4da4"
   },
   "arrow-u-up-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "68786724ba7a"
+    "hash": "a928fb3ad14b"
   },
   "arrow-u-up-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "eb50e96f7cbb"
+    "hash": "cb9516179d7d"
   },
   "arrow-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a9d54d733195"
+    "hash": "efc46d8b66c5"
   },
   "arrow-up-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "619733c2c98a"
+    "hash": "50b9f7a5b9e5"
   },
   "arrow-up-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ce486b7e0261"
+    "hash": "58908533f612"
   },
   "arrows-clockwise": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "512b66b5d6fe"
+    "hash": "2523e5d1a2e6"
   },
   "arrows-counter-clockwise": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "13ef130c8c39"
+    "hash": "30b0efbae076"
   },
   "arrows-down-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a4cd756df18b"
+    "hash": "3af4ee81172e"
   },
   "arrows-horizontal": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e84675350df0"
+    "hash": "11dbf893ae75"
   },
   "arrows-in": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "24e7827bfcd7"
+    "hash": "884226100526"
   },
   "arrows-in-cardinal": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f4f1cdca0a89"
+    "hash": "08ce05633081"
   },
   "arrows-in-line-horizontal": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4c21e8974582"
+    "hash": "8fb7e2463e1a"
   },
   "arrows-in-line-vertical": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "491611aae280"
+    "hash": "5f0293886800"
   },
   "arrows-in-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "eed53972c22c"
+    "hash": "f6c1d7df99eb"
   },
   "arrows-left-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "0f626d19ffd3"
+    "hash": "360a93a53288"
   },
   "arrows-merge": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "60fc1d3532b7"
+    "hash": "8e61c53dafa7"
   },
   "arrows-out": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "47addfd41d10"
+    "hash": "d0432b9851d6"
   },
   "arrows-out-cardinal": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f3d3d630b9a6"
+    "hash": "6bca92394192"
   },
   "arrows-out-line-horizontal": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d5c981e1834c"
+    "hash": "eb9721cbbb5f"
   },
   "arrows-out-line-vertical": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "dd74a65f7bae"
+    "hash": "622bc850b8da"
   },
   "arrows-out-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "8364ac9e8818"
+    "hash": "d6b970f0de37"
   },
   "arrows-split": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2ef63b2285f3"
+    "hash": "ffa3e5e480a8"
   },
   "arrows-vertical": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "12d840643e35"
+    "hash": "f960fd6213c8"
   },
   "article": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "08808ed9f706"
+    "hash": "0e2bfa0f97cc"
   },
   "article-medium": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c543fb997da8"
+    "hash": "29bdfe79ca7a"
   },
   "article-ny-times": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "55483ccfccb2"
+    "hash": "69b3daf07dfe"
   },
   "asclepius": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a62eb41d9dca"
+    "hash": "b1218062a895"
   },
   "asterisk": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "373e6a036dae"
+    "hash": "e0e40472e122"
   },
   "asterisk-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "8345e8660488"
+    "hash": "493e2a940f62"
   },
   "at": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e9f0d0b32b33"
+    "hash": "b73298c70cbb"
   },
   "atom": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a9c40801b877"
+    "hash": "08858ce8bd95"
   },
   "avocado": {
     "added": "0",
@@ -732,7 +732,7 @@
   "baby": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f6d6f4ebc10f"
+    "hash": "45be7d308144"
   },
   "baby-carriage": {
     "added": "0",
@@ -747,7 +747,7 @@
   "backspace": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "fbecade5fa2b"
+    "hash": "db9ce97ff497"
   },
   "bag": {
     "added": "2026-08-08",
@@ -762,12 +762,12 @@
   "balloon": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "e3c082efa73a"
+    "hash": "a0012cf421f3"
   },
   "bandaids": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "81b165db43bc"
+    "hash": "837777895045"
   },
   "bank": {
     "added": "2026-08-08",
@@ -777,12 +777,12 @@
   "barbell": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "e23ca713a3c0"
+    "hash": "95b8e15b5c6f"
   },
   "barcode": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "624a7422e0c3"
+    "hash": "8e0e7b8a956a"
   },
   "barn": {
     "added": "2026-08-08",
@@ -797,12 +797,12 @@
   "baseball": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "810e1324d4ee"
+    "hash": "68aa23e41552"
   },
   "baseball-cap": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "48bf32b4ad7f"
+    "hash": "48dbc0701afa"
   },
   "baseball-helmet": {
     "added": "2026-08-08",
@@ -812,12 +812,12 @@
   "basket": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "621597a765ad"
+    "hash": "0641565463c7"
   },
   "basketball": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "c385190987dd"
+    "hash": "e02c018d495b"
   },
   "bathtub": {
     "added": "2026-08-06",
@@ -827,82 +827,82 @@
   "battery-charging": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "dcc6aa83cfd0"
+    "hash": "dbc0f7d64a54"
   },
   "battery-charging-vertical": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "42423b3b92a3"
+    "hash": "cc7c5d0696bc"
   },
   "battery-empty": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "d17ed270931d"
+    "hash": "e76a2bdc0486"
   },
   "battery-full": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "5831d3fa38c7"
+    "hash": "6c50b9b1f133"
   },
   "battery-high": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "7caca8ccbdc8"
+    "hash": "83449e2f74ff"
   },
   "battery-low": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "b72dadbe704e"
+    "hash": "173403c9b49c"
   },
   "battery-medium": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "a11ac3ec189f"
+    "hash": "058d12c952f2"
   },
   "battery-plus": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "3d7ac912c792"
+    "hash": "5aecb921d7b7"
   },
   "battery-plus-vertical": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "fcc3d3d94cdf"
+    "hash": "bf031c9f0fb8"
   },
   "battery-vertical-empty": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "9fcfc22f5c5c"
+    "hash": "0ee3cd97e9c0"
   },
   "battery-vertical-full": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "0e5a23e91672"
+    "hash": "ba745e7b95e2"
   },
   "battery-vertical-high": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "b04498396d15"
+    "hash": "494006cf4d20"
   },
   "battery-vertical-low": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "4617f10eb695"
+    "hash": "9abf9c632c95"
   },
   "battery-vertical-medium": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "dda781ba3378"
+    "hash": "023ff348ed3d"
   },
   "battery-warning": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "9d9195aa4e4c"
+    "hash": "b6777e1a5f3d"
   },
   "beach-ball": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "081d5a6b3168"
+    "hash": "2a59c53c7b00"
   },
   "beanie": {
     "added": "2026-08-08",
@@ -922,12 +922,12 @@
   "beer-stein": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "9b9ea4ac7fdc"
+    "hash": "f4bdee8e6f00"
   },
   "behance-logo": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "46202e3ff600"
+    "hash": "058f26972b27"
   },
   "bell": {
     "added": "0",
@@ -942,27 +942,27 @@
   "bell-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "531d75826503"
+    "hash": "da69e45adf7d"
   },
   "bell-simple-ringing": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4173200524d6"
+    "hash": "5d283d82a2ef"
   },
   "bell-simple-slash": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "5f0dcab888fe"
+    "hash": "331749c5f18a"
   },
   "bell-simple-z": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "8db22a544a6c"
+    "hash": "7f9f5f0694bf"
   },
   "bell-slash": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "db10af3311c1"
+    "hash": "d6f4cff7dc76"
   },
   "bell-z": {
     "added": "0",
@@ -972,27 +972,27 @@
   "belt": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "886d7fad641e"
+    "hash": "502f1fec0566"
   },
   "bezier-curve": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f81b59da2caa"
+    "hash": "5c231acef919"
   },
   "bicycle": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "04997b88fcc4"
+    "hash": "06bd1287b4fc"
   },
   "binary": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "06fde68ed889"
+    "hash": "d9cccfd63406"
   },
   "biohazard": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "04b0c5ae4352"
+    "hash": "68484732e45d"
   },
   "bird": {
     "added": "2026-08-06",
@@ -1007,22 +1007,22 @@
   "bluetooth": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "86f5fb7898d3"
+    "hash": "bb2bd75d70d1"
   },
   "bluetooth-connected": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "f0c87abe010c"
+    "hash": "e8e2b1b0363c"
   },
   "bluetooth-slash": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "c5f5c85f70bc"
+    "hash": "8e507df8808b"
   },
   "bluetooth-x": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "7b5030bc94e7"
+    "hash": "060c995d9178"
   },
   "boat": {
     "added": "2026-08-06",
@@ -1032,17 +1032,17 @@
   "bomb": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "d3ead6f59a85"
+    "hash": "83f3db88444c"
   },
   "bone": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "97f87e8bb7bf"
+    "hash": "ca267932e841"
   },
   "book": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "a3919a1debf9"
+    "hash": "a0720245fc49"
   },
   "book-bookmark": {
     "added": "2026-08-06",
@@ -1072,7 +1072,7 @@
   "bookmark-simple": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "b2b8ecfd82b0"
+    "hash": "7f7fef03c0e8"
   },
   "bookmarks": {
     "added": "2026-08-06",
@@ -1082,7 +1082,7 @@
   "bookmarks-simple": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "fb744aba80cd"
+    "hash": "e938673fabb2"
   },
   "books": {
     "added": "2026-08-06",
@@ -1112,57 +1112,57 @@
   "bowl-steam": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "80ee7c144125"
+    "hash": "21cad5b0374e"
   },
   "bowling-ball": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "306966c4ba18"
+    "hash": "3eee7d7f1011"
   },
   "box-arrow-down": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "1f2bfa54bb67"
+    "hash": "1e091179ab08"
   },
   "box-arrow-up": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "98b9c8a4bc16"
+    "hash": "e495857e15bf"
   },
   "boxing-glove": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "1100b3bef182"
+    "hash": "c1bf5c036fe1"
   },
   "brackets-angle": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "62795905e21f"
+    "hash": "31c71a6f8aff"
   },
   "brackets-curly": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "9c4379c9aa37"
+    "hash": "ed537e687863"
   },
   "brackets-round": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "fbfcbd4af12e"
+    "hash": "a4b06035ee5f"
   },
   "brackets-square": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "bb454829ad46"
+    "hash": "f82d41022140"
   },
   "brain": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "0b820fde63b6"
+    "hash": "e4aaa301c57e"
   },
   "brandy": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "82b107c5009e"
+    "hash": "05f9595266e9"
   },
   "bread": {
     "added": "2026-08-06",
@@ -1172,7 +1172,7 @@
   "bridge": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "b4f397682a2e"
+    "hash": "298934bcab41"
   },
   "briefcase": {
     "added": "2026-08-06",
@@ -1187,7 +1187,7 @@
   "broadcast": {
     "added": "2026-08-06",
     "changed": "2026-09-05",
-    "hash": "5f35c9562dbd"
+    "hash": "a42d85d5c23d"
   },
   "broom": {
     "added": "2026-08-06",
@@ -1237,7 +1237,7 @@
   "bulldozer": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "cdbd2b78399b"
+    "hash": "ee140f4e3684"
   },
   "bus": {
     "added": "2026-08-07",
@@ -1247,7 +1247,7 @@
   "butterfly": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "ec4f66e624ff"
+    "hash": "1391cd7275e8"
   },
   "cable-car": {
     "added": "2026-08-07",
@@ -1257,12 +1257,12 @@
   "cactus": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "64b7390dc664"
+    "hash": "0e0a7073d433"
   },
   "cake": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "17c7237279bc"
+    "hash": "774f93f5abf8"
   },
   "calendar": {
     "added": "0",
@@ -1307,7 +1307,7 @@
   "calendar-slash": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b6f078c3a11f"
+    "hash": "b8314eac97be"
   },
   "calendar-star": {
     "added": "2026-08-07",
@@ -1317,37 +1317,37 @@
   "calendar-x": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f5d6782a096b"
+    "hash": "676f84df0a5f"
   },
   "call-bell": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "3102da1d22bd"
+    "hash": "ec48286f18c1"
   },
   "camera": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "72ad10b39bfd"
+    "hash": "63245d26deb3"
   },
   "camera-plus": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "77fa106c5d54"
+    "hash": "afdb4d515c4e"
   },
   "camera-rotate": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "8ec9350e70f8"
+    "hash": "9b2f1c787b32"
   },
   "camera-slash": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "a441cd8f6ab4"
+    "hash": "adf426189ef1"
   },
   "campfire": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "17f1a0d6c862"
+    "hash": "b57d6cbd14e6"
   },
   "car": {
     "added": "2026-08-09",
@@ -1372,127 +1372,127 @@
   "cards": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "933c81790a58"
+    "hash": "5bd783a9d8af"
   },
   "cards-three": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "c15d57cb76a9"
+    "hash": "42cfb0865c1e"
   },
   "caret-circle-double-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "df34389a0dc3"
+    "hash": "9e91aa0af8a4"
   },
   "caret-circle-double-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "8003a5258d75"
+    "hash": "2d8cd39fb43b"
   },
   "caret-circle-double-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d4b7cb928ce2"
+    "hash": "a010f0bc0c2c"
   },
   "caret-circle-double-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "7d87633a5c1d"
+    "hash": "fc4fee3ca617"
   },
   "caret-circle-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "cfc323494d18"
+    "hash": "ae263999bb33"
   },
   "caret-circle-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "36b835048057"
+    "hash": "c4cb41f0ff36"
   },
   "caret-circle-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "53ef19487aa5"
+    "hash": "83f98eabecdf"
   },
   "caret-circle-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "9bd38a4d97a7"
+    "hash": "c4bb7a682695"
   },
   "caret-circle-up-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4d2143297b8f"
+    "hash": "c85e41f83b07"
   },
   "caret-double-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "269ff1428665"
+    "hash": "32b2610c3d82"
   },
   "caret-double-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1c137fc954da"
+    "hash": "016fbc66a3bf"
   },
   "caret-double-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ea59346e895d"
+    "hash": "f50bb0622e68"
   },
   "caret-double-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2b257e8518bc"
+    "hash": "61830c49781e"
   },
   "caret-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b81d1ecc466e"
+    "hash": "03e8b6ea8eac"
   },
   "caret-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "6d183636cd30"
+    "hash": "e60be7839b6e"
   },
   "caret-line-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ca317057b2e0"
+    "hash": "3a2304a9dcfa"
   },
   "caret-line-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a3ed146c1e55"
+    "hash": "8db3eab2b4ea"
   },
   "caret-line-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "08e85282aa85"
+    "hash": "f443add30134"
   },
   "caret-line-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e6435ffc759f"
+    "hash": "9c6d370788fc"
   },
   "caret-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1b418e8f5b61"
+    "hash": "9f8ebd58f77f"
   },
   "caret-up": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "bc782dbc2009"
+    "hash": "e78e8b4d9ba6"
   },
   "caret-up-down": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "37843a49fe76"
+    "hash": "698d7f0fc0ea"
   },
   "carrot": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "d1ebced22ba7"
+    "hash": "cdb25997e09b"
   },
   "cash-register": {
     "added": "2026-08-09",
@@ -1517,42 +1517,42 @@
   "cell-signal-full": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "7cce7c126c28"
+    "hash": "9860115fe640"
   },
   "cell-signal-high": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "e082430d123d"
+    "hash": "8ac38ba24035"
   },
   "cell-signal-low": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "f5d107169688"
+    "hash": "0f66088e0c32"
   },
   "cell-signal-medium": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "a98cb1538b67"
+    "hash": "656f08c54293"
   },
   "cell-signal-none": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "634109ac8db7"
+    "hash": "ed448c070a6e"
   },
   "cell-signal-slash": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "0d712b80b64b"
+    "hash": "b5146a2819e2"
   },
   "cell-signal-x": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "a143e712d8ed"
+    "hash": "91cdc6409be5"
   },
   "cell-tower": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "9b83c4ffbd24"
+    "hash": "0d2d8e917585"
   },
   "certificate": {
     "added": "2026-08-09",
@@ -1562,17 +1562,17 @@
   "chair": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "8518d878a5f3"
+    "hash": "3621842cab0b"
   },
   "chalkboard": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "4d663125158b"
+    "hash": "19a8dac0a251"
   },
   "chalkboard-simple": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "afc116a439bc"
+    "hash": "8b959a15d0ed"
   },
   "chalkboard-teacher": {
     "added": "2026-08-09",
@@ -1582,67 +1582,67 @@
   "charging-station": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "30d69e957c25"
+    "hash": "d29bb2f62ff3"
   },
   "chart-bar": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "03acdc9f384a"
+    "hash": "c4e379258696"
   },
   "chart-bar-horizontal": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "c1781938e450"
+    "hash": "89073b3a8198"
   },
   "chart-donut": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "7bd74917df6b"
+    "hash": "903e2eabdcfb"
   },
   "chart-line": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "1836285229a6"
+    "hash": "2ac588aac16b"
   },
   "chart-line-down": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "595c61cab229"
+    "hash": "f729027c3a2e"
   },
   "chart-line-up": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "814a49f51dbe"
+    "hash": "fefa6c504dc1"
   },
   "chart-pie": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "2d5287880278"
+    "hash": "ea02a19cef7f"
   },
   "chart-pie-slice": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "2ee2eb08da70"
+    "hash": "185a3c2c853f"
   },
   "chart-polar": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "e4e5b3d37143"
+    "hash": "84e100bb3e6c"
   },
   "chart-scatter": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "801c2857ef95"
+    "hash": "53e558c0a715"
   },
   "chat": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "d5b7df195592"
+    "hash": "ff2ba7a42ab3"
   },
   "chat-centered": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "ebd54248f809"
+    "hash": "7bf34332201f"
   },
   "chat-centered-dots": {
     "added": "2026-08-07",
@@ -1652,17 +1652,17 @@
   "chat-centered-slash": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "b4de9b9b0cea"
+    "hash": "75226d7d6412"
   },
   "chat-centered-text": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "cee3e12169fd"
+    "hash": "b8f8beaff797"
   },
   "chat-circle": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "59279bf905f1"
+    "hash": "a64f4c539e6c"
   },
   "chat-circle-dots": {
     "added": "2026-08-07",
@@ -1672,47 +1672,47 @@
   "chat-circle-slash": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "c6618020d791"
+    "hash": "7dcdc4f35556"
   },
   "chat-circle-text": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "ee7e8ac29843"
+    "hash": "4399f51bb970"
   },
   "chat-dots": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "d9eb77fa78e5"
+    "hash": "c8f4f68b6db2"
   },
   "chat-slash": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "921d2e8647c7"
+    "hash": "849171225fd9"
   },
   "chat-teardrop": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "fde67b5a95ad"
+    "hash": "c10e3ba241b5"
   },
   "chat-teardrop-dots": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "c99a18a9fc09"
+    "hash": "322ce823dd7f"
   },
   "chat-teardrop-slash": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "27494678da25"
+    "hash": "5fc32addd457"
   },
   "chat-teardrop-text": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "685fa8dcebf2"
+    "hash": "738c22c448c4"
   },
   "chat-text": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "34cc5cbfc320"
+    "hash": "8427e8b3a063"
   },
   "chats": {
     "added": "2026-08-07",
@@ -1732,27 +1732,27 @@
   "check": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "0324e530de99"
+    "hash": "2a58b9d772d4"
   },
   "check-circle": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "fa12863b82f6"
+    "hash": "97f915e44c9f"
   },
   "check-fat": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "0646076b2445"
+    "hash": "3113a1fc6f31"
   },
   "check-square": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "7023457b5b18"
+    "hash": "ab96ec11ac70"
   },
   "check-square-offset": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "fee365fa8c78"
+    "hash": "a5197bdd9933"
   },
   "checkerboard": {
     "added": "2026-08-09",
@@ -1762,7 +1762,7 @@
   "checks": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "9f31b2114238"
+    "hash": "1ac922b20ff0"
   },
   "cheers": {
     "added": "2026-08-09",
@@ -1777,17 +1777,17 @@
   "chef-hat": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "fac1415ac19c"
+    "hash": "88af68acd45d"
   },
   "cherries": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "ac96b14f3c12"
+    "hash": "312c418946e9"
   },
   "church": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "b90af453a163"
+    "hash": "77e584de2c3d"
   },
   "cigarette": {
     "added": "2026-08-10",
@@ -1797,17 +1797,17 @@
   "cigarette-slash": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "9366f9f57940"
+    "hash": "8aef1c057fc7"
   },
   "circle": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "14389e6ed19a"
+    "hash": "05b39964e9f0"
   },
   "circle-dashed": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "7b8c30be9ffb"
+    "hash": "cdd2446ff3ab"
   },
   "circle-half": {
     "added": "0",
@@ -1822,32 +1822,32 @@
   "circle-notch": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "6f11614390e8"
+    "hash": "03606c189993"
   },
   "circles-four": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ebe972e94239"
+    "hash": "f24b709f886f"
   },
   "circles-three": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b09121de4b02"
+    "hash": "1f95d00195a2"
   },
   "circles-three-plus": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d2bd4571fe03"
+    "hash": "8026364a269b"
   },
   "circuitry": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "869280241bc5"
+    "hash": "153a81a2ae7b"
   },
   "city": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "2a1008800400"
+    "hash": "227749761602"
   },
   "clipboard": {
     "added": "2026-08-10",
@@ -1862,82 +1862,82 @@
   "clock": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "bbc3a0f131eb"
+    "hash": "f65be34fe8e2"
   },
   "clock-afternoon": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d4cd2a4d807a"
+    "hash": "22405628a0b2"
   },
   "clock-clockwise": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "6c1b7ccb35d9"
+    "hash": "72745f50e0bb"
   },
   "clock-countdown": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f6ac3591c6d3"
+    "hash": "2bc268dcaadf"
   },
   "clock-counter-clockwise": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "0f5e84e66de6"
+    "hash": "9bf80b45af6d"
   },
   "clock-user": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ec572672f53a"
+    "hash": "c7ff9e4f15c0"
   },
   "closed-captioning": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "9555b439b807"
+    "hash": "905eae387ec0"
   },
   "cloud": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "9118bae80cca"
+    "hash": "b6c8116be8f9"
   },
   "cloud-arrow-down": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "b9d22a655262"
+    "hash": "2f042a1b4d28"
   },
   "cloud-arrow-up": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "8d337c07f031"
+    "hash": "dc8676e59d13"
   },
   "cloud-check": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "ed18985866f1"
+    "hash": "f6f235bfcf19"
   },
   "cloud-fog": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "400a2cc5c381"
+    "hash": "4b3854801844"
   },
   "cloud-lightning": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "0edc8ccf2c87"
+    "hash": "c4baca2255a2"
   },
   "cloud-moon": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "55cf29a4161b"
+    "hash": "35f019ebf68f"
   },
   "cloud-rain": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "8cdf80c39b2b"
+    "hash": "69b99bb7a311"
   },
   "cloud-slash": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "8de081589095"
+    "hash": "d1a9417b0110"
   },
   "cloud-snow": {
     "added": "2026-08-07",
@@ -1947,57 +1947,57 @@
   "cloud-sun": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "fd780b8786db"
+    "hash": "22b06c1a4256"
   },
   "cloud-warning": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "aff3cea78f38"
+    "hash": "d689b59dc8ba"
   },
   "cloud-x": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "ba41322e80ec"
+    "hash": "a498d2266855"
   },
   "clover": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "f45d1937cbd3"
+    "hash": "289e83b9fd41"
   },
   "club": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "c0f138f3e4f0"
+    "hash": "69e6587d1245"
   },
   "coat-hanger": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "76b1eec55a29"
+    "hash": "fdb0a97a3cc8"
   },
   "coda-logo": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "9798314fc87b"
+    "hash": "955afe94c040"
   },
   "code": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "dbc601d2f1fe"
+    "hash": "bc247d86e51a"
   },
   "code-block": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "529cd366c0af"
+    "hash": "27d855648f51"
   },
   "code-simple": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "3dfa5c9f4f58"
+    "hash": "f9110d8d38d7"
   },
   "codepen-logo": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "ae71821affbf"
+    "hash": "ba93952a647b"
   },
   "codesandbox-logo": {
     "added": "2026-08-10",
@@ -2007,7 +2007,7 @@
   "coffee": {
     "added": "2026-08-10",
     "changed": "2026-09-05",
-    "hash": "d9008c8f5379"
+    "hash": "336f32f5d819"
   },
   "coffee-bean": {
     "added": "2026-08-10",
@@ -2017,37 +2017,37 @@
   "coin": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "e6aa8cf280e9"
+    "hash": "6e04d79ce737"
   },
   "coin-vertical": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "646f57a9588e"
+    "hash": "247500d0f6c4"
   },
   "coins": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "2f702e539375"
+    "hash": "d7031621c8c6"
   },
   "columns": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d90e455f23f8"
+    "hash": "31ed40eda110"
   },
   "columns-plus-left": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b316b8e2440c"
+    "hash": "7d2e335c2560"
   },
   "columns-plus-right": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d5f90df66cff"
+    "hash": "bd5789830abf"
   },
   "command": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "8063a18b927b"
+    "hash": "ceada472ba91"
   },
   "compass": {
     "added": "2026-08-12",
@@ -2062,12 +2062,12 @@
   "compass-tool": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c96f479bcf4a"
+    "hash": "d34583ac42b6"
   },
   "computer-tower": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "c7abcbafbbd4"
+    "hash": "ac0ad2cb58c0"
   },
   "confetti": {
     "added": "2026-08-12",
@@ -2077,7 +2077,7 @@
   "contactless-payment": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "441e636e327f"
+    "hash": "ea8705e89374"
   },
   "cookie": {
     "added": "2026-08-12",
@@ -2087,7 +2087,7 @@
   "cooking-pot": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "327659ac44c3"
+    "hash": "36714d67d1fe"
   },
   "copy": {
     "added": "2026-08-08",
@@ -2097,22 +2097,22 @@
   "copy-simple": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "d3615cc405bf"
+    "hash": "7512f6b3c52e"
   },
   "copyleft": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "218bb77c37dc"
+    "hash": "13dec45698ae"
   },
   "corners-in": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "8863dc83d206"
+    "hash": "c1c2f0135b0c"
   },
   "corners-out": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "189050bb09d7"
+    "hash": "1d81f665e9ee"
   },
   "couch": {
     "added": "2026-08-12",
@@ -2162,12 +2162,12 @@
   "crop": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "886f3914246f"
+    "hash": "2429c85ae6e3"
   },
   "cross": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "162409582f10"
+    "hash": "f06c10482809"
   },
   "crosshair": {
     "added": "2026-08-12",
@@ -2177,7 +2177,7 @@
   "crosshair-simple": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "58d07987727a"
+    "hash": "b0a8b146b068"
   },
   "crown": {
     "added": "2026-08-12",
@@ -2187,17 +2187,17 @@
   "crown-cross": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "3ec58bc7393c"
+    "hash": "157b5dc28164"
   },
   "crown-simple": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "fc31fc07ce71"
+    "hash": "4ef01157d22f"
   },
   "cube": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c24db07c27eb"
+    "hash": "b7b03e9b12e2"
   },
   "cube-transparent": {
     "added": "0",
@@ -2207,102 +2207,102 @@
   "currency-btc": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "15b45d0c498e"
+    "hash": "e77543f5b986"
   },
   "currency-circle-dollar": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "dd7a8a669b25"
+    "hash": "d998681fa1c5"
   },
   "currency-cny": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "d3bac8c0aa47"
+    "hash": "64b70e2235e4"
   },
   "currency-dollar": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "d243ced81a4b"
+    "hash": "a9529d403143"
   },
   "currency-dollar-simple": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "5584492a0293"
+    "hash": "9c3d6c0c722a"
   },
   "currency-eth": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "cf3d1ae7fad2"
+    "hash": "40b717ab7fe2"
   },
   "currency-eur": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "7825f76c7f58"
+    "hash": "f838a8b764f1"
   },
   "currency-gbp": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "fe83351c522c"
+    "hash": "e43745af2d48"
   },
   "currency-inr": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "40c7ad1c8d0a"
+    "hash": "0169f7508f7f"
   },
   "currency-jpy": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "3ae42d993085"
+    "hash": "2dd41d4df38f"
   },
   "currency-krw": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "cf32ac90d5e0"
+    "hash": "b6756abfed3d"
   },
   "currency-kzt": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "e7ddefa8617a"
+    "hash": "787df08243a5"
   },
   "currency-ngn": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "65a909de2e58"
+    "hash": "97fad1c009a9"
   },
   "currency-rub": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "e3f771316041"
+    "hash": "0b3329d063c6"
   },
   "cursor": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "a8ff9eb2b18b"
+    "hash": "bad3805ba10f"
   },
   "cursor-click": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "75a03b54bb9b"
+    "hash": "10dcecbe4aa3"
   },
   "cylinder": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b48121df2038"
+    "hash": "2ce54ab90a26"
   },
   "database": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "5acf64a09ca2"
+    "hash": "0a541ad06937"
   },
   "desk": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "ee55a6e2612b"
+    "hash": "a060915c610d"
   },
   "desktop": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "6752127eb0c6"
+    "hash": "93540f34c275"
   },
   "desktop-tower": {
     "added": "2026-08-12",
@@ -2322,37 +2322,37 @@
   "device-mobile": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "f16ed0438b7d"
+    "hash": "718cc6f9f82d"
   },
   "device-mobile-camera": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "5e4864eae141"
+    "hash": "0be66ed80ab4"
   },
   "device-mobile-slash": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "dfe61b68bd80"
+    "hash": "13a371871bb2"
   },
   "device-mobile-speaker": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "90e0d8770dc1"
+    "hash": "10ddf55e16ad"
   },
   "device-rotate": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "a5321eb93a2f"
+    "hash": "c2c317890f6d"
   },
   "device-tablet-camera": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "ae58f1bc63f4"
+    "hash": "4605d97d3d70"
   },
   "device-tablet-speaker": {
     "added": "2026-08-12",
     "changed": "2026-09-05",
-    "hash": "8d98247a5033"
+    "hash": "7f7a511a1f10"
   },
   "devices": {
     "added": "2026-08-12",
@@ -2362,12 +2362,12 @@
   "diamond": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "b306354e479e"
+    "hash": "bf5ea14610c7"
   },
   "diamonds-four": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e54cd1c3af64"
+    "hash": "56b2f6f0c0aa"
   },
   "dice-five": {
     "added": "2026-08-08",
@@ -2407,22 +2407,22 @@
   "disco-ball": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "5131dbcfa273"
+    "hash": "31669296d67b"
   },
   "discord-logo": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "ddd5a5adc58f"
+    "hash": "255bad9ddcf0"
   },
   "divide": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "757b766c5b87"
+    "hash": "c9d19e97daf7"
   },
   "dna": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "8ac9634153a8"
+    "hash": "4cd95772d717"
   },
   "dog": {
     "added": "2026-08-14",
@@ -2432,7 +2432,7 @@
   "door": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "eb4301db4b42"
+    "hash": "b57ab44bbdec"
   },
   "door-open": {
     "added": "2026-08-14",
@@ -2442,77 +2442,77 @@
   "dot": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "d7c30eb62047"
+    "hash": "53402b2e7793"
   },
   "dot-outline": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "d6e748a4c492"
+    "hash": "de2294c949c1"
   },
   "dots-nine": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "dd10ea2b89aa"
+    "hash": "6a6a3a1b6c6e"
   },
   "dots-six": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "1551cae6dbbe"
+    "hash": "cc3711fb9105"
   },
   "dots-six-vertical": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "e051305cb3b7"
+    "hash": "f7cdc8a04d06"
   },
   "dots-three": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "0b8fd380d8dc"
+    "hash": "535a666d0f1c"
   },
   "dots-three-circle": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "ebc9e59f6ce7"
+    "hash": "56d7693a3f0d"
   },
   "dots-three-circle-vertical": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "8fb11ad79c39"
+    "hash": "acb81bd3723d"
   },
   "dots-three-outline": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "275b199f9824"
+    "hash": "1675ceb8e472"
   },
   "dots-three-outline-vertical": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "1235c1b23447"
+    "hash": "8758e85bb001"
   },
   "dots-three-vertical": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "c51bb8c0b0fb"
+    "hash": "95705b9f51a7"
   },
   "download": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "0982cc9ef8a7"
+    "hash": "6243d03bfe3d"
   },
   "download-simple": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "e870f3202128"
+    "hash": "d5cb9b54226d"
   },
   "dress": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "41e66b85c50e"
+    "hash": "8d627d9dfe77"
   },
   "dresser": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "2ef8c4068b32"
+    "hash": "1b9fa0c5fff0"
   },
   "dribbble-logo": {
     "added": "2026-08-14",
@@ -2522,12 +2522,12 @@
   "drone": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "0320e98da039"
+    "hash": "1cb13a5484b7"
   },
   "drop": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "680c33051e5a"
+    "hash": "5001fb2771cb"
   },
   "drop-half": {
     "added": "0",
@@ -2542,7 +2542,7 @@
   "drop-slash": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "522468e134ad"
+    "hash": "1d18b9487183"
   },
   "dropbox-logo": {
     "added": "2026-08-14",
@@ -2552,32 +2552,32 @@
   "ear": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "e0e4ba8b46bd"
+    "hash": "383591c14d0c"
   },
   "ear-slash": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "45988bd0433e"
+    "hash": "439c5b383710"
   },
   "egg": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "5cfce61e2246"
+    "hash": "78a8145c0fa1"
   },
   "egg-crack": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "64c7374cdab6"
+    "hash": "40b1268a6efb"
   },
   "eject": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "ad9afc00fd02"
+    "hash": "aac56bc74fc1"
   },
   "eject-simple": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "b659a1aa51c2"
+    "hash": "4a065f100b28"
   },
   "elevator": {
     "added": "2026-08-14",
@@ -2592,7 +2592,7 @@
   "engine": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "4a983afb9fa6"
+    "hash": "3e8710eb63a3"
   },
   "envelope": {
     "added": "2026-08-14",
@@ -2622,12 +2622,12 @@
   "escalator-down": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "44bc152c4cb9"
+    "hash": "931091eb19d6"
   },
   "escalator-up": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "af34b4c0cc8f"
+    "hash": "bc785bab3c4f"
   },
   "exam": {
     "added": "2026-08-14",
@@ -2637,7 +2637,7 @@
   "exclamation-mark": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "4bbd1d28e6d7"
+    "hash": "a0229d725410"
   },
   "exclude": {
     "added": "0",
@@ -2652,7 +2652,7 @@
   "export": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "63bf8d6570f9"
+    "hash": "0811eae9baeb"
   },
   "eye": {
     "added": "0",
@@ -2662,12 +2662,12 @@
   "eye-closed": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2066ca5660e6"
+    "hash": "d64ccb99e0c7"
   },
   "eye-slash": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ee5b2a556006"
+    "hash": "705c4d0d150b"
   },
   "eyedropper": {
     "added": "2026-08-14",
@@ -2682,12 +2682,12 @@
   "eyeglasses": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "db580b090b31"
+    "hash": "0aac3d45f124"
   },
   "eyes": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "95a21e3fbd80"
+    "hash": "61d54bad28b9"
   },
   "face-mask": {
     "added": "2026-08-14",
@@ -2697,7 +2697,7 @@
   "facebook-logo": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "1f45be88ff1d"
+    "hash": "fe092b0c9db9"
   },
   "factory": {
     "added": "2026-08-14",
@@ -2707,12 +2707,12 @@
   "faders": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "92ea5811321a"
+    "hash": "733aea4a4def"
   },
   "faders-horizontal": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "a3d2cbe0acaf"
+    "hash": "b8e32481c9a2"
   },
   "fallout-shelter": {
     "added": "2026-08-14",
@@ -2727,7 +2727,7 @@
   "fast-forward": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "913a1f765a56"
+    "hash": "6d3c9fb81746"
   },
   "fast-forward-circle": {
     "added": "2026-08-14",
@@ -2737,17 +2737,17 @@
   "fast-rewind": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "97b67b72dd07"
+    "hash": "1a1c02cda8fb"
   },
   "feather": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "069af6e90981"
+    "hash": "a9c78475eb43"
   },
   "fediverse-logo": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "29faab40b61b"
+    "hash": "d798bf43e695"
   },
   "figma-logo": {
     "added": "2026-08-14",
@@ -2777,22 +2777,22 @@
   "file-audio": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d0c51cf07f6b"
+    "hash": "00e85008dbfb"
   },
   "file-c": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "094188dbe686"
+    "hash": "1c4e467d33fc"
   },
   "file-c-sharp": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f0c1bbbb2e7b"
+    "hash": "cba3229f6104"
   },
   "file-cloud": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e81ed54dd905"
+    "hash": "c63eff0ac132"
   },
   "file-code": {
     "added": "0",
@@ -2802,62 +2802,62 @@
   "file-cpp": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b732b4a098e0"
+    "hash": "65b339d92ef8"
   },
   "file-css": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "44c4ec9cb9a8"
+    "hash": "3be364df57dc"
   },
   "file-csv": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "0d7b16dbf47a"
+    "hash": "6a0e81418b0a"
   },
   "file-dashed": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "db50a52922bc"
+    "hash": "77167a0087e8"
   },
   "file-doc": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "24bacc823fb3"
+    "hash": "f77ca3aaaa54"
   },
   "file-html": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f3f4d32da487"
+    "hash": "60117766ce52"
   },
   "file-image": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "9cb04b6e9cce"
+    "hash": "7db1d367ee65"
   },
   "file-ini": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4633b6396d63"
+    "hash": "05d098afedbb"
   },
   "file-jpg": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "6d784321c10d"
+    "hash": "7f8b8b16927d"
   },
   "file-js": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "0a0fb089a8e6"
+    "hash": "ec493ca8e4b6"
   },
   "file-jsx": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ab4d1ed5dd53"
+    "hash": "733f1dd4500b"
   },
   "file-lock": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "0e89cca66529"
+    "hash": "7dd1a0d897f9"
   },
   "file-magnifying-glass": {
     "added": "0",
@@ -2867,7 +2867,7 @@
   "file-md": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "c1577df0eeea"
+    "hash": "363e3ce13d05"
   },
   "file-minus": {
     "added": "0",
@@ -2877,7 +2877,7 @@
   "file-pdf": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "40a5ce8cb56c"
+    "hash": "ab8fab7e9117"
   },
   "file-plus": {
     "added": "0",
@@ -2887,32 +2887,32 @@
   "file-png": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "002af3955e0b"
+    "hash": "68ccb2ee6dbb"
   },
   "file-ppt": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d7127ef40992"
+    "hash": "af3fe2445006"
   },
   "file-py": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "54d8c6a86407"
+    "hash": "8c73f949a67d"
   },
   "file-rs": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "952092dd5955"
+    "hash": "3464934a4c31"
   },
   "file-sql": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1f811c4ed51b"
+    "hash": "ed3bf0411429"
   },
   "file-svg": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e4c60ee57051"
+    "hash": "ab20014ce764"
   },
   "file-text": {
     "added": "0",
@@ -2922,27 +2922,27 @@
   "file-ts": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e5fb67f2e525"
+    "hash": "de56e1328906"
   },
   "file-tsx": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "de28e1f1a14d"
+    "hash": "9fa3c211f8f2"
   },
   "file-txt": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "73fb6a491aee"
+    "hash": "76a6108de258"
   },
   "file-video": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f5a2235c197a"
+    "hash": "cb45c9f1c7f2"
   },
   "file-vue": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a9f0958222a6"
+    "hash": "e9c2dc6b1809"
   },
   "file-x": {
     "added": "0",
@@ -2952,17 +2952,17 @@
   "file-xls": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "a78eb3e43097"
+    "hash": "5b334ad49d94"
   },
   "file-zip": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "296da2fc79ad"
+    "hash": "72d690fb53f9"
   },
   "files": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "6a21f683d947"
+    "hash": "3e535e9e1d56"
   },
   "film-reel": {
     "added": "2026-08-14",
@@ -2972,22 +2972,22 @@
   "film-slate": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "6510b96ad5c7"
+    "hash": "374f2b99a21f"
   },
   "film-strip": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "fd87257d6393"
+    "hash": "25cb7e03412e"
   },
   "fingerprint": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "005499b9c06e"
+    "hash": "7d5f0c3c0142"
   },
   "fingerprint-simple": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "8a8d40bf40bf"
+    "hash": "f90f09e7a485"
   },
   "finn-the-human": {
     "added": "2026-08-14",
@@ -2997,7 +2997,7 @@
   "fire": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "8d7fb2b7c21b"
+    "hash": "6551a82c008e"
   },
   "fire-extinguisher": {
     "added": "2026-08-14",
@@ -3007,22 +3007,22 @@
   "fire-simple": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "eb87a20a9e61"
+    "hash": "f0a9da774ef1"
   },
   "fire-truck": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "5e2e2e662c1f"
+    "hash": "47bf702591e5"
   },
   "first-aid": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "20fcaf86c99c"
+    "hash": "c88d65956b6e"
   },
   "first-aid-kit": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "e9adfb4871cd"
+    "hash": "9c7d2c96dec0"
   },
   "fish": {
     "added": "2026-08-14",
@@ -3037,27 +3037,27 @@
   "flag": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "2fe24b6f7197"
+    "hash": "c927a8b5210b"
   },
   "flag-banner": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "8d106b804979"
+    "hash": "35fa4f96e380"
   },
   "flag-banner-fold": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "e731720bb785"
+    "hash": "143d0878be24"
   },
   "flag-checkered": {
     "added": "2026-08-14",
     "changed": "2026-09-05",
-    "hash": "d551c86d521b"
+    "hash": "d22b79d2eba2"
   },
   "flag-pennant": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "9858cec82168"
+    "hash": "531aebc1e3df"
   },
   "flame": {
     "added": "2026-08-17",
@@ -3077,12 +3077,12 @@
   "flip-horizontal": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "02fe41417267"
+    "hash": "fed68bf10477"
   },
   "flip-vertical": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1da18bbb31bb"
+    "hash": "6609fa2beb54"
   },
   "floppy-disk": {
     "added": "2026-08-17",
@@ -3097,12 +3097,12 @@
   "flow-arrow": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "d06f5aceb930"
+    "hash": "c2f596ad116b"
   },
   "flower": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "5cefd03832d0"
+    "hash": "b0f77f4fb3ac"
   },
   "flower-lotus": {
     "added": "2026-08-17",
@@ -3112,7 +3112,7 @@
   "flower-tulip": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "868d9d7d2d7c"
+    "hash": "bf6a1219c33c"
   },
   "flying-saucer": {
     "added": "2026-08-17",
@@ -3127,12 +3127,12 @@
   "folder-dashed": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d9dee01fd762"
+    "hash": "d884ee031aa3"
   },
   "folder-lock": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "bc893e901db7"
+    "hash": "4114073dd665"
   },
   "folder-minus": {
     "added": "0",
@@ -3142,52 +3142,52 @@
   "folder-open": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "aed888ab17f9"
+    "hash": "471d10baf445"
   },
   "folder-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b07d5836c756"
+    "hash": "68e5e57b576e"
   },
   "folder-simple-dashed": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1c13e684d715"
+    "hash": "a69468c9f013"
   },
   "folder-simple-lock": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "bfc0acb526e8"
+    "hash": "544a2c7225bf"
   },
   "folder-simple-minus": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "81ecc963f572"
+    "hash": "c86d862831c9"
   },
   "folder-simple-plus": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "85d336ab1009"
+    "hash": "15b1a861d671"
   },
   "folder-simple-star": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "3fcb20dc8177"
+    "hash": "c398a54eed05"
   },
   "folder-simple-user": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "780ea3e97e8b"
+    "hash": "5bdb464b689b"
   },
   "folder-star": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "be66eb9b54b3"
+    "hash": "d986e8eae55b"
   },
   "folder-user": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "7a8e6e5b5d80"
+    "hash": "cc91fd883788"
   },
   "folders": {
     "added": "0",
@@ -3207,42 +3207,42 @@
   "footprints": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "08838288cd70"
+    "hash": "bd278d3ce27d"
   },
   "fork-knife": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "745d9ee0fbbd"
+    "hash": "d472b3b654cb"
   },
   "four-k": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "28692b28d831"
+    "hash": "5aa998fb1604"
   },
   "frame-corners": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "5c51f4c095c5"
+    "hash": "5b80d53ef84f"
   },
   "framer-logo": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "4da86898faa1"
+    "hash": "cdd34ccdfabc"
   },
   "function": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "5a75e97cab10"
+    "hash": "5ee4fc988384"
   },
   "funnel": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "44cde710a7c9"
+    "hash": "45cbbe646a9c"
   },
   "funnel-x": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "4bd59c4b2557"
+    "hash": "ae2ff8414f09"
   },
   "game-controller": {
     "added": "2026-08-17",
@@ -3262,12 +3262,12 @@
   "gas-pump": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "c612ad72d500"
+    "hash": "a4d2c1279d5d"
   },
   "gauge": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "930714196e96"
+    "hash": "0028ae232ddc"
   },
   "gavel": {
     "added": "2026-08-17",
@@ -3282,7 +3282,7 @@
   "gear-fine": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "d3c5918b9dfa"
+    "hash": "e90517ea8886"
   },
   "gear-six": {
     "added": "2026-08-17",
@@ -3292,32 +3292,32 @@
   "gender-female": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "30586227a17f"
+    "hash": "97f92b25eb15"
   },
   "gender-intersex": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "4ffc1ec6b442"
+    "hash": "bd2729f621db"
   },
   "gender-male": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "890473262cfa"
+    "hash": "535b0531316d"
   },
   "gender-neuter": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "6e1283d0456d"
+    "hash": "f144c27af7fd"
   },
   "gender-nonbinary": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "aff4b0981003"
+    "hash": "1ecce3ba0545"
   },
   "gender-transgender": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "6cf5db2b8a49"
+    "hash": "fedbb4d4204f"
   },
   "ghost": {
     "added": "2026-08-17",
@@ -3327,7 +3327,7 @@
   "gif": {
     "added": "2026-08-17",
     "changed": "2026-09-05",
-    "hash": "b7b27f09eebc"
+    "hash": "036e6483450e"
   },
   "gift": {
     "added": "2026-08-17",
@@ -3337,52 +3337,52 @@
   "git-branch": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "991dc0e243ba"
+    "hash": "c8bdc055b512"
   },
   "git-commit": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "abd327743f0f"
+    "hash": "6ea688f82a97"
   },
   "git-diff": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "6ace99f862e8"
+    "hash": "8e55b3008644"
   },
   "git-fork": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "c70f7b6d2d35"
+    "hash": "ba7f22f42635"
   },
   "git-merge": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "d7fe5f0197d1"
+    "hash": "36103a58fb29"
   },
   "git-pull-request": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "b6d6747f8a03"
+    "hash": "40e23f7e5997"
   },
   "github-logo": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "f65a2b2d70ed"
+    "hash": "607c61e0b968"
   },
   "gitlab-logo": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "c0ab9f59a8b0"
+    "hash": "5e54f071adf5"
   },
   "gitlab-logo-simple": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "bbf9201ad954"
+    "hash": "08d6e8eb0a15"
   },
   "globe": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "e66528751b26"
+    "hash": "73498fd2bdc7"
   },
   "globe-hemisphere-east": {
     "added": "2026-08-18",
@@ -3397,22 +3397,22 @@
   "globe-simple": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "7c1f6f037775"
+    "hash": "cb03a8bd91df"
   },
   "globe-simple-x": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "037316b1e6c1"
+    "hash": "548e4da50c4b"
   },
   "globe-stand": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "aa1079e77d8e"
+    "hash": "8ef78cc2c841"
   },
   "globe-x": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "4ea4f7b85fdc"
+    "hash": "3fd9e01f64a5"
   },
   "goggles": {
     "added": "2026-08-18",
@@ -3427,7 +3427,7 @@
   "goodreads-logo": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "16ee87a02472"
+    "hash": "c73b5a05df41"
   },
   "google-cardboard-logo": {
     "added": "2026-08-18",
@@ -3447,7 +3447,7 @@
   "google-logo": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "8b8a5a4c4b69"
+    "hash": "1844a3e76dec"
   },
   "google-photos-logo": {
     "added": "2026-08-18",
@@ -3457,17 +3457,17 @@
   "google-play-logo": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "68bbdfa12042"
+    "hash": "6f9fbdcf9ce4"
   },
   "google-podcasts-logo": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "342f58e9b520"
+    "hash": "d5a500675cc6"
   },
   "gps": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "20b396519c39"
+    "hash": "a1ee3efca128"
   },
   "gps-fix": {
     "added": "2026-08-18",
@@ -3482,12 +3482,12 @@
   "gradient": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "8735af9ffc3d"
+    "hash": "cb47d1f765ba"
   },
   "graduation-cap": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "ad7bb22aaf17"
+    "hash": "bd025e47982f"
   },
   "grains": {
     "added": "2026-08-18",
@@ -3497,12 +3497,12 @@
   "grains-slash": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "18ef6ae703f6"
+    "hash": "ebe83b747d49"
   },
   "graph": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "a321a539d69b"
+    "hash": "d0c1b6252ed5"
   },
   "graphics-card": {
     "added": "2026-08-18",
@@ -3512,12 +3512,12 @@
   "greater-than": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "7d88fe1d2825"
+    "hash": "ba9969f47814"
   },
   "greater-than-or-equal": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "6cd91c377b87"
+    "hash": "f3834128dd1a"
   },
   "grid-four": {
     "added": "0",
@@ -3527,7 +3527,7 @@
   "grid-nine": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "907bd7ac649d"
+    "hash": "fe9bf4328f93"
   },
   "guitar": {
     "added": "2026-08-18",
@@ -3537,32 +3537,32 @@
   "hand-pointing": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "32e8d90fc1ad"
+    "hash": "4854bb6d3bf7"
   },
   "hand-swipe-left": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "bebb85b2dfb5"
+    "hash": "05a821c61028"
   },
   "hand-swipe-right": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "40521a092635"
+    "hash": "abd173d0bebe"
   },
   "hand-tap": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "0f6984687c91"
+    "hash": "4b42434a7e4c"
   },
   "handbag": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "a52764e88a10"
+    "hash": "5cd3c0a1f7d0"
   },
   "handbag-simple": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "d0767cf631e8"
+    "hash": "24394aa5df3c"
   },
   "hard-drive": {
     "added": "2026-08-18",
@@ -3572,52 +3572,52 @@
   "hard-drives": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "9999a0fc4011"
+    "hash": "cd4618471a83"
   },
   "hash": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "988e07ab2042"
+    "hash": "7c3da4944529"
   },
   "hash-straight": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "2a935c034f4e"
+    "hash": "165fd6be2a4a"
   },
   "heart": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "74a149fecdbe"
+    "hash": "0bf0da0cf4b8"
   },
   "heart-break": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "c677ced34888"
+    "hash": "bff4a5410d53"
   },
   "heart-half": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "c75904f0f946"
+    "hash": "381d563065e9"
   },
   "heartbeat": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "bc8cfc8e6bba"
+    "hash": "a2d5ab07518c"
   },
   "hexagon": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1b68e0373862"
+    "hash": "49026eca1485"
   },
   "high-definition": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "962a10192148"
+    "hash": "6cfa10d8cc55"
   },
   "hourglass": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "0eb37593d726"
+    "hash": "13b65e9c54a8"
   },
   "hourglass-high": {
     "added": "0",
@@ -3627,12 +3627,12 @@
   "hourglass-low": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ef9b49da6883"
+    "hash": "0d8865ce5023"
   },
   "house": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "876591bbab3b"
+    "hash": "321d7657576a"
   },
   "house-line": {
     "added": "2026-08-18",
@@ -3642,7 +3642,7 @@
   "house-simple": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "6a145a084293"
+    "hash": "c5ea3784e3a1"
   },
   "identification-badge": {
     "added": "2026-08-18",
@@ -3682,7 +3682,7 @@
   "info": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "4aceb7b2d5dd"
+    "hash": "8e1a3ae25993"
   },
   "instagram-logo": {
     "added": "2026-08-18",
@@ -3707,22 +3707,22 @@
   "intersection": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "b3e169bd4343"
+    "hash": "85b0e3c315e7"
   },
   "key-return": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "d292223c851f"
+    "hash": "65eeb30701ea"
   },
   "keyboard": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "6fc34cdd7d38"
+    "hash": "52b63d3734dc"
   },
   "lamp": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "ae2842a9939e"
+    "hash": "e4fa77e65e2e"
   },
   "layout": {
     "added": "0",
@@ -3732,22 +3732,22 @@
   "lectern": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "5231444fb226"
+    "hash": "0a3bc7a0e9b4"
   },
   "less-than": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "d59bb89c1f1e"
+    "hash": "c8fe90a0de76"
   },
   "less-than-or-equal": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "b781d9c0541f"
+    "hash": "cdbbd6c3e940"
   },
   "letter-circle-h": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "738400507f25"
+    "hash": "7ee0ff3e2b45"
   },
   "letter-circle-p": {
     "added": "2026-08-29",
@@ -3757,122 +3757,122 @@
   "letter-circle-v": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "585cd25a1334"
+    "hash": "3b7d4f9272d6"
   },
   "lightbulb": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "32da3f2bc23c"
+    "hash": "011161bb8653"
   },
   "lightbulb-filament": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "c6f386be2903"
+    "hash": "c4364ff20086"
   },
   "lightning": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "2d96342463c9"
+    "hash": "a2a080355c0d"
   },
   "lightning-a": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "18c6336596f8"
+    "hash": "9c11c551eccf"
   },
   "lightning-slash": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "eae09081a38c"
+    "hash": "54ada5f9ba90"
   },
   "line-segment": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "72e62ebc622f"
+    "hash": "4f56bd7b1d2d"
   },
   "line-segments": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "fee96947f8af"
+    "hash": "8b6f23b9ce4c"
   },
   "line-vertical": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "1c070c2abc74"
+    "hash": "9a2fe72ffc0f"
   },
   "link": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "ac1eaf2c562d"
+    "hash": "acbfeb57b17e"
   },
   "link-break": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "6bdd6cc4198a"
+    "hash": "a43a1e745dc6"
   },
   "link-simple": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "f8ad04deee3c"
+    "hash": "d4d2aa22d8b3"
   },
   "link-simple-break": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "4b4301257bc9"
+    "hash": "7445fff06271"
   },
   "link-simple-horizontal": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "2d127bba7443"
+    "hash": "e3233d962f3d"
   },
   "link-simple-horizontal-break": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "2909ab44b478"
+    "hash": "01dd10930215"
   },
   "list": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "b4ea2dd9ce01"
+    "hash": "89395d66df11"
   },
   "list-bullets": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "04a1de6e150e"
+    "hash": "b58593d1be43"
   },
   "list-checks": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "e9928540e9ab"
+    "hash": "a4cb16f25232"
   },
   "list-dashes": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "30f6485f8337"
+    "hash": "041ef2147171"
   },
   "list-heart": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "feb9c5545e95"
+    "hash": "c102821f61c3"
   },
   "list-magnifying-glass": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "c5817e823953"
+    "hash": "913c08ad2a60"
   },
   "list-numbers": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "44894bda5f64"
+    "hash": "107c9ac240bd"
   },
   "list-plus": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "941c4e424936"
+    "hash": "17f245e0957c"
   },
   "list-star": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "be1a14fcd7ad"
+    "hash": "75b829780b17"
   },
   "lock": {
     "added": "2026-08-07",
@@ -3897,7 +3897,7 @@
   "lock-laminated-open": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "7bc9e0bab4be"
+    "hash": "194dbb075e39"
   },
   "lock-open": {
     "added": "2026-08-07",
@@ -3912,7 +3912,7 @@
   "lock-simple-open": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "df253e47c00c"
+    "hash": "a9dd9b278431"
   },
   "magnet": {
     "added": "2026-08-29",
@@ -3927,17 +3927,17 @@
   "magnifying-glass": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "1a7d02339254"
+    "hash": "a91532bc06d5"
   },
   "magnifying-glass-minus": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "2fab66668bd0"
+    "hash": "311c852263a6"
   },
   "magnifying-glass-plus": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "3136a6dd6606"
+    "hash": "813a0e41cf4f"
   },
   "map-pin-line": {
     "added": "2026-08-18",
@@ -3947,32 +3947,32 @@
   "map-pin-plus": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "7216eb254869"
+    "hash": "8485f8960480"
   },
   "map-pin-simple": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "78b33248da50"
+    "hash": "e46d4ef587a6"
   },
   "map-pin-simple-line": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "dd5dce442101"
+    "hash": "d92290af4174"
   },
   "map-trifold": {
     "added": "2026-08-18",
     "changed": "2026-09-05",
-    "hash": "012ddc420835"
+    "hash": "0e1abac10528"
   },
   "math-operations": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "29b57ba1686d"
+    "hash": "8a7e7f2ef5a6"
   },
   "matrix-logo": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "5201af6af8c2"
+    "hash": "2a5204a048c6"
   },
   "megaphone": {
     "added": "2026-08-19",
@@ -3987,42 +3987,42 @@
   "member-of": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "f985500e4fc3"
+    "hash": "7cf7e1b15570"
   },
   "microphone": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "1bee7845bb43"
+    "hash": "bd5a3e3c5111"
   },
   "microphone-slash": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "7f47d4b7c434"
+    "hash": "b117a2edb263"
   },
   "minus": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "b4a73c5a9129"
+    "hash": "3c85f6d8a407"
   },
   "minus-circle": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "2119c7481361"
+    "hash": "36a46e8a7832"
   },
   "minus-square": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "f6a06f275013"
+    "hash": "b208d9c56127"
   },
   "monitor": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "c7a064fe38ee"
+    "hash": "7cc7cf2f6fdf"
   },
   "monitor-arrow-up": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "636a76de54b6"
+    "hash": "e68d77b26010"
   },
   "monitor-play": {
     "added": "2026-08-29",
@@ -4032,12 +4032,12 @@
   "moon": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "dc0fa7291c9f"
+    "hash": "630ce05089b6"
   },
   "moon-stars": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "e5345dd71335"
+    "hash": "6ccde3a9fc7a"
   },
   "mouse": {
     "added": "2026-08-29",
@@ -4062,27 +4062,27 @@
   "mouse-scroll": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "f5d43b38c38c"
+    "hash": "51a648832df4"
   },
   "mouse-simple": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "cb70eb080fa8"
+    "hash": "acf492ce28fa"
   },
   "music-note": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "135f08582f78"
+    "hash": "d3ed02457efd"
   },
   "music-note-simple": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "1bdfbd16b6c4"
+    "hash": "2e5261c47a1d"
   },
   "music-notes": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "1243598ed772"
+    "hash": "30ee8af8ecf0"
   },
   "music-notes-minus": {
     "added": "2026-08-29",
@@ -4092,47 +4092,47 @@
   "music-notes-plus": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "f71cd9dfb783"
+    "hash": "32f44a95e423"
   },
   "music-notes-simple": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "1070b765be4e"
+    "hash": "d2ca55bdb429"
   },
   "network": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "5fb377f7e2c3"
+    "hash": "dfaf477aa4a9"
   },
   "network-slash": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "c67b4178a8ac"
+    "hash": "29fef7fda88a"
   },
   "network-x": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "ef8da3abf47a"
+    "hash": "0305a7530635"
   },
   "not-equals": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "270f3b73d3b8"
+    "hash": "de8232801e2c"
   },
   "not-member-of": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "e164adfafdbb"
+    "hash": "ea11f528f447"
   },
   "not-subset-of": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "86b584d8b910"
+    "hash": "a673a71183f7"
   },
   "not-superset-of": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "4d316b9da4dd"
+    "hash": "4a2406b38529"
   },
   "note-blank": {
     "added": "2026-08-19",
@@ -4142,7 +4142,7 @@
   "note-pencil": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "e23b0fc72811"
+    "hash": "57ae0fb0a769"
   },
   "notebook": {
     "added": "2026-08-19",
@@ -4152,7 +4152,7 @@
   "notification": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "998ff3401c00"
+    "hash": "c07ba89616d9"
   },
   "number-circle-eight": {
     "added": "2026-08-08",
@@ -4162,7 +4162,7 @@
   "number-circle-five": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "e3aaee450064"
+    "hash": "d62d729228a6"
   },
   "number-circle-four": {
     "added": "2026-08-08",
@@ -4177,67 +4177,67 @@
   "number-circle-one": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "89c4e42d41a5"
+    "hash": "0d3987f0f56d"
   },
   "number-circle-seven": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "a6af6b795af3"
+    "hash": "99f4ceec0535"
   },
   "number-circle-six": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "0ded8cd25ca5"
+    "hash": "352f5ef67a73"
   },
   "number-circle-three": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "40d3230c21d7"
+    "hash": "a07a72b64280"
   },
   "number-circle-two": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "74dae8cd42b9"
+    "hash": "e600620282db"
   },
   "number-circle-zero": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "91fe2bc5d7ae"
+    "hash": "19248529eb05"
   },
   "number-eight": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "3919e7294f3a"
+    "hash": "557076b1603c"
   },
   "number-five": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "2386c415ce88"
+    "hash": "b9e9d3138a93"
   },
   "number-four": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "e374ae024be3"
+    "hash": "5eeb25786689"
   },
   "number-nine": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "87e3066c652b"
+    "hash": "4980fe032492"
   },
   "number-one": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "8954f369e64d"
+    "hash": "978e5db0eabe"
   },
   "number-seven": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "12bbd7e5dfff"
+    "hash": "51fd2a29fbce"
   },
   "number-six": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "fa0060ef1591"
+    "hash": "42542dbe9e45"
   },
   "number-square-eight": {
     "added": "2026-08-08",
@@ -4247,12 +4247,12 @@
   "number-square-five": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "6a98787dd661"
+    "hash": "de12f7082a93"
   },
   "number-square-four": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "ae0e22bbd52b"
+    "hash": "4d799514f0f4"
   },
   "number-square-nine": {
     "added": "2026-08-08",
@@ -4262,12 +4262,12 @@
   "number-square-one": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "d987f168da12"
+    "hash": "76bf638f5e38"
   },
   "number-square-seven": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "2ee22e7eed6a"
+    "hash": "b0969203992b"
   },
   "number-square-six": {
     "added": "2026-08-08",
@@ -4277,87 +4277,87 @@
   "number-square-three": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "10d718af9bed"
+    "hash": "daa26747b479"
   },
   "number-square-two": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "21a59eeba1ec"
+    "hash": "215591bd26d0"
   },
   "number-square-zero": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "aa3feb3c5cb7"
+    "hash": "8ecd5c7d637f"
   },
   "number-three": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "04092bb840dd"
+    "hash": "3dc5d0a319f4"
   },
   "number-two": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "62ff945b395a"
+    "hash": "37f11f18f026"
   },
   "number-zero": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "570fb9bfa00b"
+    "hash": "594f62cefbe9"
   },
   "octagon": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "bba25a83bdbe"
+    "hash": "929f4534616b"
   },
   "package": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "a8fe5c972e28"
+    "hash": "d78367bd0cf2"
   },
   "paint-brush": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "59f3eddb5b5c"
+    "hash": "d1d215c90a81"
   },
   "paper-plane": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "cf0e45e30bb8"
+    "hash": "2f821d0a7f77"
   },
   "paper-plane-right": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "b2724732de93"
+    "hash": "9cce235dccd0"
   },
   "paper-plane-tilt": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "2d9dd529c37d"
+    "hash": "689f271021f6"
   },
   "paperclip": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "27a41f2845af"
+    "hash": "89c90c081a83"
   },
   "parallelogram": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "373c0e75c42e"
+    "hash": "c70c37064322"
   },
   "pause": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "42cd755fe12e"
+    "hash": "97120183d272"
   },
   "pause-circle": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "2f3bd364e901"
+    "hash": "3d0d5326d1aa"
   },
   "peace": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "65f5cc544733"
+    "hash": "a6ea517fec41"
   },
   "pen": {
     "added": "0",
@@ -4377,17 +4377,17 @@
   "pencil-simple-slash": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "db9bd542a6e5"
+    "hash": "8c16757ad4b4"
   },
   "pentagon": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "7047f4d8a0f7"
+    "hash": "3544fee22ea5"
   },
   "pentagram": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b8cadced7b4c"
+    "hash": "1593038b383e"
   },
   "perspective": {
     "added": "0",
@@ -4397,52 +4397,52 @@
   "phone": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "3939bbbd2608"
+    "hash": "f08a5351056b"
   },
   "phone-call": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "02c1cd10c91d"
+    "hash": "e650791ef045"
   },
   "phone-disconnect": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "a2b99b7f7036"
+    "hash": "808eb54eea3c"
   },
   "phone-incoming": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "730be86b9f49"
+    "hash": "40c5dd2f363d"
   },
   "phone-list": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "25ccf6593d99"
+    "hash": "2242d56595a3"
   },
   "phone-outgoing": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "bd24a06804e4"
+    "hash": "70bf18f41c98"
   },
   "phone-pause": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "cab77935a6b0"
+    "hash": "a20a6f8c5c98"
   },
   "phone-plus": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "cfbf17327fd3"
+    "hash": "6b6ea747fad9"
   },
   "phone-transfer": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "004e1dafa0d6"
+    "hash": "25f1d77b9d38"
   },
   "phone-x": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "f2069284ea9e"
+    "hash": "441039bcf453"
   },
   "picture-in-picture": {
     "added": "2026-08-19",
@@ -4457,7 +4457,7 @@
   "play": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "cbdf5c88d56c"
+    "hash": "299063407a9c"
   },
   "play-circle": {
     "added": "2026-08-09",
@@ -4467,117 +4467,117 @@
   "play-pause": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "c3e477ce18fe"
+    "hash": "38a16c0b6a41"
   },
   "playlist": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "7763c124b876"
+    "hash": "403f9717d2d9"
   },
   "plug": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "d40aa57bd170"
+    "hash": "cacdc0dca34a"
   },
   "plug-charging": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "6931d2c89bfe"
+    "hash": "d7d4b35a467f"
   },
   "plugs": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "400397aff608"
+    "hash": "a335a46af863"
   },
   "plugs-connected": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "19b8c57d8c90"
+    "hash": "22185fc8e29a"
   },
   "plus-circle": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "7cb7222156c3"
+    "hash": "6abf8462ae8b"
   },
   "plus-minus": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "17f3a78ec095"
+    "hash": "28bf98b2a90d"
   },
   "plus-square": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "302e1b4409f6"
+    "hash": "741cf4c832b4"
   },
   "presentation": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "37bcab8d6160"
+    "hash": "7180688c9f31"
   },
   "presentation-chart": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "04305b59571e"
+    "hash": "53b499d7e45f"
   },
   "prohibit": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "58f991c534bb"
+    "hash": "4aae2f8d3ebc"
   },
   "prohibit-inset": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "141c7073314f"
+    "hash": "4b89ae91108e"
   },
   "pulse": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "e9fae0c9666d"
+    "hash": "5ac36417c35a"
   },
   "push-pin": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "a4ff0ea6c5b5"
+    "hash": "c05ecd6d7e84"
   },
   "push-pin-simple": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "1d1de33f691c"
+    "hash": "33fb6b4beb6e"
   },
   "push-pin-simple-slash": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "335984e28fd2"
+    "hash": "fbaa372f032f"
   },
   "push-pin-slash": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "d1219c4e93fc"
+    "hash": "0b045ed9be70"
   },
   "puzzle-piece": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "d98d95e73db4"
+    "hash": "8bb86147c84a"
   },
   "qr-code": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "d90f68c7969f"
+    "hash": "828b5cd2101d"
   },
   "question": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "f0e9c42c8824"
+    "hash": "2edf76300314"
   },
   "question-mark": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "07118bb484ae"
+    "hash": "91d0455c8f9e"
   },
   "radical": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "29e6ee4a0c37"
+    "hash": "283cfaad2fd5"
   },
   "radio-button": {
     "added": "2026-08-29",
@@ -4587,57 +4587,57 @@
   "rainbow": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "32b78937801d"
+    "hash": "e5fbcb4c0fd2"
   },
   "rainbow-cloud": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "5ed333337101"
+    "hash": "9fa9001d280a"
   },
   "receipt": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "6055011e774e"
+    "hash": "467bdad375bf"
   },
   "receipt-x": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "4fac61a8c816"
+    "hash": "f342a0d10def"
   },
   "record": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "a6eb25a0717b"
+    "hash": "f6ea8a263d8f"
   },
   "rectangle": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "335bbed49a0f"
+    "hash": "37f98d149ff1"
   },
   "rectangle-dashed": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "f5c005046234"
+    "hash": "b1e10c543810"
   },
   "recycle": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e695e3ca6cec"
+    "hash": "2846cfc5d8bd"
   },
   "repeat": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "4a414f8736d9"
+    "hash": "3557a9a03e62"
   },
   "repeat-once": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "3b79efeeeb76"
+    "hash": "13b5e70b6c73"
   },
   "resize": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b23b276fa60e"
+    "hash": "4b0f8ed5626e"
   },
   "rewind-circle": {
     "added": "2026-08-09",
@@ -4647,37 +4647,37 @@
   "rows": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "1f05f9a3232e"
+    "hash": "a97141a82538"
   },
   "rows-plus-bottom": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "fc175d119c10"
+    "hash": "ddbe6b559147"
   },
   "rows-plus-top": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "2733a08815a3"
+    "hash": "933fdea7ba60"
   },
   "scan": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "78d62278c986"
+    "hash": "ee73148db74e"
   },
   "screencast": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "1cdaa58dcf73"
+    "hash": "671c5e4b18f5"
   },
   "seal": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "1615bdca1b1a"
+    "hash": "e0cfa73d7e36"
   },
   "seal-check": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "9d03c4930182"
+    "hash": "27aa625d61bd"
   },
   "seal-percent": {
     "added": "2026-08-19",
@@ -4687,67 +4687,67 @@
   "seal-question": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "c272ff1de0a7"
+    "hash": "2dd6913cefbd"
   },
   "seal-warning": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "5cc4754f3925"
+    "hash": "000e7e213e8e"
   },
   "selection": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "cbadbb2be127"
+    "hash": "bb091a2140b5"
   },
   "selection-all": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "be322019aeac"
+    "hash": "75921f5fa94e"
   },
   "selection-background": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4e930d7e1fc1"
+    "hash": "2f59e6c9ca01"
   },
   "selection-foreground": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b023cb17e206"
+    "hash": "336342428531"
   },
   "selection-inverse": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "e2304596b351"
+    "hash": "46d1d07b9356"
   },
   "selection-plus": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "b91afb9ab5e3"
+    "hash": "ccc71202d3a3"
   },
   "selection-slash": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "9137bd4e34f8"
+    "hash": "d70abfa6dcf0"
   },
   "share-network": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "79f6d4062acc"
+    "hash": "a2e77cf1cc6d"
   },
   "shield": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "2fb75ac5e7ac"
+    "hash": "60afc4d3b1ad"
   },
   "shield-check": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "4e5bc54500a6"
+    "hash": "834407506304"
   },
   "shield-checkered": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "51f878d82c5b"
+    "hash": "6f349c9f6c09"
   },
   "shield-chevron": {
     "added": "2026-08-07",
@@ -4757,12 +4757,12 @@
   "shield-plus": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "3df613f137f7"
+    "hash": "0c41dfba7c6d"
   },
   "shield-slash": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "e5575e903400"
+    "hash": "dc259a5bcf2f"
   },
   "shield-star": {
     "added": "2026-08-07",
@@ -4772,12 +4772,12 @@
   "shield-warning": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "82875cfd51e5"
+    "hash": "520dd0ea6a9f"
   },
   "shopping-bag": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "ff25a0bf99ae"
+    "hash": "69dde6d6ffdd"
   },
   "shopping-bag-open": {
     "added": "2026-08-19",
@@ -4787,7 +4787,7 @@
   "shopping-cart": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "4bf0de46fe89"
+    "hash": "6035b4995991"
   },
   "shopping-cart-simple": {
     "added": "2026-08-19",
@@ -4797,12 +4797,12 @@
   "shuffle": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "07c29856acf5"
+    "hash": "1ad0d3731d06"
   },
   "shuffle-angular": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "0523c753e209"
+    "hash": "e2227d90ec52"
   },
   "sidebar": {
     "added": "0",
@@ -4817,22 +4817,22 @@
   "sigma": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "911da5c9191b"
+    "hash": "e21c53053c83"
   },
   "sign-in": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "6ad55b86e0ac"
+    "hash": "e12f901e4681"
   },
   "sign-out": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "61f6b9583d02"
+    "hash": "57a94ba2079f"
   },
   "skip-back": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "611b93e6b48c"
+    "hash": "c203e92049c8"
   },
   "skip-back-circle": {
     "added": "2026-08-09",
@@ -4842,7 +4842,7 @@
   "skip-forward": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "b91920f69fa5"
+    "hash": "9596951b2b42"
   },
   "skip-forward-circle": {
     "added": "2026-08-09",
@@ -4852,22 +4852,22 @@
   "sliders": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "89e26e8235d4"
+    "hash": "0b2e3a667f9a"
   },
   "sliders-horizontal": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "a4683ee04ced"
+    "hash": "d8e4829b3b3a"
   },
   "slideshow": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "1538d8395321"
+    "hash": "63c831ef247f"
   },
   "smiley": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "29c876f233f6"
+    "hash": "28e084cf6c36"
   },
   "smiley-angry": {
     "added": "2026-08-07",
@@ -4877,22 +4877,22 @@
   "smiley-blank": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "82864d9c8e82"
+    "hash": "20b337faf9a3"
   },
   "smiley-meh": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "73de0ba29fd9"
+    "hash": "b72f9229cc7d"
   },
   "smiley-melting": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "9d274b983fe6"
+    "hash": "2c6c36b706fd"
   },
   "smiley-nervous": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "37c798d803ff"
+    "hash": "9eb0f42216ba"
   },
   "smiley-sad": {
     "added": "2026-08-07",
@@ -4902,7 +4902,7 @@
   "smiley-sticker": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "8963c6cc837b"
+    "hash": "b73e90539475"
   },
   "smiley-wink": {
     "added": "2026-08-07",
@@ -4917,17 +4917,17 @@
   "snowflake": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "97eb52cd7775"
+    "hash": "47512c72312d"
   },
   "sort-ascending": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "d96fb11eec6d"
+    "hash": "1bc4901f9ff2"
   },
   "sort-descending": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "3e0e9d45461e"
+    "hash": "cb3c30893836"
   },
   "speaker-high": {
     "added": "2026-08-07",
@@ -4947,32 +4947,32 @@
   "speaker-simple-high": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "9db3ded29036"
+    "hash": "727d861c6716"
   },
   "speaker-simple-low": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "29b95671249d"
+    "hash": "8422e7152b2e"
   },
   "speaker-simple-none": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "047e5680a47b"
+    "hash": "6131ab2a97c8"
   },
   "speaker-simple-slash": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "cda91465d90f"
+    "hash": "3326f04d7322"
   },
   "speaker-simple-x": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "4589086d279c"
+    "hash": "daa1bcca702e"
   },
   "speaker-slash": {
     "added": "2026-08-07",
     "changed": "2026-09-05",
-    "hash": "6bbfd4a25f84"
+    "hash": "5568945ef5c7"
   },
   "speaker-x": {
     "added": "2026-08-07",
@@ -4982,27 +4982,27 @@
   "spinner": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "4a6e0079bb50"
+    "hash": "3c42dcd02080"
   },
   "spinner-gap": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "b0f514e5a218"
+    "hash": "50c528d9abed"
   },
   "split-horizontal": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "6b2bf0d60358"
+    "hash": "62c2cfd7e41a"
   },
   "split-vertical": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "899bc57745fd"
+    "hash": "e6ebcff3e4ad"
   },
   "square": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "11c38ec51859"
+    "hash": "dc883514a773"
   },
   "square-half": {
     "added": "0",
@@ -5032,32 +5032,32 @@
   "squares-four": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "d5f62c44844a"
+    "hash": "f75f47e8d13e"
   },
   "stack": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "74b907b4ac6f"
+    "hash": "dfff0a50c597"
   },
   "stack-minus": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "90348ab14051"
+    "hash": "6e1813790728"
   },
   "stack-plus": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "9e6fa7f1be1b"
+    "hash": "69ac687d73f7"
   },
   "stack-simple": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "191958adbbed"
+    "hash": "270a687275ce"
   },
   "standard-definition": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "cae53ad0d8ab"
+    "hash": "90a77a34200c"
   },
   "star-and-crescent": {
     "added": "2026-08-19",
@@ -5082,22 +5082,22 @@
   "storefront": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "78d0b3f0a25f"
+    "hash": "0bbee8b5d5b3"
   },
   "stripe-logo": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "0eb86f758ff8"
+    "hash": "a41e7cfc3eb0"
   },
   "subset-of": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "f5aa8fe3fd65"
+    "hash": "915a60ecc32a"
   },
   "subset-proper-of": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "882d01825e50"
+    "hash": "3602c2fbbff4"
   },
   "subtract": {
     "added": "0",
@@ -5117,7 +5117,7 @@
   "suitcase-rolling": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "27115812f7cb"
+    "hash": "517bfa275b8c"
   },
   "suitcase-simple": {
     "added": "2026-08-29",
@@ -5127,22 +5127,22 @@
   "sun": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "042a85aae8e3"
+    "hash": "3a0911bfa859"
   },
   "sun-dim": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "20ed084def69"
+    "hash": "1057800f166d"
   },
   "superset-of": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "1feb95daea0a"
+    "hash": "7befc34f2990"
   },
   "superset-proper-of": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "c932f6678f40"
+    "hash": "7f6fa8956d1e"
   },
   "swap": {
     "added": "2026-08-19",
@@ -5157,152 +5157,152 @@
   "tag-chevron": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "dae724e9f93a"
+    "hash": "c4981d95ecc7"
   },
   "tag-simple": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "99e2b3394a19"
+    "hash": "8294c535fb01"
   },
   "tea-bag": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "64a20d152f5c"
+    "hash": "ea1a2eb8e8ba"
   },
   "television-simple": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "79cbf2a7a67f"
+    "hash": "d8e5c14d28c3"
   },
   "terminal": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "24f4018aa8af"
+    "hash": "f6ec2564eba1"
   },
   "terminal-window": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "8a7fa66a55c0"
+    "hash": "bf95b05575d9"
   },
   "text-a-underline": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "3243db8dc16d"
+    "hash": "b15acb343694"
   },
   "text-aa": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "1c15c2a40c7b"
+    "hash": "444e79ab097d"
   },
   "text-align-center": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "f1b0159eca68"
+    "hash": "bc37b373b383"
   },
   "text-align-justify": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "3bbda96743b4"
+    "hash": "6940edd9e84f"
   },
   "text-align-left": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "737f22269e3c"
+    "hash": "9f188d3798fa"
   },
   "text-align-right": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "afca14fee047"
+    "hash": "323187a7a173"
   },
   "text-b": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "ca7c41b7afcd"
+    "hash": "346bab62ea6f"
   },
   "text-columns": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "d6c17c20c408"
+    "hash": "dd42fd9f4b42"
   },
   "text-h": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "d3680c9a2b3f"
+    "hash": "952d6a56b7d2"
   },
   "text-h-five": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "51ba36aef841"
+    "hash": "bed1708cb1d8"
   },
   "text-h-four": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "1c87b199401b"
+    "hash": "85bb8ad620a3"
   },
   "text-h-one": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "c70bece9486e"
+    "hash": "d4475c1e9cd9"
   },
   "text-h-six": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "f211d7f773c4"
+    "hash": "5f807d60fc7e"
   },
   "text-h-three": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "56c9f3a48523"
+    "hash": "4c7b26ef92e3"
   },
   "text-h-two": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "e38017cefe78"
+    "hash": "8716c497acda"
   },
   "text-indent": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "9e5c79bcb63f"
+    "hash": "9f408d984560"
   },
   "text-italic": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "a85fc39bf511"
+    "hash": "1f21279c3bcf"
   },
   "text-outdent": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "cf43e73d637d"
+    "hash": "84a81536fd58"
   },
   "text-strikethrough": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "18b9f4590fbc"
+    "hash": "aa061c59668d"
   },
   "text-subscript": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "be34e2f04a0f"
+    "hash": "ea8195d04c8c"
   },
   "text-superscript": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "233992a8b967"
+    "hash": "a7ced03f3747"
   },
   "text-t": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "7a354009d2a5"
+    "hash": "7022f4807e23"
   },
   "text-t-slash": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "ceef42788b6c"
+    "hash": "1ce330750926"
   },
   "text-underline": {
     "added": "2026-08-08",
     "changed": "2026-09-05",
-    "hash": "3533950bf4fc"
+    "hash": "599244c1e4af"
   },
   "thermometer": {
     "added": "2026-08-29",
@@ -5327,17 +5327,17 @@
   "three-d": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "8414b167eba2"
+    "hash": "77420d514fb0"
   },
   "tilde": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "5b7531c1fa29"
+    "hash": "8eeb80fa5828"
   },
   "timer": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "63f7c81b8e9f"
+    "hash": "0c9ec8bd3aaa"
   },
   "toggle-left": {
     "added": "2026-08-29",
@@ -5357,12 +5357,12 @@
   "tote-simple": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "b59809272e74"
+    "hash": "a72fdcab7318"
   },
   "trademark": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "28b85b1cd90f"
+    "hash": "42d8d3b26741"
   },
   "trademark-registered": {
     "added": "2026-08-29",
@@ -5377,7 +5377,7 @@
   "trash-simple": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "a3b36cf9e842"
+    "hash": "2ba0e71b49ea"
   },
   "tray-arrow-down": {
     "added": "2026-08-19",
@@ -5392,37 +5392,37 @@
   "tree-structure": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "8bcfaacd9b91"
+    "hash": "bf3b4d12b4a5"
   },
   "tree-view": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "6959c2f86eae"
+    "hash": "fe82dc05310d"
   },
   "trend-down": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "ddd5041720a8"
+    "hash": "105511bd17b8"
   },
   "trend-up": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "c435015fd26a"
+    "hash": "a4efb35305bb"
   },
   "triangle": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ec759142f10a"
+    "hash": "590d71d433cb"
   },
   "triangle-dashed": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "71a9318d7163"
+    "hash": "eaea1580e8a4"
   },
   "union": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "4700b1e47533"
+    "hash": "b24432b8a1c4"
   },
   "unite": {
     "added": "0",
@@ -5432,132 +5432,132 @@
   "unite-square": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ce7a46ef0201"
+    "hash": "a591a86e178a"
   },
   "upload": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "53368b1e8c71"
+    "hash": "4a88dc81dcbb"
   },
   "upload-simple": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "a5bb6e2b82dc"
+    "hash": "c8aa80cc919b"
   },
   "user": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "48bd01188ecc"
+    "hash": "75044fe57f69"
   },
   "user-check": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "1d4ad76c4c3c"
+    "hash": "10f5c39382a6"
   },
   "user-circle": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "6ca9eaa493e4"
+    "hash": "bb0c8c9ca874"
   },
   "user-circle-check": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "a88408f6aefe"
+    "hash": "bc5a9c9ea79e"
   },
   "user-circle-dashed": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "c7448e319d6f"
+    "hash": "b18002f9c5d2"
   },
   "user-circle-gear": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "8d3fec6caf21"
+    "hash": "7d8b8331aaa6"
   },
   "user-circle-minus": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "d08377e64403"
+    "hash": "2290a612ac1a"
   },
   "user-circle-plus": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "730ef66ec755"
+    "hash": "d14bdf3595c7"
   },
   "user-focus": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "533b8236fe8b"
+    "hash": "bfbc35c75ee5"
   },
   "user-gear": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "973b7b337ba3"
+    "hash": "241763983573"
   },
   "user-list": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "401fff6a8877"
+    "hash": "0ff1685e71d9"
   },
   "user-minus": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "745658ffde1a"
+    "hash": "c02d1de565ab"
   },
   "user-plus": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "9f4cd230dc3e"
+    "hash": "17c17e4a7767"
   },
   "user-rectangle": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "7e86539835f8"
+    "hash": "1e974c440d93"
   },
   "user-sound": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "d92eb935dcaa"
+    "hash": "377c7504b222"
   },
   "user-square": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "c8f6309b1ee9"
+    "hash": "49527b3cf0f4"
   },
   "user-switch": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "f98791504403"
+    "hash": "c96c0bd96d24"
   },
   "users": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "9edf08e5d24f"
+    "hash": "1e72c0e50cc3"
   },
   "users-four": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "11ac7e8cd1ff"
+    "hash": "962ad6cbea8e"
   },
   "users-three": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "f555d9269fde"
+    "hash": "27744342809c"
   },
   "vector-three": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "4e8011e074cc"
+    "hash": "0fa4bb060d6a"
   },
   "vector-two": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "fb14e0f76bfe"
+    "hash": "1dd6c7e09e1f"
   },
   "vibrate": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "cd278b135b98"
+    "hash": "985dfe470907"
   },
   "vignette": {
     "added": "0",
@@ -5567,116 +5567,116 @@
   "virtual-reality": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "c756f61619f6"
+    "hash": "a85e8170b9ac"
   },
   "warning": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "0d0976c09fe1"
+    "hash": "cb41813a404e"
   },
   "warning-circle": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "ce12f748f809"
+    "hash": "4a46214c7bb0"
   },
   "warning-diamond": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "4d743c9df74a"
+    "hash": "77797333fa4f"
   },
   "warning-octagon": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "34fd00c8908c"
+    "hash": "00ef3944c8f2"
   },
   "watch": {
     "added": "0",
     "changed": "2026-09-05",
-    "hash": "ad6ed92062dc"
+    "hash": "df174e247afa"
   },
   "wave-sawtooth": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "48233d86c876"
+    "hash": "45caf77b11e6"
   },
   "wave-sine": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "caf566243f61"
+    "hash": "0b77989db613"
   },
   "wave-square": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "4565370c2c49"
+    "hash": "4bfc0b41e783"
   },
   "wave-triangle": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "0c29e8299bcb"
+    "hash": "35e477c9bae8"
   },
   "waveform": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "2a5c34875998"
+    "hash": "98fa92aedee0"
   },
   "waveform-slash": {
     "added": "2026-08-19",
     "changed": "2026-09-05",
-    "hash": "d04b1f09c99a"
+    "hash": "c0e84bd383c5"
   },
   "waves": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "1b6ce89ff1e4"
+    "hash": "10e54967d186"
   },
   "wifi-high": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "dc1429992c55"
+    "hash": "6425cf78c98e"
   },
   "wifi-low": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "fe1c62c1f495"
+    "hash": "426e4452f503"
   },
   "wifi-medium": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "b11c5cb80c4d"
+    "hash": "9f79c8fa7bc6"
   },
   "wifi-none": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "8cdd12e5d12e"
+    "hash": "a8828488b459"
   },
   "wifi-slash": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "29f92e50190c"
+    "hash": "c10bd129d7da"
   },
   "wifi-x": {
     "added": "2026-08-09",
     "changed": "2026-09-05",
-    "hash": "04ebf561d2f8"
+    "hash": "e84cdf742c45"
   },
   "wind": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "2edaf5f71536"
+    "hash": "f190a86317bf"
   },
   "x": {
     "added": "2026-09-05",
     "changed": "2026-09-05",
-    "hash": "0d0dbc3503a4"
+    "hash": "3b8274160698"
   },
   "x-circle": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "c92ddd59720d"
+    "hash": "69aa8caac9c4"
   },
   "x-square": {
     "added": "2026-08-29",
     "changed": "2026-09-05",
-    "hash": "00f393d91f06"
+    "hash": "2508ff521880"
   }
 }

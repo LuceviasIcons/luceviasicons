@@ -29,9 +29,31 @@ export function innerSvg(source) {
 export const viewBoxOf = (source) =>
   source.match(/<svg[^>]*\sviewBox="([^"]+)"/i)?.[1]?.trim() ?? DEFAULT_VIEW_BOX
 
-/** Paint into currentColor so that the `color` prop works. */
+/**
+ * The muted colors the duotone weight is drawn with. Everything else in a
+ * duotone file is the main color and becomes `currentColor` like any other
+ * weight; these become the accent instead, so the two layers stay distinct.
+ *
+ * Hardcoded rather than inferred (say, "the lighter of the two"): the set is
+ * drawn against a fixed palette, and guessing would flip the layers on an icon
+ * whose accent happens to be darker than its outline.
+ */
+const ACCENT_COLORS = new Set(['#cbd5e1', '#94a3b8'])
+
+/**
+ * Paint into currentColor so that the `color` prop works.
+ *
+ * `var(--lucevias-accent, currentColor)` for the muted layer: consumers that
+ * set nothing get the old single-color rendering, while the React `accentColor`
+ * prop and a plain CSS variable both override it. Without this the two duotone
+ * layers collapsed into one color and the weight looked identical to fill.
+ */
 export const normalizeColors = (markup) =>
-  markup.replace(/(fill|stroke)="((?!none|currentColor)[^"]*)"/gi, '$1="currentColor"')
+  markup.replace(/(fill|stroke)="((?!none|currentColor)[^"]*)"/gi, (match, attr, value) =>
+    ACCENT_COLORS.has(value.trim().toLowerCase())
+      ? `${attr}="var(--lucevias-accent, currentColor)"`
+      : `${attr}="currentColor"`,
+  )
 
 export const pascal = (name) =>
   name

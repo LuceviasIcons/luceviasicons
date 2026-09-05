@@ -45,6 +45,12 @@ export type IconProps = Omit<SVGProps<SVGSVGElement>, 'color'> & {
   size?: number | string
   /** Stroke/fill color. Inherited from the parent by default. */
   color?: string
+  /**
+   * Color of the muted layer in the duotone weight. Defaults to \`color\`, so
+   * duotone renders in a single color until you ask for a second one. No effect
+   * on the other weights, which are drawn in one color to begin with.
+   */
+  accentColor?: string
   /** Weight. A missing one falls back to regular. */
   weight?: Weight
 }
@@ -56,7 +62,7 @@ type BaseProps = IconProps & {
 
 /** Shared wrapper: every icon in the package renders through it. */
 export const IconBase = /* #__PURE__ */ forwardRef<SVGSVGElement, BaseProps>(function IconBase(
-  { size = 24, color = 'currentColor', weight = 'regular', viewBox, variants, ...props },
+  { size = 24, color = 'currentColor', accentColor, weight = 'regular', viewBox, variants, style, ...props },
   ref,
 ) {
   return (
@@ -68,6 +74,8 @@ export const IconBase = /* #__PURE__ */ forwardRef<SVGSVGElement, BaseProps>(fun
       viewBox={viewBox}
       fill="none"
       color={color}
+      // the duotone markup reads this variable; unset, it falls back to currentColor
+      style={accentColor ? { ...style, ['--lucevias-accent' as string]: accentColor } : style}
       {...props}
     >
       {variants[weight] ?? variants.regular}
